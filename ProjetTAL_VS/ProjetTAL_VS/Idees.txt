@@ -1,0 +1,46 @@
+	- Plusieurs corpus :
+		- Dialogues de navigation / itinéraires (Garde Pour la Sirculation a.k.a. GPS)
+		- Dialogues vente :
+			- armurier / marchand
+			- tavernier
+		- Vocabulaire
+			- gemmaline
+			- manuels D&D
+			(- Tolkien)
+		- Contextuel (sous-titres)
+			- Films
+			- Séries
+		- Emotions :
+			- Neutre
+			- Réticent
+			- Accomodant
+			
+	- Implémenter une grammaire cfg (c'est-à-dire mathématique ou non-contextuelle)		
+	
+	- Infos nécessaires : 
+		- Tags des corpus (utiliser NLTK ou similo, cf. TP1) //First, Mika
+		- Champs lexicaux (lexique LEFFF) //Mika
+		- Corpus //Mathieu
+		- Générateur de nom pour lieux-propres, gus...
+		- Pondérer poids des mots (importance relative) //Stacy
+		- Identification des interlocuteurs et entités externes (pour dialogues)
+		
+	- Optionnel :
+		- Interface graphique légère et locale (pas de site web)
+		
+	- Rapport clean (moitié des points)
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
