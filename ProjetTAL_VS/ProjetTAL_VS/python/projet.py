@@ -152,7 +152,7 @@ def answer(dataBase, question):
 
 if __name__ == "__main__":
     #Le main
-    listQA = read_corpus("processed/American-Pie.txt")
+    listQA = read_corpus("../processed/American-Pie.txt")
     train, dev, test = split_data(listQA)
     dataBase = make_database(train)
     question = input()
