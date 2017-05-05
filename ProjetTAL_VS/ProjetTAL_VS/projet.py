@@ -55,11 +55,11 @@ def pound_questionDB(listData):
                 w.append(2)
             elif w[1] == 'VERB':
                 w.append(1.2)
-            elif w[1] == 'NOUN':
+            elif w[1] == 'NOUN' or w[1] == 'PRON':
                 w.append(0.7)
-            elif w[1] == 'ADVERB':
+            elif w[1] == 'ADP' or w[1] == 'ADV':
                 w.append(0.25)
-            elif w[1] == 'ADJECTIVE':
+            elif w[1] == 'ADJ':
                 w.append(0.25)
             else:
                 w.append(0)
@@ -93,11 +93,11 @@ def split_question(question):
             w.append(2)
         elif w[1] == 'VERB':
             w.append(1.2)
-        elif w[1] == 'NOUN':
+        elif w[1] == 'NOUN' or w[1] == 'PRON':
             w.append(0.7)
-        elif w[1] == 'ADVERB':
+        elif w[1] == 'ADP' or w[1] == 'ADV':
             w.append(0.25)
-        elif w[1] == 'ADJECTIVE':
+        elif w[1] == 'ADJ':
             w.append(0.25)
         else:
             w.append(0)
