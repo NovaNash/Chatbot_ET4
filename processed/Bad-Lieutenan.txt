@@ -1,0 +1,70 @@
+ (|. OC|NOUN )|. How|QUESTIONTAG about|ADP 7|NUM 1/2|NUM ?|.
+ raincoat|NOUN and|CONJ flash|VERB a|DET KNIFE|NOUN .|.
+ Are|NOUN you|PRON sure|ADV ?|.
+ Yeah|X .|.
+ Got|NOUN something|NOUN good|NOUN for|ADP us|PRON ?|.
+ sloppily|ADV partakes|NOUN .|.
+ (|. to|PRT Cop|NOUN )|. What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ How|QUESTIONTAG much|ADV did|VERB they|PRON take|VERB ?|.
+ Five|NUM hundred|NUM dollars|NOUN cash|NOUN .|.
+ (|. to|PRT himself|PRON )|. Why|ADV me|PRON ,|. man|NOUN ?|.
+ Where|QUESTIONTAG the|DET fuck|NOUN did|VERB that|ADP come|NOUN from|ADP ?|.
+ (|. to|PRT the|DET Cops|NOUN )|. What|QUESTIONTAG 's|VERB this|DET shit|NOUN about|ADP a|DET nun|ADJ getting|VERB raped|VERB ?|.
+ Where|QUESTIONTAG the|DET fuck|NOUN have|VERB you|PRON been|VERB ?|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ They|PRON raped|VERB a|DET nun|NOUN and|CONJ tore|VERB up|PRT the|DET church|NOUN --|. they|PRON even|ADV took|VERB a|DET crap|NOUN on|ADP the|DET altar|NOUN .|.
+ Who|QUESTIONTAG the|DET fuck|NOUN could|VERB do|VERB this|DET ?|.
+ The|DET young|ADJ nun|NOUN 's|PRT just|ADV a|DET kid|NOUN from|ADP Ireland|NOUN .|.
+ Jesus|NOUN ...|. What|QUESTIONTAG 's|VERB she|PRON gon|VERB na|PRT tell|VERB her|PRON mother|NOUN ?|.
+ I|PRON 'm|VERB gon|VERB na|PRT kill|VERB those|DET motherfuckers|NOUN .|.
+ Anyone|NOUN got|VERB any|DET leads|NOUN ,|. at|ADP all|DET ?|.
+ We|PRON got|VERB shit|ADV to|PRT go|VERB on|ADP .|.
+ What|QUESTIONTAG did|VERB they|PRON want|VERB with|ADP the|DET Host|NOUN ?|.
+ They|PRON were|VERB hungry|ADJ .|.
+ (|. to|PRT LT|NOUN )|. What|QUESTIONTAG 's|VERB your|PRON fucking|NOUN problem|NOUN ?|.
+ The|DET Church|NOUN is|VERB a|DET racket|NOUN .|.
+ Do|VERB you|PRON believe|VERB in|ADP God|NOUN ?|.
+ Can|VERB I|PRON help|VERB you|PRON ?|.
+ (|. Suspicious|ADJ )|. Security|NOUN ?|.
+ Do|VERB you|PRON want|VERB those|DET guys|NOUN coming|VERB back|ADV ?|.
+ (|. to|PRT himself|PRON )|. Lite|NOUN ,|. man|NOUN ...|. Where|QUESTIONTAG the|DET fuck|NOUN are|VERB you|PRON ?|.
+ Do|VERB you|PRON believe|VERB in|ADP God|NOUN ?|.
+ What|QUESTIONTAG 's|VERB to|PRT believe|VERB ?|.
+ That|DET Jesus|NOUN Christ|NOUN was|VERB the|DET Son|NOUN of|ADP God|NOUN and|CONJ he|PRON came|VERB to|PRT die|VERB for|ADP your|PRON sins|NOUN .|.
+ You|PRON believe|VERB that|ADP man|NOUN is|VERB the|DET be-all|ADJ and|CONJ end-all|ADJ ?|.
+ Yeah|X .|.
+ You|PRON would|VERB n't|ADV put|VERB some|DET religious|ADJ trip|NOUN on|ADP me|PRON ,|. would|VERB you|PRON ?|.
+ Uh-uh|NOUN ...|. What|QUESTIONTAG ?|.
+ Yes|X ,|. Sister|NOUN ?|.
+ Yesterday|NOUN morning|NOUN ,|. God|NOUN gave|VERB me|PRON but|CONJ one|NUM chance|NOUN to|PRT use|VERB something|NOUN else|ADV to|PRT serve|VERB Him|NOUN .|.
+ Do|VERB you|PRON have|VERB the|DET money|NOUN ?|.
+ (|. giggles|NOUN )|. What|QUESTIONTAG money|NOUN ?|.
+ How|QUESTIONTAG 's|VERB the|DET case|NOUN going|VERB ?|.
+ What|QUESTIONTAG case|NOUN ?|.
+ How|QUESTIONTAG are|VERB you|PRON doing|VERB ,|. man|NOUN ?|.
+ Very|ADV good|ADJ .|.
+ (|. shrugs|NOUN )|. Why|ADV ?|.
+ Who|QUESTIONTAG ?|.
+ Those|DET fucking|VERB Mob|NOUN assholes|NOUN .|.
+ (|. into|ADP the|DET phone|NOUN )|. Large|NOUN ?|.
+ (|. OC|NOUN )|. All|NOUN right|ADV ,|. cop|NOUN .|.
+ (|. OC|NOUN )|. What|QUESTIONTAG about|ADP the|DET money|NOUN you|PRON owe|VERB me|PRON on|ADP yesterday|NOUN 's|PRT game|NOUN ?|.
+ Fuck|NOUN yesterday|NOUN 's|PRT game|NOUN .|.
+ (|. CO|NOUN --|. lethal|NOUN )|. Oh|X ,|. really|ADV ?|.
+ Yeah|X ,|. really|ADV .|.
+ Who|QUESTIONTAG ?|.
+ A|DET wiseguy|NOUN .|.
+ ``|. The|DET Strawberries|NOUN ''|. ?|.
+ The|DET Mets|NOUN .|.
+ Me|NOUN ?|.
+ (|. OC|NOUN )|. I|PRON forgive|VERB you|PRON .|.
+ Are|NOUN you|PRON all|ADV right|ADV ,|. honey|NOUN ?|.
+ I|PRON was|VERB gon|VERB na|ADV bring|VERB it|PRON back|ADV myself|PRON .|.
+ (|. to|PRT LT|NOUN )|. So|ADP what|PRON are|VERB you|PRON doing|VERB here|ADV ?|.
+ He|PRON wants|VERB to|PRT know|VERB who|PRON brought|VERB in|ADP the|DET chalice|NOUN .|.
+ Hey|NOUN --|. Have|VERB you|PRON seen|VERB Paolo|NOUN or|CONJ Julio|NOUN around|ADP ?|.
+ ``|. deafness|NOUN ''|. to|PRT excuse|VERB his|PRON total|ADJ lack|NOUN of|ADP response|NOUN .|.
+ And|CONJ what|PRON ?|.
+ And|CONJ he|PRON got|VERB electrocuted|VERB .|.
+ You|PRON 're|VERB not|ADV a|DET cop|NOUN are|VERB you|PRON ?|.
+ No|DET .|.

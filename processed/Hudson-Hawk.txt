@@ -1,0 +1,66 @@
+ You|PRON 're|VERB kidding|VERB ,|. Petey|NOUN the|DET Paint|NOUN Thinner|NOUN Killer|NOUN is|VERB getting|VERB paroled|VERB ?|.
+ Not|ADV that|DET slime|NOUN ,|. you|PRON Fizzhead|VERB .|.
+ What|QUESTIONTAG 's|VERB your|PRON favorite|ADJ sport|NOUN ,|. Hawk|NOUN ?|.
+ Baseball|NOUN ,|. why|ADV ?|.
+ So|ADV Mr.|NOUN Coffee|NOUN ,|. what|PRON went|VERB down|ADV outside|ADP the|DET prison|NOUN ?|.
+ Oh|X ,|. not|ADV much|ADJ .|.
+ Can|VERB you|PRON read|VERB ...|. .|. smoker|NOUN ?|.
+ Can|VERB you|PRON take|VERB a|DET sunrise|NOUN and|CONJ sprinkle|VERB it|PRON with|ADP dew|NOUN ?|.
+ What|QUESTIONTAG job|NOUN ?|.
+ table|NOUN .|.
+ Remember|NOUN that|DET guy|NOUN in|ADP the|DET cell|NOUN next|ADP to|PRT you|PRON who|PRON hung|VERB himself|PRON ?|.
+ Yes|X .|.
+ How|QUESTIONTAG is|VERB everything|NOUN tonight|NOUN ,|. sir|NOUN ?|.
+ Beat|NOUN it|PRON ,|. Alex|NOUN .|.
+ Cameras|NOUN ?|.
+ No|DET need|NOUN .|.
+ Were|ADV n't|ADV you|PRON the|DET bartender|NOUN at|ADP Jonestown|NOUN ?|.
+ seated|VERB Cesar|NOUN and|CONJ Antony|NOUN Mario|NOUN ,|. the|DET latter|NOUN taking|VERB a|DET painful|ADJ Gatesirita|NOUN sip|NOUN .|.
+ Ah|NOUN ,|. the|DET mafia|NOUN ,|. the|DET cops|NOUN ;|. do|VERB I|PRON know|VERB how|ADV to|PRT party|NOUN or|CONJ what|PRON ?|.
+ So|ADV when|ADV 's|PRT that|DET Sebastian-Cabot-|ADJ Buckingham-Palace-looking-|NOUN Butlerhead|NOUN getting|VERB here|ADV ?|.
+ Any|DET minute|NOUN now|ADV ,|. dear|ADP Mr.|NOUN Gates|NOUN .|.
+ (|. rising|VERB )|. Lovely|ADJ work|NOUN ,|. Alfred|NOUN ,|. taking|VERB the|DET Concorde|NOUN back|ADV ?|.
+ Indeed|ADV I|PRON am|VERB ,|. Mr.|NOUN Mario|NOUN .|.
+ Did|NOUN I|PRON miss|VERB anything|NOUN ?|.
+ Oh|X ,|. not|ADV much|ADJ .|.
+ Why|ADV try|NOUN ?|.
+ (|. hurdling|VERB the|DET bar|NOUN )|. Because|ADP I|PRON 'm|VERB tired|ADJ of|ADP not|ADV understanding|ADJ things|NOUN .|.
+ (|. re|NOUN :|. Auctioneer|NOUN )|. Is|VERB looking|VERB like|ADP a|DET constipated|ADJ warthog|NOUN a|DET prerequisite|NOUN to|PRT getting|VERB a|DET job|NOUN in|ADP the|DET art|NOUN world|NOUN ?|.
+ There|DET have|VERB naturally|ADV been|VERB questions|NOUN of|ADP its|PRON authenticity|NOUN ,|. so|ADV to|PRT verify|VERB we|PRON have|VERB Doctor|NOUN Anna|NOUN Baragli|NOUN of|ADP the|DET Vatican|NOUN .|.
+ I|PRON 'm|VERB supposed|VERB to|PRT fall|VERB for|ADP that|DET ?|.
+ Shucks|NOUN .|.
+ Shall|NOUN we|PRON ?|.
+ Serling|VERB to|PRT explain|VERB things|NOUN ,|. then|ADV bolts|VERB out|PRT too|ADV .|.
+ Never|ADV ,|. why|ADV do|VERB you|PRON ask|VERB ?|.
+ Anna|NOUN briskly|ADV pulls|VERB Hawk|NOUN into|ADP a|DET PIECE|NOUN OF|NOUN WALL|NOUN THAT|NOUN IS|VERB REALLY|NOUN A|NOUN DOOR|NOUN .|.
+ Could|VERB you|PRON believe|VERB that|ADP crazy|NOUN elephant|NOUN ?|.
+ Did|NOUN he|PRON mention|VERB the|DET Mayflowers|NOUN ?|.
+ No|DET ,|. your|PRON Eminence|NOUN .|.
+ Prison|NOUN ?|.
+ I|PRON was|VERB the|DET Warden|NOUN ?|.
+ How|QUESTIONTAG long|ADJ were|VERB you|PRON in|ADP ?|.
+ Let|VERB 's|PRT just|ADV say|VERB ,|. I|PRON never|ADV saw|VERB E.T|NOUN .|.
+ Ah|NOUN ,|. anything|NOUN for|ADP dessert|NOUN ?|.
+ (|. she|PRON shoots|VERB )|. Yes|X .|.
+ What|QUESTIONTAG have|VERB you|PRON been|VERB doing|VERB ?|.
+ Uh|NOUN ...|. .old|ADJ badminton|ADJ injury|NOUN .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP in|ADP there|DET ?|.
+ Do|VERB you|PRON want|VERB me|PRON to|PRT rape|VERB them|PRON ?|.
+ (|. gung-ho|ADJ lying|NOUN )|. And|CONJ then|ADV we|PRON 'll|VERB arrest|VERB those|DET greedy|ADJ pigs|NOUN ...|. Is|VERB that|ADP it|PRON ?|.
+ Cat|NOUN got|VERB his|PRON tongue|NOUN ?|.
+ Actually|ADV he|PRON never|ADV told|VERB us|PRON what|PRON it|PRON was|VERB .|.
+ Do|VERB you|PRON think|VERB she|PRON has|VERB any|DET idea|NOUN that|ADP Operation|NOUN Deflower|NOUN Mayflower|NOUN is|VERB as|ADV bogus|ADJ as|ADP Kit|NOUN Kat|NOUN 's|PRT tits|NOUN ?|.
+ I|PRON do|VERB n't|ADV think|VERB so|ADV ,|. although|ADP bringing|VERB her|PRON to|PRT the|DET castle|NOUN gave|VERB her|PRON a|DET big|ADJ ,|. juicy|NOUN hint|NOUN .|.
+ With|ADP all|DET due|ADJ respect|NOUN to|PRT that|DET great|ADJ blouse|NOUN ,|. why|ADV did|VERB n't|ADV I|PRON cut|VERB out|PRT her|PRON heart|NOUN ?|.
+ Close|NOUN call|NOUN ,|. but|CONJ she|PRON 's|VERB our|PRON only|ADJ way|NOUN of|ADP keeping|VERB tabs|NOUN on|ADP that|DET damn|NOUN mysterious|ADJ Vatican|NOUN organization|NOUN .|.
+ So|ADV let|VERB me|PRON get|VERB this|DET straight|NOUN ,|. sister|NOUN ,|. you|PRON 're|VERB saying|VERB Hudson|NOUN Hawk|NOUN is|VERB not|ADV willingly|ADV working|VERB for|ADP the|DET Mayflowers|NOUN but|CONJ Kaplan|NOUN and|CONJ the|DET Candy|NOUN Bars|NOUN are|VERB ?|.
+ FULL|NOUN NUN|NOUN HABIT|NOUN for|ADP she|PRON is|VERB a|DET Nun|NOUN .|.
+ You|PRON want|VERB an|DET address|NOUN on|ADP that|DET last|ADJ one|NUM ?|.
+ Bunny|NOUN ,|. not|ADV you|PRON too|ADV ?|.
+ You|PRON 've|VERB got|VERB a|DET dilemma|NOUN ,|. tiger|NOUN .|.
+ Where|QUESTIONTAG did|VERB you|PRON get|VERB this|DET ?|.
+ You|PRON know|VERB ,|. the|DET place|NOUN where|ADV you|PRON gave|VERB the|DET bad|ADJ guys|VERB the|DET Codex|NOUN ...|. .|. the|DET Mayflower|NOUN Museum|NOUN .|.
+ Count|NOUN of|ADP three|NUM ?|.
+ Why|ADV not|ADV just|ADV go|VERB now|ADV ?|.
+ Last|ADJ rites|NOUN ,|. sister|NOUN ?|.
+ Please|NOUN ,|. no|DET nun|ADJ jokes|NOUN ...|. They|PRON 're|VERB a|DET bad|ADJ habit|NOUN to|PRT get|VERB into|ADP ...|. .get|VERB it|PRON ?|.

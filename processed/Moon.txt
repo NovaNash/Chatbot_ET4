@@ -1,0 +1,186 @@
+ Sam|NOUN ,|. is|VERB everything|NOUN okay|NOUN ?|.
+ Everything|NOUN 's|PRT fine|ADJ ,|. Gerty|NOUN .|.
+ Why|ADV do|VERB you|PRON ask|VERB ?|.
+ You|PRON do|VERB n't|ADV seem|VERB like|ADP yourself|PRON today|NOUN .|.
+ Has|NOUN something|NOUN happened|VERB ?|.
+ No|DET ,|. not|ADV exactly|ADV .|.
+ Sam|NOUN ,|. what|PRON is|VERB it|PRON ?|.
+ Something|VERB does|VERB n't|ADV feel|VERB right|ADV ,|. that|DET 's|VERB all|DET .|.
+ Tess|NOUN is|VERB n't|ADV responding|VERB to|PRT things|NOUN ?|.
+ Right|ADV .|.
+ What|QUESTIONTAG kind|NOUN of|ADP things|NOUN ?|.
+ (|. a|DET beat|NOUN )|. A|NOUN couple|NOUN of|ADP weeks|NOUN ago|ADP I|PRON asked|VERB her|PRON if|ADP she|PRON wanted|VERB to|PRT go|VERB on|ADP vacation|NOUN when|ADV I|PRON get|VERB back|ADV ,|. and|CONJ that|ADP I|PRON was|VERB thinking|VERB of|ADP either|DET Mexico|NOUN or|CONJ Hawaii|NOUN .|.
+ Perhaps|ADV Tess|NOUN did|VERB n't|ADV receive|VERB the|DET message|NOUN ?|.
+ (|. as|ADP if|ADP anticipating|VERB Gerty|NOUN 's|PRT comment|NOUN )|. But|CONJ this|DET is|VERB n't|ADV the|DET only|ADJ time|NOUN it|PRON 's|VERB happened|VERB ,|. Gerty|NOUN .|.
+ He|PRON did|VERB ?|.
+ Yes|X ,|. I|PRON seem|VERB to|PRT recall|VERB he|PRON got|VERB the|DET position|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB that|DET ?|.
+ Gerty|NOUN ,|. have|VERB you|PRON heard|VERB anything|NOUN new|ADJ about|ADP anyone|NOUN fixing|VERB lunar|NOUN sat|VERB ?|.
+ No|DET Sam|NOUN .|.
+ Sam|NOUN ,|. are|VERB you|PRON ok|ADP ?|.
+ They|PRON need|VERB to|PRT sort|VERB that|DET out|PRT .|.
+ What|QUESTIONTAG 's|VERB on|ADP the|DET menu|NOUN tonight|NOUN ,|. Gerty|NOUN ?|.
+ Baby|NOUN back|ADV ribs|VERB with|ADP french|ADJ fries|NOUN and|CONJ spinach|NOUN .|.
+ Sam|NOUN ,|. can|VERB I|PRON ask|VERB how|ADV it|PRON happened|VERB ?|.
+ I|PRON told|VERB you|PRON ,|. I|PRON saw|VERB something|NOUN on|ADP the|DET TV|NOUN and|CONJ spilled|VERB boiling|ADJ water|NOUN on|ADP my|PRON hand|NOUN .|.
+ You|PRON saw|VERB something|NOUN on|ADP the|DET TV|NOUN ?|.
+ (|. a|DET touch|NOUN petulant|NOUN )|. Yeah|X ,|. something|NOUN on|ADP the|DET TV|NOUN distracted|VERB me|PRON ,|. Gerty|NOUN ,|. what|PRON 's|VERB wrong|ADJ with|ADP that|DET ?|.
+ Perhaps|ADV you|PRON were|VERB imagining|VERB things|NOUN ?|.
+ feel|VERB a|DET little|ADJ uneasy|ADJ .|.
+ How|QUESTIONTAG 's|VERB the|DET hand|NOUN ?|.
+ It|PRON 's|VERB a|DET little|ADJ sore|NOUN .|.
+ Where|QUESTIONTAG am|VERB I|PRON ?|.
+ Sam|NOUN ,|. you|PRON 're|VERB in|ADP the|DET Infirmary|NOUN .|.
+ Do|VERB you|PRON remember|VERB what|PRON happened|VERB ?|.
+ No|DET .|.
+ Do|VERB you|PRON remember|VERB me|PRON ?|.
+ Yes|X ,|. of|ADP course|NOUN I|PRON remember|VERB you|PRON ,|. Gerty|NOUN .|.
+ How|QUESTIONTAG long|ADJ have|VERB I|PRON been|VERB out|PRT ?|.
+ Not|ADV long|ADV .|.
+ Gerty|NOUN ?|.
+ He|PRON swings|NOUN his|PRON legs|NOUN out|ADP of|ADP bed|NOUN ,|. begins|VERB to|PRT plod|VERB around|ADP the|DET room|NOUN .|.
+ Gerty|NOUN ?|.
+ corridor|NOUN .|.
+ How|QUESTIONTAG much|ADJ longer|ADJ do|VERB I|PRON have|VERB to|PRT be|VERB in|ADP here|ADV ,|. Gerty|NOUN ?|.
+ Sam|NOUN ,|. you|PRON suffered|VERB minor|ADJ brain|NOUN damage|NOUN in|ADP the|DET crash|NOUN .|.
+ When|QUESTIONTAG can|VERB I|PRON get|VERB back|ADV to|PRT work|VERB ?|.
+ Central|NOUN has|VERB asked|VERB me|PRON to|PRT slow|VERB down|PRT the|DET Harvesters|NOUN to|PRT ensure|VERB you|PRON have|VERB time|NOUN to|PRT recuperate|VERB and|CONJ get|VERB your|PRON strength|NOUN back|ADV --|.
+ Gerty|NOUN ,|. do|VERB you|PRON know|VERB about|ADP this|DET ?|.
+ You|PRON 're|VERB to|PRT stay|VERB put|ADV ,|. understand|NOUN ?|.
+ It|PRON 's|VERB an|DET order|NOUN .|.
+ (|. incensed|VERB )|. Why|ADV ?|.
+ good|ADJ as|ADP a|DET kick|NOUN in|ADP the|DET balls|NOUN .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ Do|VERB n't|ADV know|VERB --|. Micro|NOUN meteorites|NOUN ,|. maybe|ADV ?|.
+ Where|QUESTIONTAG am|VERB I|PRON ?|.
+ The|DET Infirmary|NOUN .|.
+ Who|QUESTIONTAG did|VERB you|PRON see|VERB ,|. Sam|NOUN ?|.
+ clean-shaven|ADJ Sam|NOUN --|. who|PRON we|PRON will|VERB now|ADV refer|VERB to|PRT as|ADP SAM|NOUN 2|NUM .|.
+ Gerty|NOUN ?|.
+ Yes|X ,|. Sam|NOUN ?|.
+ Is|VERB there|DET someone|NOUN in|ADP the|DET room|NOUN with|ADP us|PRON ?|.
+ Yes|X .|.
+ Who|QUESTIONTAG is|VERB he|PRON ?|.
+ every|DET morning|NOUN of|ADP his|PRON life|NOUN in|ADP the|DET bathroom|NOUN mirror|NOUN .|.
+ Why|ADV ...|. What|QUESTIONTAG are|VERB you|PRON ?|.
+ Then|ADV :|.
+ How|QUESTIONTAG long|ADV have|VERB you|PRON been|VERB here|ADV ?|.
+ About|ADP a|DET week|NOUN .|.
+ How|QUESTIONTAG are|VERB you|PRON getting|VERB on|ADP ?|.
+ (|. repeating|VERB the|DET question|NOUN slowly|ADV )|. How|QUESTIONTAG am|VERB I|PRON getting|VERB on|ADP ?|.
+ How|QUESTIONTAG long|ADV have|VERB you|PRON been|VERB here|ADV ?|.
+ Almost|ADV three|NUM years|NOUN .|.
+ (|. self-conscious|ADJ )|. What|QUESTIONTAG ?|.
+ Score|NOUN ?|.
+ Two|NUM points|NOUN to|PRT eighteen|VERB .|.
+ How|QUESTIONTAG long|ADV did|VERB it|PRON take|VERB you|PRON to|PRT do|VERB this|DET ?|.
+ You|PRON know|VERB about|ADP Eve|NOUN ,|. right|ADV ?|.
+ You|PRON getting|VERB lots|NOUN of|ADP rest|NOUN ?|.
+ Yeah|X ,|. you|PRON resting|VERB up|PRT ,|. Sam|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Is|VERB that|ADP what|PRON you|PRON really|ADV think|VERB ?|.
+ Gerty|NOUN ,|. am|VERB I|PRON a|DET clone|NOUN ?|.
+ What|QUESTIONTAG about|ADP the|DET other|ADJ clones|NOUN ?|.
+ (|. laughing|VERB )|. Secret|NOUN room|NOUN ?|.
+ Yeah|X ,|. secret|ADJ room|NOUN ,|. why|ADV not|ADV ?|.
+ Why|ADV ?|.
+ I|PRON want|VERB to|PRT check|VERB underneath|NOUN there|ADV .|.
+ You|PRON okay|VERB ?|.
+ blood|NOUN RAINING|NOUN from|ADP his|PRON face|NOUN and|CONJ POOLING|NOUN at|ADP his|PRON feet|NOUN thick|ADJ and|CONJ fast|ADJ .|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ Sam|NOUN ,|. is|VERB everything|NOUN okay|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON about|ADP Sam|NOUN that|DET scares|VERB you|PRON ?|.
+ He|PRON flies|VERB off|ADP the|DET handle|NOUN .|.
+ What|QUESTIONTAG about|ADP the|DET messages|NOUN she|PRON sent|VERB to|PRT me|PRON ?|.
+ Gerty|NOUN ,|. am|VERB I|PRON really|ADV a|DET clone|NOUN ?|.
+ Sam|NOUN ,|. when|ADV you|PRON first|ADV arrived|VERB at|ADP Selene|NOUN ,|. there|DET was|VERB a|DET small|ADJ crash|NOUN .|.
+ You|PRON okay|VERB ?|.
+ I|PRON 'm|VERB staring|VERB into|ADP space|NOUN .|.
+ How|QUESTIONTAG 's|VERB the|DET nose|NOUN ?|.
+ Better|ADV .|.
+ A|DET live|ADJ conversation|NOUN ?|.
+ Yeah|X .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB the|DET conversation|NOUN was|VERB live|ADJ ?|.
+ It|PRON was|VERB a|DET back|ADJ and|CONJ forth|ADJ exchange|NOUN .|.
+ From|ADP where|ADV then|ADV ?|.
+ to|PRT the|DET window|NOUN --|. a|DET slow|ADJ ,|. perfectly|ADV synchronized|VERB movement|NOUN .|.
+ How|QUESTIONTAG long|ADV until|ADP you|PRON 're|VERB out|ADP of|ADP the|DET base|NOUN 's|PRT range|NOUN ?|.
+ You|PRON ever|ADV been|VERB this|DET far|ADV out|PRT ?|.
+ You|PRON see|VERB anything|NOUN yet|ADV ?|.
+ Nothing|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Do|VERB n't|ADV know|VERB yet|ADV .|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB ?|.
+ Its|PRON not|ADV an|DET antennae|NOUN ,|. dude|NOUN .|.
+ You|PRON okay|VERB ?|.
+ ground|NOUN .|.
+ Sam|NOUN ?|.
+ the|DET Rover|NOUN --|. he|PRON dips|VERB in|ADP ,|. closes|VERB the|DET door|NOUN .|.
+ Sam|NOUN ,|. can|VERB you|PRON hear|VERB me|PRON ?|.
+ Yeah|X ,|. I|PRON hear|VERB you|PRON .|.
+ Who|QUESTIONTAG goes|VERB first|ADV ?|.
+ seize|VERB the|DET ladder|NOUN and|CONJ twist|VERB his|PRON body|NOUN down|PRT into|ADP the|DET hole|NOUN .|.
+ Is|VERB there|DET a|DET light|NOUN ?|.
+ finding|VERB a|DET SWITCH|NOUN ,|. snaps|VERB it|PRON on|ADP .|.
+ Why|ADV are|VERB there|ADV so|ADV many|ADJ of|ADP them|PRON ?|.
+ The|DET cryo|NOUN pod|NOUN in|ADP the|DET Return|NOUN Vehicle|NOUN is|VERB an|DET incinerator|NOUN .|.
+ What|QUESTIONTAG ?|.
+ We|PRON do|VERB n't|ADV go|VERB home|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB all|DET this|DET ?|.
+ (|. beat|NOUN )|. I|PRON hacked|VERB into|ADP the|DET Old|NOUN Man|NOUN .|.
+ How|QUESTIONTAG many|ADJ ?|.
+ Enough|ADV .|.
+ What|QUESTIONTAG are|VERB we|PRON going|VERB to|PRT do|VERB ?|.
+ starts|NOUN heading|VERB back|ADV up|ADV .|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ Sam|NOUN ,|. can|VERB I|PRON help|VERB you|PRON with|ADP something|NOUN ?|.
+ Not|ADV now|ADV ,|. Gerty|NOUN ,|. okay|NOUN ?|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ There|DET 's|VERB something|NOUN I|PRON 've|VERB got|VERB to|PRT do|VERB .|.
+ Hello|NOUN ?|.
+ Uh|NOUN ,|. Bell|NOUN residence|NOUN ?|.
+ two|NUM ,|. and|CONJ the|DET Girl|NOUN is|VERB n't|ADV completely|ADV clear|ADJ on|ADP the|DET monitor|NOUN .|.
+ Eve|NOUN ?|.
+ Yes|X ?|.
+ 1|NUM 's|PRT face|NOUN .|.
+ How|QUESTIONTAG did|VERB mom|NOUN die|NOUN ,|. sweetheart|NOUN ?|.
+ Uh|NOUN ...|.
+ Who|QUESTIONTAG 's|VERB asking|VERB about|ADP mom|NOUN ?|.
+ Want|VERB me|PRON to|PRT help|VERB ?|.
+ walks|NOUN over|ADP ,|. sits|NOUN down|PRT .|.
+ Remember|NOUN that|DET crazy|VERB drunk|ADJ guy|NOUN who|PRON used|VERB to|PRT hang|VERB out|PRT by|ADP the|DET church|NOUN ?|.
+ Barbara|NOUN Streisand|NOUN ?|.
+ How|QUESTIONTAG do|VERB you|PRON carve|VERB these|DET things|NOUN ?|.
+ Want|VERB me|PRON to|PRT show|VERB you|PRON ?|.
+ Why|ADV are|VERB you|PRON shaking|VERB ?|.
+ Watch|VERB what|PRON I|PRON 'm|VERB doing|VERB .|.
+ What|QUESTIONTAG 's|VERB happening|VERB to|PRT you|PRON ?|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB it|PRON is|VERB ?|.
+ Maybe|ADV we|PRON do|VERB n't|ADV live|VERB that|DET long|ADJ .|.
+ Hey|NOUN hey|VERB hey|NOUN ,|. you|PRON okay|VERB ?|.
+ Uh|NOUN ,|. Bell|NOUN Residence|NOUN ?|.
+ This|DET is|VERB the|DET Bell|NOUN residence|NOUN .|.
+ Of|ADP course|NOUN ,|. Sam|NOUN ,|. how|ADV can|VERB I|PRON help|VERB ?|.
+ We|PRON found|VERB the|DET hidden|ADJ room|NOUN .|.
+ Do|VERB you|PRON want|VERB me|PRON and|CONJ the|DET other|ADJ Sam|NOUN to|PRT die|VERB ?|.
+ That|DET is|VERB the|DET last|ADJ thing|NOUN I|PRON want|VERB .|.
+ made|VERB up|PRT ?|.
+ Why|ADV ?|.
+ (|. points|NOUN towards|ADP the|DET Infirmary|NOUN )|. That|ADP guy|NOUN ?|.
+ (|. stunned|VERB )|. You|PRON 're|VERB going|VERB to|PRT kill|VERB him|PRON ?|.
+ Someone|NOUN 's|PRT got|NOUN to|PRT pull|VERB the|DET short|ADJ straw|NOUN here|ADV ,|. better|ADJ someone|NOUN who|PRON 's|VERB unconscious|ADJ than|ADP you|PRON or|CONJ me|PRON .|.
+ How|QUESTIONTAG do|VERB you|PRON think|VERB she|PRON died|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Comfy|NOUN ?|.
+ No|DET .|.
+ going|VERB to|PRT kill|VERB him|PRON ?|.
+ Sam|NOUN ?|.
+ Tess|NOUN came|VERB in|ADP for|ADP the|DET interview|NOUN ,|. remember|VERB ?|.
+ How|QUESTIONTAG long|ADJ before|ADP he|PRON 's|VERB conscious|ADJ ,|. Gerty|NOUN ?|.
+ The|DET new|ADJ clone|NOUN will|VERB be|VERB conscious|ADJ within|ADP one|NUM hour|NOUN .|.
+ Where|QUESTIONTAG am|VERB I|PRON ?|.
+ Sam|NOUN ,|. you|PRON 're|VERB in|ADP the|DET Infirmary|NOUN .|.
+ Do|VERB you|PRON remember|VERB what|PRON happened|VERB ?|.
+ No|DET ,|. Gerty|NOUN .|.
+ What|QUESTIONTAG took|VERB you|PRON so|ADV long|ADV ?|.
+ and|CONJ a|DET corkscrew|NOUN .|.

@@ -1,0 +1,77 @@
+ (|. impatient|NOUN )|. What|QUESTIONTAG is|VERB it|PRON ?|.
+ In|ADP private|ADJ ,|. if|ADP you|PRON do|VERB n't|ADV mind|VERB ...|.
+ Do|VERB you|PRON believe|VERB in|ADP hell|NOUN ?|.
+ There|DET is|VERB a|DET place|NOUN --|. a|DET dark|ADJ place|NOUN where|ADV evil|NOUN slumbers|NOUN and|CONJ awaits|NOUN to|PRT return|VERB .|.
+ That|DET 's|VERB the|DET alleged|ADJ best|ADJ man|NOUN --|. ?|.
+ Have|VERB you|PRON told|VERB him|PRON yet|ADV ?|.
+ dignified|ADJ BROOM|NOUN ,|. 72|NUM ,|. who|PRON slowly|VERB buttons|NOUN his|PRON shirt|NOUN .|.
+ Yes|X ?|.
+ (|. shivering|VERB )|. John|NOUN Myers|NOUN ,|. F.B.I|NOUN .|.
+ Pardon|NOUN ?|.
+ Two|NUM steps|NOUN back|ADV ,|. please|NOUN .|.
+ Over|ADP here|ADV ...|. if|ADP you|PRON do|VERB n't|ADV mind|VERB ?|.
+ How|QUESTIONTAG does|VERB he|PRON know|VERB so|ADV much|ADJ about|ADP me|PRON ?|.
+ Abe|NOUN possesses|VERB a|DET unique|ADJ frontal|ADJ lobe|NOUN .|.
+ Where|QUESTIONTAG am|VERB I|PRON --|. exactly|ADV ,|. Sir|NOUN ?|.
+ As|ADP you|PRON entered|VERB the|DET lobby|NOUN there|DET was|VERB an|DET inscription|NOUN --|.
+ (|. enigmatic|ADJ smile|NOUN )|. Did|NOUN he|PRON ,|. now|ADV ?|.
+ Waiting|VERB there|DET is|VERB AGENT|NOUN CLAY|NOUN ,|. a|DET burly|ADJ guy|NOUN in|ADP a|DET suit|NOUN ,|. with|ADP a|DET cartful|NOUN of|ADP BEEF|NOUN AND|NOUN MASHED|NOUN POTATOES|NOUN .|.
+ You|PRON 're|VERB not|ADV coming|VERB ?|.
+ Who|QUESTIONTAG ?|.
+ picks|NOUN it|PRON up|PRT ,|. looks|VERB at|ADP the|DET cover|NOUN :|. it|PRON shows|VERB Hellboy|NOUN --|. in|ADP a|DET U.S|NOUN .|.
+ Who|QUESTIONTAG 's|VERB the|DET squirt|NOUN ?|.
+ Agent|NOUN Myers|NOUN is|VERB your|PRON new|ADJ liaison|NOUN .|.
+ Got|NOUN tired|VERB of|ADP me|PRON ?|.
+ Nah|NOUN .|.
+ (|. surprised|ADJ to|PRT see|VERB him|PRON )|. Father|NOUN ...|. ?|.
+ from|ADP that|DET of|ADP the|DET fragile|ADJ old|ADJ man|NOUN .|.
+ --|. Hound|NOUN of|ADP resurrection|NOUN ?|.
+ Jeez|NOUN ...|. What|QUESTIONTAG the|DET hell|NOUN is|VERB that|ADP ?|.
+ a|DET big|ADJ ,|. black|ADJ stinger|NOUN is|VERB gleaming|VERB .|.
+ Are|NOUN you|PRON okay|ADP ?|.
+ Waiting|VERB for|ADP me|PRON ,|. Sammy|NOUN ?|.
+ and|CONJ puts|VERB away|ADV his|PRON gun|NOUN .|.
+ Myers|NOUN ?|.
+ Yes|X ?|.
+ Back|ADV so|ADV soon|ADV ?|.
+ His|PRON tail|NOUN emerges|NOUN ,|. dangling|VERB the|DET six-pack|NOUN .|.
+ What|QUESTIONTAG took|VERB you|PRON so|ADV long|ADV ?|.
+ C'mon|NOUN ,|. time|NOUN to|PRT go|VERB home|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON ,|. a|DET Boy|NOUN Scout|NOUN ?|.
+ No|DET .|.
+ Well|ADV ,|. I|PRON wo|VERB n't|ADV be|VERB around|ADV forever|ADV ,|. you|PRON know|VERB ?|.
+ Oh|X ,|. stop|VERB that|DET --|. (|. grimaces|NOUN in|ADP pain|NOUN )|. Damn|NOUN !|.
+ You|PRON want|VERB me|PRON to|PRT hold|VERB him|PRON down|PRT ?|.
+ (|. snickers|NOUN )|. That|DET 's|VERB right|ADJ ,|. Stud|NOUN ,|. hold|VERB me|PRON down|PRT .|.
+ Is|VERB it|PRON bad|ADJ ?|.
+ forearm|NOUN ,|. nestled|VERB like|ADP ticks|NOUN ,|. are|VERB 3|NUM translucent|ADJ EGGS|NOUN .|.
+ Oh|X ,|. as|ADP opposed|VERB to|PRT --|. ?|.
+ Are|NOUN you|PRON coming|VERB or|CONJ not|ADV ?|.
+ (|. turning|VERB )|. Did|VERB n't|ADV I|PRON kill|VERB you|PRON already|ADV ?|.
+ shaft|NOUN ...|.
+ Abe|NOUN --|. ?|.
+ Moss|NOUN ,|. what|PRON the|DET hell|NOUN was|VERB that|ADP ?|.
+ boom|NOUN like|ADP thunderclaps|NOUN .|.
+ No|DET ,|. it|PRON does|VERB n't|ADV make|VERB it|PRON right|ADJ ,|. but|CONJ I|PRON stopped|VERB that|ADP creature|NOUN ,|. did|VERB n't|ADV I|PRON ?|.
+ That|DET 's|VERB what|PRON you|PRON do|VERB .|.
+ What|QUESTIONTAG are|VERB you|PRON trying|VERB to|PRT say|VERB ?|.
+ In|ADP the|DET end|NOUN ,|. after|ADP you|PRON 've|VERB killed|VERB and|CONJ captured|VERB every|DET freak|NOUN out|ADP there|ADV --|. there|DET 's|VERB still|ADV one|NUM left|VERB :|. you|PRON .|.
+ You|PRON 're|VERB going|VERB alone|ADV ?|.
+ No|DET .|.
+ What|QUESTIONTAG did|VERB you|PRON want|VERB me|PRON to|PRT hear|VERB --|. ?|.
+ What|QUESTIONTAG about|ADP you|PRON ?|.
+ Do|VERB n't|ADV know|VERB .|.
+ It|PRON 's|VERB freezing|ADJ ,|. is|VERB n't|ADV it|PRON ?|.
+ Coffee|NOUN 's|PRT warming|VERB me|PRON up|PRT .|.
+ Do|VERB n't|ADV tell|VERB anyone|NOUN ,|. huh|NOUN ?|.
+ Should|VERB we|PRON send|VERB out|PRT some|DET scouts|NOUN ?|.
+ (|. into|ADP radio|NOUN )|. Are|VERB you|PRON sure|ADJ about|ADP this|DET ?|.
+ On|ADP a|DET scale|NOUN of|ADP one|NUM to|PRT ten|VERB :|. two|NUM .|.
+ Are|NOUN you|PRON okay|ADP ?|.
+ his|PRON Zippo|NOUN .|.
+ But|CONJ it|PRON 's|VERB not|ADV true|ADJ ,|. is|VERB it|PRON ?|.
+ What|QUESTIONTAG --|. ?|.
+ What|QUESTIONTAG ?|.
+ Alone|ADV ?|.
+ How|QUESTIONTAG big|ADJ can|VERB it|PRON be|VERB ?|.
+ In|ADP the|DET dark|NOUN --|. I|PRON heard|VERB your|PRON voice|NOUN --|. What|QUESTIONTAG --|. did|VERB you|PRON say|VERB --|. ?|.

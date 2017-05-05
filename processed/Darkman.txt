@@ -1,0 +1,68 @@
+ Bum|NOUN leg|NOUN ?|.
+ No|DET leg|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ An|DET interested|ADJ party|NOUN .|.
+ How|QUESTIONTAG much|ADV did|VERB she|PRON pay|VERB you|PRON ?|.
+ So|ADV ,|. did|VERB you|PRON ask|VERB her|PRON ?|.
+ Tonight|NOUN .|.
+ Father|NOUN ?|.
+ races|NOUN out|ADP of|ADP the|DET car|NOUN and|CONJ rushes|VERB over|ADP to|PRT his|PRON father|NOUN .|.
+ Peyton|NOUN ?|.
+ Pretty|NOUN stupid|ADJ ,|. huh|VERB ?|.
+ I|PRON thought|VERB it|PRON was|VERB beautiful-|ADJ
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ I|PRON 've|VERB been|VERB thinking|VERB .|.
+ He|PRON got|VERB a|DET ring|NOUN ?|.
+ Maison|NOUN Reme|NOUN 1967|NUM ?|.
+ No|DET thank|NOUN you|PRON .|.
+ .Does|NOUN that|DET shock|VERB you|PRON ?|.
+ Are|NOUN you|PRON threatening|VERB me|PRON ?|.
+ moves|NOUN closer|ADV ,|. touching|VERB her|PRON arm|NOUN .|.
+ Is|VERB that|ADP the|DET most|ADV I|PRON can|VERB extract|VERB from|ADP you|PRON ?|.
+ Time|NOUN ?|.
+ Ninety-six|ADJ minute|NOUN .|.
+ So|ADV ,|. did|VERB you|PRON ask|VERB her|PRON ?|.
+ .Gentlemen|NOUN ?|.
+ exit|NOUN .|.
+ Drowning|VERB your|PRON sorrows|NOUN ,|. eh|NOUN ?|.
+ Just|ADV giving|VERB them|PRON something|NOUN to|PRT swim|VERB around|PRT in|ADP .|.
+ Why|ADV don|NOUN '|. ya|NOUN tell|VERB all|DET your|PRON troubles|NOUN to|PRT old|ADJ Jimbo|NOUN ?|.
+ Please|NOUN remove|VERB your|PRON hand|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Do|VERB you|PRON remember|VERB when|ADV I|PRON mentioned|VERB a|DET certain|ADJ competitor|NOUN of|ADP mine|NOUN ,|. Robert|NOUN G.|NOUN Durant|NOUN ?|.
+ Mr.|NOUN Strack|NOUN ,|. I|PRON do|VERB n't|ADV want|VERB to|PRT alarm|VERB you|PRON ,|. but|CONJ who|PRON is|VERB that|DET man|NOUN ,|. speaking|VERB with|ADP the|DET Governor|NOUN ?|.
+ turns|NOUN to|PRT look|VERB .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ What|QUESTIONTAG 's|VERB with|ADP him|PRON ?|.
+ Where|QUESTIONTAG is|VERB the|DET money|NOUN ,|. Pauly|NOUN ?|.
+ (|. desperate|NOUN )|. p.|VERB What|QUESTIONTAG money|NOUN ?|.
+ Where|QUESTIONTAG is|VERB the|DET money|NOUN ,|. Pauly|NOUN ?|.
+ What|QUESTIONTAG money|NOUN ?|. !|.
+ ...|. Would|VERB it|PRON be|VERB all|ADV right|ADJ if|ADP I|PRON used|VERB your|PRON telephone|NOUN ?|.
+ It|PRON 's|VERB on|ADP the|DET etagere|NOUN ...|. Strack|NOUN has|VERB already|ADV found|VERB it|PRON and|CONJ is|VERB dialing|VERB .|.
+ ..Were|ADV you|PRON ever|ADV married|VERB ,|. Louis|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ I|PRON lost|VERB her|PRON ...|.
+ Is|VERB it|PRON really|ADV ...|. ?|.
+ I|PRON --|. I|PRON 'm|VERB sorry|ADJ ...|.
+ Jew|NOUN want|VERB me|PRON to|PRT be|VERB at|ADP your|PRON place|NOUN ...|. around|ADP 8:30|NUM ?|.
+ That|DET would|VERB be|VERB just|ADV fine|ADJ for|ADP me|PRON .|.
+ Wan|NOUN na|PRT bag|VERB for|ADP that|DET ?|.
+ That|DET would|VERB be|VERB just|ADV fine|ADJ for|ADP me|PRON .|.
+ Hey|NOUN where|ADV you|PRON going|VERB ?|.
+ where|ADV is|VERB he|PRON ?|.
+ Where|QUESTIONTAG 's|VERB who|PRON ?|.
+ Now|ADV what|PRON ?|.
+ You|PRON go|VERB that|DET way|NOUN .|.
+ Alone|ADV ?|.
+ No|DET .|.
+ Where|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON going|VERB ?|.
+ pulls|NOUN free|ADJ .|.
+ What|QUESTIONTAG ?|.
+ ...|. Where|QUESTIONTAG is|VERB he|PRON ,|. Julie|NOUN ?|.
+ He|PRON 's|VERB living|VERB in|ADP an|DET abandoned|VERB warehouse|NOUN .|.
+ And|CONJ Westlake|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ Or|CONJ should|VERB I|PRON say|VERB ,|. Doctor|NOUN Westlake|NOUN ?|.
+ Father|NOUN ?|.

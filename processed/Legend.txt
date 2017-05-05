@@ -1,0 +1,69 @@
+ cast|NOUN this|DET spoor|NOUN ?|.
+ What|QUESTIONTAG beast|VERB it|PRON be|VERB I|PRON do|VERB not|ADV know|VERB .|.
+ their|PRON language|NOUN ?|.
+ Unicorns|NOUN talk|VERB only|ADV of|ADP love|NOUN and|CONJ laughter|NOUN .|.
+ like|ADP that|DET ,|. Jack|NOUN ?|.
+ wedding|VERB ring|NOUN ?|.
+ come|VERB true|ADJ ?|.
+ on|ADP a|DET unicorn|ADJ ?|.
+ No|DET more|ADV talk|NOUN ...|. .|. Do|VERB you|PRON think|VERB you|PRON can|VERB upset|VERB the|DET order|NOUN of|ADP the|DET universe|NOUN and|CONJ not|ADV pay|VERB the|DET price|NOUN ?|.
+ other|ADJ wee|NOUN folk|NOUN tune|NOUN up|ADP an|DET incredible|ADJ variety|NOUN of|ADP oddly-shaped|ADJ instryemnts|NOUN :|. seashell|NOUN trumpets|NOUN ,|. acorn|ADJ cellos|NOUN ,|. gossets|NOUN ,|. serpentines|NOUN ,|. blossom-bell|NOUN horns|NOUN ,|. bone|NOUN flutes|NOUN ,|. all|DET manner|NOUN of|ADP drums|NOUN and|CONJ rattles|NOUN .|.
+ Yet|ADV ,|. its|PRON knell|NOUN makes|VERB the|DET angels|NOUN sing|NOUN ?|.
+ concentration|NOUN ,|. then|ADV grins|VERB ,|. as|ADP the|DET memory|NOUN of|ADP Lili|NOUN 's|PRT song|NOUN rushes|VERB back|ADV .|.
+ sound|NOUN like|ADP an|DET enjoyable|ADJ prospect|NOUN ?|.
+ it|PRON mean|VERB ?|.
+ some|DET rabbit|NOUN ,|. but|CONJ not|ADV a|DET word|NOUN of|ADP unicorn|ADJ .|.
+ find|VERB a|DET champion|NOUN when|ADV every|DET mortal|NOUN can|VERB swing|VERB a|DET sword|NOUN is|VERB froze|ADJ stiff|NOUN as|ADP an|DET icicle|NOUN ?|.
+ (|. feeling|VERB Jack|NOUN 's|PRT arm|NOUN )|. You|PRON sure|VERB you|PRON 're|VERB mortal|ADJ ?|.
+ speaks|NOUN unicorn|ADJ ?|.
+ Is|VERB this|DET not|ADV true|ADJ ?|.
+ d'you|ADJ think|NOUN of|ADP that|DET for|ADP a|DET front|ADJ door|NOUN ?|.
+ with|ADP ?|.
+ do|VERB ?|.
+ try|VERB ?|.
+ Who|QUESTIONTAG 's|VERB there|ADV ?|.
+ think|NOUN ,|. Luna|NOUN ?|.
+ secret|NOUN ...|. .|. (|. kissing|VERB his|PRON cheek|NOUN )|. Promise|NOUN ?|.
+ do|VERB for|ADP you|PRON ,|. Gump|NOUN ?|.
+ they|PRON kill|VERB you|PRON ,|. too|ADV ?|.
+ are|VERB you|PRON talking|VERB about|ADP ?|.
+ disturbing|VERB Meg|NOUN Mucklebones|NOUN '|PRT rest|NOUN ?|.
+ Jack|NOUN ma'am|NOUN .|.
+ do|VERB you|PRON ma'am|VERB ?|.
+ my|PRON words|NOUN ?|.
+ filling|VERB an|DET empty|ADJ stomach|NOUN ...|. .|.
+ like|ADP this|DET ?|.
+ better|ADV to|PRT do|VERB ?|.
+ out|ADP between|ADP the|DET bars|NOUN and|CONJ find|VERB a|DET key|NOUN ?|.
+ could|VERB never|ADV lift|VERB it|PRON ...|.
+ you|PRON keep|VERB such|ADJ secrets|NOUN ?|.
+ what|PRON you|PRON ask|VERB ...|. .|. if|ADP you|PRON kiss|VERB me|PRON ,|. Jack|NOUN .|.
+ pork|NOUN pie|NOUN ?|.
+ he|PRON topples|VERB over|ADP over|ADP backwards|NOUN a|DET great|ADJ CRASH|NOUN .|.
+ a|DET trap|NOUN ?|.
+ gown|NOUN ...|. .|. ?|.
+ What|QUESTIONTAG good|NOUN is|VERB this|DET fancy|ADJ sword|NOUN ?|.
+ the|DET man|NOUN who|PRON swings|NOUN it|PRON ...|. .|.
+ hear|VERB me|PRON ...|. .|. ?|.
+ parchment|NOUN ?|.
+ plethora|NOUN of|ADP trash|NOUN :|. marbles|NOUN ,|. string|NOUN ,|. old|ADJ doll|NOUN 's|PRT eyes|NOUN ,|. coloured|VERB bird|NOUN 's|PRT eggs|NOUN ,|. ancient|ADJ coins|NOUN ,|. etc|X .|.
+ understand|NOUN ?|.
+ I|PRON small|ADJ enough|ADV for|ADP the|DET job|NOUN ?|.
+ small|ADJ for|ADP the|DET Buttercup|NOUN brothers|NOUN ...|. .|.
+ talk|NOUN about|ADP ?|.
+ ambitions|NOUN ...|. .|.
+ you|PRON doing|VERB here|ADV ?|.
+ I|PRON early|ADV ...|. .|. ?|.
+ you|PRON fair|VERB some|DET day|NOUN ?|.
+ have|VERB ...|. stretching|VERB before|ADP us|PRON ...|. .|. infinity|NOUN ...|. .like|VERB a|DET merciful|ADJ curtain|NOUN closing|NOUN off|ADP the|DET past|NOUN ...|. .|.
+ feast|NOUN is|VERB in|ADP good|ADJ voice|NOUN ...|. .Think|VERB you|PRON not|ADV ?|.
+ (|. smiling|VERB slyly|NOUN )|. Will|VERB the|DET groom|NOUN grant|NOUN his|PRON bride|NOUN her|PRON wish|NOUN on|ADP this|DET night|NOUN ?|.
+ You|PRON have|VERB but|CONJ to|PRT ask|VERB my|PRON savage|NOUN beauty|NOUN .|.
+ happening|VERB ,|. Gump|NOUN ?|.
+ he|PRON holds|VERB .|.
+ die|NOUN ?|.
+ of|ADP a|DET wound|NOUN remains|VERB on|ADP his|PRON flesh|NOUN .|.
+ the|DET forest|ADJ ?|.
+ know|NOUN who|PRON I|PRON am|VERB ...|. .|.
+ hiding|VERB now|ADV ?|.
+ as|ADP if|ADP they|PRON were|VERB a|DET single|ADJ living|NOUN organism|NOUN .|.

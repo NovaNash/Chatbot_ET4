@@ -1,0 +1,309 @@
+ Mick|NOUN ?|.
+ Where|QUESTIONTAG 's|VERB your|PRON gun|NOUN ?|.
+ Yeah|X ,|. where|ADV is|VERB your|PRON gun|NOUN ?|.
+ What|QUESTIONTAG 's|VERB that|DET picture|NOUN ?|.
+ This|DET is|VERB me|PRON and|CONJ my|PRON dad|NOUN playing|VERB Battleship|NOUN at|ADP my|PRON dad|NOUN 's|PRT apartment|NOUN .|.
+ Mick|NOUN ?|.
+ What|QUESTIONTAG is|VERB a|DET battleship|NOUN ?|.
+ So|ADV ,|. who|PRON 's|VERB that|DET in|ADP that|DET picture|NOUN up|PRT on|ADP top|NOUN ?|.
+ That|DET 's|VERB my|PRON fish|ADJ ,|. his|PRON name|NOUN is|VERB Jaws|NOUN and|CONJ he|PRON 's|VERB a|DET really|ADV mean|ADJ fish|NOUN .|.
+ Can|VERB I|PRON tell|VERB this|DET story|NOUN ?|.
+ Go|VERB for|ADP it|PRON .|.
+ Then|ADV what|PRON happened|VERB ?|.
+ Then|ADV the|DET doctor|NOUN put|VERB her|PRON hands|NOUN way|NOUN up|ADP into|ADP Kevin|NOUN 's|PRT mom|NOUN 's|PRT tummy|NOUN .|.
+ What|QUESTIONTAG did|VERB they|PRON do|VERB ?|.
+ They|PRON started|VERB to|PRT pull|VERB and|CONJ pull|VERB and|CONJ pull|VERB ...|. they|PRON had|VERB something|NOUN in|ADP there|ADV and|CONJ it|PRON started|VERB coming|VERB and|CONJ they|PRON were|VERB pulling|VERB and|CONJ the|DET doctor|NOUN all|DET of|ADP the|DET sudden|ADJ said|VERB ``|. STOP|NOUN !|. ''|.
+ How|QUESTIONTAG are|VERB you|PRON today|NOUN ,|. Sergeant|NOUN ?|.
+ Sun|NOUN is|VERB shining|VERB .|.
+ scared|VERB :|. why|ADV is|VERB that|ADP Cop|NOUN wearing|VERB a|DET jacket|NOUN in|ADP this|DET heat|NOUN ?|.
+ (|. surprised|VERB )|. Fran|NOUN ?|.
+ You|PRON getting|VERB this|DET yet|ADV ?|.
+ Hey|NOUN ,|. I|PRON 'm|VERB at|ADP Kevin|NOUN 's|PRT school|NOUN .|.
+ Where|QUESTIONTAG exactly|ADV ?|.
+ The|DET Al-Rahmah|NOUN Western|NOUN Housing|NOUN Compound|NOUN .|.
+ How|QUESTIONTAG ?|.
+ Big|NOUN .|.
+ Dad|NOUN ?|.
+ When|QUESTIONTAG ?|.
+ Just|ADV went|VERB off|PRT --|. twenty|NOUN minutes|NOUN ago|ADV .|.
+ (|. points|NOUN to|PRT the|DET phone|NOUN )|. Who|QUESTIONTAG was|VERB that|ADP ?|.
+ Big|ADJ Fran|NOUN --|. you|PRON remember|VERB him|PRON ?|.
+ What|QUESTIONTAG happened|VERB ?|.
+ (|. beat|NOUN )|. Something|VERB bad|ADJ .|.
+ You|PRON gon|VERB na|PRT go|VERB see|VERB him|PRON ?|.
+ (|. to|PRT Lyla|NOUN )|. Can|VERB you|PRON get|VERB a|DET ride|NOUN ?|.
+ Where|QUESTIONTAG 's|VERB your|PRON husband|NOUN going|VERB ?|.
+ Ex-husband|NOUN ,|. and|CONJ God|NOUN knows|VERB .|.
+ Rex|NOUN ,|. how|ADV old|ADJ were|VERB you|PRON when|ADV your|PRON hat|NOUN was|VERB that|ADP small|ADJ ?|.
+ I|PRON already|ADV know|VERB the|DET answer|NOUN ,|. but|CONJ any|DET chance|NOUN in|ADP Hell|NOUN we|PRON get|VERB to|PRT go|VERB over|ADP there|ADV ,|. use|VERB our|PRON hands|NOUN ?|.
+ If|ADP you|PRON already|ADV know|VERB the|DET answer|NOUN Adam|NOUN ,|. why|ADV ask|VERB the|DET question|NOUN ?|.
+ (|. almost|ADV trance-studying|VERB the|DET images|NOUN )|. Yeah|X ,|. So|ADP ...|. did|VERB they|PRON all|DET happen|VERB during|ADP daylight|NOUN ?|.
+ immediate|ADJ right|NOUN ,|. an|DET egg-head|ADJ type|NOUN with|ADP a|DET big|ADJ binder|NOUN in|ADP front|NOUN of|ADP him|PRON .|.
+ Any|DET rumors|NOUN or|CONJ confirmations|NOUN of|ADP uniforms|NOUN being|VERB used|VERB in|ADP the|DET other|ADJ two|NUM attacks|NOUN ?|.
+ Anyone|NOUN take|VERB credit|NOUN ?|.
+ So|ADV none|NOUN could|VERB be|VERB questioned|VERB ?|.
+ (|. puzzled|VERB ,|. angry|ADJ )|. I|PRON do|VERB n't|ADV understand|VERB .|.
+ Do|VERB you|PRON know|VERB Abu|NOUN Hamza|NOUN ?|.
+ I|PRON do|VERB not|ADV .|.
+ Uniforms|NOUN ?|.
+ (|. re|NOUN :|. Janet|NOUN )|. What|QUESTIONTAG about|ADP Agent|NOUN Mayes|NOUN ?|.
+ Ask|NOUN her|PRON .|.
+ (|. to|PRT Janet|NOUN )|. What|QUESTIONTAG about|ADP you|PRON ?|.
+ I|PRON 'll|VERB be|VERB fine|ADJ .|.
+ You|PRON know|VERB Special|ADJ Agent|NOUN Fleury|NOUN ?|.
+ I|PRON do|VERB .|.
+ Sir|NOUN ,|. how|ADV would|VERB you|PRON imagine|VERB it|PRON looks|VERB viewed|VERB through|ADP an|DET FBI|NOUN agents|NOUN eyes|NOUN ?|.
+ Pardon|VERB me|PRON ?|.
+ What|QUESTIONTAG 's|VERB the|DET distinction|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ ``|. HIT|NOUN SOMETHING|NOUN .|. ''|.
+ How|QUESTIONTAG you|PRON gon|VERB na|PRT do|VERB it|PRON ?|.
+ The|DET Saudis|NOUN covet|NOUN good|ADJ PR|NOUN as|ADV much|ADV as|ADP their|PRON Oil|NOUN :|. 15|NUM of|ADP 19|NUM hijackers|NOUN on|ADP 9-|ADJ 11|NUM means|NOUN most|ADV Americans|NOUN will|VERB never|ADV stop|VERB asking|VERB if|ADP that|DET Saudi|NOUN Oil|NOUN is|VERB worth|ADP it|PRON .|.
+ What|QUESTIONTAG 's|VERB your|PRON take|NOUN ?|.
+ Looks|NOUN like|ADP every|DET overthrow|NOUN in|ADP history|NOUN :|. once|ADV the|DET guys|NOUN with|ADP the|DET guns|NOUN are|VERB no|ADV longer|ADV trustworthy|ADJ ,|. the|DET government|NOUN 's|PRT days|NOUN are|VERB numbered|VERB .|.
+ White|NOUN House|NOUN call|NOUN you|PRON with|ADP a|DET spin|NOUN ?|.
+ You|PRON kidding|VERB ?|.
+ How|QUESTIONTAG hard|ADJ you|PRON gon|VERB na|PRT hit|VERB the|DET Royal|NOUN Family|NOUN in|ADP your|PRON column|NOUN tomorrow|NOUN ?|.
+ With|ADP a|DET sledgehammer|NOUN .|.
+ What|QUESTIONTAG 's|VERB ``|. other|ADJ ''|. than|ADP the|DET bombings|NOUN ?|.
+ I|PRON know|VERB you|PRON 're|VERB tracking|VERB Al|NOUN Haramain|NOUN .|.
+ Are|NOUN you|PRON saying|VERB anything|NOUN ?|.
+ I|PRON need|VERB a|DET favor|NOUN .|.
+ Can|VERB I|PRON mention|VERB Houston|NOUN ?|.
+ It|PRON 's|VERB a|DET free|ADJ world|NOUN ,|. baby|NOUN .|.
+ What|QUESTIONTAG is|VERB your|PRON point|NOUN ?|.
+ Whose|VERB hands|NOUN ?|.
+ Mine|NOUN .|.
+ -seven-day|NOUN or|CONJ work-week|NOUN ?|.
+ Work|NOUN week|NOUN .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ arms|NOUN --|. pain|NOUN shoots|VERB up|PRT his|PRON arms|NOUN from|ADP his|PRON damaged|VERB wrists|NOUN .|.
+ You|PRON have|VERB n't|ADV heard|VERB about|ADP the|DET attack|NOUN ?|.
+ I|PRON choose|VERB not|ADV to|PRT listen|VERB anymore|ADV .|.
+ (|. beat|NOUN ,|. re|NOUN :|. Janet|NOUN )|. What|QUESTIONTAG was|VERB Fran|NOUN Manner|NOUN to|PRT her|PRON ?|.
+ He|PRON taught|VERB her|PRON how|ADV to|PRT shoot|VERB ,|. she|PRON taught|VERB him|PRON most|ADV everything|NOUN else|ADV .|.
+ Fran|NOUN did|VERB n't|ADV get|VERB bounced|VERB for|ADP that|DET ?|.
+ How|QUESTIONTAG ?|.
+ If|ADP I|PRON knew|VERB how|ADV I|PRON 'd|VERB be|VERB SAC|NOUN Sykes|NOUN .|.
+ (|. beat|NOUN )|. What|QUESTIONTAG did|VERB SAC|NOUN Fleury|NOUN whisper|ADP in|ADP your|PRON ear|NOUN this|DET morning|NOUN ?|.
+ (|. smart-ass|NOUN smile|NOUN )|. `Grant|NOUN 's|PRT age|NOUN is|VERB a|DET liability|NOUN .|. '|.
+ We|PRON 're|VERB going|VERB to|PRT Riyadh|VERB ?|.
+ Yup|NOUN .|.
+ State|NOUN department|NOUN said|VERB yes|X ?|.
+ Nope|NOUN .|.
+ White|NOUN House|NOUN said|VERB yes|X ?|.
+ Nope|NOUN .|.
+ Anybody|NOUN said|VERB yes|X ?|.
+ Not|ADV really|ADV .|.
+ Are|ADP we|PRON bringing|VERB security|NOUN ?|.
+ Nope|NOUN .|.
+ Are|VERB n't|ADV you|PRON the|DET one|NUM who|PRON demanded|VERB to|PRT go|VERB this|DET morning|NOUN ?|.
+ I|PRON meant|VERB the|DET FBI|NOUN .|.
+ (|. to|PRT Janet|NOUN )|. What|QUESTIONTAG 's|VERB it|PRON like|ADP on|ADP the|DET ground|NOUN ?|.
+ Mars|NOUN .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP in|ADP there|DET ?|.
+ (|. getting|VERB his|PRON bearings|NOUN )|. I|PRON 'm|VERB good|ADJ .|.
+ I|PRON 'm|VERB OK|ADJ ...|. You|PRON do|VERB n't|ADV think|VERB I|PRON 'm|VERB OK|ADJ ?|.
+ (|. small|ADJ smile|NOUN )|. I|PRON think|VERB you|PRON 're|VERB not|ADV entirely|ADV clear|ADJ right|ADV now|ADV .|.
+ How|QUESTIONTAG we|PRON doing|VERB ?|.
+ About|ADP a|DET half|ADJ hour|NOUN out|ADP .|.
+ They|PRON gon|VERB na|PRT let|VERB us|PRON land|VERB ?|.
+ We|PRON 've|VERB been|VERB talking|VERB to|PRT them|PRON about|ADP an|DET hour|NOUN or|CONJ so|ADV ...|. they|PRON know|VERB we|PRON 're|VERB coming|VERB .|.
+ You|PRON do|VERB n't|ADV mind|VERB my|PRON asking|VERB ,|. but|CONJ what|PRON the|DET hell|NOUN you|PRON all|DET gon|VERB na|PRT be|VERB doing|VERB down|ADP there|ADV ?|.
+ Hunting|VERB ...|.
+ Israeli|ADJ stamp|NOUN in|ADP my|PRON passport|NOUN ?|.
+ (|. in|ADP Arabic|NOUN to|PRT the|DET Officer|NOUN )|. That|DET is|VERB not|ADV our|PRON concern|NOUN .|.
+ Colonel|NOUN ,|. have|VERB you|PRON ever|ADV been|VERB to|PRT the|DET US|NOUN ?|.
+ I|PRON have|VERB been|VERB there|DET only|ADV once|ADV .|.
+ You|PRON have|VERB portable|ADJ lights|NOUN on-scene|NOUN ?|.
+ (|. loses|VERB his|PRON smile|NOUN )|. Yes|X .|.
+ We|PRON 're|VERB safe|ADJ during|ADP the|DET day|NOUN ?|.
+ Colonel|NOUN ,|. do|VERB you|PRON believe|VERB Abu|NOUN Hamza|NOUN was|VERB responsible|ADJ for|ADP this|DET attack|NOUN ?|.
+ We|PRON do|VERB n't|ADV know|VERB .|.
+ Were|NOUN Saudi|NOUN Police|NOUN involved|VERB in|ADP the|DET attack|NOUN ?|.
+ We|PRON do|VERB n't|ADV know|VERB that|ADP either|DET .|.
+ Any|DET word|NOUN on|ADP what|PRON that|ADP third|ADJ big|ADJ blast|NOUN was|VERB ?|.
+ You|PRON interviewed|VERB witnesses|NOUN ?|.
+ (|. short-fuse|NOUN burning|NOUN )|. We|PRON 're|VERB trying|VERB .|.
+ Were|NOUN any|DET of|ADP the|DET uniformed|ADJ bombers|NOUN brother-officers|NOUN ?|.
+ Do|VERB you|PRON know|VERB yet|ADV ?|.
+ takes|VERB charge|NOUN .|.
+ You|PRON do|VERB n't|ADV know|VERB the|DET source|NOUN of|ADP the|DET blast|NOUN ,|. do|VERB n't|ADV know|VERB if|ADP your|PRON own|ADJ Officers|NOUN were|VERB involved|VERB ,|. but|CONJ you|PRON wo|VERB n't|ADV let|VERB us|PRON work|VERB nights|NOUN ?|.
+ Colonel|NOUN :|. rarely|ADV ever|ADV seen|VERB him|PRON like|ADP this|DET .|.
+ -you|NOUN really|ADV want|VERB to|PRT bet|VERB ?|.
+ What|QUESTIONTAG time|NOUN tomorrow|NOUN morning|NOUN ?|.
+ Sunrise|NOUN .|.
+ What|QUESTIONTAG time|NOUN is|VERB sunrise|ADV ?|.
+ (|. beat|NOUN )|. When|QUESTIONTAG I|PRON knock|VERB .|.
+ (|. smiling|VERB )|. You|PRON alright|VERB ,|. girl|NOUN ?|.
+ Watch|VERB it|PRON ,|. boy|X .|.
+ (|. on|ADP phone|NOUN )|. Hello|NOUN ?|.
+ Hey|NOUN ...|. How|QUESTIONTAG are|VERB you|PRON ?|.
+ Daddy|NOUN ?|.
+ What|QUESTIONTAG you|PRON doing|VERB ?|.
+ Where|QUESTIONTAG are|VERB you|PRON ?|.
+ I|PRON 'm|VERB in|ADP Saudi|NOUN Arabia|NOUN .|.
+ Did|NOUN you|PRON see|VERB Big|ADJ Fran|NOUN ?|.
+ Is|VERB he|PRON still|ADV tall|VERB ?|.
+ Yeah|NOUN ...|. Yeah|NOUN ...|. he|PRON 's|VERB still|ADV tall|ADJ .|.
+ Is|VERB that|ADP right|NOUN ?|.
+ For|ADP sure|ADJ .|.
+ You|PRON 're|VERB willing|ADJ to|PRT die|VERB to|PRT protect|VERB your|PRON enemy|NOUN ?|.
+ SANG|NOUN twenty|NOUN feet|NOUN behind|ADP him|PRON ,|. eyeing|VERB Haytham|NOUN .|.
+ What|QUESTIONTAG did|VERB the|DET Prince|NOUN say|NOUN ?|.
+ (|. beat|NOUN )|. That|ADP there|DET are|VERB more|ADJ rules|NOUN than|ADP just|ADV not|ADV working|VERB at|ADP night|NOUN .|.
+ What|QUESTIONTAG rules|NOUN ?|.
+ You|PRON are|VERB here|ADV as|ADP observers|NOUN .|.
+ (|. to|PRT Fleury|NOUN )|. How|QUESTIONTAG could|VERB they|PRON get|VERB more|ADV secure|NOUN ?|.
+ their|PRON bags|NOUN in|ADP a|DET pile|NOUN ,|. already|ADV disgusted|VERB .|.
+ How|QUESTIONTAG do|VERB you|PRON do|VERB that|DET ?|.
+ So|ADV ,|. if|ADP you|PRON 're|VERB not|ADV running|VERB the|DET investigation|NOUN ...|. who|PRON is|VERB ?|.
+ SANG|NOUN troops|NOUN digging|VERB ,|. bagging|VERB evidence|NOUN ,|. marking|VERB the|DET scene|NOUN with|ADP red-flags|NOUN .|.
+ Who|QUESTIONTAG is|VERB in|ADP charge|NOUN of|ADP the|DET investigation|NOUN then|ADV ?|.
+ Malik|NOUN .|.
+ How|QUESTIONTAG have|VERB you|PRON guys|VERB been|VERB doing|VERB with|ADP the|DET witnesses|NOUN ?|.
+ What|QUESTIONTAG witnesses|VERB ?|.
+ Why|ADV Saudi|NOUN Arabia|NOUN ?|.
+ Which|QUESTIONTAG kids|NOUN were|VERB those|DET ?|.
+ The|DET Jackson|NOUN kids|NOUN .|.
+ She|PRON live|VERB with|ADP her|PRON husband|NOUN ?|.
+ Aaron|NOUN .|.
+ (|. beat|NOUN )|. If|ADP I|PRON 'm|VERB facing|VERB your|PRON house|NOUN ,|. is|VERB the|DET Jackson|NOUN home|NOUN to|PRT the|DET right|NOUN or|CONJ left|VERB ?|.
+ Left|NOUN .|.
+ Mr.|NOUN Aaron|NOUN Jackson|NOUN ?|.
+ (|. re|NOUN :|. Al-Ghazi|ADJ )|. Get|VERB him|PRON away|ADV from|ADP me-|ADJ
+ Can|VERB I|PRON come|VERB back|ADV ?|.
+ (|. too|ADV loud|ADV )|. WHY|ADV ?|.
+ Hit|VERB a|DET water|NOUN main|ADJ ?|.
+ No|DET --|. from|ADP the|DET tanks|NOUN of|ADP this|DET fire|NOUN engine|NOUN :|. that|DET 's|VERB the|DET water|NOUN that|DET did|VERB n't|ADV evaporate|VERB in|ADP the|DET blast|NOUN .|.
+ Watt-tee|ADJ fuck|NOUN (|. alt|NOUN :|. ``|. Watt-tee|NOUN hell|NOUN ...|. ''|. )|. is|VERB his|PRON gun|NOUN doing|VERB up|PRT so|ADV high|ADJ ?|.
+ (|. to|PRT Fleury|NOUN )|. This|DET vehicle|NOUN was|VERB stolen|VERB .|.
+ Were|NOUN any|DET of|ADP these|DET shooters|NOUN your|PRON men|NOUN ?|.
+ No|DET .|.
+ Where|QUESTIONTAG was|VERB this|DET car|NOUN when|ADV they|PRON hit|VERB it|PRON ?|.
+ The|DET car|NOUN was|VERB parked|VERB here|ADV ?|.
+ Yes|X .|.
+ Backed|VERB in|ADP ?|.
+ Yes|X .|.
+ The|DET same|ADJ Mosque|NOUN is|VERB enough|ADJ to|PRT identify|VERB them|PRON ,|. link|VERB them|PRON to|PRT a|DET cell|NOUN ?|.
+ Yes|X .|.
+ Suweidi|NOUN ?|.
+ Can|VERB we|PRON go|VERB to|PRT check|VERB out|PRT some|DET of|ADP these|DET surrounding|VERB buildings|NOUN ?|.
+ Why|ADV ?|.
+ We|PRON 're|VERB already|ADV seeing|VERB the|DET crime-|ADJ scenes|NOUN individually|ADV --|. why|ADV not|ADV all|DET at|ADP once|ADV ?|.
+ Any|DET answer|NOUN will|VERB take-|VERB
+ WHO|PRON FIRED|VERB ?|.
+ Humvee|NOUN 's|PRT backseat|NOUN break|NOUN him|PRON down|PRT ,|. face|NOUN first|ADV in|ADP the|DET dirt|NOUN :|. cuff|NOUN him|PRON ,|. lock|VERB him|PRON in|ADP the|DET vehicle|NOUN .|.
+ AND|CONJ WHY|NOUN ?|.
+ (|. standing|VERB ,|. doubled|VERB over|PRT )|. A|DET disagreement|NOUN .|.
+ You|PRON 've|VERB seen|VERB the|DET images|NOUN of|ADP the|DET attack|NOUN posted|VERB on|ADP the|DET internet|NOUN ?|.
+ Yes|X .|.
+ And|CONJ I|PRON imagine|VERB that|DET will|VERB run|VERB until|ADP sundown|VERB ?|.
+ (|. beat|NOUN )|. I|PRON had|VERB televisions|NOUN delivered|VERB to|PRT your|PRON quarters|NOUN to|PRT pass|VERB the|DET downtime|NOUN .|.
+ You|PRON want|VERB to|PRT tell|VERB her|PRON that|DET ?|.
+ How|QUESTIONTAG many|ADJ Princes|NOUN are|VERB there|ADV ?|.
+ Over|ADP 5000|NUM .|.
+ They|PRON all|DET get|VERB palaces|NOUN this|DET big|ADJ ?|.
+ Who|QUESTIONTAG pays|VERB for|ADP all|DET this|DET ?|.
+ General|NOUN Motors|NOUN ,|. Ford|NOUN ,|. Chevrolet|NOUN ...|.
+ (|. to|PRT Grant|VERB :|. genuine|NOUN worry|NOUN )|. What|QUESTIONTAG 's|VERB a|DET Raptor|NOUN ?|.
+ Think|VERB it|PRON will|VERB work|VERB ?|.
+ Yeah|X .|.
+ -you|NOUN see|VERB the|DET slums|NOUN on|ADP the|DET way|NOUN in|ADP ?|.
+ Yeah|X .|.
+ See|VERB that|ADP even|ADV though|ADP their|PRON homes|NOUN are|VERB falling|VERB down|PRT ,|. they|PRON had|VERB satellite|NOUN dishes|NOUN bolted|VERB on|ADP ?|.
+ Yeah|NOUN ...|.
+ Have|VERB you|PRON been|VERB to|PRT the|DET crime-scene|NOUN ?|.
+ No-|NOUN
+ You|PRON having|VERB fun|VERB ?|.
+ (|. genuine|ADJ smile|NOUN )|. Beats|NOUN hell|VERB outta|ADP visa-stamping|NOUN .|.
+ Would|VERB you|PRON mind|VERB doing|VERB one|NUM more|ADJ thing|NOUN for|ADP me|PRON ?|.
+ Could|NOUN you|PRON tell|VERB me|PRON if|ADP you|PRON recognize|VERB any|DET of|ADP these|DET men|NOUN ?|.
+ table|NOUN :|. not|ADV pretty|ADV pictures|NOUN .|.
+ Where|QUESTIONTAG is|VERB she|PRON ?|.
+ She|PRON 's|VERB sleeping|VERB .|.
+ Where|QUESTIONTAG ?|.
+ What|QUESTIONTAG about|ADP the|DET others|NOUN ?|.
+ (|. closer|ADJ examination|NOUN )|. No|X .|.
+ What|QUESTIONTAG ,|. the|DET Liza|NOUN Minelli|NOUN shirt|NOUN ?|.
+ No|DET .|.
+ What|QUESTIONTAG was|VERB odd|VERB ?|.
+ He|PRON was|VERB a|DET Saudi|NOUN .|.
+ Who|QUESTIONTAG is|VERB he|PRON ?|.
+ (|. beat|NOUN )|. How|QUESTIONTAG are|VERB your|PRON Sons|NOUN ?|.
+ with|ADP no|DET answer|NOUN ,|. Fleury|NOUN hands|VERB him|PRON a|DET sheet|NOUN of|ADP paper|NOUN :|.
+ We|PRON know|VERB where|ADV he|PRON lives|VERB ?|.
+ We|PRON will|VERB very|ADV soon|ADV .|.
+ Where|QUESTIONTAG ?|.
+ To|PRT someone|NOUN who|PRON may|VERB be|VERB able|ADJ to|PRT help|VERB us|PRON catch|VERB Hamza|NOUN .|.
+ Who|QUESTIONTAG 's|VERB missing|VERB an|DET ambulance|NOUN ?|.
+ Could|VERB somebody|VERB please|VERB go|VERB get|VERB Sergeant|NOUN Haytham|NOUN ?|.
+ Who|QUESTIONTAG has|VERB the|DET keys|NOUN ?|.
+ This|DET place|NOUN is|VERB community|NOUN service|NOUN ?|.
+ If|ADP America|NOUN figures|VERB out|PRT a|DET way|NOUN of|ADP keeping|VERB their|PRON kids|NOUN off|ADP the|DET computers|NOUN please|VERB let|VERB us|PRON know|VERB .|.
+ Why|ADV did|VERB he|PRON turn|VERB himself|PRON in|ADP ?|.
+ Arabic|NOUN .|.
+ (|. through|ADP Al-Ghazi|NOUN )|. How|QUESTIONTAG does|VERB he|PRON know|VERB he|PRON slept|VERB soundly|ADV ?|.
+ Talal|ADJ stares|NOUN :|. eyes|NOUN touched|VERB by|ADP war-blood-atrocities|NOUN committed|VERB .|.
+ (|. through|ADP Al-Ghazi|NOUN )|. Is|VERB that|ADP why|ADV you|PRON quit|VERB ?|.
+ (|. translating|VERB )|. 17|NUM days|NOUN without|ADP sleep|NOUN will|VERB make|VERB you|PRON quit|VERB anything|NOUN .|.
+ How|QUESTIONTAG do|VERB they|PRON get|VERB them|PRON ?|.
+ Usually|ADV smuggled|VERB from|ADP Iraq|NOUN by|ADP corrupt|ADJ soldiers|NOUN working|VERB with|ADP the|DET Americans|NOUN .|.
+ Could|NOUN Hamza|NOUN get|VERB this|DET equipment|NOUN ?|.
+ (|. through|ADP Al-Ghazi|NOUN )|. How|QUESTIONTAG do|VERB we|PRON find|VERB him|PRON ?|.
+ Ghazi|NOUN continues|VERB translating|NOUN :|.
+ Do|VERB you|PRON know|VERB this|DET hospital|NOUN ?|.
+ Yes|X .|.
+ (|. focused|VERB ;|. to|PRT Al-Ghazi|NOUN )|. What|QUESTIONTAG you|PRON got|VERB ?|.
+ The|DET stolen|VERB ambulance|NOUN had|VERB a|DET twenty|ADJ man|NOUN crew|VERB that|ADP rotated|ADJ shifts|NOUN on|ADP it|PRON .|.
+ Why|ADV ?|.
+ Where|QUESTIONTAG 's|VERB Muaath|NOUN ?|.
+ I|PRON 'm|VERB going|VERB to|PRT show|VERB you|PRON .|.
+ Neighbors|NOUN clear|ADJ ?|.
+ Yes|X .|.
+ Activity|NOUN or|CONJ communication|NOUN ?|.
+ Snipers|NOUN have|VERB seen|VERB nothing|NOUN .|.
+ Bolts|NOUN ?|.
+ Yes|X .|.
+ Wing|VERB nuts|NOUN ?|.
+ Yeah|X .|.
+ Razor|NOUN blades|NOUN ?|.
+ Sure|ADV .|.
+ These|DET are|VERB all|DET countries|NOUN with|ADP Troops|NOUN in|ADP Iraq|NOUN --|. Japanese|ADJ and|CONJ Italian|ADJ embassies|NOUN are|VERB under|ADP construction|NOUN ?|.
+ The|DET entire|ADJ Diplomatic|ADJ Quarter|NOUN is|VERB being|VERB retro-fitted|ADJ to|PRT sustain|VERB bigger|ADJ bomb|NOUN blasts|NOUN .|.
+ You|PRON need|VERB water|NOUN ?|.
+ What|QUESTIONTAG Men|NOUN ?|.
+ Ask|NOUN him|PRON .|.
+ -Ellis|NOUN Leach|NOUN ?|.
+ You|PRON know|VERB him|PRON ?|.
+ (|. to|PRT Al-Gahzi|NOUN )|. What|QUESTIONTAG do|VERB you|PRON think|VERB ?|.
+ -Pabst|NOUN ?|.
+ Keep|VERB it|PRON real|ADJ .|.
+ Any|DET beer|NOUN ?|.
+ (|. to|PRT Al-Ghazi|NOUN )|. Remember|NOUN how|ADV we|PRON caught|VERB that|ADP cell|NOUN ?|.
+ Yes|X .|.
+ (|. turning|VERB )|. What|QUESTIONTAG ?|.
+ Suburban|ADV now|ADV .|.
+ You|PRON whole|VERB ?|.
+ Think|VERB so-|NOUN
+ the|DET ceiling|NOUN --|. running|VERB FOOTFALLS|NOUN approach|NOUN ,|. quick|ADJ yell-yips|NOUN in|ADP Arabic|NOUN :|. commands|NOUN ?|.
+ Suburban|NOUN .|.
+ READY|NOUN ?|.
+ last|ADJ bit|NOUN of|ADP effort|NOUN :|. kicks|NOUN just|ADV enough|ADV to|PRT nudge|VERB the|DET Camera|NOUN ,|. trying|VERB to|PRT knock|VERB it|PRON over|PRT .|.
+ (|. beat|NOUN ,|. to|PRT Al-Ghazi|NOUN )|. Is|VERB Allah|NOUN on|ADP the|DET other|ADJ side|NOUN of|ADP that|DET door|NOUN ?|.
+ ADAM|NOUN ?|.
+ Everybody|NOUN OK|NOUN ?|.
+ Is|VERB everyone|NOUN alright|NOUN ?|.
+ earlier|ADV ,|. eyes|NOUN still|ADV on|ADP Janet|NOUN ,|. moves|VERB to|PRT her|PRON brother|NOUN -|. he|PRON holds|VERB her|PRON tight|ADJ ,|. his|PRON eyes|NOUN down|PRT .|.
+ Ronnie|NOUN ,|. you|PRON ready|VERB ?|.
+ Yeah|X .|.
+ Janet|NOUN ...|. my|PRON dreams|NOUN are|VERB ...|. (|. beat|NOUN ,|. intent|NOUN )|. What|QUESTIONTAG did|VERB he|PRON whisper|VERB to|PRT you|PRON ?|.
+ Will|VERB you|PRON tell|VERB me|PRON what|PRON Grandfather|NOUN whispered|VERB to|PRT you|PRON before|ADP they|PRON took|VERB him|PRON ?|.
+ Do|VERB you|PRON remember|VERB ?|.
+ You|PRON stop|VERB the|DET people|NOUN that|DET hurt|VERB Uncle|NOUN Fran|NOUN ?|.
+ ball|NOUN .|.
+ Did|NOUN you|PRON get|VERB the|DET bad|ADJ guys|NOUN ,|. Daddy|NOUN ?|.
+ There|DET 's|VERB a|DET lot|NOUN of|ADP bad|ADJ people|NOUN out|ADP there|ADV ...|. are|VERB n't|ADV there|ADV ,|. Daddy|NOUN ?|.
+ Yeah|X ,|. there|DET are|VERB ...|. (|. a|DET beat|NOUN )|. But|CONJ you|PRON want|VERB to|PRT know|VERB something|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ You|PRON 're|VERB not|ADV one|NUM of|ADP them|PRON .|.

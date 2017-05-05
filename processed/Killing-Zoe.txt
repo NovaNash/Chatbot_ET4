@@ -1,0 +1,132 @@
+ What|QUESTIONTAG time|NOUN is|VERB it|PRON ?|.
+ Time|NOUN ,|. time|NOUN ,|. time|NOUN .|.
+ Are|NOUN you|PRON in|ADP town|NOUN for|ADP business|NOUN ?|.
+ Yes|X .|.
+ Do|VERB you|PRON know|VERB Paris|NOUN ?|.
+ I|PRON 've|VERB been|VERB here|ADV once|ADV before|ADV .|.
+ Married|VERB ?|.
+ I|PRON beg|VERB your|PRON pardon|NOUN ?|.
+ Do|VERB you|PRON have|VERB a|DET wife|NOUN ?|.
+ No|DET .|.
+ Know|NOUN what|PRON I|PRON mean|VERB ?|.
+ What|QUESTIONTAG time|NOUN is|VERB it|PRON ?|.
+ (|. confused|VERB )|. What|QUESTIONTAG time|NOUN is|VERB it|PRON ?|.
+ (|. from|ADP the|DET bathroom|NOUN )|. What|QUESTIONTAG 's|VERB your|PRON name|NOUN ?|.
+ Zoe|NOUN or|CONJ Zoey|NOUN .|.
+ What|QUESTIONTAG was|VERB that|DET ?|.
+ Slow|NOUN enough|ADV for|ADP you|PRON ?|.
+ bed|NOUN to|PRT him|PRON and|CONJ begins|VERB to|PRT unbuckle|VERB his|PRON pants|NOUN .|.
+ Zed|NOUN ?|.
+ Yes|X ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP business|NOUN ?|.
+ Why|ADV ?|.
+ Do|VERB you|PRON ask|VERB all|DET your|PRON clients|NOUN questions|NOUN ?|.
+ No|DET .|.
+ So|ADV you|PRON like|ADP me|PRON ?|.
+ Yes|X .|.
+ Why|ADV ?|.
+ Because|ADP you|PRON 're|VERB ...|. a|DET good|ADJ person|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB I|PRON 'm|VERB a|DET good|ADJ person|NOUN ?|.
+ Body|NOUN language|NOUN .|.
+ Honest|NOUN ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP things|NOUN do|VERB you|PRON paint|VERB ?|.
+ I|PRON do|VERB n't|ADV paint|VERB .|.
+ (|. groggily|ADV )|. What|QUESTIONTAG time|NOUN is|VERB it|PRON ?|.
+ I|PRON have|VERB no|DET idea|NOUN .|.
+ What|QUESTIONTAG about|ADP the|DET girl|NOUN ?|.
+ Is|VERB she|PRON your|PRON girlfriend|NOUN ?|.
+ So|ADV tell|VERB me|PRON ,|. what|PRON have|VERB you|PRON been|VERB up|ADV to|PRT ?|.
+ How|QUESTIONTAG could|VERB I|PRON resist|VERB your|PRON invitation|NOUN ?|.
+ You|PRON would|VERB have|VERB been|VERB stupid|ADJ to|PRT .|.
+ So|ADV what|PRON have|VERB you|PRON been|VERB doing|VERB here|ADV ?|.
+ After|ADP school|NOUN I|PRON spent|VERB some|DET time|NOUN in|ADP Algeria|NOUN studying|VERB African|ADJ philosophy|NOUN .|.
+ Really|ADV ?|.
+ Yes|X .|.
+ Is|VERB that|ADP cat|NOUN dead|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ (|. with|ADP an|DET English|ADJ accent|NOUN )|. Zed|NOUN ,|. would|VERB you|PRON like|ADP a|DET beer|NOUN ?|.
+ Thanks|NOUN .|.
+ He|PRON likes|VERB to|PRT be|VERB called|VERB Chim|NOUN Chim|NOUN ,|. but|CONJ we|PRON do|VERB n't|ADV always|ADV get|VERB what|PRON we|PRON like|VERB ...|. do|VERB we|PRON ?|.
+ (|. turning|VERB the|DET schematic|ADJ around|ADP )|. Are|VERB you|PRON sure|ADJ he|PRON wo|VERB n't|ADV push|VERB the|DET alarm|NOUN ?|.
+ Ahhh|NOUN !|.
+ What|QUESTIONTAG kind|NOUN of|ADP vault|NOUN is|VERB that|ADP ?|.
+ Well|ADV ,|. what|PRON kind|NOUN of|ADP vault|NOUN is|VERB this|DET other|ADJ one|NUM ?|.
+ (|. reading|VERB the|DET blueprint|NOUN )|. Also|ADV Swiss|ADJ ,|. but|CONJ this|DET one|NUM is|VERB a|DET Poseidon|NOUN .|.
+ Why|ADV would|VERB those|DET two|NUM vaults|NOUN be|VERB connected|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ You|PRON could|VERB open|VERB it|PRON in|ADP five|NUM minutes|NOUN ?|.
+ From|ADP the|DET inside|NOUN it|PRON 's|VERB easy|ADJ .|.
+ Do|VERB you|PRON want|VERB heroin|NOUN ?|.
+ No|DET ,|. I|PRON want|VERB to|PRT be|VERB sharp|ADJ for|ADP tomorrow|NOUN .|.
+ Do|VERB you|PRON like|ADP French|ADJ cars|NOUN ?|.
+ kilometers|NOUN per|ADP hour|NOUN .|.
+ Is|VERB tomorrow|NOUN really|ADV Bastille|NOUN day|NOUN ?|.
+ Yes|X ,|. tomorrow|NOUN we|PRON pull|VERB the|DET biggest|ADJ job|NOUN in|ADP French|ADJ history|NOUN .|.
+ (|. also|ADV out|PRT the|DET window|NOUN )|. Suce|NOUN ma|X bite|NOUN ?|.
+ Perverts|NOUN d'homosexuels|NOUN !|.
+ Really|ADV ?|.
+ So|ADV ,|. how|ADV long|ADV have|VERB you|PRON known|VERB Eric|NOUN ?|.
+ Well|ADV ,|. Eric|NOUN 's|PRT mother|NOUN is|VERB American|ADJ .|.
+ How|QUESTIONTAG could|VERB I|PRON resist|VERB your|PRON invitation|NOUN ?|.
+ You|PRON would|VERB have|VERB been|VERB stupid|ADJ to|PRT .|.
+ So|ADV what|PRON have|VERB you|PRON been|VERB doing|VERB here|ADV ?|.
+ After|ADP school|NOUN I|PRON spent|VERB some|DET time|NOUN in|ADP Algeria|NOUN studying|VERB African|ADJ philosophy|NOUN .|.
+ Really|ADV ?|.
+ Yes|X .|.
+ Is|VERB that|ADP cat|NOUN dead|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ (|. with|ADP an|DET English|ADJ accent|NOUN )|. Zed|NOUN ,|. would|VERB you|PRON like|ADP a|DET beer|NOUN ?|.
+ Thanks|NOUN .|.
+ He|PRON likes|VERB to|PRT be|VERB called|VERB Chim|NOUN Chim|NOUN ,|. but|CONJ we|PRON do|VERB n't|ADV always|ADV get|VERB what|PRON we|PRON like|VERB ...|. do|VERB we|PRON ?|.
+ (|. turning|VERB the|DET schematic|ADJ around|ADP )|. Are|VERB you|PRON sure|ADJ he|PRON wo|VERB n't|ADV push|VERB the|DET alarm|NOUN ?|.
+ Ahhh|NOUN !|.
+ What|QUESTIONTAG kind|NOUN of|ADP vault|NOUN is|VERB that|ADP ?|.
+ Well|ADV ,|. what|PRON kind|NOUN of|ADP vault|NOUN is|VERB this|DET other|ADJ one|NUM ?|.
+ (|. reading|VERB the|DET blueprint|NOUN )|. Also|ADV Swiss|ADJ ,|. but|CONJ this|DET one|NUM is|VERB a|DET Poseidon|NOUN .|.
+ Why|ADV would|VERB those|DET two|NUM vaults|NOUN be|VERB connected|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ You|PRON could|VERB open|VERB it|PRON in|ADP five|NUM minutes|NOUN ?|.
+ From|ADP the|DET inside|NOUN it|PRON 's|VERB easy|ADJ .|.
+ Do|VERB you|PRON want|VERB heroin|NOUN ?|.
+ No|DET ,|. I|PRON want|VERB to|PRT be|VERB sharp|ADJ for|ADP tomorrow|NOUN .|.
+ Do|VERB you|PRON like|ADP French|ADJ cars|NOUN ?|.
+ kilometers|NOUN per|ADP hour|NOUN .|.
+ Is|VERB tomorrow|NOUN really|ADV Bastille|NOUN day|NOUN ?|.
+ Yes|X ,|. tomorrow|NOUN we|PRON pull|VERB the|DET biggest|ADJ job|NOUN in|ADP French|ADJ history|NOUN .|.
+ (|. also|ADV out|PRT the|DET window|NOUN )|. Suce|NOUN ma|X bite|NOUN ?|.
+ Perverts|NOUN d'homosexuels|NOUN !|.
+ Really|ADV ?|.
+ So|ADV ,|. how|ADV long|ADV have|VERB you|PRON known|VERB Eric|NOUN ?|.
+ Well|ADV ,|. Eric|NOUN 's|PRT mother|NOUN is|VERB American|ADJ .|.
+ I|PRON thought|VERB the|DET death|NOUN penalty|NOUN was|VERB abolished|VERB in|ADP 1980|NUM ?|.
+ Ohhhh|NOUN !|.
+ (|. on|ADP his|PRON way|NOUN into|ADP the|DET bathroom|NOUN )|. Why|ADV do|VERB n't|ADV you|PRON open|VERB the|DET vault|NOUN ?|.
+ he|PRON turns|VERB and|CONJ walks|NOUN back|ADV toward|ADP the|DET Poseidon|NOUN vault|NOUN door|NOUN .|.
+ (|. turning|VERB to|PRT Eric|NOUN )|. What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ Nothing|NOUN .|.
+ Well|ADV ,|. did|VERB you|PRON tell|VERB them|PRON to|PRT stay|VERB quiet|ADJ ?|.
+ Yes|X .|.
+ (|. serious|ADJ )|. Got|VERB it|PRON ?|.
+ (|. nodding|VERB )|. Got|VERB it|PRON .|.
+ (|. calling|VERB to|PRT Eric|NOUN )|. Ready|NOUN ?|.
+ (|. calling|VERB back|ADV )|. Ready|NOUN !|.
+ Another|DET security|NOUN guard|NOUN ?|.
+ Must|ADV be|VERB .|.
+ Are|NOUN you|PRON still|ADV there|DET ?|.
+ Do|VERB you|PRON want|VERB to|PRT give|VERB me|PRON a|DET hand|NOUN ?|.
+ Sure|ADV .|.
+ Do|VERB you|PRON think|VERB we|PRON should|VERB get|VERB some|DET cash|NOUN also|ADV ?|.
+ What|QUESTIONTAG for|ADP ?|.
+ Do|VERB we|PRON have|VERB a|DET covering|NOUN of|ADP some|DET kind|NOUN ?|.
+ A|DET what|PRON ?|.
+ Eric|NOUN ...|. what|PRON are|VERB you|PRON talking|VERB about|ADP ?|.
+ knife|NOUN .|.
+ (|. thinking|VERB Eric|NOUN is|VERB a|DET madman|NOUN )|. What|QUESTIONTAG kind|NOUN of|ADP men|NOUN are|VERB we|PRON ?|.
+ What|QUESTIONTAG about|ADP our|PRON friendship|NOUN ?|.
+ Shit|NOUN Zed|NOUN .|.
+ What|QUESTIONTAG about|ADP the|DET others|NOUN ?|.
+ unintelligible|ADJ POLICE|NOUN VOICES|NOUN .|.
+ (|. matter-of-factly|ADV )|. What|QUESTIONTAG 's|VERB your|PRON girlfriends|NOUN name|NOUN ?|.
+ Zoe|NOUN .|.
+ The|DET hospital|NOUN ?|.
+ No|DET .|.

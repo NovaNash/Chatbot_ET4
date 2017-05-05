@@ -1,0 +1,464 @@
+ Is|VERB it|PRON Marsh|NOUN ?|.
+ Yeah|X .|.
+ Sir|NOUN ,|. do|VERB you|PRON mind|VERB if|ADP we|PRON get|VERB out|ADP of|ADP the|DET rain|NOUN ?|.
+ Who|QUESTIONTAG found|VERB him|PRON ?|.
+ His|PRON Secretary|NOUN .|.
+ She|PRON was|VERB here|ADV ?|.
+ No|DET .|.
+ Cause|NOUN ?|.
+ Not|ADV sure|ADJ .|.
+ Why|ADV did|VERB you|PRON come|VERB by|ADP ?|.
+ I|PRON had|VERB some|DET papers|NOUN to|PRT pick|VERB up|PRT .|.
+ Do|VERB you|PRON know|VERB who|PRON Mr.|NOUN Marsh|NOUN was|VERB with|ADP ?|.
+ I|PRON assume|VERB his|PRON girlfriend|NOUN .|.
+ Her|PRON name|NOUN ?|.
+ Rebecca|NOUN Lawson|NOUN .|.
+ You|PRON would|VERB n't|ADV know|VERB her|PRON address|NOUN ,|. would|VERB you|PRON ?|.
+ No|DET --|. but|CONJ I|PRON can|VERB get|VERB it|PRON for|ADP you|PRON .|.
+ What|QUESTIONTAG 'd|VERB he|PRON die|VERB of|ADP ?|.
+ The|DET official|ADJ cause|NOUN of|ADP death|NOUN was|VERB a|DET cardiac|ADJ arrest|NOUN .|.
+ The|DET official|NOUN cause|NOUN ?|.
+ That|DET 's|VERB what|PRON my|PRON report|NOUN will|VERB read|VERB .|.
+ But|CONJ there|DET 's|VERB more|ADJ ?|.
+ What|QUESTIONTAG can|VERB we|PRON prove|VERB ?|.
+ We|PRON know|VERB Marsh|NOUN had|VERB a|DET head|NOUN cold|NOUN .|.
+ Any|DET prints|NOUN on|ADP the|DET nasal|NOUN spray|NOUN ?|.
+ Marsh|NOUN 's|PRT and|CONJ Rebecca|NOUN Lawson|NOUN 's|PRT .|.
+ Can|VERB we|PRON put|VERB Rebecca|NOUN Lawson|NOUN at|ADP the|DET scene|NOUN ?|.
+ What|QUESTIONTAG did|VERB he|PRON say|VERB about|ADP Miss|NOUN Lawson|NOUN ?|.
+ He|PRON can|VERB remember|VERB at|ADP least|ADJ one|NUM occasion|NOUN --|. and|CONJ the|DET receptionist|NOUN can|VERB recall|VERB two|NUM times|NOUN when|ADV she|PRON accompanied|VERB Marsh|NOUN to|PRT the|DET office|NOUN .|.
+ So|ADP she|PRON knew|VERB about|ADP his|PRON heart|NOUN ?|.
+ Had|NOUN to|PRT .|.
+ What|QUESTIONTAG about|ADP the|DET will|VERB ?|.
+ That|DET 's|VERB the|DET best|ADJ part|NOUN .|.
+ Miss|NOUN Lawson|NOUN ?|.
+ An|DET inquiry|NOUN into|ADP what|PRON ?|.
+ For|ADP starters|NOUN I|PRON 'd|VERB like|VERB to|PRT know|VERB why|ADV she|PRON left|VERB the|DET house|NOUN and|CONJ did|VERB n't|ADV report|VERB the|DET death|NOUN ?|.
+ Did|NOUN I|PRON say|VERB it|PRON was|VERB a|DET natural|ADJ death|NOUN ?|.
+ (|. playfully|ADV )|. Really|ADV ?|.
+ Really|ADV .|.
+ (|. playing|VERB along|ADV )|. And|CONJ I|PRON suppose|VERB you|PRON 're|VERB going|VERB to|PRT show|VERB me|PRON how|ADV to|PRT relax|VERB ?|.
+ If|ADP you|PRON want|VERB me|PRON to|PRT .|.
+ Ca|VERB n't|ADV it|PRON wait|VERB ?|.
+ No|DET --|. it|PRON has|VERB to|PRT be|VERB done|VERB by|ADP tomorrow|NOUN .|.
+ Dad|NOUN --|. is|VERB it|PRON true|ADJ what|PRON they|PRON 're|VERB saying|VERB about|ADP that|DET Miss|NOUN Lawson|NOUN Lady|NOUN ?|.
+ What|QUESTIONTAG are|VERB they|PRON saying|VERB ?|.
+ The|DET kids|NOUN at|ADP school|NOUN say|VERB she|PRON humped|VERB Mr.|NOUN Marsh|NOUN to|PRT death|NOUN .|.
+ She|PRON allegedly|ADV humped|VERB him|PRON to|PRT death|NOUN ?|.
+ Why|ADV ?|.
+ Because|ADP I|PRON told|VERB her|PRON you|PRON were|VERB the|DET best|ADJ criminal|ADJ attorney|NOUN we|PRON have|VERB .|.
+ I|PRON think|VERB the|DET question|NOUN is|VERB :|. What|QUESTIONTAG is|VERB it|PRON about|ADP her|PRON that|DET made|VERB him|PRON want|VERB to|PRT do|VERB it|PRON ?|.
+ (|. nervously|ADV )|. Are|VERB you|PRON going|VERB to|PRT represent|VERB me|PRON ?|.
+ There|DET are|VERB no|DET charges|NOUN against|ADP you|PRON .|.
+ You|PRON do|VERB n't|ADV waste|VERB any|DET time|NOUN ,|. do|VERB you|PRON ?|.
+ hers|NOUN .|.
+ (|. continuing|VERB )|. Do|VERB you|PRON think|VERB I|PRON did|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ How|QUESTIONTAG ?|.
+ How|QUESTIONTAG can|VERB Cardenas|VERB possibly|ADV think|VERB he|PRON can|VERB build|VERB a|DET case|NOUN against|ADP two|NUM consenting|VERB adults|NOUN ?|.
+ He|PRON must|VERB have|VERB something|NOUN or|CONJ he|PRON would|VERB n't|ADV be|VERB pressing|VERB so|ADV hard|ADV .|.
+ If|ADP he|PRON files|VERB are|VERB you|PRON going|VERB to|PRT take|VERB the|DET case|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB yet|ADV .|.
+ What|QUESTIONTAG 's|VERB she|PRON like|ADP ?|.
+ Attractive|ADJ .|.
+ (|. joking|VERB )|. Yeah|NOUN --|. but|CONJ can|VERB she|PRON cook|VERB ?|.
+ Did|NOUN you|PRON have|VERB sex|VERB ?|.
+ What|QUESTIONTAG time|NOUN did|VERB you|PRON leave|VERB ?|.
+ Six|NOUN thirty|NOUN --|. and|CONJ he|PRON was|VERB very|ADV much|ADJ alive|NOUN .|.
+ Miss|NOUN Lawson|NOUN ,|. do|VERB you|PRON use|VERB cocaine|NOUN ?|.
+ I|PRON have|VERB .|.
+ Did|NOUN you|PRON use|VERB it|PRON the|DET night|NOUN Marsh|NOUN died|VERB ?|.
+ No|DET .|.
+ Did|NOUN Marsh|NOUN use|VERB it|PRON ?|.
+ No|DET --|. never|ADV .|.
+ Were|NOUN you|PRON aware|VERB of|ADP Mr.|NOUN Marsh|NOUN 's|PRT heart|NOUN condition|NOUN ?|.
+ No|DET .|.
+ He|PRON never|ADV mentioned|VERB his|PRON heart|NOUN disease|NOUN ?|.
+ Why|ADV do|VERB you|PRON think|VERB he|PRON lied|VERB to|PRT you|PRON ?|.
+ That|DET 's|VERB something|NOUN only|ADV Marsh|NOUN would|VERB know|VERB .|.
+ Lookin|NOUN '|. to|PRT make|VERB the|DET papers|NOUN ,|. John|NOUN ?|.
+ Marsh|NOUN left|VERB her|PRON close|NOUN to|PRT three|NUM million|NUM dollars|NOUN in|ADP his|PRON will|VERB .|.
+ (|. continuing|VERB )|. Can|VERB you|PRON ?|.
+ Take|VERB your|PRON pole|NOUN out|ADP of|ADP the|DET water|NOUN ,|. Frank|NOUN .|.
+ Why|ADV would|VERB she|PRON want|VERB that|ADP ?|.
+ Because|ADP she|PRON 's|VERB clever|NOUN .|.
+ Are|VERB n't|ADV they|PRON all|DET ?|.
+ Yeah|X .|.
+ No|DET pain|NOUN ,|. no|DET gain|NOUN ?|.
+ Something|VERB like|ADP that|DET .|.
+ I|PRON thought|VERB the|DET subject|NOUN was|VERB sex|NOUN ?|.
+ As|ADP it|PRON pertains|VERB to|PRT you|PRON --|. not|ADV me|PRON .|.
+ How|QUESTIONTAG ?|.
+ I|PRON do|VERB n't|ADV know|VERB if|ADP it|PRON 's|VERB something|NOUN I|PRON can|VERB explain|VERB to|PRT you|PRON .|.
+ Why|ADV not|ADV ?|.
+ Because|ADP --|. it|PRON 's|VERB beyond|ADP intellect|NOUN .|.
+ If|ADP you|PRON had|VERB what|PRON you|PRON wanted|VERB at|ADP home|NOUN why|ADV did|VERB you|PRON sneak|VERB into|ADP their|PRON yard|NOUN ?|.
+ Because|ADP --|. somehow|VERB the|DET fruit|NOUN always|ADV tasted|VERB that|ADP much|ADJ sweeter|NOUN because|ADP of|ADP the|DET pain|NOUN it|PRON took|VERB to|PRT get|VERB to|PRT it|PRON .|.
+ Not|ADV even|ADV if|ADP they|PRON 're|VERB a|DET dork|NOUN ?|.
+ Not|ADV even|ADV if|ADP they|PRON 're|VERB a|DET dork|NOUN .|.
+ Why|ADV do|VERB n't|ADV you|PRON talk|VERB to|PRT him|PRON now|ADV ?|.
+ Because|ADP I|PRON go|VERB to|PRT trial|NOUN in|ADP seven|NUM weeks|NOUN .|.
+ Is|VERB Mom|NOUN yelling|VERB at|ADP you|PRON too|ADV ?|.
+ How|QUESTIONTAG you|PRON doin|VERB '|. Mister|NOUN D|NOUN ?|.
+ Fine|NOUN ,|. Charlie|NOUN .|.
+ So|ADV --|. where|ADV do|VERB we|PRON start|VERB ?|.
+ I|PRON want|VERB you|PRON to|PRT hit|VERB all|DET the|DET dealers|NOUN in|ADP town|NOUN .|.
+ La|NOUN Brasa|NOUN ?|.
+ How|QUESTIONTAG 'd|VERB you|PRON meet|VERB Marsh|NOUN ?|.
+ I|PRON was|VERB at|ADP a|DET cocktail|NOUN party|NOUN .|.
+ --|. And|CONJ then|ADV ?|.
+ We|PRON started|VERB talking|VERB .|.
+ Why|ADV did|VERB n't|ADV you|PRON live|VERB together|ADV ?|.
+ Can|VERB we|PRON get|VERB out|ADP of|ADP here|ADV ?|.
+ Sure|ADV .|.
+ Why|ADV not|ADV ?|.
+ Because|ADP ,|. I|PRON 'm|VERB your|PRON attorney|NOUN .|.
+ Is|VERB it|PRON against|ADP the|DET law|NOUN ?|.
+ No|DET --|. it|PRON just|ADV does|VERB n't|ADV look|VERB right|ADJ .|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB ?|.
+ I|PRON think|VERB the|DET photographer|NOUN 's|PRT probably|ADV a|DET voyeur|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON thinking|VERB ?|.
+ Is|VERB that|DET alright|NOUN ,|. Frank|NOUN ?|.
+ Yeah|X --|. fine|ADJ .|.
+ Hello|NOUN ?|.
+ Hi|NOUN .|.
+ Is|VERB n't|ADV it|PRON beautiful|VERB ?|.
+ Yeah|X .|.
+ Tell|VERB me|PRON about|ADP Doctor|NOUN Paley|NOUN ?|.
+ I|PRON hardly|ADV know|VERB him|PRON .|.
+ Did|NOUN you|PRON always|ADV want|VERB to|PRT be|VERB a|DET lawyer|NOUN ?|.
+ No|DET --|. I|PRON wanted|VERB to|PRT be|VERB a|DET professional|ADJ hockey|NOUN player|NOUN .|.
+ Really|ADV ?|.
+ Yeah|X .|.
+ What|QUESTIONTAG would|VERB ?|.
+ You|PRON and|CONJ me|PRON --|. making|VERB love|NOUN .|.
+ Is|VERB that|ADP what|PRON you|PRON think|VERB I|PRON was|VERB thinking|VERB ?|.
+ No|DET --|. that|DET 's|VERB what|PRON I|PRON know|VERB you|PRON were|VERB thinking|VERB .|.
+ (|. confused|VERB )|. What|QUESTIONTAG 's|VERB the|DET state|NOUN nickname|NOUN ?|.
+ (|. dryly|NOUN )|. The|DET Beaver|NOUN State|NOUN .|.
+ What|QUESTIONTAG changed|VERB ?|.
+ He|PRON did|VERB .|.
+ You|PRON do|VERB n't|ADV really|ADV believe|VERB what|PRON the|DET district|NOUN attorney|NOUN is|VERB saying|VERB about|ADP Miss|NOUN Lawson|NOUN ,|. do|VERB you|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ I|PRON take|VERB it|PRON you|PRON do|VERB n't|ADV like|VERB Miss|NOUN Lawson|NOUN very|ADV much|ADV ?|.
+ I|PRON really|ADV do|VERB n't|ADV know|VERB her|PRON that|DET well|NOUN .|.
+ If|ADP you|PRON do|VERB n't|ADV know|VERB her|PRON that|DET well|VERB what|PRON makes|VERB you|PRON think|VERB she|PRON 's|VERB capable|ADJ of|ADP murder|NOUN ?|.
+ Andrew|NOUN was|VERB a|DET kind|NOUN and|CONJ gentle|ADJ man|NOUN ,|. but|CONJ he|PRON was|VERB thirty|ADJ years|NOUN older|ADJ than|ADP her|PRON .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB what|PRON kind|NOUN of|ADP sex|NOUN they|PRON had|VERB ?|.
+ I|PRON was|VERB n't|ADV lookin|ADJ '|. through|ADP the|DET keyhole|NOUN if|ADP that|DET 's|VERB what|PRON you|PRON 're|VERB thinking|VERB .|.
+ Did|NOUN Mr.|NOUN Marsh|NOUN use|VERB drugs|NOUN ?|.
+ No|DET .|.
+ What|QUESTIONTAG about|ADP Miss|NOUN Lawson|NOUN ?|.
+ Yes|X --|. cocaine|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB that|DET ?|.
+ I|PRON was|VERB at|ADP the|DET house|NOUN one|NUM morning|NOUN --|. I|PRON thought|VERB Miss|NOUN Lawson|NOUN was|VERB upstairs|ADJ with|ADP Mr.|NOUN Marsh|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON just|ADV left|VERB Joanne|NOUN Braslow|NOUN .|.
+ Why|ADV would|VERB she|PRON lie|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. Frank|NOUN --|. but|CONJ do|VERB n't|ADV you|PRON think|VERB that|DET 's|VERB something|NOUN we|PRON should|VERB find|VERB out|PRT ?|.
+ Why|ADV ?|.
+ (|. impatiently|ADV )|. Because|ADP I|PRON 'm|VERB expecting|VERB a|DET call|NOUN .|.
+ (|. concerned|VERB )|. Alone|ADV ?|.
+ Of|ADP course|NOUN .|.
+ Mr.|NOUN Dulaney|NOUN ?|.
+ Doctor|NOUN McCurdy|NOUN ,|. what|PRON was|VERB the|DET cause|NOUN of|ADP death|NOUN ?|.
+ A|DET massive|ADJ cardiac|NOUN arrest|NOUN .|.
+ What|QUESTIONTAG was|VERB Mr.|NOUN Marsh|NOUN 's|PRT physical|ADJ condition|NOUN prior|ADV to|PRT his|PRON death|NOUN ?|.
+ Very|ADV poor|ADJ .|.
+ Was|ADP the|DET heart|NOUN attack|VERB the|DET result|NOUN of|ADP natural|ADJ causes|NOUN ?|.
+ No|DET .|.
+ What|QUESTIONTAG induced|VERB it|PRON ?|.
+ We|PRON found|VERB a|DET high|ADJ concentration|NOUN of|ADP cocaine|NOUN in|ADP his|PRON blood|NOUN .|.
+ So|ADV ,|. Mr.|NOUN Marsh|NOUN used|VERB cocaine|NOUN ?|.
+ I|PRON do|VERB n't|ADV think|VERB so|ADV .|.
+ Then|ADV how|ADV did|VERB it|PRON get|VERB into|ADP his|PRON body|NOUN ?|.
+ We|PRON found|VERB a|DET bottle|NOUN of|ADP Dristan|NOUN nasal|NOUN spray|NOUN on|ADP the|DET nightstand|NOUN .|.
+ Is|VERB this|DET the|DET bottle|NOUN that|DET was|VERB found|VERB on|ADP the|DET nightstand|NOUN ?|.
+ (|. examines|VERB it|PRON )|. Yes|X .|.
+ Dr.|NOUN McCurdy|NOUN ,|. what|PRON would|VERB cocaine|VERB do|VERB to|PRT someone|NOUN in|ADP Mr.|NOUN Marsh|NOUN 's|PRT condition|NOUN ?|.
+ Increase|VERB his|PRON heart|NOUN rate|NOUN .|.
+ --|. And|CONJ if|ADP he|PRON were|VERB in|ADP the|DET midst|NOUN of|ADP making|VERB love|NOUN while|ADP under|ADP the|DET influence|NOUN of|ADP cocaine|NOUN ?|.
+ It|PRON would|VERB be|VERB an|DET added|ADJ stress|NOUN to|PRT his|PRON heart|NOUN .|.
+ What|QUESTIONTAG would|VERB be|VERB the|DET effect|NOUN if|ADP someone|NOUN secretly|ADV administered|VERB cocaine|NOUN to|PRT Mr.|NOUN Marsh|NOUN and|CONJ then|ADV induced|VERB him|PRON to|PRT make|VERB love|VERB ?|.
+ It|PRON would|VERB be|VERB the|DET same|ADJ as|ADP shooting|VERB a|DET gun|NOUN at|ADP him|PRON .|.
+ Can|VERB you|PRON say|VERB with|ADP any|DET certainty|NOUN that|ADP Mr.|NOUN Marsh|NOUN did|VERB n't|ADV ingest|VERB the|DET cocaine|NOUN himself|PRON ?|.
+ No|DET --|. but|CONJ it|PRON seems|VERB highly|ADV unlikely|ADJ that|ADP a|DET man|NOUN in|ADP his|PRON condition|NOUN would|VERB use|VERB cocaine|NOUN .|.
+ That|DET 's|VERB your|PRON opinion|NOUN ,|. Doctor|NOUN --|. but|CONJ I|PRON 'm|VERB asking|VERB you|PRON if|ADP there|DET is|VERB any|DET scientific|ADJ test|NOUN that|DET can|VERB tell|VERB who|PRON actually|ADV put|VERB the|DET cocaine|NOUN into|ADP the|DET Dristan|NOUN bottle|NOUN ?|.
+ No|DET .|.
+ Doctor|NOUN Trammel|NOUN ,|. when|ADV did|VERB you|PRON first|ADV diagnose|VERB that|ADP Mr.|NOUN Marsh|NOUN had|VERB heart|NOUN disease|NOUN ?|.
+ About|ADP a|DET year|NOUN and|CONJ half|NOUN ago|ADV .|.
+ Did|NOUN Mr.|NOUN Marsh|NOUN change|VERB his|PRON lifestyle|NOUN after|ADP that|DET ?|.
+ Yes|X --|. he|PRON stopped|VERB smoking|VERB and|CONJ drinking|NOUN and|CONJ exercised|VERB regularly|ADV .|.
+ He|PRON did|VERB everything|NOUN he|PRON could|VERB to|PRT take|VERB care|NOUN of|ADP his|PRON heart|NOUN ?|.
+ Yes|X .|.
+ Did|NOUN Miss|NOUN Lawson|NOUN ever|ADV accompany|VERB Mr.|NOUN Marsh|NOUN to|PRT your|PRON office|NOUN ?|.
+ Yes|X .|.
+ Dr.|NOUN Trammel|NOUN ,|. did|VERB you|PRON ever|ADV speak|VERB to|PRT Miss|NOUN Lawson|NOUN about|ADP Mr.|NOUN Marsh|NOUN 's|PRT condition|NOUN ?|.
+ No|DET .|.
+ Did|NOUN Mr.|NOUN Marsh|NOUN ever|ADV tell|VERB you|PRON that|ADP he|PRON had|VERB spoken|VERB to|PRT Miss|NOUN Lawson|NOUN about|ADP his|PRON illness|NOUN ?|.
+ No|DET .|.
+ Did|NOUN Miss|NOUN Lawson|NOUN ever|ADV accompany|VERB Mr.|NOUN Marsh|NOUN inside|ADP during|ADP his|PRON examinations|NOUN ?|.
+ No|DET .|.
+ Then|ADV you|PRON have|VERB no|DET way|NOUN of|ADP knowing|VERB what|PRON Mr.|NOUN Marsh|NOUN told|VERB Miss|NOUN Lawson|NOUN were|VERB the|DET reasons|NOUN for|ADP his|PRON visits|NOUN ?|.
+ No|DET .|.
+ How|QUESTIONTAG long|ADJ were|VERB you|PRON Mr|NOUN Marsh|NOUN 's|PRT personal|ADJ secretary|NOUN ?|.
+ Six|NUM years|NOUN .|.
+ Did|NOUN you|PRON ever|ADV see|VERB Mr.|NOUN Marsh|NOUN use|VERB Cocaine|NOUN ?|.
+ No|DET --|. never|ADV .|.
+ What|QUESTIONTAG about|ADP Miss|NOUN Lawson|NOUN ?|.
+ Yes|X .|.
+ Did|NOUN you|PRON see|VERB Mr.|NOUN Marsh|NOUN the|DET day|NOUN before|ADP his|PRON death|NOUN ?|.
+ Yes|X .|.
+ How|QUESTIONTAG did|VERB he|PRON look|VERB ?|.
+ Horrible|ADJ .|.
+ Did|NOUN you|PRON talk|VERB about|ADP Miss|NOUN Lawson|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG did|VERB Mr.|NOUN Marsh|NOUN say|VERB ?|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB it|PRON was|VERB cocaine|NOUN that|ADP Miss|NOUN Lawson|NOUN had|VERB in|ADP the|DET bathroom|NOUN ?|.
+ What|QUESTIONTAG other|ADJ kind|NOUN of|ADP white|ADJ powder|NOUN do|VERB people|NOUN keep|VERB in|ADP a|DET vial|NOUN ?|.
+ Do|VERB you|PRON remember|VERB the|DET date|NOUN when|ADV you|PRON saw|VERB Miss|NOUN Lawson|NOUN in|ADP the|DET bathroom|NOUN ?|.
+ Yes|X --|. (|. thinks|VERB a|DET moment|NOUN )|. It|PRON was|VERB on|ADP a|DET Friday|NOUN .|.
+ Could|NOUN you|PRON repeat|VERB the|DET last|ADJ part|NOUN of|ADP what|PRON Mr.|NOUN Marsh|NOUN said|VERB to|PRT you|PRON the|DET day|NOUN before|ADP his|PRON death|NOUN ?|.
+ He|PRON said|VERB that|ADP if|ADP it|PRON kept|VERB up|PRT she|PRON was|VERB going|VERB to|PRT kill|VERB him|PRON .|.
+ Did|NOUN n't|ADV Mr.|NOUN Marsh|NOUN also|ADV tell|VERB you|PRON that|ADP Miss|NOUN Lawson|NOUN felt|VERB bored|VERB here|ADV and|CONJ was|VERB thinking|VERB about|ADP going|VERB back|ADV to|PRT Chicago|NOUN for|ADP awhile|NOUN ?|.
+ Can|VERB I|PRON see|VERB you|PRON later|ADV ?|.
+ You|PRON can|VERB see|VERB me|PRON now|ADV .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ resist|NOUN .|.
+ Something|VERB wrong|ADJ ?|.
+ Paley|NOUN could|VERB be|VERB a|DET problem|NOUN tomorrow|NOUN .|.
+ Sugar|NOUN or|CONJ honey|NOUN ?|.
+ Honey|NOUN .|.
+ Where|QUESTIONTAG did|VERB you|PRON meet|VERB Miss|NOUN Lawson|NOUN ?|.
+ At|ADP a|DET dinner|NOUN party|NOUN --|. about|ADP eight|NUM months|NOUN ago|ADV .|.
+ Did|NOUN you|PRON ever|ADV see|VERB her|PRON again|ADV after|ADP that|DET ?|.
+ Yes|X --|. several|ADJ times|NOUN .|.
+ What|QUESTIONTAG eventually|ADV happened|VERB to|PRT your|PRON relationship|NOUN with|ADP Miss|NOUN Lawson|NOUN ?|.
+ We|PRON stopped|VERB seeing|VERB each|DET other|ADJ .|.
+ Why|ADV ?|.
+ Well|ADV --|. I|PRON realized|VERB that|ADP she|PRON was|VERB n't|ADV interested|ADJ in|ADP me|PRON .|.
+ What|QUESTIONTAG kind|NOUN of|ADP information|NOUN ?|.
+ She|PRON said|VERB that|ADP she|PRON was|VERB working|VERB on|ADP a|DET novel|NOUN and|CONJ she|PRON wanted|VERB to|PRT know|VERB what|PRON kinds|NOUN of|ADP drugs|NOUN would|VERB be|VERB harmful|ADJ to|PRT someone|NOUN with|ADP a|DET bad|ADJ heart|NOUN .|.
+ Did|NOUN you|PRON suggest|VERB any|DET ?|.
+ Yes|X --|. Insulin|NOUN and|CONJ others|NOUN .|.
+ What|QUESTIONTAG did|VERB she|PRON say|VERB ?|.
+ She|PRON said|VERB that|ADP those|DET were|VERB n't|ADV any|DET good|ADJ --|. because|ADP their|PRON use|NOUN would|VERB be|VERB detected|VERB and|CONJ the|DET police|NOUN would|VERB know|VERB the|DET victim|NOUN had|VERB been|VERB poisoned|VERB .|.
+ --|. And|CONJ what|PRON did|VERB you|PRON suggest|VERB ?|.
+ Cocaine|NOUN .|.
+ Dr.|NOUN Paley|NOUN ,|. where|ADV were|VERB you|PRON the|DET last|ADJ time|NOUN you|PRON saw|VERB Miss|NOUN Lawson|NOUN ?|.
+ We|PRON had|VERB dinner|VERB at|ADP a|DET restaurant|NOUN .|.
+ Is|VERB n't|ADV it|PRON true|ADJ that|ADP later|ADV that|DET night|NOUN you|PRON tried|VERB to|PRT force|VERB yourself|PRON on|ADP Miss|NOUN Lawson|NOUN in|ADP the|DET parking|NOUN lot|NOUN ?|.
+ No|DET .|.
+ You|PRON did|VERB n't|ADV grab|VERB her|PRON and|CONJ try|VERB to|PRT kiss|VERB her|PRON ?|.
+ No|DET .|.
+ And|CONJ after|ADP that|DET did|VERB n't|ADV you|PRON continuously|ADV harass|VERB Miss|NOUN Lawson|NOUN ?|.
+ No|DET .|.
+ (|. quoting|VERB )|. You|PRON 'll|VERB be|VERB sorry|VERB ?|.
+ I|PRON was|VERB angry|ADJ .|.
+ What|QUESTIONTAG the|DET ...|. What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ his|PRON face|NOUN with|ADP her|PRON hand|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON going|VERB you|PRON doing|VERB ?|.
+ Are|NOUN you|PRON scared|VERB ?|.
+ Late|ADV night|NOUN ?|.
+ Yeah|DET --|. what|PRON are|VERB you|PRON doing|VERB up|PRT ?|.
+ We|PRON have|VERB to|PRT talk|VERB .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ That|DET 's|VERB what|PRON I|PRON was|VERB hoping|VERB you|PRON 'd|VERB tell|VERB me|PRON .|.
+ Where|QUESTIONTAG have|VERB you|PRON been|VERB ?|.
+ Why|ADV did|VERB you|PRON lie|VERB to|PRT me|PRON ?|.
+ Because|ADP I|PRON knew|VERB you|PRON 'd|VERB think|VERB exactly|ADV what|PRON you|PRON 're|VERB thinking|VERB .|.
+ You|PRON 're|VERB sleeping|VERB with|ADP her|PRON ,|. are|VERB n't|ADV you|PRON ?|.
+ No|DET .|.
+ Mrs.|NOUN Crawford|NOUN ,|. you|PRON were|VERB Mr.|NOUN Marsh|NOUN 's|PRT maid|NOUN for|ADP nine|NUM years|NOUN ?|.
+ Yes|X .|.
+ Did|NOUN Miss|NOUN Lawson|NOUN and|CONJ Mr.|NOUN Marsh|NOUN ever|ADV argue|ADV ?|.
+ Like|ADP cats|NOUN and|CONJ dogs|NOUN .|.
+ What|QUESTIONTAG did|VERB they|PRON argue|VERB about|ADP ?|.
+ You|PRON name|VERB it|PRON --|. they|PRON argued|VERB about|ADP it|PRON .|.
+ Did|NOUN they|PRON argue|VERB the|DET day|NOUN before|ADP he|PRON died|VERB ?|.
+ Well|ADV --|. he|PRON died|VERB on|ADP a|DET Sunday|NOUN and|CONJ I|PRON have|VERB the|DET weekends|NOUN off|PRT --|. but|CONJ they|PRON were|VERB ripping|VERB at|ADP each|DET other|ADJ with|ADP both|DET barrels|NOUN Friday|NOUN afternoon|NOUN .|.
+ What|QUESTIONTAG was|VERB the|DET nature|NOUN of|ADP the|DET argument|NOUN ?|.
+ Sex|NOUN .|.
+ Could|VERB you|PRON be|VERB more|ADV specific|ADJ ?|.
+ Did|NOUN you|PRON ever|ADV see|VERB Mr.|NOUN Marsh|NOUN use|VERB cocaine|NOUN ?|.
+ No|DET --|. never|ADV .|.
+ Did|NOUN you|PRON go|VERB to|PRT college|NOUN ,|. Mrs.|NOUN Crawford|NOUN ?|.
+ No|DET .|.
+ High|ADJ school|NOUN ?|.
+ No|DET .|.
+ Did|NOUN Mr.|NOUN Troxell|NOUN help|VERB you|PRON with|ADP that|DET phrase|NOUN ?|.
+ Then|ADV --|. those|DET are|VERB not|ADV your|PRON own|ADJ words|NOUN ?|.
+ No|DET .|.
+ What|QUESTIONTAG else|ADV did|VERB the|DET District|NOUN Attorney|NOUN 's|PRT Office|NOUN tell|NOUN you|PRON to|PRT say|VERB ?|.
+ Objection|NOUN ,|. Your|PRON Honor|NOUN .|.
+ You|PRON 're|VERB sleeping|VERB with|ADP her|PRON ,|. are|VERB n't|ADV you|PRON ?|.
+ You|PRON 've|VERB been|VERB following|VERB me|PRON ?|.
+ Her|PRON .|.
+ You|PRON got|VERB something|NOUN on|ADP the|DET coke|NOUN ?|.
+ No|DET --|. but|CONJ I|PRON got|VERB something|NOUN .|.
+ This|DET girl|NOUN has|VERB really|ADV got|VERB some|DET moves|NOUN ,|. huh|NOUN ?|.
+ Over|ADP what|PRON ?|.
+ TV|NOUN screen|NOUN .|.
+ So|ADV ,|. what|PRON good|NOUN is|VERB it|PRON to|PRT us|PRON if|ADP it|PRON 's|VERB been|VERB erased|VERB ?|.
+ It|PRON 's|VERB very|ADV good|ADJ --|. because|ADP when|ADV the|DET D.A|NOUN 's|PRT office|NOUN saw|VERB it|PRON they|PRON assumed|VERB it|PRON was|VERB the|DET end|NOUN of|ADP the|DET tape|NOUN ,|. otherwise|ADV they|PRON would|VERB have|VERB buried|VERB it|PRON .|.
+ Why|ADV ?|.
+ Because|ADP it|PRON has|VERB n't|ADV all|DET been|VERB erased|VERB .|.
+ Who|QUESTIONTAG told|VERB you|PRON that|ADP ?|.
+ He|PRON video|VERB taped|VERB you|PRON .|.
+ I|PRON thought|VERB he|PRON was|VERB a|DET kind|NOUN ,|. gentle|ADJ man|NOUN ?|.
+ her|PRON face|NOUN .|.
+ Why|ADV did|VERB n't|ADV the|DET State|NOUN 's|PRT investigation|NOUN uncover|ADP Mr.|NOUN Roston|NOUN earlier|ADV ?|.
+ He|PRON was|VERB away|ADV on|ADP an|DET extended|ADJ vacation|NOUN and|CONJ just|ADV returned|VERB two|NUM days|NOUN ago|ADV .|.
+ Mr.|NOUN Roston|NOUN ,|. what|PRON was|VERB your|PRON relationship|NOUN with|ADP Miss|NOUN Lawson|NOUN ?|.
+ We|PRON were|VERB lovers|NOUN .|.
+ How|QUESTIONTAG long|ADJ were|VERB you|PRON together|ADV ?|.
+ For|ADP about|ADV one|NUM year|NOUN .|.
+ How|QUESTIONTAG would|VERB you|PRON describe|VERB your|PRON sex|NOUN life|NOUN with|ADP Miss|NOUN Lawson|NOUN ?|.
+ Intense|NOUN .|.
+ I|PRON know|VERB this|DET is|VERB a|DET very|ADV personal|ADJ subject|NOUN ,|. but|CONJ could|VERB you|PRON be|VERB a|DET little|ADJ more|ADV specific|ADJ ?|.
+ It|PRON was|VERB wild|ADJ .|.
+ What|QUESTIONTAG kind|NOUN of|ADP condition|NOUN are|VERB you|PRON referring|VERB to|PRT ?|.
+ I|PRON had|VERB a|DET bad|ADJ heart|NOUN .|.
+ What|QUESTIONTAG happened|VERB next|ADJ ?|.
+ I|PRON had|VERB bypass|NOUN surgery|NOUN .|.
+ And|CONJ how|ADV are|VERB you|PRON now|ADV ?|.
+ Fine|NOUN .|.
+ How|QUESTIONTAG did|VERB your|PRON relationship|NOUN with|ADP Miss|NOUN Lawson|NOUN progress|NOUN after|ADP the|DET surgery|NOUN ?|.
+ It|PRON did|VERB n't|ADV .|.
+ Why|ADV not|ADV ?|.
+ She|PRON left|VERB me|PRON .|.
+ Why|ADV did|VERB she|PRON say|VERB she|PRON was|VERB leaving|VERB ?|.
+ She|PRON did|VERB n't|ADV .|.
+ Why|ADV do|VERB you|PRON think|VERB she|PRON left|VERB you|PRON ?|.
+ Well|ADV --|. I|PRON think|VERB that|ADP after|ADP the|DET operation|NOUN she|PRON realized|VERB that|ADP ...|.
+ Did|NOUN Miss|NOUN Lawson|NOUN ever|ADV give|VERB you|PRON any|DET indication|NOUN why|ADV she|PRON was|VERB leaving|VERB ?|.
+ Objection|NOUN .|.
+ When|QUESTIONTAG you|PRON say|VERB your|PRON sexual|ADJ relations|NOUN with|ADP Miss|NOUN Lawson|NOUN were|VERB intense|ADJ what|PRON exactly|ADV do|VERB you|PRON mean|VERB ?|.
+ It|PRON was|VERB like|ADP she|PRON was|VERB trying|VERB to|PRT push|VERB me|PRON as|ADV far|ADV as|ADP she|PRON could|VERB .|.
+ Can|VERB you|PRON give|VERB the|DET court|NOUN an|DET example|NOUN ?|.
+ It|PRON was|VERB like|ADP sex|NOUN was|VERB a|DET game|NOUN to|PRT her|PRON .|.
+ What|QUESTIONTAG would|VERB she|PRON do|VERB that|DET made|VERB it|PRON hard|ADJ to|PRT resist|VERB ?|.
+ She|PRON 's|VERB a|DET woman|NOUN who|PRON is|VERB very|ADV much|ADJ aware|NOUN of|ADP her|PRON own|ADJ sexuality|NOUN .|.
+ What|QUESTIONTAG did|VERB she|PRON say|VERB ?|.
+ his|PRON life|NOUN .|.
+ What|QUESTIONTAG did|VERB she|PRON do|VERB next|ADV ,|. Mr.|NOUN Roston|NOUN ?|.
+ She|PRON started|VERB touching|VERB herself|PRON and|CONJ telling|VERB me|PRON how|ADV much|ADJ she|PRON wanted|VERB me|PRON .|.
+ If|ADP you|PRON knew|VERB it|PRON was|VERB bad|ADJ for|ADP you|PRON why|ADV did|VERB you|PRON do|VERB it|PRON ?|.
+ I|PRON could|VERB n't|ADV help|VERB myself|PRON .|.
+ What|QUESTIONTAG happened|VERB after|ADP that|DET ?|.
+ I|PRON woke|VERB up|PRT the|DET next|ADJ morning|NOUN and|CONJ she|PRON was|VERB gone|VERB .|.
+ Did|NOUN you|PRON change|VERB your|PRON will|VERB while|ADP you|PRON were|VERB with|ADP Miss|NOUN Lawson|NOUN ?|.
+ Who|QUESTIONTAG was|VERB your|PRON primary|ADJ beneficiary|NOUN ?|.
+ She|PRON was|VERB .|.
+ Mister|NOUN Dulaney|NOUN ?|.
+ hear|VERB the|DET question|NOUN .|.
+ Mister|NOUN Dulaney|NOUN ?|.
+ for|ADP a|DET moment|NOUN .|.
+ Mr.|NOUN Roston|NOUN ?|.
+ Yes|X .|.
+ And|CONJ your|PRON sexual|ADJ tastes|NOUN were|VERB something|NOUN that|ADP you|PRON hid|VERB from|ADP Miss|NOUN Lawson|NOUN ?|.
+ Yes|X .|.
+ And|CONJ did|VERB n't|ADV Miss|NOUN Lawson|NOUN come|VERB home|NOUN one|NUM day|NOUN and|CONJ find|VERB you|PRON in|ADP bed|NOUN with|ADP your|PRON male|NOUN lover|NOUN ?|.
+ Yes|X .|.
+ And|CONJ she|PRON left|VERB shortly|ADV after|ADP that|DET ?|.
+ Would|VERB it|PRON be|VERB fair|ADJ to|PRT say|VERB that|ADP when|ADV she|PRON did|VERB find|VERB out|ADP it|PRON was|VERB a|DET shock|NOUN to|PRT her|PRON ?|.
+ (|. very|ADV upset|ADV )|. Yes|X .|.
+ What|QUESTIONTAG 's|VERB that|DET for|ADP ?|.
+ To|PRT celebrate|VERB how|ADV masterfully|ADV you|PRON destroyed|VERB Roston|NOUN today|NOUN .|.
+ You|PRON killed|VERB him|PRON --|. did|VERB n't|ADV you|PRON ?|.
+ I|PRON knew|VERB you|PRON were|VERB thinking|VERB that|ADP .|.
+ I|PRON 'm|VERB sorry|ADJ to|PRT barge|VERB in|ADP --|. but|CONJ I|PRON figured|VERB after|ADP that|DET bombshell|NOUN that|DET got|VERB laid|VERB on|ADP you|PRON today|NOUN you|PRON could|VERB use|VERB some|DET good|ADJ news|NOUN ?|.
+ You|PRON got|VERB something|NOUN on|ADP the|DET Coke|NOUN ?|.
+ Charlie|NOUN --|. are|VERB you|PRON going|VERB to|PRT make|VERB a|DET point|NOUN soon|ADV ?|.
+ Right|ADV now|ADV .|.
+ Dr.|NOUN Wong|NOUN --|. what|PRON type|NOUN of|ADP medicine|NOUN do|VERB you|PRON practice|NOUN ?|.
+ Oriental|ADJ medicine|NOUN .|.
+ --|. And|CONJ is|VERB Miss|NOUN Lawson|NOUN a|DET patient|NOUN of|ADP yours|NOUN ?|.
+ Yes|X .|.
+ Why|ADV does|VERB she|PRON come|VERB to|PRT you|PRON ?|.
+ She|PRON suffers|VERB from|ADP severe|ADJ menstrual|ADJ cramps|NOUN .|.
+ Did|NOUN you|PRON ever|ADV prescribe|VERB any|DET medication|NOUN for|ADP her|PRON cramps|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG did|VERB you|PRON prescribe|VERB for|ADP her|PRON ?|.
+ Chinese|ADJ peony|NOUN root|NOUN .|.
+ Would|VERB you|PRON describe|VERB for|ADP the|DET court|NOUN what|PRON Chinese|ADJ peony|ADJ root|NOUN looks|VERB like|ADP ?|.
+ It|PRON 's|VERB a|DET white|ADJ powder|NOUN that|DET comes|VERB in|ADP a|DET vial|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON instruct|VERB your|PRON patients|NOUN to|PRT take|VERB it|PRON ?|.
+ I|PRON tell|VERB them|PRON to|PRT pour|VERB an|DET amount|NOUN the|DET size|NOUN of|ADP a|DET quarter|NOUN into|ADP the|DET their|PRON hand|NOUN and|CONJ mix|VERB it|PRON with|ADP water|NOUN .|.
+ Miss|NOUN Sellers|NOUN ,|. do|VERB you|PRON know|VERB Dr.|NOUN Alan|NOUN Paley|NOUN ?|.
+ Yes|X .|.
+ Where|QUESTIONTAG did|VERB you|PRON meet|VERB him|PRON ?|.
+ I|PRON 'm|VERB a|DET nurse|NOUN .|.
+ Then|ADV what|PRON happened|VERB ?|.
+ I|PRON realized|VERB he|PRON was|VERB n't|ADV serious|ADJ .|.
+ --|. And|CONJ what|PRON did|VERB Dr.|NOUN Paley|NOUN do|VERB after|ADP you|PRON stopped|VERB seeing|VERB him|PRON ?|.
+ He|PRON used|VERB to|PRT call|VERB me|PRON --|. tell|VERB me|PRON that|ADP I|PRON could|VERB n't|ADV just|ADV walk|VERB out|PRT on|ADP him|PRON .|.
+ Did|NOUN he|PRON make|VERB your|PRON life|NOUN miserable|NOUN ?|.
+ Yes|X --|. he|PRON did|VERB .|.
+ How|QUESTIONTAG ?|.
+ What|QUESTIONTAG did|VERB he|PRON say|VERB ?|.
+ He|PRON laughed|VERB --|. and|CONJ basically|ADV said|VERB he|PRON would|VERB decide|VERB when|ADV it|PRON was|VERB over|ADV .|.
+ Do|VERB you|PRON remember|VERB his|PRON exact|ADJ words|NOUN ?|.
+ What|QUESTIONTAG happened|VERB next|ADJ ?|.
+ While|ADP I|PRON was|VERB seeing|VERB Dr.|NOUN Paley|NOUN I|PRON mentioned|VERB to|PRT him|PRON one|NUM night|NOUN that|ADP someone|NOUN was|VERB stealing|VERB drugs|NOUN from|ADP the|DET third|ADJ floor|NOUN dispensary|NOUN .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ There|DET was|VERB an|DET inquiry|NOUN .|.
+ What|QUESTIONTAG good|NOUN does|VERB that|ADP do|VERB --|. it|PRON 's|VERB the|DET old|ADJ will|VERB ?|.
+ Under|ADP the|DET law|NOUN a|DET person|NOUN can|VERB not|ADV profit|VERB from|ADP their|PRON own|ADJ wrong|ADJ doing|VERB .|.
+ Mr.|NOUN Dulaney|NOUN ,|. are|VERB you|PRON ready|ADJ to|PRT call|VERB your|PRON next|ADJ witness|NOUN ?|.
+ Mr.|NOUN Dulaney|NOUN ,|. are|VERB you|PRON with|ADP us|PRON ?|.
+ How|QUESTIONTAG often|ADV do|VERB you|PRON use|VERB cocaine|NOUN ?|.
+ Are|NOUN you|PRON able|ADJ to|PRT back|VERB up|PRT this|DET allegation|NOUN --|. or|CONJ are|VERB you|PRON fishing|VERB ?|.
+ I|PRON can|VERB back|VERB it|PRON up|PRT .|.
+ You|PRON do|VERB n't|ADV like|VERB Miss|NOUN Lawson|NOUN much|ADV do|VERB you|PRON ?|.
+ (|. hesitantly|ADV )|. No|X .|.
+ You|PRON resented|VERB the|DET fact|NOUN that|ADP she|PRON told|VERB you|PRON what|PRON to|PRT do|VERB in|ADP Mr.|NOUN Marsh|NOUN 's|PRT house|NOUN ?|.
+ Yes|X .|.
+ And|CONJ you|PRON resented|VERB that|ADP he|PRON cared|VERB for|ADP her|PRON in|ADP a|DET way|NOUN he|PRON once|ADV cared|VERB for|ADP you|PRON ?|.
+ (|. breaking|VERB down|PRT )|. Yes|X .|.
+ --|. And|CONJ that|ADP Mr.|NOUN Marsh|NOUN paid|VERB less|ADJ attention|NOUN to|PRT you|PRON ?|.
+ Yes|X .|.
+ --|. and|CONJ that|ADP he|PRON changed|VERB his|PRON will|VERB ?|.
+ Yes|X .|.
+ Would|VERB you|PRON read|VERB for|ADP us|PRON the|DET time|NOUN of|ADP the|DET purchase|NOUN ?|.
+ Three|NUM fifteen|NOUN .|.
+ A.M|NOUN --|. or|CONJ P.M.|VERB ?|.
+ P.M|NOUN .|.
+ Is|VERB n't|ADV it|PRON true|ADJ that|ADP you|PRON stopped|VERB by|ADP the|DET house|NOUN after|ADP you|PRON left|VERB the|DET drug|NOUN store|NOUN and|CONJ dropped|VERB off|ADP the|DET items|NOUN you|PRON bought|VERB ?|.
+ (|. nervously|ADV )|. No|X .|.
+ Is|VERB n't|ADV it|PRON true|ADJ that|ADP you|PRON put|VERB the|DET cocaine|NOUN in|ADP the|DET bottle|NOUN ?|.
+ No|DET !|.
+ Why|ADV did|VERB n't|ADV you|PRON come|VERB to|PRT me|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Frank|NOUN ?|.
+ She|PRON walks|VERB out|PRT into|ADP the|DET rain|NOUN .|.
+ Ladies|NOUN and|CONJ gentlemen|NOUN of|ADP the|DET jury|NOUN ,|. have|VERB you|PRON reached|VERB a|DET verdict|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON gon|VERB na|PRT do|VERB now|ADV ?|.
+ Then|ADV you|PRON would|VERB have|VERB gotten|VERB your|PRON money|NOUN ?|.
+ Yes|X .|.
+ You|PRON killed|VERB him|PRON --|. did|VERB n't|ADV you|PRON ,|. Joanne|NOUN ?|.
+ Do|VERB you|PRON think|VERB if|ADP I|PRON did|VERB I|PRON 'd|VERB be|VERB stupid|ADJ enough|ADV to|PRT tell|VERB you|PRON ?|.
+ What|QUESTIONTAG do|VERB you|PRON have|VERB in|ADP your|PRON purse|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB I|PRON 've|VERB got|VERB ?|.
+ Why|ADV 'd|VERB you|PRON come|VERB here|ADV ?|.
+ (|. holds|VERB up|ADP the|DET letter|NOUN )|. To|PRT show|VERB you|PRON this|DET .|.
+ You|PRON did|VERB n't|ADV know|VERB about|ADP it|PRON before|ADP that|DET ?|.
+ No|DET .|.
+ Then|ADV why|ADV did|VERB you|PRON go|VERB see|VERB Mr.|NOUN Koehler|NOUN in|ADP the|DET first|ADJ place|NOUN ?|.
+ Because|ADP he|PRON called|VERB me|PRON .|.
+ Frank|NOUN --|. what|PRON are|VERB you|PRON doing|VERB here|ADV ?|.
+ I|PRON need|VERB to|PRT ask|VERB you|PRON a|DET question|NOUN .|.
+ Hello|NOUN ?|.
+ Frank|NOUN --|. It|PRON 's|VERB Rebecca|NOUN .|.
+ Rebecca|NOUN ?|.
+ looks|NOUN on|ADP the|DET coffee|NOUN table|NOUN .|.
+ Is|VERB this|DET what|PRON you|PRON 're|VERB looking|VERB for|ADP ,|. Frank|NOUN ?|.
+ remote|VERB control|NOUN in|ADP her|PRON hand|NOUN .|.
+ (|. to|PRT Rebecca|NOUN )|. Are|VERB you|PRON alright|ADP ?|.
+ What|QUESTIONTAG ?|.
+ You|PRON called|VERB him|PRON ?|.
+ No|DET --|. he|PRON 's|VERB lying|VERB .|.
+ Can|VERB I|PRON go|VERB ?|.
+ (|. to|PRT Troxell|NOUN )|. You|PRON get|VERB his|PRON statement|NOUN ?|.
+ Frank|NOUN ?|.
+ RAINCOAT|NOUN pocket|NOUN and|CONJ take|VERB out|PRT a|DET VHS|NOUN TAPE|NOUN .|.

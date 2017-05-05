@@ -1,0 +1,42 @@
+ (|. in|ADP a|DET brusque|ADJ manner|NOUN )|. Can|VERB you|PRON read|VERB ?|.
+ Sure|NOUN ...|.
+ HACENE|NOUN Ali|NOUN ,|. my|PRON son|NOUN ...|. Where|QUESTIONTAG have|VERB you|PRON been|VERB hiding|VERB ?|.
+ wall|NOUN of|ADP the|DET alley|NOUN .|.
+ Good|ADJ evening|NOUN ...|. Can|VERB we|PRON pass|VERB ?|.
+ It|PRON 's|VERB too|ADV late|ADJ .|.
+ Are|NOUN you|PRON going|VERB for|ADP a|DET swim|NOUN ,|. Miss|NOUN ...|. all|DET by|ADP yourself|PRON ?|.
+ No|DET ,|. with|ADP some|DET friends|NOUN .|.
+ Are|NOUN you|PRON already|ADV leaving|VERB ,|. Miss|NOUN ?|.
+ But|CONJ do|VERB you|PRON believe|VERB that|ADP the|DET strike|NOUN will|VERB be|VERB widespread|ADJ ?|.
+ Without|ADP a|DET doubt|NOUN .|.
+ Champagne|NOUN ...|. All|DET right|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB of|ADP the|DET strike|NOUN ,|. Ali|NOUN ?|.
+ I|PRON think|VERB it|PRON 'll|VERB be|VERB a|DET success|NOUN ...|.
+ Will|VERB you|PRON tell|VERB us|PRON what|DET is|VERB happening|VERB ?|.
+ Nothing|NOUN .|.
+ Insurrection|NOUN ?|.
+ Insurrection|NOUN .|.
+ And|CONJ here|ADV ?|.
+ It|PRON depends|VERB on|ADP you|PRON .|.
+ What|QUESTIONTAG 's|VERB the|DET problem|NOUN then|ADV ?|.
+ Political|ADJ support|NOUN .|.
+ Will|VERB you|PRON kindly|ADV explain|VERB to|PRT me|PRON why|ADV all|DET the|DET Sartres|NOUN are|VERB always|ADV born|VERB on|ADP the|DET other|ADJ side|NOUN ?|.
+ Then|ADV you|PRON like|ADP Sartre|NOUN ,|. colonel|NOUN ...|.
+ KADER|NOUN Paratroopers|NOUN ?|.
+ Yes|X .|.
+ Mr.|NOUN Ben|NOUN M'Hidi|NOUN ...|. in|ADP your|PRON opinion|NOUN ,|. has|VERB the|DET NLF|NOUN any|DET chance|NOUN to|PRT beat|VERB the|DET French|ADJ army|NOUN ?|.
+ In|ADP my|PRON opinion|NOUN ,|. the|DET NLF|NOUN has|VERB more|ADJ chances|NOUN of|ADP beating|VERB the|DET French|ADJ army|NOUN than|ADP the|DET French|ADJ have|VERB to|PRT stop|VERB history|NOUN .|.
+ PARAS|NOUN Is|VERB this|DET one|NUM ?|.
+ ''|. Our|PRON hearts|NOUN are|VERB breaking|VERB before|ADP such|ADJ outrages|NOUN ,|. our|PRON houses|NOUN invaded|VERB ,|. our|PRON families|NOUN massacred|VERB .|.
+ How|QUESTIONTAG can|VERB I|PRON give|VERB you|PRON this|DET statement|NOUN ?|.
+ We|PRON 'll|VERB lower|VERB a|DET basket|NOUN from|ADP the|DET window|NOUN ...|.
+ Which|QUESTIONTAG one|NUM of|ADP you|PRON is|VERB Fathia|VERB ?|.
+ MATHIEU|NOUN Is|VERB it|PRON you|PRON ?|.
+ MATHIEU|NOUN Go|NOUN up|PRT the|DET stairs|NOUN ,|. and|CONJ tell|VERB Kader|NOUN that|ADP if|ADP they|PRON do|VERB n't|ADV surrender|VERB ,|. we|PRON 'll|VERB blow|VERB up|PRT everything|NOUN ...|. Do|VERB you|PRON understand|VERB ?|.
+ toward|ADP the|DET door|NOUN ,|. taciturn|NOUN ,|. silent|NOUN .|.
+ What|QUESTIONTAG is|VERB she|PRON saying|VERB ?|.
+ She|PRON says|VERB that|ADP Ali|NOUN is|VERB still|ADV in|ADP the|DET Casbah|NOUN .|.
+ If|ADP we|PRON do|VERB n't|ADV find|VERB any|DET others|NOUN ...|. should|VERB we|PRON call|VERB it|PRON off|PRT ?|.
+ those|DET eyes|NOUN on|ADP him|PRON ,|. and|CONJ tries|NOUN to|PRT justify|VERB himself|PRON .|.
+ It|PRON 's|VERB almost|ADV time|NOUN ,|. is|VERB n't|ADV it|PRON ?|.
+ Yes|X .|.

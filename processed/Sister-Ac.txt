@@ -1,0 +1,286 @@
+ Christine|NOUN ?|.
+ Sister|NOUN ,|. may|VERB I|PRON be|VERB excused|VERB ?|.
+ What|QUESTIONTAG did|VERB who|PRON say|VERB ?|.
+ Who|QUESTIONTAG ?|.
+ You|PRON did|VERB what|PRON ?|.
+ Yes|X ,|. Betty|NOUN ?|.
+ This|DET prom|NOUN is|VERB a|DET real|ADJ drag|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ,|. Betty|NOUN ?|.
+ Look|NOUN at|ADP that|DET .|.
+ Yes|X ,|. Betty|NOUN ?|.
+ (|. singing|VERB )|. HE|NOUN 'S|VERB SO|NOUN FINE|NOUN .|.
+ But|CONJ what|PRON about|ADP us|PRON ?|.
+ You|PRON taught|VERB us|PRON the|DET act|NOUN .|.
+ His|PRON ashes|NOUN ?|.
+ With|ADP love|NOUN .|.
+ Joey|NOUN ?|.
+ (|. dropping|VERB Ernie|NOUN 's|PRT head|NOUN in|ADP disgust|NOUN )|. Why|ADV am|VERB I|PRON wasting|VERB my|PRON time|NOUN ?|.
+ Yes|X ?|.
+ Thanks|NOUN .|.
+ Vince|NOUN --|. is|VERB she|PRON ...|. okay|PRON ?|.
+ Maybe|ADV .|.
+ And|CONJ if|ADP she|PRON runs|VERB ?|.
+ (|. icy|NOUN )|. Take|NOUN care|NOUN of|ADP it|PRON .|.
+ Christy|NOUN ?|.
+ the|DET wall|NOUN near|ADP Christy|NOUN ,|. with|ADP suction|NOUN cups|NOUN .|.
+ Christy|NOUN ?|.
+ hurls|NOUN it|PRON as|ADP high|ADJ and|CONJ as|ADV far|ADV as|ADP she|PRON can|VERB ,|. to|PRT the|DET opposite|ADJ end|NOUN of|ADP the|DET room|NOUN .|.
+ Which|QUESTIONTAG way|NOUN ?|.
+ room|NOUN .|.
+ And|CONJ if|ADP I|PRON do|VERB n't|ADV ?|.
+ Then-you|ADJ run|NOUN .|.
+ Ten|NUM flights|NOUN ?|.
+ You|PRON 'd|VERB lose|VERB .|.
+ What|QUESTIONTAG 're|VERB you|PRON gon|VERB na|PRT do|VERB ,|. put|VERB me|PRON in|ADP a|DET bag|NOUN and|CONJ bury|VERB me|PRON ?|.
+ I|PRON 'm|VERB gon|VERB na|PRT put|VERB you|PRON in|ADP the|DET last|ADJ place|NOUN on|ADP Earth|NOUN that|ADP Vince|NOUN would|VERB ever|ADV look|VERB for|ADP you|PRON .|.
+ (|. opening|VERB the|DET door|NOUN to|PRT leave|VERB )|. Lieutenant|NOUN ?|.
+ Your|PRON name|NOUN ?|.
+ Christy|NOUN .|.
+ St.|NOUN Anne|NOUN 's|PRT ?|.
+ Parochial|ADJ school|NOUN .|.
+ You|PRON were|VERB unhappy|ADJ ?|.
+ I|PRON was|VERB expelled|VERB !|.
+ The|DET reason|NOUN ?|.
+ Beats|NOUN me|PRON !|.
+ What|QUESTIONTAG ?|.
+ woman|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON joined|VERB this|DET convent|NOUN some|DET thirty|NUM years|NOUN ago|ADV .|.
+ Are|NOUN you|PRON talking|VERB about|ADP me|PRON ?|.
+ And|CONJ all|DET those|DET like|ADP you|PRON .|.
+ You|PRON mean|VERB black|ADJ people|NOUN ?|.
+ Absolutely|ADV not|ADV .|.
+ (|. very|ADV suspicious|ADJ )|. What|QUESTIONTAG 's|VERB a|DET concubine|NOUN ?|.
+ Check|VERB your|PRON driver|NOUN 's|PRT license|NOUN .|.
+ Would|VERB you|PRON like|ADP that|DET ?|.
+ tosses|NOUN them|PRON down|PRT a|DET chute|NOUN marked|VERB ``|. INCINERATOR|NOUN .|. ''|.
+ Like|ADP to|PRT who|PRON ?|.
+ Yes|X ,|. Mary|NOUN Patrick|NOUN ?|.
+ Reverend|NOUN Mother|NOUN ,|. on|ADP behalf|NOUN of|ADP the|DET sisters|NOUN ,|. I|PRON 'd|VERB like|VERB to|PRT welcome|VERB Mary|NOUN Clarence|NOUN to|PRT St.|NOUN Katherine|NOUN 's|PRT .|.
+ A|DET what|PRON ?|.
+ Surely|ADV you|PRON are|VERB familiar|ADJ with|ADP this|DET practice|NOUN ,|. Mary|NOUN Clarence|NOUN .|.
+ And|CONJ Mary|NOUN Clarence|NOUN ?|.
+ (|. mouthing|VERB the|DET words|NOUN )|. A|DET what|PRON ?|.
+ A|DET fast|NOUN .|.
+ (|. mouthing|VERB )|. No|DET food|NOUN ?|.
+ (|. taking|VERB away|ADV Christy|NOUN 's|PRT plate|NOUN )|. No|DET food|NOUN .|.
+ Is|VERB this|DET all|DET the|DET food|NOUN I|PRON get|VERB ?|.
+ Yes|X .|.
+ My|PRON what|PRON ?|.
+ Your|PRON cell|NOUN .|.
+ And|CONJ whom|PRON would|VERB you|PRON call|VERB ?|.
+ Oh|X ,|. I|PRON do|VERB n't|ADV know|VERB ...|. Satan|NOUN ?|.
+ (|. indignant|NOUN )|. What|QUESTIONTAG 's|VERB wrong|ADJ with|ADP my|PRON life|NOUN ?|.
+ From|ADP all|DET I|PRON 've|VERB heard|VERB ,|. just|ADV about|ADP everything|NOUN .|.
+ What|QUESTIONTAG ?|.
+ (|. groaning|VERB )|. Five|NUM a.m.|NOUN ?|.
+ Is|VERB this|DET like|ADP your|PRON old|ADJ convent|NOUN ?|.
+ Which|QUESTIONTAG convent|NOUN was|VERB that|ADP ,|. Sister|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Progressive|ADJ convents|NOUN .|.
+ Like|ADP this|DET place|NOUN ?|.
+ I|PRON like|VERB my|PRON old|ADJ convent|NOUN ,|. in|ADP Vancouver|NOUN .|.
+ Where|QUESTIONTAG did|VERB that|ADP come|NOUN from|ADP ?|.
+ I|PRON have|VERB n't|ADV heard|VERB that|ADP song|NOUN in|ADP ages|NOUN .|.
+ You|PRON know|VERB that|ADP song|NOUN ?|.
+ 1961|NUM ?|.
+ Anybody|NOUN got|VERB conditioner|NOUN ?|.
+ Where|QUESTIONTAG 's|VERB who|PRON ?|.
+ You|PRON wo|VERB n't|ADV even|ADV tell|VERB us|PRON ?|.
+ Sister|NOUN Mary|NOUN Patrick|NOUN ?|.
+ Yes|X ?|.
+ Yeah|X ?|.
+ Girls|NOUN ,|. this|DET is|VERB Sister|NOUN Mary|NOUN Clarence|NOUN .|.
+ Probation|NOUN ?|.
+ Yeah|X .|.
+ And|CONJ you|PRON listen|VERB to|PRT that|DET ?|.
+ No|DET ,|. but|CONJ ...|.
+ (|. puzzled|VERB )|. What|QUESTIONTAG you|PRON do|VERB ?|.
+ Just|ADV tell|VERB him|PRON ,|. I|PRON do|VERB love|VERB you|PRON ,|. but|CONJ I|PRON ca|VERB n't|ADV --|. I|PRON 'm|VERB a|DET nun|NOUN .|.
+ In|ADP English|NOUN ?|.
+ How|QUESTIONTAG to|PRT put|VERB it|PRON ...|. ah|ADV ,|. Of|ADP course|NOUN ,|. Mary|NOUN Clarence|NOUN .|.
+ Soon|ADV ,|. you|PRON gorgeous|ADJ thing|NOUN ...|. tell|VERB me|PRON ...|. how|ADV lonely|ADV ?|.
+ It|PRON 's|VERB that|ADP call|NOUN you|PRON were|VERB expecting|VERB ,|. Vince|NOUN .|.
+ Why|ADV ?|.
+ To|PRT sell|VERB ,|. of|ADP course|NOUN .|.
+ Mary|ADJ Clarence|NOUN --|. how|ADV is|VERB your|PRON weaving|VERB progressing|NOUN ?|.
+ Oh|X ,|. she|PRON 's|VERB doing|VERB just|ADV fine|VERB ,|. Reverend|NOUN Mother|NOUN -|.
+ Like|ADP what|PRON ?|.
+ Keeping|VERB our|PRON witnesses|NOUN alive|VERB .|.
+ (|. without|ADP moving|VERB )|. Yeah|X ?|.
+ up|ADV .|.
+ What|QUESTIONTAG ?|.
+ I|PRON ...|.
+ A|DET cigarette|NOUN ?|.
+ An|DET extra|ADJ heel|NOUN of|ADP bread|NOUN .|.
+ Excuse|ADP me|PRON ?|.
+ Oh|X .|.
+ What|QUESTIONTAG ?|.
+ Reverend|NOUN Mother|NOUN says|VERB you|PRON need|VERB experience|ADV ,|. right|ADV ,|. in|ADP life|NOUN .|.
+ Are|NOUN you|PRON sure|ADV ?|.
+ the|DET crucifix|NOUN .|.
+ (|. looking|VERB around|ADV cautiously|ADV )|. Are|VERB you|PRON sure|ADJ this|DET is|VERB what|PRON Reverend|NOUN Mother|NOUN had|VERB in|ADP mind|NOUN ?|.
+ Really|ADV ?|.
+ Who|QUESTIONTAG are|VERB all|DET these|DET people|NOUN ?|.
+ This|DET is|VERB your|PRON neighborhood|NOUN .|.
+ Hey|NOUN ,|. Sisters|NOUN --|. how|ADV you|PRON doin|VERB '|. ?|.
+ (|. flirting|VERB )|. Better|ADJ now|ADV .|.
+ What|QUESTIONTAG 'd|VERB she|PRON say|VERB ?|.
+ You|PRON blew|VERB it|PRON --|. big|ADJ time|NOUN .|.
+ Does|VERB she|PRON know|VERB people|NOUN are|VERB trying|VERB to|PRT kill|VERB me|PRON out|ADP there|ADV ?|.
+ She|PRON 's|VERB counting|VERB on|ADP it|PRON .|.
+ So|ADV what|PRON am|VERB I|PRON supposed|VERB to|PRT do|VERB in|ADP the|DET meantime|NOUN ?|.
+ Go|VERB in|ADP and|CONJ talk|VERB to|PRT her|PRON .|.
+ (|. surprised|VERB )|. I|PRON am|VERB ?|.
+ You|PRON may|VERB stay|VERB .|.
+ (|. with|ADP great|ADJ dread|NOUN )|. What|QUESTIONTAG ?|.
+ You|PRON have|VERB ,|. I|PRON believe|VERB ,|. some|DET minimal|ADJ background|NOUN in|ADP music|NOUN .|.
+ Is|VERB this|DET ...|. choir|NOUN practice|NOUN ?|.
+ Sure|ADJ is|VERB !|.
+ Soprano|NOUN or|CONJ alto|NOUN ?|.
+ (|. very|ADV gloomy|ADV )|. Whatever|DET .|.
+ Who|QUESTIONTAG are|VERB you|PRON guys|NOUN ?|.
+ We|PRON 're|VERB the|DET guys|NOUN from|ADP Vegas|NOUN .|.
+ We|PRON did|VERB n't|ADV tell|VERB you|PRON what|PRON ?|.
+ That|DET she|PRON 's|VERB a|DET nun|NOUN !|.
+ A|DET nun|NOUN ?|.
+ I|PRON 'm|VERB telling|VERB you|PRON !|.
+ Mary|NOUN Clarence|NOUN ,|. are|VERB you|PRON with|ADP us|PRON ?|.
+ Um|NOUN ,|. I|PRON do|VERB n't|ADV really|ADV know|VERB this|DET one|NUM ...|.
+ What|QUESTIONTAG ?|.
+ You|PRON 're|VERB a|DET ringer|NOUN .|.
+ Please|VERB ?|.
+ You|PRON 've|VERB heard|VERB us|PRON .|.
+ What|QUESTIONTAG ?|.
+ Mary|NOUN Robert|NOUN ,|. I|PRON 've|VERB watched|VERB you|PRON .|.
+ (|. puzzled|VERB )|. Chops|NOUN ?|.
+ The|DET goods|NOUN .|.
+ Mary|NOUN Patrick|NOUN --|. do|VERB you|PRON remember|VERB the|DET Dixie|NOUN Cups|NOUN ?|.
+ The|DET Dixie|NOUN Cups|NOUN ?|.
+ Am|NOUN I|PRON ?|.
+ What|QUESTIONTAG you|PRON say|VERB ?|.
+ LET|VERB THY|NOUN SOUL|NOUN BE|NOUN HEALED|NOUN
+ But|CONJ how|ADV ?|.
+ BY|ADP A|NOUN VOICE|NOUN YOU|NOUN HEAR|VERB FROM|NOUN ON|NOUN HIGH|NOUN
+ Oh|X ?|.
+ I|PRON have|VERB n't|ADV enjoyed|VERB Mass|NOUN this|DET much|ADV in|ADP years|NOUN .|.
+ Really|ADV ?|.
+ (|. hugging|VERB Mother|NOUN Superior|NOUN from|ADP behind|NOUN )|. Do|VERB n't|ADV you|PRON love|VERB her|PRON ?|.
+ You|PRON wan|VERB na|PRT call|VERB a|DET cop|NOUN ?|.
+ Are|NOUN you|PRON going|VERB to|PRT shoot|VERB us|PRON all|DET ,|. tough|ADJ guy|NOUN ?|.
+ Is|VERB it|PRON worth|ADP it|PRON ?|.
+ (|. to|PRT the|DET crowd|NOUN )|. Can|VERB I|PRON get|VERB a|DET witness|NOUN ?|.
+ a|DET disgusted|ADJ look|NOUN .|.
+ I|PRON am|VERB ?|.
+ Yeah|X .|.
+ You|PRON mean|VERB --|. worried|VERB about|ADP my|PRON testimony|NOUN ?|.
+ No|DET --|. worried|VERB about|ADP you|PRON .|.
+ You|PRON 're|VERB not|ADV ...|. seeing|VERB anybody|NOUN ?|.
+ No|DET .|.
+ I|PRON have|VERB ?|.
+ You|PRON re|VERB sort|NOUN of|ADP ...|. radiant|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ,|. Mary|NOUN ?|.
+ That|DET man|NOUN --|. who|PRON is|VERB he|PRON ?|.
+ Yes|X ,|. Mary|NOUN ?|.
+ HE|NOUN 'S|VERB SO|NOUN FINE|NOUN ...|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ The|DET council|NOUN of|ADP Cardinals|NOUN is|VERB perhaps|ADV the|DET most|ADV esteemed|ADJ body|NOUN in|ADP the|DET entire|ADJ Catholic|NOUN church|NOUN .|.
+ Is|VERB n't|ADV that|ADV why|ADV we|PRON were|VERB asked|VERB to|PRT sing|VERB for|ADP those|DET Cardinals|NOUN ?|.
+ I|PRON believe|VERB this|DET can|VERB be|VERB settled|VERB by|ADP a|DET simple|ADJ vote|NOUN .|.
+ A|DET vote|NOUN ?|.
+ Of|ADP course|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON am|VERB certain|ADJ the|DET presentation|NOUN will|VERB be|VERB a|DET great|ADJ success|NOUN .|.
+ You|PRON sent|VERB for|ADP me|PRON ?|.
+ You|PRON have|VERB a|DET phone|NOUN call|NOUN .|.
+ Hello|NOUN ?|.
+ Good|ADJ news|NOUN ,|. kid|NOUN .|.
+ That|DET soon|ADV ?|.
+ What|QUESTIONTAG ?|.
+ I|PRON have|VERB submitted|VERB my|PRON resignation|NOUN to|PRT Bishop|NOUN O'Hara|NOUN .|.
+ But|CONJ --|. why|ADV ?|.
+ I|PRON must|VERB go|VERB where|ADV I|PRON can|VERB be|VERB of|ADP use|NOUN .|.
+ Is|VERB there|DET any|DET syrup|NOUN ?|.
+ Well|ADV ...|. see|NOUN ,|. at|ADP my|PRON old|ADJ convent|NOUN ,|. I|PRON was|VERB n't|ADV always|ADV ...|. real|ADJ popular|ADJ .|.
+ (|. worried|VERB )|. Are|VERB you|PRON leaving|VERB us|PRON ?|.
+ (|. sincerely|ADV )|. Oh|X no|DET .|.
+ What|QUESTIONTAG the|DET hell|NOUN is|VERB this|DET ...|. ?|.
+ Katherine|NOUN 's|PRT Convent|NOUN in|ADP San|NOUN Francisco|NOUN .|.
+ I|PRON get|VERB all|DET the|DET way|NOUN down|ADP to|PRT my|PRON car|NOUN ,|. and|CONJ ,|. of|ADP course|NOUN --|. where|ADV are|VERB the|DET keys|NOUN ?|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ They|PRON know|VERB she|PRON 's|VERB here|ADV !|.
+ Eddie|NOUN ...|. ?|.
+ staircase|NOUN .|.
+ (|. shocked|VERB and|CONJ scared|VERB )|. How|QUESTIONTAG ?|.
+ Long|ADV story|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON 've|VERB got|VERB a|DET show|NOUN --|. at|ADP St.|NOUN Matthew|NOUN 's|PRT Cathedral|NOUN .|.
+ (|. goading|VERB her|PRON )|. Nuns|NOUN ?|.
+ What|QUESTIONTAG 're|VERB you|PRON doing|VERB ?|.
+ Even|ADV nuns|NOUN have|VERB to|PRT pee|VERB .|.
+ Is|VERB this|DET the|DET choir|NOUN you|PRON 've|VERB been|VERB speaking|VERB so|ADV highly|ADV of|ADP ,|. Bishop|NOUN ?|.
+ They|PRON 're|VERB just|ADV a|DET bit|ADV nervous|ADJ .|.
+ Excuse|ADP me|PRON --|. where|ADV 's|VERB the|DET rehearsal|NOUN room|NOUN ?|.
+ to|PRT see|VERB they|PRON are|VERB .|.
+ Again|ADV ?|.
+ two|NUM men|NOUN hustle|VERB the|DET two|NUM struggling|VERB nuns|NOUN out|PRT the|DET door|NOUN to|PRT the|DET alley|NOUN .|.
+ What|QUESTIONTAG ?|.
+ (|. quickly|ADV ,|. to|PRT Mary|NOUN Robert|NOUN )|. You|PRON can|VERB handle|VERB this|DET .|.
+ You|PRON mean|VERB --|. they|PRON kidnapped|VERB her|PRON ?|.
+ Yes|X --|. two|NUM men|NOUN --|. and|CONJ they|PRON had|VERB guns|NOUN .|.
+ But|CONJ --|. why|ADV would|VERB anyone|NOUN kidnap|VERB a|DET nun|NOUN ?|.
+ Were|ADV they|PRON Catholics|NOUN ?|.
+ An|DET ...|. entertainer|NOUN ?|.
+ She|PRON was|VERB n't|ADV a|DET nun|NOUN ?|.
+ She|PRON lied|VERB to|PRT us|PRON ?|.
+ But|CONJ ...|. but|CONJ ...|. she|PRON was|VERB such|ADJ a|DET wonderful|ADJ nun|NOUN .|.
+ Where|QUESTIONTAG is|VERB she|PRON ?|.
+ There|DET was|VERB a|DET kidnapping|NOUN .|.
+ What|QUESTIONTAG ?|.
+ We|PRON are|VERB nuns|ADV .|.
+ So|ADV ?|.
+ We|PRON pray|VERB for|ADP good|ADJ things|NOUN .|.
+ It|PRON 's|VERB done|VERB ?|.
+ Not|ADV ...|. totally|ADV .|.
+ (|. disturbed|VERB )|. What|QUESTIONTAG 's|VERB the|DET problem|NOUN ?|.
+ She|PRON 's|VERB ...|. she|PRON 's|VERB a|DET nun|NOUN .|.
+ But|CONJ ,|. Vince|NOUN ,|. how|ADV do|VERB you|PRON know|VERB she|PRON did|VERB n't|ADV like|VERB ,|. join|VERB up|PRT and|CONJ become|VERB a|DET nun|NOUN when|ADV she|PRON was|VERB in|ADP that|DET convent|NOUN ?|.
+ It|PRON did|VERB n't|ADV happen|VERB .|.
+ But|CONJ where|ADV ?|.
+ Look|NOUN !|.
+ But|CONJ how|ADV do|VERB we|PRON get|VERB there|ADV ?|.
+ Well|ADV ?|.
+ It|PRON did|VERB n't|ADV work|VERB ,|. Vince|NOUN .|.
+ Okay|NOUN ,|. so|ADP the|DET problem|NOUN is|VERB still|ADV the|DET nun|ADJ outfit|NOUN ,|. right|ADV ?|.
+ Right|ADV .|.
+ For|ADP like|ADP ,|. twelve|VERB zillion|NOUN eternities|NOUN ?|.
+ I|PRON 'm|VERB telling|VERB you|PRON ,|. she|PRON 's|VERB not|ADV a|DET nun|NOUN !|.
+ What|QUESTIONTAG ?|.
+ That|DET ...|. thing|NOUN .|.
+ What|QUESTIONTAG 's|VERB she|PRON doing|VERB ?|.
+ She|PRON 's|VERB praying|VERB .|.
+ Excuse|ADP me|PRON --|. has|VERB anyone|NOUN seen|VERB a|DET nun|NOUN ?|.
+ A|DET Benedictine|NOUN .|.
+ Did|NOUN you|PRON learn|VERB something|NOUN ?|.
+ She|PRON shoves|VERB the|DET Salesman|NOUN against|ADP him|PRON and|CONJ runs|VERB away|ADV .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB here|ADV ?|.
+ Saving|VERB you|PRON .|.
+ Which|QUESTIONTAG one|NUM ?|.
+ Where|QUESTIONTAG ?|.
+ Find|NOUN 'em|PRON !|.
+ Joey|NOUN ?|.
+ Where|QUESTIONTAG is|VERB she|PRON ?|.
+ Oh|X ?|.
+ You|PRON saved|VERB my|PRON life|NOUN .|.
+ Do|VERB n't|ADV you|PRON have|VERB a|DET concert|NOUN to|PRT go|VERB to|PRT ?|.
+ That|DET depends|VERB .|.
+ Yeah|X ,|. like|ADP what|PRON ?|.
+ As|ADP they|PRON do|VERB so|ADV ,|. Vince|NOUN struggles|VERB toward|ADP Christy|NOUN ,|. as|ADP two|NUM cops|NOUN hold|VERB him|PRON back|ADV .|.
+ Reverend|VERB Mother|NOUN ?|.
+ Yes|X ?|.
+ What|QUESTIONTAG did|VERB He|PRON say|VERB ?|.
+ HE|NOUN SAID|NOUN ,|. SING|NOUN THE|NOUN DEVIL|NOUN AWAY|NOUN !|.
+ Were|NOUN you|PRON wicked|VERB ?|.
+ SING|NOUN !|.
+ Were|NOUN you|PRON tempted|VERB ?|.
+ SING|NOUN !|.

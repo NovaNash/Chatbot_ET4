@@ -1,0 +1,41 @@
+ say|VERB ?|.
+ you|PRON ?|.
+ photos|NOUN taken|VERB ?|.
+ last|ADJ night|NOUN ?|.
+ teachers|NOUN ,|. not|ADV your|PRON friends|NOUN ?|.
+ (|. into|ADP cellular|ADJ phone|NOUN )|. J.P.L.|NOUN ,|. please|NOUN .|.
+ (|. V.O|NOUN )|. To|PRT when|ADV ?|.
+ (|. Harry|NOUN picks|VERB up|PRT his|PRON bag|NOUN )|. Harry|NOUN ,|. you|PRON have|VERB a|DET second|ADJ ?|.
+ the|DET eco-system|NOUN ?|.
+ there|ADV with|ADP a|DET thousand|NOUN horsepower|NOUN diesel|NOUN !|.
+ yourself|PRON in|ADP the|DET mirror|NOUN ?|.
+ morning|NOUN .|.
+ hours|NOUN ?|.
+ (|. to|PRT Golden|NOUN )|. What|QUESTIONTAG 's|VERB the|DET problem|NOUN ,|. gentlemen|NOUN ?|.
+ (|. cont|VERB 'd|VERB )|. Okay|NOUN ,|. who|PRON ?|.
+ it|PRON ,|. Harry|NOUN .|.
+ kick-ass|NOUN Charlie|NOUN Bronson|NOUN movie|NOUN is|VERB ?|.
+ ``|. Death|NOUN Wish|NOUN .|. ''|.
+ doing|VERB here|ADV ?|.
+ down|ADV ?|.
+ goddamn|NOUN cell|NOUN ?|.
+ possible|ADJ ?|.
+ (|. V.O|NOUN )|. How|QUESTIONTAG 's|PRT she|PRON look|VERB ?|.
+ pressure|NOUN ?|.
+ (|. turning|VERB )|. Yeah|NOUN ?|.
+ (|. winks|NOUN )|. It|PRON 's|VERB kind|NOUN of|ADP sexy|NOUN .|.
+ (|. as|ADP they|PRON walk|VERB out|PRT )|. You|PRON California|NOUN girl|NOUN ?|.
+ (|. into|ADP headset|VERB )|. How|QUESTIONTAG we|PRON doin|VERB '|. ,|. Freedom|NOUN ,|. over|ADP ?|.
+ (|. V.O|NOUN )|. What|QUESTIONTAG is|VERB it|PRON ,|. Willie|NOUN ?|.
+ (|. V.O|NOUN )|. What|QUESTIONTAG 's|VERB the|DET status|NOUN of|ADP Independence|NOUN ?|.
+ far|ADV are|VERB you|PRON ?|.
+ (|. beat|NOUN )|. Twenty-three|NUM feet|NOUN .|.
+ going|VERB on|ADP with|ADP that|DET other|ADJ nuke|NOUN ?|.
+ (|. to|PRT Temple|NOUN )|. What|QUESTIONTAG is|VERB going|VERB on|ADP up|ADP there|ADV ?|.
+ come|VERB into|ADP the|DET picture|NOUN ?|.
+ (|. V.O|NOUN .|. )|.
+ (|. uncertain|ADJ )|. And|CONJ why|ADV to|PRT do|VERB this|DET ?|.
+ Trust|NOUN me|PRON ,|. okay|PRON ?|.
+ (|. to|PRT Golden|NOUN )|. Oh|NOUN yeah|X ,|. Golden|NOUN ?|.
+ (|. V.O|NOUN .|. )|.
+ (|. laughs|VERB nervously|ADV )|. I|PRON know|VERB it|PRON ai|VERB n't|ADV gon|VERB na|PRT happen|VERB now|ADV ,|. but|CONJ ...|. .if|ADJ things|NOUN were|VERB different|ADJ ...|. What|QUESTIONTAG would|VERB you|PRON say|VERB ...|. ?|.

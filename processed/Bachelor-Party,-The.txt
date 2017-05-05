@@ -1,0 +1,4 @@
+ What|QUESTIONTAG ?|.
+ I|PRON got|VERB two|NUM classes|NOUN tonight|VERB .|.
+ What|QUESTIONTAG are|VERB you|PRON ,|. a|DET Yankee|NOUN fan|NOUN ?|.
+ Yeah|X .|.

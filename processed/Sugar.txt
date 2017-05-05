@@ -1,0 +1,248 @@
+ What|QUESTIONTAG 'd|VERB you|PRON tell|VERB him|PRON ?|.
+ I|PRON told|VERB him|PRON to|PRT grip|VERB the|DET ball|NOUN more|ADV gently|ADV .|.
+ How|QUESTIONTAG much|ADV he|PRON sign|VERB for|ADP ?|.
+ Forty-five|ADJ .|.
+ We|PRON gon|VERB na|PRT sign|VERB him|PRON ?|.
+ Soon|ADV .|.
+ How|QUESTIONTAG much|ADJ you|PRON think|VERB ?|.
+ They|PRON 've|VERB gotten|VERB two|NUM offers|NOUN from|ADP other|ADJ clubs|NOUN .|.
+ What|QUESTIONTAG about|ADP him|PRON ?|.
+ Miguel|NOUN Santos|NOUN .|.
+ How|QUESTIONTAG are|VERB you|PRON ,|. sis|VERB ?|.
+ Any|DET news|NOUN about|ADP the|DET States|NOUN ?|.
+ Is|VERB that|ADP all|DET you|PRON have|VERB to|PRT say|VERB ?|.
+ towards|NOUN their|PRON home|NOUN -|. a|DET small|ADJ wooden|ADJ construction|NOUN with|ADP peeling|VERB paint|NOUN and|CONJ a|DET rusted|ADJ aluminum|NOUN roof|NOUN .|.
+ You|PRON 're|VERB going|VERB to|PRT the|DET United|NOUN States|NOUN ?|.
+ Not|ADV yet|ADV ,|. ma|NOUN ...|.
+ When|QUESTIONTAG will|VERB you|PRON finish|VERB this|DET ?|.
+ Soon|ADV .|.
+ Promise|NOUN ?|.
+ Next|ADJ Christmas|NOUN ,|. we|PRON 'll|VERB sail|VERB into|ADP Yankee|NOUN Stadium|NOUN in|ADP my|PRON Cadillac|NOUN car-boat|NOUN .|.
+ Then|ADV why|ADV 'd|VERB you|PRON cut|VERB it|PRON last|ADJ week|NOUN ?|.
+ I|PRON thought|VERB it|PRON was|VERB time|NOUN for|ADP a|DET new|ADJ look|NOUN .|.
+ You|PRON call|VERB that|ADP flabby|NOUN rubberband|VERB an|DET arm|NOUN ?|.
+ Oooh|NOUN ...|.
+ Have|VERB you|PRON been|VERB to|PRT New|NOUN York|NOUN ?|.
+ What|QUESTIONTAG 's|VERB the|DET city|NOUN like|ADP ?|.
+ It|PRON 's|VERB great|ADJ .|.
+ You|PRON hear|VERB anything|NOUN about|ADP spring|NOUN training|NOUN yet|ADV ?|.
+ Yep|NOUN .|.
+ And|CONJ ?|.
+ Wan|NOUN na|PRT join|VERB us|PRON for|ADP dinner|NOUN ?|.
+ Not|ADV tonight|NOUN .|.
+ So|ADV ,|. why|ADV do|VERB they|PRON call|VERB you|PRON Sugar|NOUN ?|.
+ Santos|NOUN ,|. what|PRON the|DET hell|NOUN 's|PRT wrong|ADJ with|ADP you|PRON ?|.
+ I|PRON think|VERB I|PRON have|VERB the|DET flu|NOUN ,|. coach|NOUN .|.
+ Hello|NOUN ?|.
+ She|PRON struggles|VERB to|PRT contain|VERB her|PRON joy|NOUN .|.
+ Everything|NOUN ?|.
+ You|PRON know|VERB what|PRON I|PRON mean|VERB ,|. dummy|NOUN .|.
+ When|QUESTIONTAG ?|.
+ What|QUESTIONTAG 's|VERB your|PRON name|NOUN ?|.
+ How|QUESTIONTAG 's|PRT your|PRON new|ADJ curve|NOUN ?|.
+ It|PRON 's|VERB pretty|ADJ sweet|ADJ .|.
+ What|QUESTIONTAG 's|VERB this|DET for|ADP ?|.
+ Your|PRON autograph|NOUN .|.
+ Where|QUESTIONTAG 's|VERB your|PRON boyfriend|NOUN ?|.
+ Which|QUESTIONTAG one|NUM ?|.
+ Hector|NOUN ?|.
+ Okay|NOUN ,|. where|ADV 's|PRT Hector|NOUN ?|.
+ So|ADV what|PRON about|ADP the|DET good-looking|VERB one|NUM ?|.
+ You|PRON boys|VERB ready|ADJ ?|.
+ The|DET greatest|ADJ thing|NOUN about|ADP the|DET States|NOUN ?|.
+ Who|QUESTIONTAG 's|VERB next|ADJ ?|.
+ What|QUESTIONTAG 's|VERB this|DET about|ADP Dominicans|NOUN ruling|VERB the|DET game|NOUN ?|.
+ No|DET ,|. he|PRON must|VERB 've|VERB said|VERB Venezuelans|NOUN .|.
+ Are|NOUN you|PRON guys|VERB all|DET from|ADP the|DET same|ADJ family|NOUN ?|.
+ Look|NOUN who|PRON 's|VERB talking|VERB ...|. Are|VERB these|DET your|PRON brothers|NOUN ?|.
+ What|QUESTIONTAG ,|. all|DET Dominicans|NOUN look|VERB the|DET same|ADJ ,|. now|ADV ?|.
+ new|ADJ players|NOUN .|.
+ You|PRON do|VERB n't|ADV believe|VERB me|PRON ?|.
+ No|DET .|.
+ So|ADV ,|. do|VERB you|PRON like|ADP it|PRON there|DET ?|.
+ Mmmm|NOUN ...|.
+ Different|NOUN how|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Where|QUESTIONTAG did|VERB you|PRON learn|VERB English|NOUN so|ADV good|ADJ ?|.
+ Back|ADV home|NOUN in|ADP Caracas|NOUN .|.
+ Like|ADP in|ADP high|ADJ school|NOUN ,|. or|CONJ something|NOUN ?|.
+ Yeah|X ,|. but|CONJ it|PRON 's|VERB still|ADV hard|ADJ though|ADP .|.
+ French|ADJ toast|NOUN ,|. right|ADV ?|.
+ No|DET ...|.
+ I|PRON 'm|VERB not|ADV with|ADP you|PRON guys|NOUN ?|.
+ Straight|NOUN to|PRT Single|VERB A|NOUN ,|. bro|NOUN .|.
+ Where|QUESTIONTAG is|VERB Iowa|NOUN ?|.
+ Ca|NOUN n't|ADV I|PRON stay|VERB with|ADP you|PRON guys|NOUN ?|.
+ Do|VERB n't|ADV worry|VERB ,|. Sugar|NOUN .|.
+ Then|ADV why|ADV do|VERB n't|ADV you|PRON stay|VERB with|ADP them|PRON again|ADV ?|.
+ They|PRON have|VERB a|DET no|DET girls|ADJ policy|NOUN .|.
+ Did|NOUN you|PRON get|VERB the|DET money|NOUN ?|.
+ Of|ADP course|NOUN .|.
+ What|QUESTIONTAG ?|.
+ You|PRON did|VERB n't|ADV get|VERB anything|NOUN ?|.
+ So|ADV ,|. Miguel|NOUN ...|. Do|VERB -|. you|PRON -|. eat|VERB -|. meatloaf|NOUN -|. back|ADV home|NOUN ?|.
+ I|PRON already|ADV told|VERB you|PRON ,|. Michael|NOUN ,|. he|PRON does|VERB n't|ADV speak|VERB any|DET English|NOUN .|.
+ (|. in|ADP bad|ADJ Spanish|ADJ )|. Que|NOUN pasa|NOUN ,|. hermano|NOUN ?|.
+ familiar|ADJ face|NOUN .|.
+ (|. in|ADP bad|ADJ English|NOUN )|. What|QUESTIONTAG up|PRT ,|. Flaco|NOUN ?|.
+ Dude|NOUN ,|. I|PRON was|VERB totally|ADV psyched|ADJ when|ADV I|PRON saw|VERB your|PRON name|NOUN on|ADP the|DET squad|NOUN .|.
+ You|PRON like|ADP it|PRON ?|.
+ I|PRON love|VERB it|PRON !|.
+ Big|NOUN Muddy|NOUN 's|PRT ?|.
+ Miguel|NOUN .|.
+ You|PRON think|VERB they|PRON know|VERB how|ADV to|PRT salsa|VERB ?|.
+ (|. smiling|VERB )|. Go|NOUN for|ADP it|PRON ,|. bro|NOUN .|.
+ You|PRON ready|ADJ ?|.
+ Let|VERB 's|PRON do|VERB it|PRON .|.
+ Can|VERB I|PRON borrow|VERB a|DET pen|ADJ real|ADJ quick|NOUN ?|.
+ Miguel|NOUN 's|PRT forearm|NOUN .|.
+ What|QUESTIONTAG 's|VERB up|PRT ,|. man|NOUN ?|.
+ Wan|NOUN na|PRT play|VERB ?|.
+ Foos-ball|NUM ?|.
+ Yeah|X ,|. you|PRON got|VERB it|PRON .|.
+ Cocksucker|NOUN ?|.
+ Cock-sucker|NOUN ?|.
+ (|. in|ADP bad|ADJ Spanish|ADJ )|. Who|QUESTIONTAG is|VERB your|PRON favorite|ADJ player|NOUN ?|.
+ (|. in|ADP bad|ADJ English|NOUN )|. Robinson|NOUN Cano|NOUN for|ADP the|DET Yankees|NOUN .|.
+ Who|QUESTIONTAG is|VERB that|ADP ?|.
+ Is|VERB Dominican|NOUN ?|.
+ Puerto|ADJ Rican|NOUN .|.
+ Hey|NOUN ,|. how|ADV 'd|VERB it|PRON go|VERB with|ADP that|DET girl|VERB the|DET other|ADJ night|NOUN ?|.
+ Girl|NOUN ?|.
+ Yeah|X ,|. did|VERB n't|ADV you|PRON have|VERB a|DET date|NOUN ,|. or|CONJ something|NOUN ?|.
+ Oh|X ,|. she|PRON no|DET es|ADJ my|PRON girl|NOUN .|.
+ You|PRON like|ADP The|DET White|NOUN Stripes|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ At|ADP what|PRON point|NOUN in|ADP the|DET game|NOUN did|VERB you|PRON realize|VERB you|PRON had|VERB your|PRON best|ADJ stuff|NOUN ?|.
+ (|. doing|VERB his|PRON best|ADJ )|. When|QUESTIONTAG did|VERB you|PRON know|VERB you|PRON were|VERB going|VERB to|PRT be|VERB a|DET good|ADJ pitcher|NOUN in|ADP this|DET game|NOUN ?|.
+ Did|NOUN you|PRON ever|ADV see|VERB ``|. Y|NOUN Tu|NOUN Mama|NOUN Tambien|NOUN ''|. ?|.
+ Y|NOUN tu|NOUN mama|NOUN what|PRON ?|.
+ What|QUESTIONTAG are|VERB your|PRON favorite|ADJ movies|NOUN ?|.
+ Terminator|NOUN .|.
+ He|PRON does|VERB n't|ADV know|VERB Matrisse|NOUN ?|.
+ You|PRON do|VERB n't|ADV know|VERB The|DET Matrisse|NOUN ?|.
+ The|DET Mattress|NOUN ?|.
+ With|ADP Keanu|NOUN ...|. ?|.
+ Keanu|NOUN Reeves|NOUN ?|.
+ Oh|X ,|. shit|ADJ !|.
+ You|PRON okay|VERB ?|.
+ Where|QUESTIONTAG 'd|VERB you|PRON say|VERB you|PRON were|VERB from|ADP ,|. Brad|NOUN ?|.
+ Berkeley|NOUN .|.
+ Your|PRON parents|NOUN visit|NOUN here|ADV ?|.
+ My|PRON family|NOUN ?|.
+ Yeah|X .|.
+ I|PRON live|VERB with|ADP my|PRON mother|NOUN ,|. sister|NOUN ,|. brother|NOUN ...|. and|CONJ Abuela|NOUN ?|.
+ How|QUESTIONTAG about|ADP your|PRON father|NOUN ,|. Miguel|NOUN ?|.
+ My|PRON father|NOUN ,|. uh|NOUN ...|. (|. searching|VERB for|ADP the|DET word|NOUN )|. He|PRON die|VERB .|.
+ (|. to|PRT Michael|NOUN and|CONJ Hilary|NOUN )|. You|PRON have|VERB other|ADJ child|NOUN ...|. ?|.
+ Yes|X ,|. we|PRON have|VERB a|DET son|NOUN .|.
+ You|PRON like|ADP it|PRON here|ADV in|ADP Iowa|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG happened|VERB there|DET ?|.
+ (|. struggling|VERB )|. Uh|NOUN ...|.
+ What|QUESTIONTAG happened|VERB ?|.
+ It|PRON 's|VERB over|PRT .|.
+ Why|ADV ?|.
+ You|PRON know|VERB the|DET drill|NOUN .|.
+ When|QUESTIONTAG do|VERB you|PRON leave|VERB ?|.
+ They|PRON want|VERB me|PRON to|PRT fly|VERB back|ADV tonight|NOUN .|.
+ Tonight|NOUN ?|.
+ But|CONJ I|PRON 'm|VERB not|ADV going|VERB back|ADV ...|.
+ You|PRON 're|VERB going|VERB to|PRT New|NOUN York|NOUN ?|.
+ Where|QUESTIONTAG else|ADV ?|.
+ How|QUESTIONTAG 'd|VERB you|PRON play|VERB tonight|VERB ?|.
+ (|. hesitant|NOUN )|. Good|NOUN ,|. good|ADJ .|.
+ A|DET few|ADJ ?|.
+ Just|ADV kidding|NOUN .|.
+ To|PRT the|DET Yankees|NOUN ?|.
+ No|DET .|.
+ Shit|NOUN ...|. What|QUESTIONTAG about|ADP his|PRON family|NOUN ?|.
+ What|QUESTIONTAG is|VERB your|PRON book|NOUN ?|.
+ Welcome|VERB to|PRT the|DET Terrordome|NOUN .|.
+ You|PRON study|VERB at|ADP ,|. um|X ,|. university|NOUN ?|.
+ Yeah|X ,|. I|PRON went|VERB to|PRT Stanford|NOUN .|.
+ High|ADJ school|NOUN ?|.
+ Yes|X .|.
+ If|ADP you|PRON no|DET play|VERB baseball|NOUN ...|. what|PRON you|PRON do|VERB ?|.
+ Um|NOUN ...|. it|PRON 's|VERB hard|ADJ to|PRT say|VERB for|ADP sure|ADJ ,|. but|CONJ I|PRON like|VERB history|NOUN ,|. so|ADP I|PRON 'd|VERB probably|ADV go|VERB to|PRT grad|VERB school|NOUN ...|. maybe|ADV teach|VERB someday|NOUN .|.
+ You|PRON want|VERB sit|VERB ?|.
+ I|PRON got|VERB ta|ADV go|VERB actually|ADV ,|. so|ADV --|.
+ What|QUESTIONTAG he|PRON say|VERB ?|.
+ And|CONJ anyone|NOUN finds|VERB these|DET ,|. you|PRON did|VERB n't|ADV get|VERB them|PRON from|ADP me|PRON ,|. okay|PRON ?|.
+ laundry|NOUN .|.
+ What|QUESTIONTAG 's|VERB up|PRT ?|.
+ What|QUESTIONTAG 's|VERB up|PRT ,|. Sal|NOUN ?|.
+ Did|NOUN you|PRON hear|VERB I|PRON made|VERB player|NOUN of|ADP the|DET week|NOUN ?|.
+ Which|QUESTIONTAG one|NUM do|VERB you|PRON use|VERB ?|.
+ Where|QUESTIONTAG 's|VERB he|PRON going|VERB ?|.
+ Bathroom|NOUN .|.
+ Is|VERB Jorge|NOUN working|VERB today|NOUN ?|.
+ Jorge|NOUN ?|.
+ For|ADP how|ADV long|ADJ ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ You|PRON speak|VERB Spanish|ADJ ?|.
+ Of|ADP course|NOUN .|.
+ Is|VERB this|DET your|PRON place|NOUN ?|.
+ Yeah|X .|.
+ Do|VERB you|PRON know|VERB any|DET other|ADJ places|NOUN like|ADP this|DET where|ADV I|PRON might|VERB find|VERB work|NOUN ?|.
+ Have|VERB you|PRON checked|VERB the|DET classifieds|NOUN ?|.
+ (|. into|ADP phone|NOUN )|. Erica|NOUN ?|.
+ Republic|NOUN .|.
+ Yeah|X ,|. sure|ADJ ,|. did|VERB you|PRON find|VERB your|PRON guy|NOUN ?|.
+ No|DET .|.
+ Do|VERB you|PRON know|VERB anybody|NOUN with|ADP a|DET room|NOUN for|ADP rent|NOUN ?|.
+ You|PRON and|CONJ Jorge|VERB used|VERB to|PRT play|VERB baseball|NOUN together|ADV ?|.
+ Yeah|X ,|. you|PRON like|ADP baseball|NOUN ?|.
+ How|QUESTIONTAG long|ADV have|VERB you|PRON worked|VERB here|ADV ?|.
+ Two|NUM years|NOUN .|.
+ Do|VERB you|PRON have|VERB family|NOUN here|ADV ?|.
+ No|DET .|.
+ Hi|NOUN ,|. um|NOUN ,|. do|VERB you|PRON remember|VERB me|PRON ?|.
+ Yeah|X ,|. but|CONJ ,|. sorry|VERB ,|. I|PRON still|ADV do|VERB n't|ADV have|VERB a|DET job|NOUN for|ADP you|PRON .|.
+ Somebody|NOUN paying|VERB you|PRON for|ADP the|DET table|NOUN ?|.
+ No|DET .|.
+ How|QUESTIONTAG old|ADJ are|VERB you|PRON ?|.
+ Twenty|NOUN .|.
+ Who|QUESTIONTAG taught|VERB you|PRON to|PRT make|VERB tables|NOUN ?|.
+ Is|VERB that|ADP where|ADV you|PRON 're|VERB from|ADP ?|.
+ Yeah|X .|.
+ Your|PRON mom|NOUN still|ADV in|ADP San|NOUN Pedro|NOUN ?|.
+ Yeah|X .|.
+ So|ADV ,|. you|PRON 're|VERB telling|VERB me|PRON that|ADP you|PRON want|VERB to|PRT make|VERB a|DET table|NOUN for|ADP your|PRON mom|NOUN ,|. then|ADV mail|NOUN it|PRON back|ADV to|PRT her|PRON in|ADP the|DET Dominican|NOUN ?|.
+ What|QUESTIONTAG 's|VERB your|PRON name|NOUN ?|.
+ Miguel|NOUN .|.
+ (|. with|ADP a|DET mysterious|ADJ Eastern-|ADJ European|ADJ accent|NOUN )|. You|PRON just|ADV going|VERB to|PRT watch|VERB or|CONJ you|PRON going|VERB to|PRT help|VERB me|PRON out|PRT ?|.
+ few|ADJ beats|NOUN ,|. a|DET flying|VERB sock|NOUN lands|NOUN on|ADP his|PRON shoulder|NOUN .|.
+ Where|QUESTIONTAG you|PRON from|ADP ?|.
+ Ukraine|NOUN .|.
+ Who|QUESTIONTAG 's|VERB your|PRON favorite|ADJ player|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB enough|ADV to|PRT have|VERB a|DET favorite|NOUN .|.
+ C'mon|NOUN ,|. everybody|NOUN has|VERB a|DET favorite|ADJ player|NOUN :|. Juan|ADJ Marichal|NOUN ,|. Pedro|NOUN Martinez|NOUN ?|.
+ Fine|NOUN .|.
+ Okay|NOUN ,|. what|PRON about|ADP you|PRON ?|.
+ Roberto|NOUN Clemente|NOUN .|.
+ What|QUESTIONTAG 's|VERB so|ADV special|ADJ about|ADP Clemente|NOUN ?|.
+ I|PRON read|VERB this|DET book|NOUN where|ADV he|PRON said|VERB something|NOUN like|ADP ,|. ``|. If|ADP you|PRON have|VERB the|DET opportunity|NOUN to|PRT help|VERB someone|NOUN and|CONJ do|VERB n't|ADV ,|. then|ADV you|PRON 're|VERB wasting|VERB your|PRON life|NOUN .|. ''|.
+ Google|NOUN ?|.
+ The|DET internet|NOUN .|.
+ When|QUESTIONTAG did|VERB you|PRON get|VERB released|VERB ?|.
+ They|PRON did|VERB n't|ADV release|VERB me|PRON .|.
+ (|. after|ADP a|DET beat|NOUN )|. Why|ADV 'd|VERB you|PRON leave|VERB ?|.
+ discomfort|NOUN with|ADP the|DET question|NOUN .|.
+ Do|VERB you|PRON have|VERB any|DET family|NOUN here|ADV ?|.
+ (|. shaking|VERB his|PRON head|NOUN )|. But|CONJ I|PRON 'm|VERB okay|ADJ ...|.
+ Do|VERB you|PRON know|VERB a|DET place|NOUN called|VERB Ukraine|NOUN ?|.
+ Jesus|NOUN ,|. Miguel|NOUN ,|. what|PRON the|DET hell|NOUN happened|VERB ?|.
+ What|QUESTIONTAG happened|VERB to|PRT you|PRON ?|.
+ Me|NOUN ?|.
+ What|QUESTIONTAG was|VERB it|PRON then|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. but|CONJ I|PRON was|VERB n't|ADV gon|VERB na|PRT wait|VERB around|PRT for|ADP them|PRON to|PRT throw|VERB me|PRON out|PRT .|.
+ They|PRON call|VERB you|PRON Sugar|NOUN ?|.
+ How|QUESTIONTAG 's|PRT Erica|NOUN ?|.
+ She|PRON 's|VERB good|ADJ .|.
+ And|CONJ Luis|NOUN ?|.
+ He|PRON 's|VERB pitching|VERB now|ADV .|.
+ Yeah|X ,|. but|CONJ can|VERB he|PRON throw|VERB a|DET knuckle|NOUN curve|NOUN ?|.
+ It|PRON 's|VERB been|VERB a|DET while|NOUN ,|. no|DET ?|.
+ Do|VERB n't|ADV worry|VERB ;|. he|PRON 's|VERB ready|ADJ .|.
+ What|QUESTIONTAG 's|VERB up|PRT ,|. Sugar|NOUN ?|.

@@ -1,0 +1,247 @@
+ What|QUESTIONTAG am|VERB I|PRON ,|. Mr.|NOUN Lambert|NOUN ?|.
+ Bitten|NOUN ,|. Mr.|NOUN Fennyman|NOUN .|.
+ How|QUESTIONTAG badly|ADV bitten|ADV ,|. Mr.|NOUN Frees|NOUN ?|.
+ Twelve|NOUN pounds|NOUN ,|. one|NUM shilling|NOUN and|CONJ four|NUM pence|NOUN ,|. Mr.|NOUN Fennyman|NOUN ,|. including|VERB interest|NOUN .|.
+ When|QUESTIONTAG ?|.
+ Two|NUM weeks|NOUN ,|. three|NUM at|ADP the|DET most|ADV ,|. Aaaagh|VERB !|.
+ including|VERB interest|NOUN in|ADP three|NUM weeks|NOUN ?|.
+ I|PRON have|VERB a|DET wonderful|ADJ new|ADJ play|NOUN !|.
+ What|QUESTIONTAG 's|VERB the|DET title|NOUN ?|.
+ Romeo|NOUN and|CONJ Ethel|NOUN the|DET Pirate|NOUN 's|PRT Daughter|NOUN .|.
+ Romeo|NOUN and|CONJ Ethel|NOUN The|DET Pirate|NOUN 's|PRT Daughter|NOUN Almost|NOUN finished|VERB ?|.
+ Without|ADP doubt|NOUN he|PRON is|VERB completing|VERB it|PRON at|ADP this|DET very|ADV moment|NOUN .|.
+ (|. catching|VERB up|PRT )|. Who|QUESTIONTAG is|VERB she|PRON this|DET time|NOUN ?|.
+ She|PRON is|VERB always|ADV Aphrodite|NOUN .|.
+ Aphrodite|NOUN Baggot|NOUN who|PRON does|VERB it|PRON behind|ADP the|DET Dog|NOUN and|CONJ Trumpet|NOUN ?|.
+ Henslowe|NOUN ,|. you|PRON have|VERB no|DET soul|NOUN so|ADV how|ADV can|VERB you|PRON understand|VERB the|DET emptiness|NOUN that|DET seeks|VERB a|DET soulmate|NOUN ?|.
+ Who|QUESTIONTAG wrote|VERB that|ADP ?|.
+ Nobody|NOUN !|.
+ Mr.|NOUN Henslowe|NOUN ,|. will|VERB you|PRON lend|VERB me|PRON fifty|VERB pounds|NOUN ?|.
+ (|. staggered|VERB )|. Fifty|NOUN pounds|NOUN ?|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ To|PRT my|PRON weekly|ADJ confession|NOUN .|.
+ And|CONJ yet|ADV you|PRON tell|VERB me|PRON you|PRON lie|VERB with|ADP women|NOUN ?|.
+ notes|NOUN .|.
+ (|. shrewdly|ADV )|. Tell|NOUN me|PRON ,|. are|VERB you|PRON lately|ADV humbled|VERB in|ADP the|DET act|NOUN of|ADP love|NOUN ?|.
+ How|QUESTIONTAG long|ADV has|VERB it|PRON been|VERB ?|.
+ A|DET goodly|ADJ length|NOUN in|ADP times|NOUN past|ADJ ,|. but|CONJ lately|ADV
+ A|DET woman|NOUN of|ADP property|NOUN ?|.
+ (|. shrugs|NOUN )|. She|PRON had|VERB a|DET cottage|NOUN .|.
+ And|CONJ your|PRON relations|NOUN ?|.
+ On|ADP my|PRON mother|NOUN 's|PRT side|NOUN the|DET Ardens|NOUN
+ Will|VERB it|PRON restore|VERB my|PRON gift|NOUN ?|.
+ The|DET woman|NOUN who|PRON wears|VERB the|DET snake|NOUN will|VERB dream|VERB of|ADP you|PRON ,|. and|CONJ your|PRON gift|NOUN will|VERB return|VERB .|.
+ (|. to|PRT ROSALINE|NOUN )|. My|PRON sleeve|NOUN wants|VERB for|ADP a|DET button|NOUN ,|. Mistress|NOUN Rosaline|NOUN ,|. where|ADV were|VERB my|PRON seamstress|NOUN 's|PRT eyes|NOUN ?|.
+ over|ADP to|PRT greet|VERB WILL|NOUN .|.
+ Are|NOUN you|PRON writing|VERB ?|.
+ (|. nods|NOUN somewhat|ADV defensively|ADV )|. A|DET comedy|NOUN .|.
+ What|QUESTIONTAG is|VERB the|DET chief|ADJ part|NOUN ?|.
+ Romeo|NOUN .|.
+ The|DET title|NOUN ?|.
+ Romeo|NOUN
+ How|QUESTIONTAG much|ADJ ?|.
+ Ten|NUM pounds|NOUN .|.
+ And|CONJ what|PRON favour|NOUN does|VERB Mr.|NOUN Tilney|NOUN receive|VERB from|ADP you|PRON ?|.
+ Ask|NOUN him|PRON .|.
+ When|QUESTIONTAG will|VERB you|PRON write|VERB me|PRON a|DET sonnet|NOUN ,|. Will|NOUN ?|.
+ I|PRON have|VERB lost|VERB my|PRON gift|NOUN .|.
+ Are|NOUN you|PRON to|PRT be|VERB my|PRON muse|NOUN ,|. ROSALINE|NOUN ?|.
+ Burbage|NOUN has|VERB my|PRON keeping|VERB but|CONJ you|PRON have|VERB my|PRON heart|NOUN .|.
+ Is|VERB it|PRON about|ADP a|DET pirate|NOUN 's|PRT daughter|NOUN ?|.
+ DAY|NOUN .|.
+ Like|ADP Valentine|NOUN and|CONJ Silvia|NOUN ?|.
+ No|DET .|.
+ What|QUESTIONTAG have|VERB I|PRON done|VERB ,|. Mr.|NOUN Fennyman|NOUN ?|.
+ The|DET theatres|NOUN are|VERB all|DET closed|VERB by|ADP the|DET plague|NOUN !|.
+ So|ADV what|PRON do|VERB we|PRON do|VERB ?|.
+ Nothing|NOUN .|.
+ How|QUESTIONTAG ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ (|. dumbly|ADV )|. Should|VERB I|PRON kill|VERB him|PRON ,|. Mr.|NOUN Fennyman|NOUN ?|.
+ messenger|NOUN ,|. ringing|VERB a|DET bell|NOUN ,|. is|VERB running|VERB though|ADP the|DET street|NOUN .|.
+ Where|QUESTIONTAG is|VERB the|DET play|NOUN ?|.
+ Oh|X ,|. it|PRON 's|VERB coming|VERB ,|. it|PRON 's|VERB coming|VERB .|.
+ Burbage|NOUN ?|.
+ You|PRON have|VERB opened|VERB the|DET playhouses|NOUN ?|.
+ I|PRON have|VERB ,|. Master|NOUN Shakespeare|NOUN .|.
+ What|QUESTIONTAG about|ADP the|DET money|NOUN ,|. Mr.|NOUN Henslowe|NOUN ?|.
+ It|PRON wo|VERB n't|ADV cost|VERB you|PRON a|DET penny|NOUN !|.
+ Straight|NOUN up|PRT ,|. Will|NOUN ?|.
+ Give|VERB my|PRON friend|NOUN a|DET beaker|NOUN of|ADP your|PRON best|ADJ brandy|NOUN .|.
+ How|QUESTIONTAG goes|VERB it|PRON ,|. Will|NOUN ?|.
+ Wonderful|NOUN ,|. wonderful|NOUN .|.
+ And|CONJ yours|NOUN ?|.
+ Romeo|NOUN and|CONJ Ethel|NOUN the|DET Pirate|NOUN 's|PRT Daughter|NOUN .|.
+ What|QUESTIONTAG is|VERB the|DET story|NOUN ?|.
+ Well|ADV ,|. there|DET 's|VERB a|DET pirate|NOUN (|. confesses|NOUN )|. In|ADP truth|NOUN ,|. I|PRON have|VERB not|ADV written|VERB a|DET word|NOUN .|.
+ Do|VERB you|PRON think|VERB ?|.
+ The|DET daughter|NOUN of|ADP his|PRON enemy|NOUN .|.
+ (|. trying|VERB to|PRT work|VERB it|PRON out|PRT )|. A|DET different|ADJ one|NUM you|PRON have|VERB n't|ADV written|VERB ?|.
+ May|NOUN I|PRON begin|VERB ,|. sir|NOUN ?|.
+ with|ADP a|DET hat|NOUN shadowing|VERB his|PRON eyes|NOUN .|.
+ Your|PRON name|NOUN ?|.
+ Thomas|NOUN Kent|NOUN .|.
+ My|PRON hat|NOUN ?|.
+ Where|QUESTIONTAG did|VERB you|PRON learn|VERB how|ADV to|PRT do|VERB that|DET ?|.
+ Are|NOUN you|PRON Mr.|NOUN Shakespeare|NOUN ?|.
+ Let|VERB me|PRON see|VERB you|PRON .|.
+ What|QUESTIONTAG are|VERB we|PRON playing|VERB ?|.
+ Where|QUESTIONTAG are|VERB the|DET pages|NOUN ?|.
+ (|. shouts|NOUN )|. Where|QUESTIONTAG 's|VERB the|DET boy|NOUN ?|.
+ stutterer|NOUN ,|. grabs|NOUN Will|NOUN 's|PRT hand|NOUN and|CONJ shakes|NOUN it|PRON excitedly|ADV .|.
+ Really|ADV ?|.
+ I|PRON had|VERB the|DET Christopher|NOUN Marlowe|NOUN in|ADP my|PRON boat|NOUN once|ADV .|.
+ Do|VERB you|PRON know|VERB that|DET house|NOUN ?|.
+ Sir|NOUN Robert|NOUN De|NOUN Lesseps|NOUN .|.
+ Who|QUESTIONTAG asks|VERB for|ADP him|PRON ?|.
+ Is|VERB she|PRON obedient|ADJ ?|.
+ As|ADP any|DET mule|NOUN in|ADP Christendom|NOUN .|.
+ (|. to|PRT Musician|NOUN )|. By|ADP all|DET the|DET stars|NOUN in|ADP heaven|NOUN ,|. who|PRON is|VERB she|PRON ?|.
+ Viola|NOUN de|X Lesseps|NOUN .|.
+ Good|ADJ sir|NOUN ?|.
+ But|CONJ a|DET poet|NOUN of|ADP no|DET words|NOUN ?|.
+ is|VERB dumb|ADJ with|ADP adoration|NOUN .|.
+ (|. startled|VERB )|. How|QUESTIONTAG do|VERB I|PRON offend|VERB ,|. my|PRON lord|NOUN ?|.
+ By|ADP coveting|VERB my|PRON property|NOUN .|.
+ (|. gasps|NOUN )|. Who|QUESTIONTAG is|VERB there|ADV ?|.
+ Will|VERB Shakespeare|VERB !|.
+ Who|QUESTIONTAG are|VERB you|PRON ,|. master|NOUN ?|.
+ I|PRON am|VERB Ethel|NOUN ,|. sir|NOUN ,|. the|DET Pirate|NOUN 's|PRT daughter|NOUN .|.
+ Is|VERB it|PRON going|VERB well|ADV ?|.
+ Very|ADV well|ADV .|.
+ Who|QUESTIONTAG is|VERB that|ADP ?|.
+ Nobody|NOUN .|.
+ Who|QUESTIONTAG is|VERB this|DET ?|.
+ (|. roars|NOUN )|. Who|QUESTIONTAG are|VERB you|PRON ?|.
+ (|. bleating|VERB )|. I|PRON am|VERB the|DET money|NOUN !|.
+ And|CONJ the|DET title|NOUN of|ADP this|DET piece|NOUN ?|.
+ Mercutio|NOUN
+ Is|VERB it|PRON ?|.
+ I|PRON will|VERB play|VERB him|PRON !|.
+ (|. concerned|VERB )|. But|CONJ your|PRON voice|NOUN (|. he|PRON thrust|VERB a|DET hand|NOUN between|ADP SAM|NOUN 'S|PRT legs|NOUN )|. Have|VERB they|PRON dropped|VERB ?|.
+ (|. a|DET girlie|NOUN voice|NOUN now|ADV )|. No|X ,|. no|DET ,|. a|DET touch|NOUN of|ADP cold|ADJ only|ADV .|.
+ (|. pleased|VERB )|. You|PRON admire|VERB it|PRON ?|.
+ The|DET one|NOUN who|PRON came|VERB with|ADP your|PRON letter|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Do|VERB you|PRON understand|VERB me|PRON ?|.
+ No|DET ,|. sir|NOUN .|.
+ Will|VERB Where|QUESTIONTAG is|VERB Mercutio|NOUN ?|.
+ (|. tapping|VERB his|PRON forehead|NOUN )|. Locked|VERB safe|ADJ in|ADP here|ADV .|.
+ Do|VERB you|PRON intend|VERB to|PRT marry|VERB ,|. my|PRON lord|NOUN ?|.
+ Your|PRON father|NOUN should|VERB keep|VERB you|PRON better|ADJ informed|VERB .|.
+ Virginia|NOUN ?|.
+ Why|ADV ,|. yes|X !|.
+ But|CONJ why|ADV me|PRON ?|.
+ It|PRON was|VERB your|PRON eyes|NOUN .|.
+ Will|VERB you|PRON defy|VERB your|PRON father|NOUN and|CONJ your|PRON Queen|NOUN ?|.
+ The|DET Queen|NOUN has|VERB consented|VERB ?|.
+ (|. preempting|VERB )|. You|PRON did|VERB not|ADV like|ADP the|DET speech|NOUN ?|.
+ The|DET speech|NOUN is|VERB excellent|ADJ .|.
+ He|PRON dies|VERB ?|.
+ Writer|NOUN ,|. is|VERB he|PRON ?|.
+ And|CONJ break|VERB her|PRON heart|NOUN and|CONJ mine|NOUN ?|.
+ It|PRON is|VERB only|ADV ours|ADP you|PRON can|VERB know|VERB .|.
+ Does|VERB she|PRON say|VERB so|ADV ?|.
+ No|DET .|.
+ Your|PRON aunt|NOUN ?|.
+ (|. catching|VERB up|PRT )|. Yes|X ,|. my|PRON aunt|NOUN .|.
+ And|CONJ her|PRON lips|NOUN ?|.
+ Oh|X ,|. Thomas|NOUN ,|. her|PRON lips|NOUN !|.
+ She|PRON sings|VERB too|ADV ?|.
+ Constantly|ADV .|.
+ (|. glinting|VERB )|. What|QUESTIONTAG of|ADP her|PRON bosom|NOUN ?|.
+ Oh|X Thomas|NOUN ,|. a|DET pair|NOUN of|ADP pippins|NOUN !|.
+ But|CONJ what|PRON of|ADP Lord|NOUN Wessex|NOUN ?|.
+ For|ADP one|NUM kiss|NOUN ,|. I|PRON would|VERB defy|VERB a|DET thousand|NOUN Wessexes|NOUN !|.
+ (|. stunned|VERB )|. Lady|NOUN ?|.
+ Viola|NOUN De|NOUN Lesseps|NOUN .|.
+ Can|VERB you|PRON love|VERB a|DET fool|NOUN ?|.
+ Can|VERB you|PRON love|VERB a|DET player|NOUN ?|.
+ Answer|VERB me|PRON only|ADV this|DET :|. are|VERB you|PRON the|DET author|NOUN of|ADP the|DET plays|NOUN of|ADP William|NOUN Shakespeare|NOUN ?|.
+ I|PRON am|VERB .|.
+ You|PRON would|VERB not|ADV leave|VERB me|PRON ?|.
+ I|PRON must|VERB .|.
+ (|. pausing|NOUN ,|. pushing|VERB him|PRON away|ADV )|. Mr.|NOUN Henslowe|NOUN ?|.
+ (|. persisting|VERB )|. Let|VERB him|PRON be|VERB damned|VERB for|ADP his|PRON pages|NOUN !|.
+ You|PRON would|VERB leave|VERB us|PRON players|NOUN without|ADP a|DET scene|NOUN to|PRT read|VERB today|NOUN ?|.
+ (|. to|PRT PETER|NOUN )|. How|QUESTIONTAG is|VERB it|PRON ?|.
+ (|. shrugs|NOUN )|. It|PRON 's|VERB all|DET right|NOUN .|.
+ (|. in|ADP disbelief|NOUN )|. You|PRON mean|VERB ,|. no|DET dog|NOUN of|ADP any|DET kind|NOUN ?|.
+ and|CONJ looks|VERB daggers|NOUN at|ADP him|PRON .|.
+ Oh|X ,|. but|CONJ it|PRON will|VERB end|VERB well|ADV for|ADP love|NOUN ?|.
+ In|ADP heaven|NOUN ,|. perhaps|ADV .|.
+ Will|VERB you|PRON ask|VERB Her|PRON Majesty|NOUN to|PRT be|VERB patient|ADJ ?|.
+ (|. taken|VERB aback|ADV )|. Are|VERB you|PRON bringing|VERB your|PRON laundry|NOUN woman|NOUN ?|.
+ Her|PRON chaperone|NOUN .|.
+ (|. to|PRT him|PRON )|. Now|ADV ?|.
+ Now|ADV .|.
+ Is|VERB there|DET a|DET man|NOUN ?|.
+ A|DET man|NOUN ,|. my|PRON lord|NOUN ?|.
+ (|. impatiently|ADV )|. There|DET was|VERB a|DET man|NOUN ,|. poet|NOUN --|. a|DET theatre|ADJ poet|NOUN ,|. I|PRON heard|VERB --|. does|VERB he|PRON come|VERB to|PRT the|DET house|NOUN ?|.
+ A|DET theatre|NOUN poet|NOUN ?|.
+ An|DET insolent|ADJ penny-a-page|NOUN rogue|NOUN ,|. Marlowe|NOUN ,|. he|PRON said|VERB ,|. Christopher|NOUN Marlowe|NOUN --|. has|VERB he|PRON been|VERB to|PRT the|DET house|NOUN ?|.
+ Marlowe|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON love|VERB so|ADV much|ADJ ?|.
+ Your|PRON Majesty|NOUN
+ And|CONJ --|. ?|.
+ And|CONJ I|PRON love|VERB poetry|NOUN above|ADP all|DET .|.
+ Above|ADP Lord|NOUN Wessex|NOUN ?|.
+ has|VERB moved|VERB up|PRT behind|ADP her|PRON .|.
+ Who|QUESTIONTAG 's|VERB there|ADV ?|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ,|. Kit|NOUN ?|.
+ My|PRON Massacre|NOUN at|ADP Paris|NOUN is|VERB complete|ADJ .|.
+ You|PRON have|VERB the|DET last|ADJ act|NOUN ?|.
+ You|PRON have|VERB the|DET money|NOUN ?|.
+ What|QUESTIONTAG is|VERB this|DET rabble|ADJ ?|.
+ from|ADP the|DET nearest|ADJ actor|NOUN ,|. and|CONJ parries|VERB the|DET blow|NOUN .|.
+ (|. baffled|VERB )|. My|PRON wick|NOUN ?|.
+ (|. saving|VERB her|PRON )|. Mr.|NOUN Fennyman|NOUN ,|. because|ADP you|PRON love|VERB the|DET theatre|NOUN you|PRON must|VERB have|VERB a|DET part|NOUN in|ADP my|PRON play|NOUN .|.
+ (|. to|PRT RALPH|NOUN )|. And|CONJ what|PRON is|VERB this|DET play|NOUN about|ADP ?|.
+ Well|ADV ,|. there|DET 's|VERB this|DET Nurse|NOUN
+ Oh|X what|PRON have|VERB I|PRON done|VERB ?|.
+ (|. standing|VERB up|ADV )|. He|PRON was|VERB the|DET first|ADJ man|NOUN among|ADP us|PRON .|.
+ (|. faintly|ADV )|. He|PRON is|VERB dead|ADJ ?|.
+ (|. cheerfully|ADV solemn|VERB )|. Killed|VERB last|ADJ night|NOUN ,|. in|ADP a|DET tavern|NOUN !|.
+ Now|ADV ?|.
+ (|. declaring|VERB herself|PRON )|. I|PRON love|VERB you|PRON ,|. Will|NOUN ,|. beyond|ADP poetry|NOUN .|.
+ Will|VERB you|PRON read|VERB it|PRON for|ADP me|PRON ?|.
+ (|. he|PRON knows|VERB it|PRON )|. ``|. Wilt|NOUN thou|NOUN be|VERB gone|VERB ?|.
+ Mr.|NOUN Tilney|NOUN ,|. what|PRON is|VERB this|DET ?|.
+ Sedition|NOUN and|CONJ indecency|NOUN !|.
+ What|QUESTIONTAG ?|.
+ Master|NOUN of|ADP the|DET Revels|NOUN ,|. sir|NOUN ,|. over|ADP here|ADV ,|. sir|NOUN .|.
+ (|. to|PRT WEBSTER|NOUN )|. Where|QUESTIONTAG ,|. boy|NOUN ?|.
+ (|. points|NOUN )|. I|PRON saw|VERB her|PRON bubbies|NOUN !|.
+ Why|ADV so|ADV ?|.
+ (|. triumphantly|ADV )|. For|ADP lewdness|NOUN and|CONJ unshamefacedness|NOUN !|.
+ Everything|VERB all|DET right|NOUN ?|.
+ Would|VERB you|PRON oblige|VERB me|PRON with|ADP fifty|NOUN or|CONJ so|ADV in|ADP gold|NOUN ?|. --|. just|ADV to|PRT settle|VERB my|PRON accounts|NOUN at|ADP the|DET dockside|NOUN ?|.
+ places|NOUN his|PRON empty|ADJ purse|NOUN on|ADP the|DET desk|NOUN .|.
+ Is|VERB this|DET all|DET right|NOUN ?|.
+ is|VERB gargling|VERB into|ADP a|DET basin|NOUN .|.
+ How|QUESTIONTAG will|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. it|PRON 's|VERB a|DET mystery|NOUN .|.
+ W-w-w-was|ADJ it|PRON g-g-g-good|NOUN ?|.
+ begins|NOUN .|.
+ What|QUESTIONTAG do|VERB we|PRON do|VERB now|ADV ?|.
+ The|DET show|NOUN must|VERB you|PRON know|VERB
+ How|QUESTIONTAG will|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Can|VERB we|PRON talk|VERB ?|.
+ seats|NOUN .|.
+ (|. forgetting|VERB to|PRT whisper|VERB )|. No|DET Juliet|NOUN ?|.
+ (|. turning|VERB )|. No|DET Juliet|NOUN ?|.
+ What|QUESTIONTAG happened|VERB to|PRT Sam|NOUN ?|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ Do|VERB you|PRON know|VERB it|PRON ?|.
+ (|. showing|VERB the|DET manuscript|NOUN )|. Every|DET word|NOUN .|.
+ You|PRON are|VERB married|VERB ?|.
+ ``|. Art|NOUN thou|NOUN gone|VERB so|ADV ?|.
+ ``|. Where|QUESTIONTAG is|VERB my|PRON lord|NOUN ?|.
+ Where|QUESTIONTAG is|VERB my|PRON Romeo|NOUN ?|. ''|.
+ Arrest|NOUN who|PRON ,|. Mr.|NOUN Tilney|NOUN ?|.
+ Everybody|NOUN !|.
+ (|. heartbroken|NOUN ,|. testing|VERB her|PRON name|NOUN )|. My|PRON Lady|ADJ Wessex|NOUN ?|.
+ can|VERB not|ADV say|VERB anything|NOUN to|PRT each|DET other|ADJ .|.
+ How|QUESTIONTAG does|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.

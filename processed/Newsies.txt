@@ -1,0 +1,46 @@
+ Hey|NOUN ,|. whattaya|NOUN ?|.
+ Who|QUESTIONTAG says|VERB you|PRON 're|VERB fakin|ADJ '|. it|PRON ?|.
+ The|DET streets|NOUN are|VERB fulla|ADJ fakes|NOUN these|DET days|NOUN --|. it|PRON 's|VERB hurtin|NOUN '|. the|DET rep|NOUN of|ADP genuine|ADJ articles|NOUN like|ADP myself|PRON .|.
+ Why|ADV do|VERB I|PRON got|VERB ta|ADV be|VERB saddled|VERB with|ADP you|PRON ?|.
+ Come|VERB on|ADP --|. They|PRON 'll|VERB run|VERB out|ADV of|ADP papers|NOUN !|.
+ Buy|NOUN me|PRON last|ADJ pape|NOUN ,|. mista|NOUN ...|. ?|.
+ sidewalk|NOUN Jack|NOUN nods|VERB approvingly|ADV ;|. David|NOUN is|VERB disgusted|VERB .|.
+ Just|ADV for|ADP one|NUM little|ADJ sip|NOUN of|ADP beer|NOUN --|. ?|.
+ What|QUESTIONTAG makes|VERB a|DET headline|NOUN good|NOUN ?|.
+ They|PRON ca|VERB n't|ADV do|VERB that|DET to|PRT us|PRON --|. RACETRACK|ADP They|PRON can|VERB do|VERB what|PRON they|PRON want|VERB --|. it|PRON 's|VERB their|PRON stinkin|NOUN '|. paper|NOUN --|. BOOTS|NOUN Ai|VERB n't|ADV we|PRON got|VERB no|DET rights|NOUN --|. ?|.
+ Sure|ADV --|. we|PRON got|VERB the|DET right|NOUN to|PRT take|VERB it|PRON in|ADP the|DET t'roat|NOUN !|.
+ DAVID|NOUN You|PRON mean|VERB like|ADP a|DET strike|NOUN ...|. ?|.
+ Yeah|X ,|. a|DET strike|NOUN --|. good|ADJ idea|NOUN ,|. Dave|NOUN .|.
+ What|QUESTIONTAG 's|VERB to|PRT stop|VERB someone|NOUN else|ADV from|ADP sellin|NOUN '|. our|PRON papes|NOUN ?|.
+ We|PRON talk|VERB to|PRT 'em|VERB .|.
+ This|DET Spot|NOUN Conlon|NOUN ...|. is|VERB he|PRON really|ADV as|ADV bad|ADJ as|ADP they|PRON say|VERB ...|. ?|.
+ laughing|VERB as|ADP they|PRON walk|VERB along|ADV --|. DAVID|NOUN I|PRON say|VERB something|NOUN funny|ADJ ?|.
+ So|ADV where|ADV 's|PRT Spot|NOUN Conlon|NOUN ?|.
+ How|QUESTIONTAG can|VERB you|PRON be|VERB sure|ADJ they|PRON sent|VERB Crutchy|NOUN here|ADV ?|.
+ Okay|NOUN ,|. 'newsies|VERB '|PRT --|. you|PRON check|VERB the|DET funny|ADJ papers|NOUN this|DET morning|NOUN ?|.
+ brass|NOUN knuckles|NOUN ,|. saps|NOUN .|.
+ (|. reading|VERB )|. 'Their|NUM leader|NOUN is|VERB a|DET child|NOUN of|ADP the|DET New|NOUN York|NOUN streets|NOUN with|ADP a|DET red|ADJ bandana|NOUN and|CONJ a|DET golden|ADJ tongue|NOUN ,|. Jack|NOUN Kelly|NOUN --|. '|PRT JACK|NOUN Where|QUESTIONTAG 's|PRT it|PRON say|VERB that|ADP ...|. ?|.
+ Stop|NOUN t'inkin|NOUN '|. about|ADP yaself|NOUN and|CONJ let|VERB 'im|PRON read|VERB !|.
+ (|. palm|NOUN extended|VERB )|. Give|VERB to|PRT the|DET Newsies|NOUN strike|NOUN fund|NOUN ,|. mista|NOUN ?|.
+ catches|NOUN his|PRON eye|NOUN :|. ``|. RALLY|NOUN AGAINST|NOUN PULITZER|NOUN .|. ''|.
+ Your|PRON mom|NOUN and|CONJ pop|NOUN are|VERB worried|VERB about|ADP me|PRON ...|. ?|.
+ (|. shyly|NOUN )|. The|DET whole|ADJ family|NOUN ...|.
+ (|. smiles|NOUN )|. Are|VERB you|PRON ...|. ?|.
+ kiss|NOUN seems|VERB inevitable|ADJ .|.
+ Denton|NOUN ,|. what|PRON 's|VERB happened|VERB --|. you|PRON get|VERB fired|VERB or|CONJ somethin|VERB '|. ?|.
+ DENTON|NOUN Reassigned|NOUN --|. back|ADV to|PRT my|PRON old|ADJ job|NOUN as|ADP The|DET Sun|NOUN 's|PRT ace|NOUN war|NOUN correspondent|NOUN .|.
+ (|. irritably|ADV )|. So|ADP what|PRON 's|VERB it|PRON git'cha|VERB ?|.
+ Anudder|NOUN three|NUM months|NOUN ,|. prob'ly|NOUN .|.
+ Where|QUESTIONTAG 'd|VERB he|PRON get|VERB them|PRON clothes|NOUN --|. ?|.
+ (|. as|ADP he|PRON passes|VERB )|. Mr.|NOUN Pulitzer|NOUN picked|VERB 'em|PRON out|PRT hisself|PRON .|.
+ (|. holds|VERB up|ADP the|DET package|NOUN distastefully|ADV )|. What|QUESTIONTAG is|VERB this|DET ?|.
+ Hey|NOUN --|. I|PRON 'm|VERB saving|VERB that|ADP !|.
+ All|DET them|PRON sweatshop|VERB kids|NOUN are|VERB listenin|ADJ '|. to|PRT me|PRON ...|. ?|.
+ WHEN|ADP THE|DET CIRCULATION|NOUN BELL|NOUN STARTS|NOUN RINGING|NOUN ,|. WILL|NOUN WE|NOUN HEAR|NOUN IT|NOUN ?|.
+ appears|VERB in|ADP the|DET square|NOUN ;|. NO|X !|.
+ What|QUESTIONTAG 're|VERB you|PRON talkin|VERB '|. about|ADV --|. who|PRON come|VERB chargin|NOUN '|. in|ADP ?|.
+ Who|QUESTIONTAG ?|.
+ Think|NOUN he|PRON could|VERB drop|VERB me|PRON at|ADP the|DET train|NOUN yards|NOUN ?|.
+ look|NOUN stunned|VERB ,|. dismayed|X --|. Jack|NOUN avoids|VERB their|PRON eyes|NOUN .|.
+ RACETRACK|NOUN You|PRON really|ADV goin|VERB '|. this|DET time|NOUN ...|. ?|.
+ It|PRON 's|VERB now|ADV or|CONJ never|ADV ,|. Racetrack|NOUN .|.

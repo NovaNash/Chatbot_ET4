@@ -1,0 +1,61 @@
+ Three|NUM ?|.
+ (|. approaching|VERB )|. What|QUESTIONTAG is|VERB this|DET ?|.
+ And|CONJ what|PRON do|VERB you|PRON say|VERB ,|. Porthos|NOUN ?|.
+ balcony|NOUN rail|NOUN above|ADP ,|. just|ADV about|ADP even|ADV with|ADP a|DET large|ADJ wagon|NOUN wheel|NOUN chandelier|NOUN .|.
+ D'ARTAGNAN|NOUN The|DET Queen|NOUN ?|.
+ CONSTANCE|NOUN If|ADP I|PRON were|VERB you|PRON ,|. I|PRON 'd|VERB make|VERB myself|PRON scarce|NOUN .|.
+ CONSTANCE|NOUN Do|NOUN you|PRON have|VERB a|DET name|NOUN ?|.
+ D'Artagnan|NOUN .|.
+ Are|NOUN you|PRON going|VERB to|PRT visit|VERB them|PRON alphabetically|ADV or|CONJ in|ADP order|NOUN of|ADP preference|NOUN ?|.
+ Alphabetically|ADV seems|VERB ...|. fair|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB 'disbanded|VERB '|PRT ?|.
+ Some|DET nonsense|NOUN about|ADP being|VERB needed|VERB in|ADP the|DET army|NOUN .|.
+ (|. amused|VERB )|. I|PRON was|VERB ?|.
+ That|DET seems|VERB to|PRT be|VERB the|DET local|ADJ custom|NOUN .|.
+ How|QUESTIONTAG was|VERB your|PRON ride|NOUN ?|.
+ before|ADP Anne|NOUN .|.
+ Father|NOUN ?|.
+ Milady|NOUN 's|PRT bedroom|NOUN .|.
+ You|PRON mean|VERB he|PRON 's|VERB still|ADV alive|ADJ ?|.
+ of|ADP Jussac|NOUN .|.
+ Now|ADV what|PRON ...|. ?|.
+ the|DET neck|NOUN ,|. the|DET balls|NOUN slam|VERB into|ADP his|PRON head|NOUN .|.
+ (|. re|NOUN :|. the|DET bolo|NOUN )|. Do|VERB you|PRON know|VERB where|ADV this|DET bolo|NOUN comes|VERB from|ADP ?|.
+ (|. a|DET bold|NOUN jest|NOUN ,|. given|VERB the|DET circumstances|NOUN )|. The|DET Queen|NOUN of|ADP America|NOUN ?|.
+ D'ARTAGNAN|NOUN Where|QUESTIONTAG am|VERB I|PRON ?|.
+ I|PRON 'll|VERB give|VERB you|PRON a|DET hint|NOUN .|.
+ Who|QUESTIONTAG ?|.
+ The|DET Musketeers|NOUN .|.
+ And|CONJ if|ADP you|PRON did|VERB ?|.
+ (|. after|ADP a|DET beat|NOUN )|. I|PRON would|VERB n't|ADV tell|VERB you|PRON .|.
+ Champagne|NOUN ?|.
+ You|PRON know|VERB I|PRON prefer|VERB wine|NOUN .|.
+ FARMER|NOUN Wo|NOUN n't|ADV you|PRON step|VERB down|PRT ...|. Musketeers|NOUN ?|.
+ Gentlemen|NOUN ,|. I|PRON beg|VERB you|PRON .|.
+ You|PRON 're|VERB threatening|VERB us|PRON ?|.
+ It|PRON 's|VERB not|ADV a|DET threat|NOUN ,|. it|PRON 's|VERB a|DET fact|NOUN .|.
+ D'ARTAGNAN|NOUN Love|NOUN ?|.
+ d'Artagnan|NOUN for|ADP a|DET long|ADJ beat|NOUN ,|. then|ADV beyond|ADP .|.
+ Well|ADV ?|.
+ It|PRON 's|VERB dawn|NOUN .|.
+ (|. to|PRT d'Artagnan|VERB )|. How|QUESTIONTAG 's|PRT your|PRON head|NOUN now|ADV ?|.
+ I|PRON 'm|VERB beginning|VERB to|PRT wish|VERB the|DET Cardinal|NOUN had|VERB chopped|VERB if|ADP off|ADV .|.
+ The|DET young|ADJ man|NOUN on|ADP the|DET scaffold|NOUN ?|.
+ Yes|X .|.
+ CONSTANCE|NOUN Are|VERB you|PRON ?|.
+ simple|NOUN .|.
+ Do|VERB you|PRON think|VERB about|ADP him|PRON all|DET the|DET time|NOUN ?|.
+ (|. playing|VERB along|ADV )|. As|ADP Queen|NOUN ,|. my|PRON mind|NOUN touches|NOUN on|ADP many|ADJ subjects|NOUN .|.
+ Why|ADV is|VERB it|PRON I|PRON do|VERB n't|ADV see|VERB any|DET of|ADP my|PRON Musketeers|NOUN ?|.
+ I|PRON 'm|VERB afraid|ADJ ...|. that|DET 's|VERB impossible|ADJ .|.
+ But|CONJ ...|. ?|.
+ Then|ADV what|PRON am|VERB I|PRON ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ First|ADV ,|. always|ADV find|VERB your|PRON enemy|NOUN 's|PRT weakness|NOUN .|.
+ Did|NOUN you|PRON find|VERB the|DET Cardinal|NOUN 's|PRT spy|NOUN ?|.
+ Yes|X .|.
+ ATHOS|VERB What|QUESTIONTAG ?|.
+ sees|NOUN a|DET figure|NOUN at|ADP the|DET gangplank|NOUN ,|. swathed|VERB in|ADP fog|NOUN and|CONJ diffuse|NOUN light|NOUN .|.
+ RICHELIEU|NOUN Is|VERB everything|NOUN ready|ADJ ?|.
+ Yes|X ,|. Your|PRON Eminence|NOUN .|.
+ PORTHOS|NOUN Were|NOUN n't|ADV you|PRON listening|VERB ?|.

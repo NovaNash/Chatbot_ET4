@@ -1,0 +1,150 @@
+ Funthes|NOUN boy|NOUN ?|.
+ ...|. Mackatee|NOUN Funthes|NOUN ?|.
+ It|PRON 's|VERB been|VERB disturbin|ADJ '|PRT Othar|NOUN then|ADV ,|. has|VERB it|PRON ?|.
+ How|QUESTIONTAG could|VERB it|PRON help|VERB but|CONJ do|VERB !|.
+ Help|NOUN him|PRON ?|.
+ You|PRON got|VERB ta|NOUN take|VERB an|DET innarest|NOUN !|.
+ Many|ADJ what|PRON ma'am|NOUN ?|.
+ You|PRON have|VERB been|VERB tried|VERB and|CONJ found|VERB wanting|NOUN .|.
+ You|PRON need|VERB somethin|ADJ '|. to|PRT eat|VERB ,|. Angel|NOUN ?|.
+ ...|. Well|NOUN who|PRON 's|VERB that|DET now|ADV ,|. Pickles|NOUN ?|.
+ Ma'am|NOUN ?|.
+ Go|NOUN get|VERB 'im|PRT !|.
+ I|PRON do|VERB beg|VERB your|PRON pardon|NOUN ?|.
+ Go|NOUN get|NOUN Pickles|NOUN ,|. I|PRON did|VERB n't|ADV let|VERB 'im|VERB out|PRT !|.
+ What|QUESTIONTAG ,|. like|ADP Elmer|NOUN ?|.
+ Beg|NOUN your|PRON pardon|NOUN ,|. ma'am|NOUN ?|.
+ Fudd|NOUN ?|.
+ No|DET no|DET ,|. Ph.D.|NOUN is|VERB a|DET mark|NOUN of|ADP academic|ADJ attainment|NOUN .|.
+ So|ADV you|PRON do|VERB n't|ADV play|VERB hippity-hop|NOUN ,|. ``|. I|PRON Left|VERB My|NOUN Wallet|NOUN in|ADP El|NOUN Segundo|NOUN ,|. ''|. songs|VERB with|ADP the|DET titles|NOUN spelt|VERB all|DET funny|NOUN ?|.
+ Madam|NOUN ,|. I|PRON shudder|VERB .|.
+ Gospel|NOUN music|NOUN ?|.
+ Well-inspired|ADJ by|ADP the|DET gospels|NOUN ,|. certainly|ADV .|.
+ Little|ADJ dank|NOUN ,|. ai|VERB n't|ADV it|PRON ?|.
+ Oh|X ,|. indeed|ADV ,|. but|CONJ that|ADP only|ADV improves|VERB the|DET acoustics|NOUN ...|.
+ What|QUESTIONTAG 's|VERB the|DET password|NOUN ?|.
+ Kiss|NOUN my|PRON ass|NOUN .|.
+ ...|. You|PRON a|DET motherfuck|NOUN --|. oh|X ,|. hello|ADJ Mr.|NOUN Gudge|NOUN ,|. how|ADV we|PRON be|VERB this|DET mornin|NOUN '|. ?|.
+ What|QUESTIONTAG the|DET hell|NOUN is|VERB this|DET ?|.
+ What|QUESTIONTAG ?|.
+ How|QUESTIONTAG the|DET hell|NOUN does|VERB it|PRON eat|VERB when|ADV it|PRON gets|VERB to|PRT the|DET Kennel|NOUN Rations|NOUN ?|.
+ twisting|VERB its|PRON neck|NOUN to|PRT peer|VERB through|ADP the|DET eyeholes|NOUN .|.
+ What|QUESTIONTAG 's|VERB he|PRON doing|VERB ?|.
+ Me|NOUN the|DET man|NOUN ?|.
+ Huh|NOUN !|.
+ ...|. And|CONJ what|PRON did|VERB Moses|NOUN do|VERB when|ADV he|PRON saw|VERB those|DET declinin|NOUN '|PRT backslidin|NOUN '|PRT never-|ADJ mindin|NOUN '|PRT sinners|NOUN ?|.
+ Somebody|NOUN die|NOUN ?|.
+ I|PRON beg|VERB your|PRON --|. Oh|X !|.
+ You|PRON ai|VERB n't|ADV gon|VERB na|PRT make|VERB a|DET racket|NOUN ,|. are|VERB ya|VERB ?|.
+ Oh|X no|DET .|.
+ Say|NOUN wha|NOUN ?|.
+ Where|QUESTIONTAG is|VERB the|DET money|NOUN ?|.
+ Oh|X .|.
+ And|CONJ where|ADV is|VERB the|DET counting|NOUN room|NOUN ?|.
+ Well|ADV ,|. uh|NOUN ...|. in|ADP that|DET square|NOUN there|ADV .|.
+ And|CONJ what|PRON ,|. to|PRT flog|VERB a|DET horse|NOUN that|ADP if|ADP not|ADV at|ADP this|DET point|NOUN dead|NOUN is|VERB in|ADP mortal|ADJ danger|NOUN of|ADP expirin|NOUN '|. ,|. does|VERB the|DET dotted|VERB square|NOUN represent|NOUN ?|.
+ him|PRON some|DET trick|NOUN .|.
+ ...|. Any|DET questions|NOUN ?|.
+ ...|. Yes|X ,|. Lump|NOUN ?|.
+ What|QUESTIONTAG ,|. uh|NOUN ...|. what|PRON does|VERB ``|. cosseted|VERB ''|. mean|NOUN ?|.
+ You|PRON been|VERB smokin|VERB '|. ?|.
+ Certainly|ADV not|ADV ,|. madam|NOUN .|.
+ ...|. Did|NOUN he|PRON ?|.
+ Mm-hm|NOUN .|.
+ ...|. I|PRON do|VERB n't|ADV suppose|VERB Othar|NOUN ever|ADV turned|VERB his|PRON hand|NOUN --|. or|CONJ ,|. uh|X ,|. heh-heh-heh|ADJ ,|. turned|VERB his|PRON lip|NOUN --|. to|PRT the|DET shofar|NOUN ?|.
+ ...|. The|DET ceremonial|ADJ ram|NOUN 's|PRT horn|NOUN ,|. sounded|VERB by|ADP the|DET priests|NOUN of|ADP the|DET Hebrews|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB nothin|ADJ '|PRT 'bout|ADP that|DET .|.
+ Say|VERB what|PRON ?|.
+ There|DET is|VERB no|DET fraternizing|VERB with|ADP customers|NOUN on|ADP the|DET Lady|NOUN Luck|NOUN .|.
+ Have|VERB you|PRON all|DET decided|VERB ?|.
+ her|PRON :|.
+ Is|VERB he|PRON gon|VERB na|PRT want|VERB a|DET piece|NOUN of|ADP the|DET action|NOUN ?|.
+ ...|. Who|QUESTIONTAG ?|.
+ him|PRON .|.
+ ...|. Igneous|NOUN ?|.
+ ...|. The|DET fuck|NOUN is|VERB this|DET ?|.
+ This|DET is|VERB Mountain|NOUN Girl|NOUN .|.
+ ...|. You|PRON brought|VERB your|PRON bitch|NOUN to|PRT the|DET waffle|NOUN house|NOUN ?|.
+ ...|. You|PRON brought|VERB your|PRON bitch|NOUN to|PRT the|DET waffle|NOUN house|NOUN ?|.
+ Could|VERB n't|ADV you|PRON just|ADV bribe|VERB the|DET guy|NOUN ?|.
+ Wisdom|NOUN of|ADP mankind|NOUN ,|. what|PRON about|ADP the|DET wisdom|NOUN of|ADP the|DET Lord|NOUN ?|.
+ Oh|X yes|X ,|. the|DET Good|ADJ Book|NOUN ,|. mm|NOUN .|.
+ Someone|NOUN was|VERB here|ADV ,|. ma'am|NOUN ?|.
+ Mm-hm|NOUN ,|. with|ADP me'n|ADJ Othar|NOUN .|.
+ ...|. What|QUESTIONTAG you|PRON doin|VERB '|. havin|NOUN '|. tea|ADV down|ADP there|ADV ?|.
+ What|QUESTIONTAG the|DET hell|NOUN is|VERB this|DET ?|.
+ Look|NOUN ,|. are|VERB you|PRON gon|VERB na|PRT have|VERB a|DET bug|NOUN up|PRT your|PRON ass|NOUN for|ADP the|DET rest|NOUN of|ADP the|DET time|NOUN we|PRON work|VERB together|ADV ?|.
+ I|PRON 'll|VERB get|VERB the|DET sprayer|NOUN .|.
+ Huh|NOUN ?|.
+ ...|. You|PRON know|VERB what|PRON ,|. man|NOUN ?|.
+ What|QUESTIONTAG ,|. brother|NOUN ?|.
+ Yes|X ,|. madam|X ?|.
+ a|DET large|ADJ plate|NOUN covered|VERB by|ADP a|DET checked|ADJ napkin|NOUN .|.
+ He|PRON a|DET man|NOUN of|ADP learnin|NOUN '|PRT ?|.
+ G.H|NOUN .|.
+ ...|. What|QUESTIONTAG in|ADP the|DET name|NOUN of|ADP heaven|NOUN was|VERB that|ADP ?|.
+ Did|NOUN n't|ADV hear|VERB anything|NOUN ?|.
+ Well|ADV ,|. something|NOUN ,|. perhaps|ADV ,|. but|CONJ ...|.
+ And|CONJ will|VERB you|PRON be|VERB able|ADJ to|PRT wield|VERB the|DET drill|NOUN with|ADP your|PRON maimed|VERB extremity|NOUN ?|.
+ Oh|X ,|. I|PRON should|VERB think|VERB so|ADV ,|. it|PRON 's|VERB only|ADV one|NUM finger|NOUN .|.
+ Yes|X ,|. Clark|NOUN ?|.
+ Well|ADV ,|. maybe|ADV --|. and|CONJ this|DET is|VERB something|NOUN I|PRON 've|VERB talked|VERB over|ADP with|ADP Mountain|NOUN Girl|NOUN ,|. and|CONJ she|PRON agrees|VERB with|ADP me|PRON ,|. so|ADP it|PRON 's|VERB not|ADV just|ADV one|NUM person|NOUN 's|PRT opinion|NOUN --|. maybe|ADV I|PRON should|VERB get|VERB a|DET little|ADJ extra|ADJ compensation|NOUN for|ADP the|DET accident|NOUN .|.
+ You|PRON gon|VERB na|PRT sue|VERB yaself|PRON for|ADP blowin|NOUN '|. off|ADP your|PRON finger|NOUN ?|.
+ Well|ADV that|DET is|VERB simply|ADV asinine|ADJ --|.
+ It|PRON will|VERB be|VERB twelve-fifteen|ADJ ?|.
+ No|DET ,|. in|ADP fifteen|ADJ seconds|NOUN --|. now|ADV eleven|ADV seconds|NOUN --|. it|PRON will|VERB be|VERB twelve-|ADJ sixteen|NOUN ...|. eight|NUM ...|.
+ Professor|NOUN ?|.
+ Six|NUM ...|. five|NUM --|. yes|X ,|. Lump|NOUN ?|.
+ Yeah|X ?|.
+ Me|NOUN ,|. dickwad|NOUN .|.
+ ...|. Say|VERB what|PRON ?|.
+ IBS|NOUN !|.
+ I|PRON do|VERB beg|VERB your|PRON pardon|NOUN ?|.
+ The|DET charge|NOUN to|PRT collapse|VERB the|DET tunnel|NOUN .|.
+ ...|. Huh|NOUN ?|.
+ ...|. You|PRON just|ADV fart|VERB ?|.
+ Heh-heh-heh|NOUN .|.
+ What|QUESTIONTAG do|VERB we|PRON do|VERB ?|.
+ Well|ADV ,|. first|ADV ,|. my|PRON dear|ADJ boy|NOUN ,|. we|PRON follow|VERB the|DET General|NOUN 's|PRT example|NOUN ...|.
+ Professor|NOUN ?|.
+ Yes|X ,|. Lump|NOUN ?|.
+ ...|. You|PRON know|VERB any|DET ?|.
+ wearing|VERB his|PRON Lady|ADJ Luck|NOUN custodial|ADJ uniform|NOUN .|.
+ ...|. What|QUESTIONTAG about|ADP all|DET that|DET money|NOUN ?|.
+ ...|. Just|ADV one|NUM penny|NOUN ?|.
+ Think|NOUN of|ADP it|PRON ,|. Mrs.|NOUN Munson|NOUN !|.
+ Excuse|ADP me|PRON ,|. ma'am|VERB ?|.
+ No|DET .|.
+ And|CONJ ...|. engage|NOUN in|ADP divine|NOUN worship|NOUN ?|.
+ I|PRON made|VERB up|PRT my|PRON mind|NOUN .|.
+ What|QUESTIONTAG you|PRON got|VERB there|ADV ,|. Gawain|NOUN ?|.
+ Why|ADV --|. nothin|NOUN '|. ,|. mama|NOUN .|.
+ (|. eagerly|ADV )|. Ai|VERB n't|ADV you|PRON gon|VERB na|PRT use|VERB the|DET strap|NOUN ,|. Mama|NOUN ?|.
+ Is|VERB he|PRON dead|ADJ ,|. Professor|NOUN ?|.
+ Sure|ADV he|PRON 's|VERB dead|ADJ .|.
+ They|PRON back|ADV yet|ADV ?|.
+ IBS|NOUN ,|. dear|NOUN ?|.
+ What|QUESTIONTAG ,|. Professor|NOUN ?|.
+ still|ADV absent|NOUN ,|. his|PRON regard|NOUN still|ADV on|ADP the|DET corpse|NOUN :|.
+ You|PRON mean|VERB --|. you|PRON mean|VERB --|. you|PRON 're|VERB gon|VERB na|PRT kill|VERB her|PRON ?|.
+ Of|ADP course|NOUN !|.
+ Oh|X yeah|NOUN ?|.
+ ...|. Well|NOUN who|PRON looks|VERB stupid|ADJ now|ADV ?|.
+ ...|. Huh|NOUN ?|.
+ ...|. No|DET bullets|NOUN ?|.
+ ...|. You|PRON know|VERB something|NOUN about|ADP it|PRON ?|.
+ Something|VERB ?|.
+ You|PRON ...|. you|PRON have|VERB what|PRON at|ADP home|NOUN ,|. now|ADV ?|.
+ The|DET money|NOUN .|.
+ How|QUESTIONTAG 'd|VERB it|PRON get|VERB there|ADV ,|. Marva|NOUN ?|.
+ Bunch|ADP a|DET desperate|ADJ men|NOUN that|DET stole|VERB it|PRON put|VERB it|PRON there|ADV ,|. that|DET 's|VERB how|ADV !|.
+ Angry|NOUN ,|. was|VERB he|PRON ?|.
+ Would|VERB n't|ADV you|PRON be|VERB ?|.
+ No|DET ,|. he|PRON 's|VERB back|ADV ,|. but|CONJ what|PRON you|PRON want|VERB me|PRON to|PRT do|VERB with|ADP the|DET money|NOUN ?|.
+ Well|ADV ...|.
+ Keep|VERB it|PRON ?|.
+ You|PRON keep|VERB it|PRON ,|. Marva|NOUN .|.
+ How|QUESTIONTAG 's|VERB that|DET ma'am|NOUN ?|.
+ I|PRON know|VERB folks|NOUN do|VERB n't|ADV much|ADV care|VERB .|.
+ Yes|X ma'am|NOUN ?|.
+ Could|VERB I|PRON give|VERB it|PRON all|DET to|PRT Bob|NOUN Jones|NOUN University|NOUN ?|.

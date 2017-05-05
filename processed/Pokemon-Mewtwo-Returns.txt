@@ -1,0 +1,87 @@
+ Did|NOUN he|PRON do|VERB this|DET ?|.
+ Wonderful|ADJ !|.
+ Mewtwo|NOUN ?|.
+ That|DET 's|VERB you|PRON .|.
+ The|DET humans|NOUN ?|.
+ The|DET world|NOUN would|VERB be|VERB ours|VERB ?|.
+ If|ADP your|PRON power|NOUN is|VERB set|VERB free|ADJ the|DET world|NOUN would|VERB be|VERB ruined|VERB .|.
+ Control|NOUN ?|.
+ Are|NOUN you|PRON okay|VERB with|ADP destroying|VERB the|DET world|NOUN as|ADP it|PRON is|VERB with|ADP that|DET power|NOUN ?|.
+ and|CONJ that|DET is|VERB ?|.
+ Fighting|VERB ,|. destruction|NOUN ,|. and|CONJ plunder|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ I|PRON was|VERB made|VERB by|ADP humans|NOUN .|.
+ Is|VERB it|PRON ready|ADJ yet|ADV ?|.
+ Ash|ADP you|PRON can|VERB help|VERB too|ADV .|.
+ Can|VERB I|PRON have|VERB a|DET Pokémon|NOUN battle|NOUN with|ADP you|PRON ?|.
+ I|PRON thought|VERB you|PRON could|VERB n't|ADV move|VERB one|NUM millimeter|NOUN ?|.
+ Just|ADV one|NUM or|CONJ two|NUM pokémon|ADJ fights|NOUN before|ADP breakfast|NOUN .|.
+ Are|NOUN you|PRON sending|VERB them|PRON an|DET invitation|NOUN ?|.
+ Certainly|ADV .|.
+ What|QUESTIONTAG do|VERB we|PRON do|VERB ?|.
+ Lets|NOUN go|VERB for|ADP it|PRON .|.
+ a|DET post|NOUN card|NOUN ?|.
+ Scene|NOUN change|NOUN .|.
+ We|PRON ca|VERB n't|ADV go|VERB to|PRT the|DET New|NOUN Island|NOUN ?|.
+ Oh|X No|DET !|.
+ Is|VERB it|PRON that|ADP terrible|ADJ ?|.
+ I|PRON grew|VERB up|PRT on|ADP a|DET port|NOUN and|CONJ I|PRON 've|VERB never|ADV experienced|VERB such|DET a|DET storm|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ Nurse|ADJ Joy|NOUN at|ADP the|DET Pokémon|NOUN Center|NOUN is|VERB missing|VERB .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ If|ADP we|PRON 're|VERB asked|VERB what|PRON we|PRON want|VERB ...|.
+ Yes|X ?|.
+ That|DET picture|NOUN of|ADP Nurse|NOUN Joy|NOUN I|PRON saw|VERB in|ADP the|DET missing|VERB person|NOUN report|NOUN at|ADP the|DET pier|NOUN was|VERB you|PRON .|.
+ Only|ADV 3|NUM ?|.
+ The|DET trainers|NOUN who|PRON could|VERB n't|ADV cross|VERB that|DET storm|NOUN are|VERB n't|ADV worth|ADJ inviting|VERB .|.
+ So|ADV then|ADV you|PRON tested|VERB us|PRON ?|.
+ Please|VERB take|VERB out|PRT the|DET pokémon|NOUN from|ADP the|DET pokéballs|NOUN and|CONJ be|VERB seated|VERB .|.
+ Where|QUESTIONTAG 's|VERB the|DET exit|NOUN ?|.
+ Over|ADP there|DET ...|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ Jessie|NOUN ?|.
+ Nothing|VERB lets|NOUN go|VERB .|.
+ You|PRON came|VERB too|ADV ?|.
+ You|PRON ?|.
+ Gyarados|NOUN is|VERB a|DET brutal|ADJ pokémon|NOUN is|VERB n't|ADV it|PRON ?|.
+ Yeah|X ,|. but|CONJ if|ADP you|PRON can|VERB handle|VERB it|PRON ,|. no|DET one|NOUN is|VERB more|ADV reliable|ADJ .|.
+ Mewtwo|NOUN ?|.
+ A|DET Pokémon|NOUN is|VERB a|DET pokémon|ADJ trainer|NOUN ?|.
+ What|QUESTIONTAG did|VERB you|PRON say|VERB ?|.
+ Humans|NOUN can|VERB be|VERB manipulated|VERB in|ADP any|DET way|NOUN with|ADP my|PRON power|NOUN .|.
+ With|ADP what|PRON power|NOUN ?|.
+ PIKA|NOUN !|.
+ Is|VERB it|PRON really|ADV ?|.
+ These|DET are|VERB n't|ADV like|ADP any|DET treasures|NOUN I|PRON 've|VERB seen|VERB .|.
+ MEOWTH|NOUN ?|.
+ I|PRON am|VERB Meowth|NOUN .|.
+ This|DET is|VERB the|DET research|NOUN office|NOUN ?|.
+ I|PRON think|VERB so|ADV .|.
+ But|CONJ who|PRON ?|.
+ I|PRON thought|VERB of|ADP working|VERB with|ADP humans|NOUN once|ADV .|.
+ Are|NOUN you|PRON saying|VERB like|ADP your|PRON gon|NOUN na|PRT rule|VERB it|PRON ?|.
+ You|PRON wan|VERB to|PRT try|VERB ?|.
+ We|PRON can|VERB ask|VERB for|ADP nothing|NOUN better|NOUN .|.
+ Was|NOUN that|ADP a..|NOUN ?|.
+ Mew|NOUN ?|.
+ Copies|NOUN ?|.
+ They|PRON are|VERB ...|. ?|.
+ Where|QUESTIONTAG are|VERB the|DET speed|NOUN attacks|NOUN ?|.
+ The|DET enemy|NOUN is|VERB to|PRT fast|VERB !|.
+ Are|NOUN you|PRON taking|VERB the|DET other|ADJ 's|PRT pokémon|NOUN ?|.
+ Taking|VERB them|PRON ?|.
+ Copies|NOUN ?|.
+ Stop|NOUN !|.
+ Brat|NOUN ?|.
+ I|PRON 'm|VERB sorry|ADJ ,|. I|PRON do|VERB n't|ADV have|VERB time|NOUN to|PRT deal|VERB with|ADP you|PRON today|NOUN !|.
+ Those|DET are|VERB all|DET copies|NOUN ?|.
+ Where|QUESTIONTAG are|VERB they|PRON all|DET going|VERB ?|.
+ What|QUESTIONTAG happened|VERB here|ADV ?|.
+ out|ADP .|.
+ Did|NOUN you|PRON set|VERB them|PRON free|ADJ ?|.
+ I|PRON will|VERB protect|VERB my|PRON pokémon|NOUN ,|. my|PRON friends|NOUN .|.
+ Pokémon|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON saying|VERB ?|.
+ The|DET real|ADJ one|NUM is|VERB real|ADJ .|.
+ Why|ADV are|VERB you|PRON going|VERB everyone|NOUN ?|.
+ But|CONJ why|ADV are|VERB we|PRON here|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.

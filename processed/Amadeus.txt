@@ -1,0 +1,435 @@
+ Who|QUESTIONTAG is|VERB that|ADP ?|.
+ No|DET one|NOUN ,|. sir|NOUN .|.
+ Did|NOUN he|PRON open|VERB ?|.
+ on|ADP the|DET door|NOUN .|.
+ Herr|NOUN Salieri|NOUN ?|.
+ throat|NOUN is|VERB bandaged|VERB expertly|ADV .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ I|PRON am|VERB Father|ADV Vogler|NOUN .|.
+ About|ADP what|PRON ?|.
+ You|PRON tried|VERB to|PRT take|VERB your|PRON life|NOUN .|.
+ So|ADV ?|.
+ In|ADP the|DET sight|NOUN of|ADP God|NOUN that|DET is|VERB a|DET sin|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ Do|VERB you|PRON understand|VERB that|ADP you|PRON have|VERB sinned|VERB ?|.
+ Are|ADP they|PRON ?|.
+ Offer|VERB me|PRON your|PRON confession|NOUN .|.
+ How|QUESTIONTAG well|ADV are|VERB you|PRON trained|VERB in|ADP music|NOUN ?|.
+ I|PRON know|VERB a|DET little|ADJ .|.
+ Where|QUESTIONTAG ?|.
+ Here|ADV in|ADP Vienna|NOUN .|.
+ (|. taking|VERB his|PRON hands|NOUN off|ADP the|DET keys|NOUN )|. Well|ADV ?|.
+ I|PRON regret|VERB it|PRON is|VERB not|ADV too|ADV familiar|ADJ .|.
+ Ah|NOUN -|. you|PRON 've|VERB heard|VERB that|ADP ?|.
+ All|DET Vienna|NOUN has|VERB heard|VERB that|ADP .|.
+ (|. eagerly|ADV )|. And|CONJ do|VERB they|PRON believe|VERB it|PRON ?|.
+ Is|VERB it|PRON true|ADJ ?|.
+ Do|VERB you|PRON believe|VERB it|PRON ?|.
+ Should|VERB I|PRON ?|.
+ Do|VERB you|PRON hear|VERB me|PRON ?|.
+ He|PRON was|VERB murdered|VERB ,|. Father|NUM !|.
+ Which|QUESTIONTAG one|NUM of|ADP them|PRON could|VERB he|PRON be|VERB ?|.
+ suddenly|ADV a|DET servant|ADJ bearing|NOUN a|DET large|ADJ tray|NOUN of|ADP cakes|NOUN and|CONJ pastries|NOUN stalks|VERB past|NOUN .|.
+ Where|QUESTIONTAG is|VERB he|PRON ?|.
+ They|PRON 're|VERB looking|VERB for|ADP him|PRON ,|. Your|PRON Grace|NOUN .|.
+ Where|QUESTIONTAG ?|.
+ We|PRON are|VERB in|ADP the|DET Residence|NOUN of|ADP the|DET Fartsbishop|NOUN of|ADP Salzburg|NOUN .|.
+ Why|ADV not|ADV ?|.
+ Because|ADP here|ADV everything|NOUN goes|VERB backwards|NOUN .|.
+ Do|VERB you|PRON think|VERB that|DET 's|VERB funny|ADJ ?|.
+ Yes|X ,|. I|PRON think|VERB it|PRON 's|VERB brilliant|ADJ .|.
+ What|QUESTIONTAG ?|.
+ Tish-I'm-tee|NOUN .|.
+ Well|ADV ,|. I|PRON think|VERB that|ADP went|VERB off|ADP remarkably|ADV well|ADV ,|. do|VERB n't|ADV you|PRON ?|.
+ Indeed|ADV .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ Why|ADV what|PRON ,|. sir|NOUN ?|.
+ Why|ADV do|VERB I|PRON have|VERB to|PRT be|VERB humiliated|VERB in|ADP front|NOUN of|ADP my|PRON guests|NOUN by|ADP one|NUM of|ADP my|PRON own|ADJ servants|NOUN ?|.
+ Humiliated|VERB ?|.
+ How|QUESTIONTAG much|ADJ provocation|NOUN am|VERB I|PRON to|PRT endure|VERB from|ADP you|PRON ?|.
+ But|CONJ why|ADV ?|.
+ How|QUESTIONTAG good|ADJ is|VERB he|PRON ,|. this|DET Mozart|NOUN ?|.
+ He|PRON 's|VERB remarkable|ADJ ,|. Majesty|NOUN .|.
+ Tiresome|NOUN ?|.
+ A|DET young|ADJ man|NOUN trying|VERB to|PRT impress|VERB beyond|ADP his|PRON abilities|NOUN .|.
+ And|CONJ the|DET other|ADJ one|NUM ?|.
+ face|NOUN of|ADP doubt|NOUN in|ADP the|DET mirror|NOUN .|.
+ And|CONJ the|DET other|ADJ one|NUM ?|.
+ first|ADV wig|NOUN on|ADP his|PRON head|NOUN .|.
+ (|. to|PRT Von|NOUN Strack|NOUN )|. Well|NOUN ,|. what|PRON do|VERB you|PRON have|VERB for|ADP me|PRON today|NOUN ?|.
+ Your|PRON Majesty|NOUN ,|. Herr|NOUN Mozart|NOUN -|.
+ Yes|X ,|. what|PRON about|ADP him|PRON ?|.
+ He|PRON 's|VERB here|ADV .|.
+ May|NOUN I|PRON try|VERB it|PRON ?|.
+ Majesty|NOUN .|.
+ Really|ADV ?|.
+ Mio|NOUN caro|NOUN Adone|NOUN .|.
+ (|. to|PRT the|DET courtiers|NOUN )|. Did|VERB we|PRON vote|VERB in|ADP the|DET end|NOUN for|ADP German|ADJ or|CONJ Italian|ADJ ?|.
+ Well|ADV ,|. actually|ADV ,|. Sire|NOUN ,|. if|ADP you|PRON remember|VERB ,|. we|PRON did|VERB finally|ADV incline|VERB to|PRT Italian|NOUN .|.
+ Did|NOUN we|PRON ?|.
+ I|PRON do|VERB n't|ADV think|VERB it|PRON was|VERB really|ADV decided|ADJ ,|. Director|NOUN .|.
+ Why|ADV so|ADV ?|.
+ Because|ADP I|PRON 've|VERB already|ADV found|VERB the|DET most|ADV wonderful|ADJ libretto|NOUN !|.
+ Yes|X ,|. where|ADV ?|.
+ In|ADP a|DET Pasha|NOUN 's|PRT Harem|NOUN ,|. Majesty|NOUN .|.
+ You|PRON mean|VERB in|ADP Turkey|NOUN ?|.
+ Exactly|ADV .|.
+ Then|ADV why|ADV especially|ADV does|VERB it|PRON have|VERB to|PRT be|VERB in|ADP German|ADJ ?|.
+ Well|ADV not|ADV especially|ADV .|.
+ (|. to|PRT Salieri|NOUN )|. The|DET rest|NOUN is|VERB just|ADV the|DET same|ADJ ,|. is|VERB n't|ADV it|PRON ?|.
+ phrase|NOUN ,|. which|DET he|PRON repeats|VERB dubiously|ADV .|.
+ That|DET really|ADV does|VERB n't|ADV work|VERB ,|. does|VERB it|PRON ?|.
+ Yes|X ?|.
+ Is|VERB there|DET a|DET part|NOUN for|ADP me|PRON ?|.
+ No|DET .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB ?|.
+ Well|ADV even|ADV if|ADP there|DET is|VERB ,|. I|PRON do|VERB n't|ADV think|VERB you|PRON want|VERB to|PRT get|VERB involved|VERB with|ADP this|DET one|NUM .|.
+ Why|ADV not|ADV ?|.
+ Well|ADV ,|. do|VERB you|PRON know|VERB where|ADV it|PRON 's|VERB set|VERB ,|. my|PRON dear|NOUN ?|.
+ Where|QUESTIONTAG ?|.
+ In|ADP a|DET harem|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ A|DET brothel|NOUN .|.
+ What|QUESTIONTAG does|VERB he|PRON look|VERB like|ADP ?|.
+ You|PRON might|VERB be|VERB disappointed|VERB .|.
+ Why|ADV ?|.
+ Looks|NOUN and|CONJ talent|NOUN do|VERB n't|ADV always|ADV go|VERB together|ADV ,|. Katherina|NOUN .|.
+ It|PRON is|VERB new|ADJ ,|. it|PRON is|VERB ,|. is|VERB n't|ADV it|PRON ,|. Sire|NOUN ?|.
+ Yes|X ,|. indeed|ADV .|.
+ And|CONJ German|NOUN ?|.
+ Oh|X ,|. yes|X .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ,|. Sire|NOUN ?|.
+ Well|ADV ,|. I|PRON mean|VERB occasionally|ADV it|PRON seems|VERB to|PRT have|VERB ,|. how|ADV shall|VERB one|NUM say|VERB ?|.
+ Too|ADV many|ADJ notes|NOUN ,|. Your|PRON Majesty|NOUN ?|.
+ Exactly|ADV .|.
+ Which|QUESTIONTAG few|ADJ did|VERB you|PRON have|VERB in|ADP mind|NOUN ,|. Majesty|NOUN ?|.
+ Excuse|ADP me|PRON ,|. but|CONJ how|ADV old|ADJ are|VERB you|PRON ?|.
+ Twenty-six|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Do|VERB n't|ADV bother|VERB .|.
+ Are|NOUN you|PRON all|DET right|ADV ?|.
+ rapturously|ADV .|.
+ But|CONJ are|VERB n't|ADV you|PRON taking|VERB us|PRON ?|.
+ I|PRON have|VERB to|PRT talk|VERB to|PRT the|DET singers|NOUN .|.
+ What|QUESTIONTAG ?|.
+ The|DET marriage|NOUN !|.
+ Well|ADV ,|. what|PRON does|VERB it|PRON matter|VERB to|PRT you|PRON ?|.
+ Nothing|NOUN !|.
+ What|QUESTIONTAG did|VERB you|PRON think|VERB of|ADP the|DET music|NOUN ?|.
+ Extremely|ADV clever|NOUN .|.
+ Is|VERB her|PRON mother|NOUN still|ADV lying|VERB on|ADP the|DET floor|NOUN ?|.
+ No|DET ,|. she|PRON 's|VERB fine|ADJ .|.
+ Did|NOUN you|PRON like|ADP it|PRON ,|. then|ADV ?|.
+ How|QUESTIONTAG could|VERB I|PRON not|ADV ?|.
+ Is|VERB she|PRON a|DET good|ADJ fuck|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Did|NOUN you|PRON try|VERB ?|.
+ Every|DET day|NOUN .|.
+ And|CONJ how|ADV will|VERB you|PRON make|VERB him|PRON keep|VERB it|PRON ?|.
+ Oh|X ,|. sir|ADJ ,|. he|PRON 's|VERB never|ADV disobeyed|VERB me|PRON in|ADP anything|NOUN .|.
+ And|CONJ will|VERB you|PRON ,|. Constanze|NOUN Weber|NOUN ,|. take|VERB this|DET man|NOUN ,|. Wolfgang|NOUN to|PRT be|VERB your|PRON lawful|ADJ husband|NOUN ?|.
+ I|PRON will|VERB .|.
+ Yes|X ?|.
+ You|PRON already|ADV commissioned|VERB an|DET opera|NOUN from|ADP Mozart|NOUN .|.
+ What|QUESTIONTAG is|VERB this|DET ,|. Herr|NOUN Chamberlain|NOUN ?|.
+ What|QUESTIONTAG is|VERB what|PRON ?|.
+ Is|VERB the|DET Emperor|NOUN angry|ADJ with|ADP me|PRON ?|.
+ On|ADP the|DET contrary|NOUN .|.
+ Then|ADV why|ADV does|VERB n't|ADV he|PRON simply|ADV appoint|VERB me|PRON to|PRT the|DET post|NOUN ?|.
+ Mozart|NOUN ,|. you|PRON are|VERB not|ADV the|DET only|ADJ composer|NOUN in|ADP Vienna|NOUN .|.
+ Who|QUESTIONTAG is|VERB on|ADP this|DET committee|NOUN ?|.
+ Kapellmeister|NOUN Bonno|NOUN ,|. Count|NOUN Orsini-|NOUN Rosenberg|NOUN and|CONJ Court|NOUN Composer|NOUN Salieri|NOUN .|.
+ You|PRON borrowed|VERB money|NOUN from|ADP your|PRON mother|NOUN ?|.
+ Yes|X !|.
+ Who|QUESTIONTAG is|VERB she|PRON ?|.
+ She|PRON did|VERB n't|ADV say|VERB .|.
+ Frau|NOUN Mozart|NOUN ?|.
+ That|DET 's|VERB right|ADJ ,|. Your|PRON Excellency|NOUN .|.
+ Really|ADV ?|.
+ My|PRON husband|NOUN is|VERB a|DET proud|ADJ man|NOUN ,|. sir|NOUN .|.
+ Then|ADV he|PRON did|VERB n't|ADV send|VERB you|PRON ?|.
+ No|DET ,|. sir|NOUN .|.
+ Originals|NOUN ?|.
+ Yes|X .|.
+ These|DET are|VERB originals|NOUN ?|.
+ Yes|X ,|. sir|NOUN .|.
+ Is|VERB it|PRON no|DET good|ADJ ?|.
+ So|ADV ,|. will|VERB you|PRON help|VERB him|PRON ?|.
+ Tonight|NOUN ?|.
+ Alone|ADV .|.
+ What|QUESTIONTAG for|ADP ?|.
+ Some|DET service|NOUN deserves|NOUN service|NOUN in|ADP return|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ Is|VERB n't|ADV it|PRON obvious|ADJ ?|.
+ What|QUESTIONTAG ?|.
+ Should|VERB we|PRON stay|VERB here|ADV ?|.
+ What|QUESTIONTAG are|VERB you|PRON staring|VERB at|ADP ?|.
+ It|PRON shatters|VERB on|ADP the|DET floor|NOUN .|.
+ What|QUESTIONTAG use|NOUN after|ADP all|DET is|VERB Man|NOUN ,|. if|ADP not|ADV to|PRT teach|VERB God|NOUN His|PRON lessons|NOUN ?|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN with|ADP you|PRON ?|.
+ Tell|VERB them|PRON to|PRT go|VERB !|.
+ Why|ADV not|ADV ?|.
+ Well|ADV ,|. Sire|NOUN ,|. I|PRON made|VERB some|DET inquiries|NOUN in|ADP a|DET routine|ADJ way|NOUN .|.
+ Oh|X ?|.
+ leaves|VERB the|DET room|NOUN .|.
+ Really|ADV ?|.
+ As|ADP a|DET matter|NOUN of|ADP fact|NOUN ,|. one|NUM of|ADP my|PRON own|ADJ pupils|NOUN -|. a|DET very|ADV young|ADJ singer|NOUN -|. told|VERB me|PRON she|PRON was|VERB -|. er|NOUN -|. well|ADV !|.
+ Yes|X ?|.
+ Molested|VERB ,|. Majesty|NOUN .|.
+ What|QUESTIONTAG does|VERB he|PRON want|VERB ?|.
+ He|PRON did|VERB n't|ADV say|VERB ,|. sir|NOUN .|.
+ Herr|NOUN Mozart|NOUN ,|. what|PRON brings|VERB you|PRON here|ADV ?|.
+ Your|PRON Excellency|NOUN ,|. you|PRON requested|VERB some|DET specimens|NOUN of|ADP my|PRON work|NOUN .|.
+ Whom|X did|VERB they|PRON choose|VERB ?|.
+ Herr|NOUN Sommer|NOUN .|.
+ You|PRON do|VERB n't|ADV mean|VERB to|PRT tell|VERB me|PRON you|PRON are|VERB living|VERB in|ADP poverty|NOUN ?|.
+ No|DET ,|. but|CONJ I|PRON 'm|VERB broke|ADV .|.
+ Do|VERB you|PRON have|VERB a|DET daughter|NOUN ?|.
+ I|PRON 'm|VERB afraid|ADJ not|ADV .|.
+ What|QUESTIONTAG exactly|ADV are|VERB you|PRON working|VERB on|ADP ?|.
+ I|PRON ca|VERB n't|ADV say|VERB .|.
+ And|CONJ which|DET one|NUM of|ADP them|PRON do|VERB you|PRON want|VERB me|PRON to|PRT teach|VERB ?|.
+ What|QUESTIONTAG ?|.
+ Really|ADV ?|.
+ Ah|NOUN ,|. now|ADV !|.
+ Wine|NOUN ?|.
+ Quite|ADV right|ADJ .|.
+ Who|QUESTIONTAG was|VERB your|PRON teacher|NOUN ?|.
+ I|PRON was|VERB .|.
+ Why|ADV are|VERB you|PRON here|ADV ?|.
+ Am|NOUN I|PRON not|ADV welcome|VERB ?|.
+ Is|VERB she|PRON not|ADV here|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Do|VERB you|PRON always|ADV live|VERB like|ADP this|DET ?|.
+ Oh|X ,|. yes|X .|.
+ Do|VERB n't|ADV you|PRON have|VERB a|DET maid|NOUN ?|.
+ Oh|ADP we|PRON could|VERB ,|. if|ADP we|PRON wanted|VERB to|PRT ,|. but|CONJ Stanzi|NOUN wo|VERB n't|ADV hear|VERB of|ADP it|PRON .|.
+ How|QUESTIONTAG is|VERB your|PRON financial|ADJ situation|NOUN ?|.
+ It|PRON could|VERB n't|ADV be|VERB better|ADJ .|.
+ How|QUESTIONTAG many|ADJ pupils|NOUN do|VERB you|PRON have|VERB ?|.
+ Pupils|NOUN ?|.
+ How|QUESTIONTAG many|ADJ ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ Oh|X ,|. let|VERB 's|PRON not|ADV talk|VERB about|ADP it|PRON .|.
+ Why|ADV not|ADV ?|.
+ It|PRON 's|VERB a|DET secret|ADJ .|.
+ When|QUESTIONTAG ,|. may|VERB I|PRON ask|VERB ?|.
+ In|ADP three|NUM months|NOUN !|.
+ Why|ADV did|VERB n't|ADV you|PRON mention|VERB it|PRON in|ADP your|PRON letters|NOUN ?|.
+ Did|NOUN n't|ADV I|PRON ?|.
+ May|NOUN I|PRON offer|VERB you|PRON some|DET tea|NOUN ,|. Herr|NOUN Mozart|NOUN ?|.
+ Tea|NOUN ?|.
+ Herr|NOUN Mozart|NOUN ,|. why|ADV do|VERB n't|ADV you|PRON name|VERB your|PRON son|NOUN 's|PRT penalty|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ What|QUESTIONTAG does|VERB she|PRON want|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Yes|X ?|.
+ Are|NOUN you|PRON Herr|NOUN Mozart|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ They|PRON 'll|VERB be|VERB paid|VERB for|ADP by|ADP a|DET great|ADJ admirer|NOUN or|CONJ yours|NOUN who|PRON wishes|VERB to|PRT remain|VERB anon|ADJ -|. anonymous|ADJ .|.
+ Are|NOUN you|PRON saying|VERB that|ADP someone|NOUN is|VERB paying|VERB you|PRON to|PRT be|VERB our|PRON maid|NOUN and|CONJ does|VERB n't|ADV want|VERB us|PRON to|PRT know|VERB who|PRON he|PRON is|VERB ?|.
+ Yes|X .|.
+ Papa|NOUN ,|. is|VERB this|DET your|PRON idea|NOUN ?|.
+ Mine|NOUN ?|.
+ Are|NOUN you|PRON playing|VERB a|DET trick|NOUN on|ADP me|PRON ?|.
+ I|PRON never|ADV saw|VERB this|DET girl|NOUN in|ADP my|PRON life|NOUN .|.
+ So|ADV now|ADV we|PRON are|VERB going|VERB to|PRT let|VERB a|DET perfect|ADJ stranger|NOUN into|ADP the|DET house|NOUN ?|.
+ (|. to|PRT Lorl|NOUN )|. When|QUESTIONTAG can|VERB you|PRON start|VERB ?|.
+ Right|ADV away|ADV ,|. ma'am|NOUN .|.
+ Do|VERB any|DET pupils|VERB come|NOUN to|PRT the|DET house|NOUN ?|.
+ Not|ADV that|ADP I|PRON 've|VERB seen|VERB .|.
+ Yes|X what|PRON ?|.
+ snuff|NOUN box|NOUN :|. it|PRON is|VERB the|DET one|NOUN we|PRON saw|VERB Mozart|NOUN being|VERB presented|VERB with|ADP as|ADP a|DET child|NOUN in|ADP the|DET Vatican|NOUN .|.
+ Where|QUESTIONTAG does|VERB he|PRON work|VERB ?|.
+ In|ADP there|ADV ,|. sir|NOUN .|.
+ Majesty|NOUN ,|. may|VERB I|PRON ask|VERB you|PRON to|PRT do|VERB me|PRON the|DET greatest|ADJ favour|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Bravo|NOUN ?|.
+ No|DET !|.
+ Yes|X ?|.
+ Mozart|NOUN is|VERB writing|VERB a|DET new|ADJ opera|NOUN .|.
+ Italian|ADJ ?|.
+ Aie|NOUN !|.
+ You|PRON mean|VERB that|ADP play|NOUN ?|.
+ Exactly|ADV .|.
+ He|PRON 's|VERB setting|VERB that|DET play|NOUN to|PRT music|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG is|VERB this|DET Marriage|NOUN of|ADP Figaro|NOUN ?|.
+ It|PRON 's|VERB a|DET French|ADJ play|NOUN ,|. Kapellmeister|NOUN .|.
+ Are|NOUN you|PRON absolutely|ADV sure|ADJ ?|.
+ I|PRON 've|VERB seen|VERB the|DET manuscript|NOUN .|.
+ Where|QUESTIONTAG ?|.
+ Never|ADV mind|NOUN .|.
+ Mozart|NOUN ,|. are|VERB you|PRON aware|ADJ I|PRON have|VERB declared|VERB the|DET French|ADJ play|NOUN of|ADP Figaro|NOUN unsuitable|ADJ for|ADP our|PRON theatre|NOUN ?|.
+ Yes|X ,|. Sire|NOUN .|.
+ Who|QUESTIONTAG told|VERB you|PRON this|DET ,|. Majesty|NOUN ?|.
+ It|PRON is|VERB not|ADV your|PRON place|NOUN to|PRT ask|VERB questions|NOUN .|.
+ Would|VERB you|PRON tell|VERB me|PRON why|ADV ?|.
+ Well|ADV ,|. Majesty|NOUN ,|. it|PRON is|VERB only|ADV a|DET comedy|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Govern|VERB your|PRON tongue|NOUN ,|. sir|NOUN !|.
+ How|QUESTIONTAG can|VERB I|PRON persuade|VERB you|PRON if|ADP you|PRON wo|VERB n't|ADV let|VERB me|PRON show|VERB it|PRON ?|.
+ That|DET will|VERB do|VERB ,|. Herr|NOUN Mozart|NOUN !|.
+ What|QUESTIONTAG anger|NOUN ?|.
+ About|ADP the|DET ballet|NOUN .|.
+ Excuse|ADP me|PRON -|. did|VERB n't|ADV His|PRON Majesty|NOUN specifically|ADV forbid|VERB ballet|NOUN in|ADP his|PRON opera|NOUN ?|.
+ Yes|X ,|. absolutely|ADV .|.
+ Did|NOUN you|PRON not|ADV know|VERB that|ADP His|PRON Majesty|NOUN has|VERB expressly|ADV forbidden|ADJ ballet|NOUN in|ADP his|PRON operas|NOUN ?|.
+ Yes|X ,|. but|CONJ this|DET is|VERB not|ADV a|DET ballet|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ,|. Herr|NOUN Director|NOUN ?|.
+ Taking|VERB out|PRT what|PRON you|PRON should|VERB never|ADV have|VERB put|VERB in|ADP .|.
+ You|PRON burned|VERB the|DET score|NOUN ?|.
+ Oh|X no|DET !|.
+ Oh|X ,|. Excellency|NOUN ,|. would|VERB you|PRON ?|.
+ With|ADP all|DET my|PRON heart|NOUN ,|. Mozart|NOUN .|.
+ Why|ADV ?|.
+ It|PRON is|VERB your|PRON regulation|NOUN ,|. Sire|NOUN .|.
+ Do|VERB you|PRON like|ADP this|DET ,|. Salieri|NOUN ?|.
+ It|PRON is|VERB not|ADV a|DET question|NOUN of|ADP liking|NOUN ,|. Your|PRON Majesty|NOUN .|.
+ Can|VERB we|PRON see|VERB the|DET scene|NOUN with|ADP the|DET music|NOUN back|ADV ,|. please|NOUN ?|.
+ Oh|X yes|X ,|. certainly|ADV .|.
+ But|CONJ what|PRON is|VERB it|PRON they|PRON do|VERB n't|ADV like|VERB ?|.
+ Well|ADV ,|. I|PRON can|VERB speak|VERB for|ADP the|DET Emperor|NOUN .|.
+ (|. to|PRT Schikaneder|NOUN )|. Well|NOUN ?|.
+ (|. mock|NOUN moved|VERB )|. Sublime|NOUN !|.
+ How|QUESTIONTAG could|VERB I|PRON not|ADV ?|.
+ Did|NOUN my|PRON work|NOUN please|NOUN you|PRON ?|.
+ How|QUESTIONTAG could|VERB it|PRON not|ADV ,|. Excellency|NOUN ?|.
+ Yes|X ?|.
+ Yes|X ,|. my|PRON love|NOUN ?|.
+ These|DET gentlemen|NOUN are|VERB from|ADP Salzburg|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Your|PRON father|NOUN is|VERB dead|ADJ .|.
+ Who|QUESTIONTAG is|VERB it|PRON ?|.
+ (|. speaking|VERB to|PRT the|DET dwarves|NOUN )|. How|QUESTIONTAG long|ADV does|VERB it|PRON take|VERB to|PRT cook|VERB a|DET soprano|NOUN ?|.
+ (|. all|DET together|ADV )|. Five|NUM hours|NOUN ,|. five|NUM minutes|NOUN ,|. five|NUM seconds|NOUN .|.
+ Hey|NOUN what|PRON ?|.
+ (|. singing|VERB to|PRT La|NOUN oi|NOUN daram|NOUN )|. Give|NOUN him|PRON some|DET hay|NOUN ,|. my|PRON darling|NOUN ,|. and|CONJ I|PRON 'll|VERB give|VERB you|PRON my|PRON heart|NOUN !|.
+ Well|ADV ,|. how|ADV do|VERB you|PRON like|ADP that|DET ?|.
+ less|ADV amused|ADJ and|CONJ is|VERB looking|VERB apprehensive|ADJ .|.
+ Animals|NOUN ?|.
+ I|PRON tell|VERB you|PRON I|PRON picked|VERB up|PRT a|DET snake|NOUN in|ADP Dresden|NOUN last|ADJ week|NOUN -|. twelve|ADJ foot|NOUN long|ADV -|. folds|VERB up|ADP to|PRT six|NUM inches|NOUN ,|. just|ADV like|ADP a|DET paper|NOUN fan|NOUN .|.
+ How|QUESTIONTAG much|ADV will|VERB you|PRON pay|VERB him|PRON ?|.
+ Ah|NOUN .|.
+ You|PRON 're|VERB not|ADV going|VERB to|PRT do|VERB this|DET ?|.
+ Why|ADV not|ADV ?|.
+ Is|VERB my|PRON pupil|NOUN still|ADV anxious|ADJ to|PRT learn|VERB the|DET art|NOUN of|ADP music|NOUN ?|.
+ Well|ADV ,|. your|PRON pupil|NOUN is|VERB married|ADJ and|CONJ living|NOUN in|ADP Mannheim|NOUN ,|. young|ADJ man|NOUN .|.
+ What|QUESTIONTAG for|ADP ?|.
+ If|ADP a|DET man|NOUN can|VERB not|ADV earn|VERB ,|. he|PRON must|VERB borrow|VERB .|.
+ Herr|NOUN Mozart|NOUN ?|.
+ What|QUESTIONTAG work|NOUN ?|.
+ A|DET Mass|NOUN for|ADP the|DET dead|ADJ .|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ I|PRON am|VERB only|ADV a|DET messenger|NOUN .|.
+ How|QUESTIONTAG much|ADJ ?|.
+ How|QUESTIONTAG long|ADV will|VERB you|PRON give|VERB me|PRON ?|.
+ Work|NOUN fast|ADV .|.
+ Who|QUESTIONTAG was|VERB that|ADP ?|.
+ No|DET one|NOUN .|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ Why|ADV not|ADV ?|.
+ You|PRON 'd|VERB think|VERB I|PRON was|VERB mad|NOUN .|.
+ What|QUESTIONTAG ?|.
+ His|PRON funeral|ADJ -|. imagine|NOUN it|PRON !|.
+ Why|ADV ?|.
+ Am|NOUN I|PRON interrupting|VERB something|NOUN ?|.
+ Not|ADV at|ADP all|DET .|.
+ (|. peering|VERB into|ADP he|PRON room|NOUN )|. Where|QUESTIONTAG 's|VERB our|PRON friend|NOUN ?|.
+ He|PRON 's|VERB not|ADV in|ADP .|.
+ Is|VERB he|PRON happy|ADJ with|ADP it|PRON ?|.
+ Is|VERB this|DET it|PRON ?|.
+ What|QUESTIONTAG is|VERB this|DET ?|.
+ Put|VERB it|PRON down|PRT ,|. I|PRON said|VERB !|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG ?|.
+ Can|VERB I|PRON see|VERB it|PRON ?|.
+ No|DET .|.
+ Why|ADV not|ADV ?|.
+ Because|ADP there|DET 's|VERB nothing|NOUN to|PRT see|VERB .|.
+ What|QUESTIONTAG medicine|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Where|QUESTIONTAG ?|.
+ Here|ADV ,|. in|ADP his|PRON stomach|NOUN .|.
+ Is|VERB he|PRON working|VERB ?|.
+ I|PRON 'm|VERB frightened|ADJ ,|. sir|NOUN .|.
+ Is|VERB he|PRON working|VERB ?|.
+ I|PRON suppose|VERB so|ADV .|.
+ (|. insistently|ADV )|. Are|VERB you|PRON sure|VERB it|PRON 's|VERB an|DET opera|NOUN ?|.
+ of|ADP the|DET slow|ADJ introduction|NOUN ,|. we|PRON see|VERB :|.
+ Are|NOUN you|PRON neglecting|VERB my|PRON request|NOUN ?|.
+ No|DET ,|. no|DET !|.
+ Why|ADV not|ADV ?|.
+ It|PRON 's|VERB killing|VERB me|PRON .|.
+ Man|NOUN ,|. hast|ADJ thou|NOUN no|DET other|ADJ desire|NOUN on|ADP earth|NOUN ,|. but|CONJ just|ADV to|PRT eat|VERB and|CONJ drink|VERB ?|.
+ (|. Schikaneder|NOUN )|. Well|ADV !|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB -|. now|ADV ?|.
+ Of|ADP course|NOUN now|ADV .|.
+ Where|QUESTIONTAG is|VERB your|PRON wife|NOUN ?|.
+ Not|ADV here|ADV !|.
+ You|PRON mean|VERB she|PRON 's|VERB not|ADV coming|VERB back|ADV ?|.
+ You|PRON 're|VERB so|ADV good|ADJ to|PRT me|PRON .|.
+ Do|VERB you|PRON mean|VERB that|ADP ?|.
+ I|PRON do|VERB .|.
+ Are|NOUN you|PRON ill|ADV ?|.
+ The|DET doctor|NOUN thinks|VERB I|PRON am|VERB .|.
+ What|QUESTIONTAG ?|.
+ I|PRON 'm|VERB too|ADV young|ADJ to|PRT be|VERB so|ADV sick|ADJ .|.
+ Shall|NOUN I|PRON answer|VERB it|PRON ?|.
+ No|DET !|.
+ Who|QUESTIONTAG ?|.
+ The|DET man|NOUN .|.
+ What|QUESTIONTAG man|NOUN ?|.
+ Finish|VERB what|PRON ?|.
+ He|PRON knows|VERB .|.
+ Can|VERB we|PRON come|VERB in|ADP ?|.
+ Well|ADV ,|. he|PRON 's|VERB sleeping|VERB now|ADV .|.
+ But|CONJ he|PRON 's|VERB all|DET right|NOUN ?|.
+ Oh|X ,|. yes|X .|.
+ Well|ADV ,|. tell|VERB him|PRON we|PRON were|VERB here|ADV ,|. wo|VERB n't|ADV you|PRON ?|.
+ Of|ADP course|NOUN .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ I|PRON want|VERB to|PRT go|VERB !|.
+ Where|QUESTIONTAG ?|.
+ I|PRON want|VERB to|PRT go|VERB back|ADV to|PRT Vienna|NOUN .|.
+ Now|ADV ?|.
+ Yes|X !|.
+ Why|ADV ?|.
+ I|PRON feel|VERB wrong|ADJ .|.
+ (|. laying|VERB a|DET hand|NOUN on|ADP her|PRON arm|NOUN )|. What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ Where|QUESTIONTAG did|VERB I|PRON stop|VERB ?|.
+ (|. consulting|VERB the|DET manuscript|NOUN )|. The|DET end|NOUN of|ADP the|DET Recordare|NOUN -|. Statuens|NOUN in|ADP parte|NOUN dextra|NOUN .|.
+ Do|VERB you|PRON believe|VERB in|ADP it|PRON ?|.
+ What|QUESTIONTAG ?|.
+ We|PRON ended|VERB in|ADP F|NOUN Major|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG time|NOUN ?|.
+ Common|ADJ time|NOUN .|.
+ (|. finishing|VERB )|. First|NOUN bassoon|NOUN and|CONJ tenor|NOUN trombone|NOUN -|. what|PRON ?|.
+ With|ADP the|DET tenors|NOUN .|.
+ Also|ADV identical|ADJ ?|.
+ Exactly|ADV .|.
+ And|CONJ that|DET 's|VERB all|DET ?|.
+ Oh|X no|DET .|.
+ (|. speaking|VERB )|. Do|VERB you|PRON have|VERB me|PRON ?|.
+ I|PRON think|VERB so|ADV .|.
+ Sopranos|NOUN up|ADV to|PRT F|NOUN on|ADP the|DET second|ADJ 'Voca|NOUN '|PRT ?|.
+ Yes|X ,|. and|CONJ on|ADP 'dictis|NOUN '|PRT .|.
+ (|. urgently|ADV )|. Do|VERB you|PRON have|VERB it|PRON ?|.
+ Yes|X .|.
+ Do|VERB you|PRON want|VERB to|PRT rest|VERB a|DET bit|NOUN ?|.
+ Oh|X no|DET .|.
+ Would|VERB you|PRON stay|VERB with|ADP me|PRON while|ADP I|PRON sleep|VERB a|DET little|ADJ ?|.
+ I|PRON 'm|VERB not|ADV leaving|VERB you|PRON .|.
+ What|QUESTIONTAG for|ADP ?|.
+ I|PRON was|VERB foolish|ADJ .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB here|ADV ?|.
+ Your|PRON husband|NOUN is|VERB ill|ADJ ,|. ma'am|NOUN .|.
+ Why|ADV you|PRON ?|.
+ I|PRON was|VERB at|ADP hand|NOUN .|.
+ What|QUESTIONTAG is|VERB this|DET ?|.
+ What|QUESTIONTAG difference|NOUN does|VERB that|ADP make|VERB ?|.
+ My|PRON son|NOUN ,|. why|ADV should|VERB you|PRON want|VERB all|DET Vienna|NOUN to|PRT believe|VERB you|PRON a|DET murderer|NOUN ?|.

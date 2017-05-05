@@ -1,0 +1,63 @@
+ SHERIFF|NOUN WATKINS|NOUN You|PRON 're|VERB Chris|NOUN Vaughn|NOUN ?|.
+ Did|NOUN I|PRON scare|VERB ya|PRON with|ADP that|DET one|NUM ?|.
+ Lil|NOUN bit|NOUN .|.
+ You|PRON were|VERB gone|VERB a|DET while|NOUN huh|NOUN ?|.
+ 8|NUM years|NOUN .|.
+ What|QUESTIONTAG is|VERB this|DET ?|.
+ Hey|NOUN ,|. I|PRON could|VERB n't|ADV let|VERB you|PRON be|VERB the|DET only|ADJ one|NUM looking|VERB good|ADJ in|ADP uniform|NOUN .|.
+ Remind|NOUN you|PRON of|ADP anyone|NOUN ?|.
+ INT|NOUN .|.
+ How|QUESTIONTAG ya|ADJ doin|NOUN ?|.
+ I|PRON 'm|VERB alright|ADJ .|.
+ Girls|NOUN actually|ADV get|VERB in|ADP there|ADV ?|.
+ How|QUESTIONTAG ya|ADV been|VERB ?|.
+ Good|ADJ .|.
+ Wan|NOUN na|PRT beer|NOUN ?|.
+ No|DET .|.
+ Still|ADV got|VERB a|DET gut|NOUN huh|NOUN Jay|NOUN ?|.
+ Still|ADV got|VERB your|PRON reflexes|NOUN .|.
+ FRIEND|NOUN Not|ADV bad|ADJ huh|NOUN ?|.
+ Not|ADV bad|ADJ .|.
+ So|ADV ,|. good|ADJ surprise|NOUN ?|.
+ Told|NOUN you|PRON it|PRON was|VERB better|ADV than|ADP gambling|VERB .|.
+ Five|NUM hundred|VERB on|ADP 6|NUM ?|.
+ Yes|X ,|. I|PRON 'm|VERB in|ADP .|.
+ Yea|NOUN ?|.
+ Yea|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doin|VERB ?|.
+ (|. Has|VERB a|DET scalpel|NOUN in|ADP his|PRON hand|NOUN )|. Special|ADJ forces|NOUN ...|. special|ADJ treatment|NOUN .|.
+ You|PRON okay|VERB ?|.
+ Some|DET homecoming|NOUN hey|NOUN .|.
+ Did|NOUN you|PRON look|VERB into|ADP it|PRON ?|.
+ They|PRON did|VERB an|DET internal|ADJ investigation|NOUN .|.
+ How|QUESTIONTAG you|PRON been|VERB ?|.
+ Been|NOUN better|ADV .|.
+ Talked|VERB to|PRT the|DET sheriff|NOUN yet|ADV ?|.
+ Well|ADV I|PRON went|VERB down|ADV to|PRT the|DET police|NOUN station|NOUN and|CONJ I|PRON talked|VERB to|PRT somebody|NOUN with|ADP a|DET badge|NOUN .|.
+ So|ADP the|DET casino|NOUN huh|NOUN ?|.
+ Yep|NOUN .|.
+ Treatin|NOUN you|PRON good|ADJ ?|.
+ Lot|NOUN better|ADJ than|ADP it|PRON treated|VERB you|PRON .|.
+ Do|VERB you|PRON ?|.
+ And|CONJ where|ADV is|VERB he|PRON ?|.
+ EXT|NOUN .|.
+ Where|QUESTIONTAG 'd|VERB you|PRON get|VERB the|DET drugs|NOUN ?|.
+ I|PRON 'm|VERB not|ADV really|ADV sure|ADJ ...|.
+ DAD|NOUN Is|VERB Pete|NOUN ok|NOUN ?|.
+ He|PRON 'll|VERB be|VERB fine|ADJ .|.
+ What|QUESTIONTAG are|VERB you|PRON doin|VERB ?|.
+ You|PRON 're|VERB joking|VERB right|ADV ?|.
+ License|NOUN and|CONJ registration|NOUN .|.
+ What|QUESTIONTAG 's|VERB the|DET problem|NOUN sheriff|NOUN ?|.
+ You|PRON .|.
+ Can|VERB I|PRON talk|VERB to|PRT you|PRON ?|.
+ Yeah|X .|.
+ Over|ADP here|ADV ?|.
+ Sure|ADV .|.
+ Who|QUESTIONTAG 's|VERB that|DET ?|.
+ It|PRON 's|VERB Pete|NOUN .|.
+ Pete|NOUN ?|.
+ A|DET fight|NOUN breaks|VERB out|PRT and|CONJ Pete|NOUN flees|NOUN .|.
+ Oh|X yeah|NOUN ?|.
+ (|. Calling|VERB downstairs|NOUN )|. Burke|NOUN ?|.
+ Check|VERB it|PRON out|PRT .|.

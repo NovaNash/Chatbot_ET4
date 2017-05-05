@@ -1,0 +1,49 @@
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ I|PRON dunno|VERB .|.
+ Then|ADV why|ADV did|VERB you|PRON come|VERB here|ADV ?|.
+ To|PRT look|VERB ...|. look|NOUN for|ADP a|DET place|NOUN ...|. a|DET place|NOUN to|PRT live|VERB in|ADP ...|. an|DET empty|ADJ place|NOUN ...|. a|DET ...|. new|ADJ ...|. place|NOUN ...|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ,|. Tyler|NOUN ?|.
+ My|PRON ...|. ''|. detail|NOUN ''|. ,|. sir|NOUN .|.
+ You|PRON fired|VERB that|ADP shot|NOUN ,|. did|VERB n't|ADV you|PRON ?|.
+ No|DET ,|. sir|NOUN .|.
+ Gasparilla|NOUN ?|.
+ He|PRON was|VERB a|DET pirate|NOUN who|PRON sailed|VERB these|DET waters|NOUN long|ADV ago|ADV .|.
+ Curse|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON if|ADP it|PRON ai|VERB n't|ADV a|DET curse|NOUN ?|.
+ Are|NOUN you|PRON gon|VERB na|PRT pause|VERB to|PRT say|VERB words|NOUN over|ADP the|DET dead|ADJ this|DET time|NOUN or|CONJ can|VERB we|PRON be|VERB on|ADP our|PRON way|NOUN ?|.
+ along|ADP behind|ADP him|PRON ,|. his|PRON big|ADJ hand|NOUN tight|NOUN around|ADP her|PRON arm|NOUN .|.
+ You|PRON Tyler|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ The|DET tunnel|NOUN .|.
+ Have|VERB you|PRON seen|VERB Julie|NOUN Grant|NOUN this|DET morning|NOUN ?|.
+ She|PRON should|VERB be|VERB in|ADP the|DET behaviour|NOUN rooms|NOUN .|.
+ Where|QUESTIONTAG the|DET hell|NOUN have|VERB you|PRON been|VERB ?|.
+ Well|ADV ,|. you|PRON managed|VERB ta|NOUN make|VERB it|PRON here|ADV jus|VERB '|. in|ADP time|NOUN fer|NOUN this|DET case|NOUN ,|. did|VERB n't|ADV ya|VERB ?|.
+ pointedly|ADV as|ADP he|PRON starts|VERB his|PRON speech|NOUN .|.
+ Tonight|NOUN ?|.
+ That|DET 's|VERB right|ADJ .|.
+ (|. whispering|VERB )|. What'dya|NOUN get|VERB ?|.
+ Rafts|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON say|VERB we|PRON got|VERB a|DET boat|NOUN .|.
+ What|QUESTIONTAG ?|.
+ We|PRON know|VERB what|PRON 's|VERB down|ADV there|ADV .|.
+ What|QUESTIONTAG ?|.
+ Datura|NOUN Metel|NOUN .|.
+ They|PRON what|PRON ?|.
+ De|NOUN Doc|NOUN .|.
+ What|QUESTIONTAG ...|. what|PRON have|VERB you|PRON done|VERB to|PRT her|PRON ?|.
+ God|NOUN forgive|ADJ us|PRON .|.
+ What|QUESTIONTAG you|PRON wan|VERB na|PRT do|VERB ?|.
+ Come|VERB on|ADP !|.
+ (|. into|ADP intercom|NOUN )|. What|QUESTIONTAG 's|VERB goin|NOUN '|. on|ADP ?|.
+ (|. on|ADP video|NOUN )|. LET|VERB US|NOUN IN|NOUN .|.
+ What|QUESTIONTAG should|VERB we|PRON do|VERB ?|.
+ dozen|NOUN or|CONJ so|ADV ,|. ranging|VERB from|ADP twelve-years-old|ADJ down|ADP to|PRT infancy|VERB ,|. are|VERB huddled|VERB .|.
+ Where|QUESTIONTAG are|VERB you|PRON goin|VERB '|. out|PRT ?|.
+ Exit|NOUN five|NUM .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ It|PRON 's|VERB ...|. he|PRON was|VERB ...|. one|NOUN who|PRON came|VERB to|PRT the|DET island|NOUN with|ADP me|PRON .|.
+ How|QUESTIONTAG long|ADJ do|VERB we|PRON have|VERB to|PRT watch|VERB him|PRON ?|.
+ Forever|ADV ,|. darlin|NOUN '|PRT .|.

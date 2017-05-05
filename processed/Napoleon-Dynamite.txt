@@ -1,0 +1,35 @@
+ What|QUESTIONTAG are|VERB you|PRON gon|VERB na|PRT do|VERB today|NOUN Napoleon|NOUN ?|.
+ Hey|NOUN ,|. Napoleon|NOUN ,|. what|PRON 'd|VERB you|PRON do|VERB all|DET last|ADJ summer|NOUN again|ADV ?|.
+ Did|NOUN you|PRON shoot|VERB any|DET ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP gun|NOUN did|VERB you|PRON use|VERB ?|.
+ Hey|NOUN ,|. could|VERB I|PRON use|VERB your|PRON guys|NOUN 's|PRT phone|NOUN for|ADP a|DET sec|NOUN ?|.
+ Is|VERB there|DET anything|NOUN wrong|ADJ ?|.
+ Is|VERB Grandma|NOUN There|DET ?|.
+ What|QUESTIONTAG do|VERB you|PRON need|VERB ?|.
+ Can|VERB you|PRON just|ADV go|VERB get|VERB her|PRON for|ADP me|PRON ?|.
+ Why|ADV ?|.
+ Well|ADV ,|. have|VERB you|PRON talked|VERB to|PRT the|DET school|NOUN nurse|NOUN ?|.
+ Well|ADV ,|. will|VERB you|PRON do|VERB me|PRON a|DET favor|NOUN then|ADV ?|.
+ What|QUESTIONTAG ?|.
+ Can|VERB you|PRON bring|VERB me|PRON my|PRON ChapStick|NOUN ?|.
+ Hey|NOUN ,|. is|VERB that|ADP a|DET new|ADJ kid|NOUN or|CONJ something|NOUN ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP bike|NOUN do|VERB you|PRON have|VERB ?|.
+ How|QUESTIONTAG was|VERB school|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Well|ADV ,|. what|PRON 's|VERB there|ADV to|PRT eat|VERB ?|.
+ What|QUESTIONTAG ?|.
+ So|ADP me|PRON and|CONJ you|PRON are|VERB pretty|ADV much|ADJ friends|NOUN by|ADP now|ADV ,|. right|ADV ?|.
+ So|ADV ,|. you|PRON got|VERB my|PRON back|NOUN and|CONJ everything|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Have|VERB you|PRON met|VERB anyone|NOUN to|PRT ask|VERB yet|ADV ?|.
+ Who|QUESTIONTAG you|PRON gon|VERB na|PRT ask|VERB ?|.
+ Is|VERB she|PRON hot|ADJ ?|.
+ How|QUESTIONTAG long|ADV did|VERB it|PRON take|VERB you|PRON to|PRT grow|VERB that|DET mustache|NOUN ?|.
+ Can|VERB I|PRON have|VERB 'em|VERB ?|.
+ Why|ADV ?|.
+ Do|VERB you|PRON dare|VERB me|PRON to|PRT go|VERB talk|NOUN to|PRT her|PRON ?|.
+ Where|QUESTIONTAG 's|VERB your|PRON locker|NOUN ?|.
+ Hey|NOUN ,|. can|VERB I|PRON have|VERB one|NUM of|ADP your|PRON key|NOUN chains|NOUN ?|.
+ Hello|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB here|ADV ,|. Uncle|NOUN Rico|NOUN ?|.
+ So|ADV ,|. when|ADV 's|PRT Grandma|NOUN coming|VERB back|ADV ?|.

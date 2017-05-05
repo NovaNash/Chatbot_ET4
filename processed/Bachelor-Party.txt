@@ -1,0 +1,235 @@
+ Mrs.|NOUN ?|.
+ I|PRON 'm|VERB separated|ADJ .|.
+ Why|ADV do|VERB n't|ADV you|PRON lean|VERB into|ADP the|DET picture|NOUN with|ADP your|PRON child|NOUN ?|.
+ Where|QUESTIONTAG 'd|VERB she|PRON go|VERB ?|.
+ She|PRON probably|ADV had|VERB sex|NOUN scheduled|VERB for|ADP 12:30|NUM .|.
+ Hey|NOUN ,|. Chulo|NOUN ,|. where|ADV are|VERB you|PRON ,|. man|NOUN ?|.
+ Hey|NOUN ,|. you|PRON guys|VERB ,|. what|PRON 's|VERB going|VERB on|ADP ?|.
+ We|PRON 're|VERB going|VERB for|ADP a|DET little|ADJ liquid|ADJ refreshment|NOUN .|.
+ (|. continuing|VERB )|. Roberto|NOUN ,|. you|PRON finished|VERB fixing|VERB that|ADP lighter|ADJ yet|ADV ?|.
+ his|PRON head|NOUN .|.
+ (|. continuing|VERB ;|. to|PRT Rick|NOUN )|. I|PRON 'm|VERB glad|ADJ you|PRON guys|VERB came|VERB by|ADP ...|. What|QUESTIONTAG 's|VERB the|DET occasion|NOUN ?|.
+ Rick|NOUN 's|PRT got|VERB an|DET important|ADJ announcement|NOUN to|PRT make|VERB .|.
+ We|PRON got|VERB ...|. uh|X ,|. veal|ADJ ...|. ah|NOUN ...|. veal|NOUN ...|. (|. to|PRT customer|NOUN )|. What|QUESTIONTAG 's|VERB this|DET word|NOUN ?|.
+ Parmisan|NOUN .|.
+ Whoa|NOUN ...|. You|PRON got|VERB to|PRT go|VERB to|PRT school|NOUN for|ADP that|DET or|CONJ what|PRON ?|.
+ (|. he|PRON 's|VERB had|VERB enough|ADV )|. Look|NOUN ,|. forget|VERB the|DET specials|NOUN .|.
+ Okay|NOUN ,|. great|ADJ ...|. Any|DET of|ADP you|PRON guys|VERB got|VERB a|DET pencil|NOUN by|ADP any|DET chance|NOUN ?|.
+ (|. impressed|VERB )|. All|DET right|NOUN ,|. a|DET Bic|NOUN ...|. How|QUESTIONTAG 'bout|ADP a|DET piece|NOUN of|ADP paper|NOUN ?|.
+ attention|NOUN span|NOUN is|VERB interrupted|VERB by|ADP something|NOUN he|PRON sees|VERB O.S|NOUN .|.
+ Like|ADP um|NOUN ...|. What|QUESTIONTAG 's|VERB the|DET deal|NOUN ,|. you|PRON guys|VERB gon|VERB na|PRT order|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ You|PRON 're|VERB kidding|VERB .|.
+ Excuse|ADP me|PRON ,|. where|ADV can|VERB I|PRON try|VERB on|ADP these|DET pants|NOUN ?|.
+ Right|ADV over|ADP here|ADV .|.
+ Bobbie|NOUN ,|. what|PRON are|VERB you|PRON talking|VERB about|ADP ?|.
+ O'Neill|NOUN just|ADV tole|VERB me|PRON .|.
+ What|QUESTIONTAG 's|VERB happening|VERB ?|.
+ Debbie|NOUN 's|PRT marrying|NOUN Rick|NOUN .|.
+ ...|. Really|ADV ?|.
+ Yes|X ,|. it|PRON 's|VERB true|ADJ .|.
+ Does|NOUN Cole|NOUN know|VERB about|ADP this|DET ?|.
+ Really|ADV --|. you|PRON went|VERB with|ADP him|PRON for|ADP two|NUM years|NOUN .|.
+ What|QUESTIONTAG are|VERB we|PRON having|VERB ?|.
+ It|PRON 's|VERB either|CONJ meatloaf|NOUN ,|. Swiss|ADJ steak|NOUN or|CONJ charred|VERB flesh|NOUN .|.
+ You|PRON 're|VERB going|VERB to|PRT have|VERB a|DET bachelor|NOUN party|NOUN ?|.
+ Of|ADP course|NOUN .|.
+ Are|NOUN you|PRON going|VERB to|PRT have|VERB women|NOUN at|ADP your|PRON party|NOUN ?|.
+ No|DET ,|. sweetheart|ADV ,|. it|PRON 's|VERB a|DET stag|ADJ party|NOUN .|.
+ Cole|NOUN ?|.
+ Over|ADP here|ADV ,|. Deb|NOUN ...|. in|ADP the|DET Smokehouse|NOUN .|.
+ Finally|ADV realized|VERB Rick|NOUN 's|PRT a|DET jerk|NOUN ,|. huh|NOUN ?|.
+ No|DET ,|. Cole|NOUN ,|. I|PRON ...|.
+ Nurse|NOUN ,|. will|VERB you|PRON take|VERB over|PRT ?|.
+ end|NOUN as|ADP Tina|NOUN hugs|NOUN Rick|NOUN .|.
+ (|. frustrated|VERB )|. All|DET right|ADJ ,|. who|PRON serves|VERB ?|.
+ You|PRON do|VERB ,|. Daddy|NOUN .|.
+ Ca|NOUN n't|ADV I|PRON just|ADV maim|VERB it|PRON a|DET little|ADJ ?|.
+ Er|NOUN ...|. perhaps|ADV we|PRON ought|VERB to|PRT stop|VERB now|ADV .|.
+ So|ADV ,|. Cole|NOUN ,|. you|PRON been|VERB practicing|VERB your|PRON game|NOUN ?|.
+ Sure|ADV have|VERB ...|.
+ Why|ADV is|VERB Cole|NOUN here|ADV ?|.
+ You|PRON know|VERB your|PRON father|NOUN enjoys|VERB his|PRON company|NOUN .|.
+ But|CONJ how|ADV can|VERB I|PRON do|VERB that|DET ?|.
+ If|ADP it|PRON were|VERB me|PRON ,|. I|PRON 'd|VERB reason|NOUN with|ADP him|PRON first|ADV .|.
+ What|QUESTIONTAG 's|VERB Debbie|NOUN 's|PRT blue|ADJ book|NOUN value|NOUN right|ADV now|ADV ?|.
+ Five|NUM thousand|NUM dollars|NOUN .|.
+ (|. to|PRT O'Neill|NOUN )|. What|QUESTIONTAG is|VERB this|DET person|NOUN 's|PRT story|NOUN here|ADV ?|.
+ The|DET way|NOUN I|PRON see|VERB it|PRON ,|. the|DET big|ADJ lug|NOUN is|VERB in|ADP love|NOUN and|CONJ he|PRON 's|VERB got|VERB a|DET lot|NOUN of|ADP major|ADJ appliances|NOUN lying|VERB around|ADV .|.
+ Cole|NOUN ,|. what|PRON are|VERB you|PRON doing|VERB here|ADV ?|.
+ He|PRON 's|VERB just|ADV trying|VERB to|PRT save|VERB you|PRON from|ADP making|VERB a|DET mistake|NOUN .|.
+ (|. to|PRT O'Neill|NOUN )|. You|PRON think|VERB the|DET gods|NOUN are|VERB telling|VERB me|PRON something|NOUN ?|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB ...|.
+ (|. he|PRON sits|VERB up|PRT )|. About|ADP what|PRON ?|.
+ The|DET wedding|NOUN ,|. my|PRON parents|NOUN ,|. your|PRON family|NOUN ,|. our|PRON friends|NOUN ,|. my|PRON job|NOUN ,|. the|DET future|NOUN ,|. our|PRON relationship|NOUN ,|. the|DET caterers|NOUN ,|. my|PRON gown|ADJ ,|. your|PRON tuxedo|NOUN ,|. our|PRON honeymoon|NOUN ,|. the|DET apartment|NOUN ,|. my|PRON shower|NOUN ,|. your|PRON bachelor|NOUN party|NOUN ...|.
+ Before|ADP or|CONJ After|ADP I|PRON have|VERB my|PRON nervous|ADJ breakfown|VERB ?|.
+ C'mere|NOUN .|.
+ You|PRON sure|VERB Gary|NOUN 's|PRT got|VERB this|DET whole|ADJ party|NOUN deal|NOUN together|ADV ?|.
+ Yeah|X ,|. man|NOUN ,|. he|PRON 's|VERB got|VERB us|PRON a|DET great|ADJ room|NOUN at|ADP the|DET hotel|NOUN and|CONJ lots|NOUN of|ADP chicks|NOUN .|.
+ What|QUESTIONTAG time|NOUN are|VERB we|PRON supposed|VERB to|PRT get|VERB to|PRT the|DET hotel|NOUN ?|.
+ Do|VERB n't|ADV worry|VERB ,|. Chulo|NOUN ,|. the|DET party|NOUN 's|PRT not|ADV gon|VERB na|PRT start|VERB without|ADP you|PRON .|.
+ Where|QUESTIONTAG the|DET hell|NOUN is|VERB he|PRON ?|.
+ Knowing|VERB Larry|NOUN ,|. he|PRON probably|ADV missed|VERB the|DET flight|NOUN .|.
+ So|ADV ,|. Larry|NOUN ,|. how|ADV have|VERB you|PRON been|VERB ?|.
+ Just|ADV in|ADP love|NOUN with|ADP everybody|NOUN .|.
+ So|ADP how|ADV 's|PRT your|PRON wife|NOUN ?|.
+ Larry|NOUN ,|. you|PRON and|CONJ your|PRON wife|NOUN got|VERB problems|NOUN ?|.
+ I|PRON do|VERB n't|ADV want|VERB to|PRT talk|VERB about|ADP it|PRON .|.
+ (|. continuing|VERB )|. You|PRON want|VERB to|PRT share|NOUN it|PRON ?|.
+ Naw|NOUN ,|. two|NUM on|ADP a|DET Quaalude|NOUN ...|. bad|ADJ luck|NOUN .|.
+ (|. his|PRON interest|NOUN peaked|VERB )|. What|QUESTIONTAG do|VERB you|PRON mean|VERB ,|. it|PRON changes|VERB ?|.
+ waiting|VERB for|ADP them|PRON .|.
+ (|. hugging|VERB Larry|NOUN )|. Larry|NOUN ,|. how|ADV are|VERB you|PRON ?|.
+ Hi|NOUN ,|. Debbie|NOUN ,|. congratulations|NOUN .|.
+ Ca|NOUN n't|ADV I|PRON just|ADV go|VERB with|ADP you|PRON guys|NOUN ?|.
+ Sorry|NOUN ,|. we|PRON got|VERB men|NOUN 's|PRT business|NOUN to|PRT do|VERB .|.
+ (|. to|PRT Rick|NOUN )|. What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ (|. snapping|VERB out|ADP of|ADP it|PRON )|. Nothing|NOUN ...|. Let|NOUN 's|PRT get|VERB crazy|ADJ !|.
+ When|QUESTIONTAG do|VERB the|DET girls|NOUN get|VERB to|PRT the|DET party|NOUN ?|.
+ Do|VERB n't|ADV worry|VERB ,|. Gary|NOUN 's|PRT taking|VERB care|NOUN of|ADP that|DET now|ADV .|.
+ Shorty|NOUN ,|. where|ADV 's|VERB the|DET party|NOUN ?|.
+ Jumbo|NOUN one|NUM .|.
+ Just|ADV where|ADV do|VERB you|PRON guys|VERB think|VERB you|PRON are|VERB ?|.
+ The|DET Library|NOUN of|ADP Congress|NOUN ?|.
+ Detroit|NOUN ?|.
+ Beyond|ADP the|DET sun|NOUN ?|.
+ Are|NOUN any|DET of|ADP those|DET right|ADJ ?|.
+ This|DET is|VERB the|DET Park|NOUN View|NOUN Hotel|NOUN .|.
+ (|. concerned|VERB )|. What|QUESTIONTAG do|VERB you|PRON think|VERB 's|PRT gon|NOUN na|PRT go|VERB on|ADP at|ADP the|DET guys|NOUN '|PRT party|NOUN ?|.
+ They|PRON 'll|VERB probably|ADV get|VERB drunk|NOUN ,|. and|CONJ watch|VERB dirty|NOUN movies|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ I|PRON forgot|VERB to|PRT tell|VERB you|PRON .|.
+ What|QUESTIONTAG 's|VERB first|ADV ?|.
+ A|DET bit|NOUN of|ADP a|DET warm-up|NOUN .|.
+ Olivier|NOUN 's|PRT in|ADP that|DET ,|. right|ADV ?|.
+ Then|ADV it|PRON 's|VERB on|ADP to|PRT the|DET real|ADJ thing|NOUN .|.
+ Yes|X ?|.
+ the|DET piece|NOUN of|ADP paper|NOUN Cole|NOUN gave|VERB her|PRON .|.
+ 838|NUM North|NOUN Franek|NOUN Avenue|NOUN ?|.
+ (|. continuing|VERB )|. You|PRON know|VERB everyone|NOUN here|ADV ,|. do|VERB n't|ADV you|PRON ?|.
+ Yes|X .|.
+ One|NUM of|ADP these|DET ,|. huh|NOUN ?|.
+ Looks|NOUN that|DET way|NOUN .|.
+ (|. business-like|NOUN )|. Is|VERB there|DET an|DET empty|ADJ outlet|NOUN in|ADP here|ADV ?|.
+ Darlene|NOUN stand|VERB amidst|VERB the|DET girls|NOUN .|.
+ How|QUESTIONTAG 's|VERB it|PRON going|VERB ,|. guys|NOUN ?|.
+ Looking|VERB for|ADP candy|NOUN hidden|NOUN in|ADP his|PRON coat|NOUN .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ Nothing|NOUN .|.
+ So|ADV ,|. what|PRON do|VERB you|PRON guys|VERB think|NOUN of|ADP the|DET party|NOUN so|ADV far|ADV ?|.
+ (|. his|PRON voice|NOUN tells|NOUN us|PRON he|PRON has|VERB something|NOUN in|ADP mind|NOUN )|. Is|VERB n't|ADV that|ADP a|DET great|ADJ car|NOUN ,|. Chulo|NOUN ?|.
+ (|. surprised|VERB )|. The|DET car|NOUN for|ADP Debbie|NOUN ?|.
+ (|. getting|VERB a|DET little|ADJ excitable|ADJ )|. I|PRON mean|VERB it|PRON .|.
+ Jumbo|NOUN ,|. where|ADV the|DET hell|NOUN are|VERB the|DET women|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ,|. asshole|NOUN ?|.
+ I|PRON 've|VERB had|VERB it|PRON ,|. numb|ADJ nuts|NOUN ...|. How|QUESTIONTAG much|ADJ money|NOUN you|PRON got|VERB ?|.
+ Why|ADV ?|.
+ Are|NOUN you|PRON sure|VERB this|DET is|VERB a|DET good|ADJ idea|NOUN ?|.
+ Look|NOUN ,|. you|PRON heard|VERB what|PRON those|DET hookers|NOUN said|VERB .|.
+ (|. softly|ADV ;|. into|ADP phone|NOUN )|. Yes|NOUN ...|. is|VERB there|DET a|DET Rick|NOUN Stahl|NOUN registered|VERB there|DET ?|.
+ Hookers|NOUN beat|VERB you|PRON up|PRT ?|.
+ Yes|X .|.
+ Where|QUESTIONTAG we|PRON going|VERB ?|.
+ Out|ADP .|.
+ So|ADV will|VERB your|PRON friend|NOUN Nick|NOUN do|VERB it|PRON ?|.
+ He|PRON 'll|VERB do|VERB anything|NOUN for|ADP money|NOUN .|.
+ Nick|NOUN the|DET what|PRON ?|.
+ WAIST|NOUN UP|NOUN ,|. we|PRON ca|VERB n't|ADV see|VERB what|PRON the|DET guys|ADJ see|NOUN .|.
+ (|. continuing|VERB )|. And|CONJ now|ADV ,|. Nick|NOUN ...|. or|CONJ is|VERB it|PRON Mr.|NOUN Dick|NOUN ?|.
+ Nick|NOUN .|.
+ Is|VERB this|DET the|DET foot|NOUN long|ADV ?|.
+ And|CONJ then|ADV some|DET .|.
+ (|. oh-so-heavy|ADJ Indian|NOUN accent|NOUN )|. What|QUESTIONTAG can|VERB I|PRON be|VERB doing|VERB for|ADP you|PRON ?|.
+ You|PRON 're|VERB a|DET pimp|NOUN ?|.
+ Milt|NOUN ?|.
+ (|. continuing|VERB )|. What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ You|PRON okay|VERB ?|.
+ Yeah|X ,|. I|PRON guess|VERB so|ADV .|.
+ Really|ADV ?|.
+ Yeah|X .|.
+ Hello|NOUN ?|.
+ Mr.|NOUN Thomerson|NOUN .|.
+ Yes|X ,|. son|NOUN ,|. did|VERB you|PRON find|VERB out|PRT where|ADV the|DET bachelor|NOUN party|NOUN is|VERB ?|.
+ Yes|X I|PRON did|VERB .|.
+ (|. crazed|VERB )|. Where|QUESTIONTAG is|VERB it|PRON ?|.
+ Out|ADP front|NOUN .|.
+ (|. yelling|VERB back|ADV )|. Cole|NOUN ,|. when|ADV was|VERB the|DET last|ADJ time|NOUN you|PRON had|VERB a|DET lobotomy|NOUN ?|.
+ (|. furious|ADJ )|. You|PRON 've|VERB had|VERB it|PRON .|.
+ (|. to|PRT guys|VERB )|. Do|VERB n't|ADV you|PRON love|VERB it|PRON when|ADV old|ADJ friends|NOUN stop|VERB by|ADP ?|.
+ (|. to|PRT Rick|NOUN )|. Hey|NOUN ,|. I|PRON 'm|VERB starved|ADJ ...|. Let|NOUN 's|PRT go|VERB get|VERB something|NOUN to|PRT eat|VERB .|.
+ What|QUESTIONTAG the|DET hell|NOUN is|VERB that|ADP ?|.
+ My|PRON gift|NOUN to|PRT you|PRON .|.
+ You|PRON done|VERB ?|.
+ Father|NOUN ,|. would|VERB you|PRON like|VERB to|PRT take|VERB our|PRON table|NOUN ?|.
+ Where|QUESTIONTAG the|DET hell|NOUN is|VERB everybody|NOUN ?|.
+ is|VERB Gary|NOUN and|CONJ his|PRON team|NOUN of|ADP FIVE|NOUN PROSTITUTES|NOUN .|.
+ Who|QUESTIONTAG 's|VERB first|ADV ,|. guys|NOUN ?|.
+ hands|NOUN ;|. they|PRON come|VERB on|ADP like|ADP kids|NOUN trying|VERB to|PRT get|VERB the|DET teacher|NOUN 's|PRT attention|NOUN .|.
+ Brett|NOUN ,|. are|VERB you|PRON with|ADP us|PRON ?|.
+ (|. coming|VERB out|ADV of|ADP her|PRON fog|NOUN )|. Yeah|X ,|. sure|ADJ ...|.
+ Is|VERB there|DET a|DET party|NOUN going|VERB on|ADP in|ADP there|DET or|CONJ something|NOUN ?|.
+ Yeah|X .|.
+ What|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON doing|VERB ?|.
+ I|PRON 'm|VERB trying|VERB to|PRT slash|VERB my|PRON wrists|NOUN .|.
+ You|PRON 're|VERB trying|VERB to|PRT kill|VERB yourself|PRON with|ADP an|DET electric|ADJ razor|NOUN ?|.
+ I|PRON could|VERB n't|ADV find|VERB any|DET razor|NOUN blades|NOUN .|.
+ Gary|NOUN ,|. how|ADV we|PRON doing|VERB ,|. big|ADJ stallion|NOUN ?|.
+ Rick|NOUN ,|. I|PRON really|ADV think|VERB I|PRON 'm|VERB in|ADP love|NOUN .|.
+ About|ADP what|PRON ?|.
+ This|DET is|VERB your|PRON bachelor|NOUN party|NOUN .|.
+ How|QUESTIONTAG 'd|VERB it|PRON go|VERB ?|.
+ Put|VERB it|PRON to|PRT you|PRON this|DET way|NOUN --|. you|PRON 're|VERB gon|VERB na|NOUN have|VERB to|PRT pry|VERB her|PRON out|ADP of|ADP the|DET bed|NOUN with|ADP a|DET spatula|NOUN ,|. mister|NOUN .|.
+ Who|QUESTIONTAG was|VERB that|ADP ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ (|. looking|VERB at|ADP arrow|NOUN )|. What|QUESTIONTAG 's|VERB this|DET ?|.
+ Got|NOUN me|PRON .|.
+ (|. to|PRT new|ADJ arrow|NOUN )|. How|QUESTIONTAG 'bout|ADP this|DET ?|.
+ Still|ADV drawing|VERB a|DET blank|NOUN .|.
+ He|PRON look|VERB familiar|ADJ ?|.
+ Very|ADV .|.
+ Who|QUESTIONTAG ,|. me|PRON ?|.
+ Yes|X .|.
+ Can|VERB I|PRON help|VERB you|PRON ,|. ladies|NOUN ?|.
+ Yes|X ,|. we|PRON 're|VERB looking|VERB for|ADP the|DET Stahl|NOUN party|NOUN .|.
+ Nice|NOUN looking|VERB quim|NOUN ,|. huh|NOUN ,|. Bob|NOUN ?|.
+ Yeah|X ,|. you|PRON know|VERB me|PRON ,|. Ray|NOUN ,|. I|PRON 've|VERB always|ADV been|VERB a|DET sucker|NOUN for|ADP redheads|NOUN .|.
+ Where|QUESTIONTAG the|DET hell|NOUN is|VERB he|PRON ?|.
+ under|ADP the|DET bed|NOUN and|CONJ answers|VERB the|DET door|NOUN .|.
+ Yeah|X ?|.
+ Make|NOUN love|NOUN to|PRT me|PRON ...|. please|NOUN .|.
+ (|. to|PRT Tracey|NOUN )|. Do|VERB n't|ADV you|PRON wish|VERB you|PRON were|VERB a|DET guy|NOUN so|ADP you|PRON could|VERB have|VERB fun|VERB like|ADP this|DET ?|.
+ Why|ADV do|VERB n't|ADV you|PRON get|VERB comfortable|ADJ ?|.
+ closed|ADJ blinds|NOUN .|.
+ (|. subtitled|VERB )|. Hey|NOUN ,|. Bob|NOUN ,|. this|DET beats|VERB the|DET shit|NOUN out|ADP of|ADP sushi|NOUN ,|. does|VERB n't|ADV it|PRON ?|.
+ How|QUESTIONTAG the|DET hell|NOUN are|VERB we|PRON supposed|VERB to|PRT get|VERB this|DET donkey|NOUN inside|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Can|VERB you|PRON believe|VERB how|ADV perfect|ADJ it|PRON fits|VERB ?|.
+ Yeah|X .|.
+ Who|QUESTIONTAG 's|VERB your|PRON friend|NOUN ?|.
+ (|. keeping|VERB it|PRON a|DET surprise|NOUN )|. Oh|X ...|. it|PRON 's|VERB ...|. er|NOUN ...|. the|DET guys|NOUN from|ADP the|DET beer|NOUN convention|NOUN .|.
+ (|. resigned|VERB )|. Anybody|NOUN got|VERB a|DET paper|NOUN towel|NOUN or|CONJ a|DET shovel|NOUN or|CONJ something|NOUN ?|.
+ handkerchief|NOUN and|CONJ hands|VERB it|PRON to|PRT Rick|NOUN ,|. who|PRON closes|VERB his|PRON eyes|NOUN and|CONJ picks|VERB up|PRT the|DET warm|ADJ little|ADJ bundle|NOUN .|.
+ What|QUESTIONTAG the|DET hell|NOUN happened|VERB ?|.
+ for|ADP signs|NOUN of|ADP life|NOUN in|ADP the|DET animal|NOUN 's|PRT chest|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT do|VERB about|ADP it|PRON ?|.
+ (|. defeated|VERB )|. What|QUESTIONTAG can|VERB I|PRON do|VERB ?|.
+ Is|VERB that|ADP all|DET the|DET coke|NOUN in|ADP the|DET place|NOUN ?|.
+ That|DET 's|VERB it|PRON .|.
+ What|QUESTIONTAG ?|.
+ to|PRT file|VERB in|ADP .|.
+ Ilene|NOUN ,|. are|VERB you|PRON crazy|ADJ ?|.
+ I|PRON know|VERB what|PRON I|PRON 'm|VERB doing|VERB ...|. Go|VERB !|.
+ Who|QUESTIONTAG ?|.
+ Debbie|NOUN .|.
+ My|PRON Debbie|NOUN ?|.
+ What|QUESTIONTAG 's|VERB with|ADP her|PRON costume|NOUN ?|.
+ (|. continuing|VERB )|. Are|VERB you|PRON sure|ADJ ?|.
+ (|. shocked|VERB )|. Daddy|NOUN ?|.
+ he|PRON 's|VERB been|VERB caught|VERB with|ADP his|PRON bondage|NOUN down|PRT .|.
+ Cole|NOUN ,|. what|PRON the|DET hell|NOUN are|VERB you|PRON doing|VERB ?|.
+ She|PRON 's|VERB mine|NOUN !|.
+ (|. to|PRT Debbie|NOUN )|. Are|VERB you|PRON okay|ADP ?|.
+ Yeah|X .|.
+ How|QUESTIONTAG 'd|VERB you|PRON get|VERB here|ADV ?|.
+ Rick|NOUN called|VERB me|PRON .|.

@@ -1,0 +1,224 @@
+ (|. trying|VERB again|ADV ,|. with|ADP little|ADJ hope|NOUN )|. Doctor|NOUN Schaefer|NOUN ?|.
+ Listen|NOUN ,|. did|VERB you|PRON know|VERB Doctor|NOUN Schaefer|NOUN was|VERB in|ADP Eight-O-Six|NOUN ,|. because|ADP he|PRON 's|VERB dead|ADJ ?|.
+ (|. late|ADJ forties|NOUN ,|. continues|VERB her|PRON painstaking|NOUN paperwork|NOUN ,|. grunts|NOUN )|. What|QUESTIONTAG ?|.
+ (|. works|NOUN on|ADP ;|. after|ADP a|DET moment|NOUN ,|. looks|VERB up|PRT )|. What|QUESTIONTAG do|VERB you|PRON want|VERB ,|. Perez|NOUN ?|.
+ Look|NOUN ,|. I|PRON do|VERB n't|ADV know|VERB what|PRON the|DET hell|NOUN this|DET is|VERB all|DET about|ADP ,|. but|CONJ Dr.|NOUN Schaefer|NOUN is|VERB in|ADP Room|NOUN 806|NUM with|ADP an|DET I.V|NOUN .|.
+ So|ADP how|ADV 's|PRT it|PRON going|VERB ,|. Herb|NOUN ?|.
+ Sundstrom|NOUN ,|. and|CONJ the|DET two|NUM men|NOUN start|VERB down|ADP the|DET concrete|ADJ ramp|NOUN .|.
+ It|PRON got|VERB that|ADP bad|ADJ with|ADP Phyllis|NOUN ?|.
+ It|PRON 's|VERB been|VERB that|ADP bad|ADJ for|ADP twenty-four|ADJ years|NOUN .|.
+ Herb|NOUN ,|. want|VERB a|DET couple|NOUN of|ADP days|NOUN off|ADP ?|.
+ No|DET .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ I|PRON think|VERB I|PRON 'll|VERB just|ADV let|VERB Mrs.|NOUN Christie|NOUN tell|VERB you|PRON about|ADP it|PRON .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ I|PRON 've|VERB seen|VERB some|DET pretty|ADV good|ADJ snafus|NOUN ,|. but|CONJ this|DET one|NUM ...|.
+ How|QUESTIONTAG much|ADJ ?|.
+ A|DET liter|NOUN .|.
+ Will|VERB there|ADV be|VERB anything|NOUN else|ADV ,|. Doctor|NOUN ?|.
+ No|DET .|.
+ (|. mouthing|VERB )|. Coffee|NOUN ?|.
+ Is|VERB he|PRON in|ADP ?|.
+ door|NOUN sitting|VERB at|ADP his|PRON desk|NOUN writing|NOUN in|ADP a|DET notebook|NOUN .|.
+ Can|VERB you|PRON give|VERB me|PRON a|DET few|ADJ minutes|NOUN ,|. Joe|NOUN ?|.
+ (|. short|ADJ ,|. chunky|ADJ ,|. bespectacled|VERB ,|. late|ADJ fifties|NOUN )|. Of|ADP course|NOUN .|.
+ Do|VERB you|PRON want|VERB to|PRT sit|VERB down|PRT ,|. Herb|NOUN ?|.
+ No|DET .|.
+ How|QUESTIONTAG serious|ADJ are|VERB your|PRON suicidal|ADJ speculations|NOUN ,|. Herb|NOUN ?|.
+ (|. at|ADP the|DET door|NOUN )|. I|PRON amuse|VERB myself|PRON with|ADP different|ADJ ways|NOUN of|ADP killing|VERB myself|PRON that|DET do|VERB n't|ADV look|VERB like|ADP suicide|NOUN .|.
+ What|QUESTIONTAG does|VERB that|DET mean|VERB ?|.
+ It|PRON means|VERB I|PRON have|VERB n't|ADV tried|VERB in|ADP so|ADV long|ADJ ,|. I|PRON do|VERB n't|ADV know|VERB .|.
+ All|DET set|VERB ?|.
+ Yes|X ,|. sir|NOUN .|.
+ (|. to|PRT Brubaker|NOUN en|NOUN passant|NOUN )|. Who|QUESTIONTAG 's|VERB that|ADP exotic|ADJ group|NOUN ?|.
+ (|. murmurs|NOUN )|. You|PRON got|VERB me|PRON .|.
+ Dr.|NOUN Perry|NOUN said|VERB he|PRON picked|VERB the|DET tuberculosis|NOUN and|CONJ the|DET liver|NOUN nodes|VERB for|ADP today|NOUN ,|. right|ADV ?|.
+ Yes|X ,|. sir|NOUN .|.
+ All|DET right|NOUN ,|. who|PRON 's|VERB presenting|VERB ?|.
+ (|. on|ADP phone|NOUN )|. Give|VERB me|PRON that|ADP one|NUM again|ADV ...|. thirty-|ADJ two|NUM ?|.
+ open|ADJ to|PRT view|VERB .|.
+ Did|NOUN you|PRON call|VERB upstairs|NOUN and|CONJ tell|VERB them|PRON to|PRT admit|VERB a|DET patient|NOUN named|VERB Mitgang|NOUN ?|.
+ (|. continuing|VERB to|PRT treat|VERB the|DET little|ADJ girl|NOUN )|. The|DET concussion|NOUN ?|.
+ (|. thrusting|VERB some|DET papers|NOUN at|ADP the|DET doctor|NOUN )|. If|ADP you|PRON do|VERB n't|ADV mind|VERB ,|. Doctor|NOUN ,|. is|VERB this|DET your|PRON handwriting|NOUN ?|.
+ Are|NOUN you|PRON Mitgang|NOUN ?|.
+ voice|NOUN .|.
+ Do|VERB you|PRON carry|VERB Blue|NOUN Cross|NOUN ,|. Blue|NOUN Shield|NOUN ,|. Mr.|NOUN Mitgang|NOUN ,|. if|ADP you|PRON do|VERB n't|ADV mind|VERB ?|.
+ (|. enters|NOUN for|ADP some|DET chore|NOUN )|. Will|NOUN you|PRON leave|VERB that|DET man|NOUN alone|ADV ?|.
+ pencil|ADV down|ADV on|ADP the|DET floor|NOUN .|.
+ (|. indicating|VERB the|DET other|ADJ patient|NOUN )|. Do|VERB you|PRON mind|VERB if|ADP I|PRON at|ADP least|ADJ ask|VERB this|DET gentleman|NOUN to|PRT fill|VERB out|PRT his|PRON chart|NOUN ?|.
+ her|PRON pencil|NOUN from|ADP the|DET floor|NOUN ,|. straightens|NOUN .|.
+ (|. enters|VERB the|DET Holding|NOUN Room|NOUN )|. Why|ADV do|VERB you|PRON say|VERB that|ADP ,|. Mrs.|NOUN Cushing|NOUN ?|.
+ Because|ADP he|PRON would|VERB n't|ADV give|VERB me|PRON his|PRON Blue|NOUN Cross|NOUN number|NOUN ,|. Dr.|NOUN Spezio|NOUN .|.
+ (|. pauses|NOUN )|. One|NUM of|ADP our|PRON staff|NOUN ?|.
+ I|PRON think|VERB so|ADV .|.
+ Why|ADV do|VERB n't|ADV we|PRON get|VERB together|ADV on|ADP this|DET sometime|NOUN this|DET afternoon|NOUN ,|. Fran|NOUN ?|.
+ One|NUM o'clock|NOUN ?|.
+ What|QUESTIONTAG room|NOUN is|VERB it|PRON ?|.
+ Eight-O-Six|NOUN .|.
+ That|DET 's|VERB ...|. this|DET way|NOUN ?|.
+ What|QUESTIONTAG else|ADV do|VERB you|PRON look|VERB for|ADP in|ADP bacterial|ADJ endocarditis|NOUN ?|.
+ (|. nervous|ADJ )|. Some|DET sort|NOUN of|ADP embolic|ADJ phenomena|NOUN ,|. sir|NOUN .|.
+ (|. flagging|VERB Brubaker|NOUN )|. Dr.|NOUN Brubaker|NOUN ,|. I|PRON wonder|VERB if|ADP I|PRON could|VERB see|VERB you|PRON for|ADP a|DET moment|NOUN ?|.
+ CAMERA|NOUN STAYS|NOUN with|ADP Bock|NOUN and|CONJ his|PRON entourage|NOUN ,|. following|VERB them|PRON down|PRT the|DET east|ADJ corridor|NOUN ,|. Bock|NOUN still|ADV happily|ADV conducting|VERB class|NOUN .|.
+ Did|NOUN anyone|NOUN note|NOUN Roth|NOUN spots|NOUN ?|.
+ laughing|NOUN .|.
+ If|ADP ...|. ?|.
+ If|ADP the|DET antibiotic|ADJ therapy|NOUN were|VERB successful|ADJ .|.
+ Are|NOUN you|PRON applying|VERB for|ADP your|PRON internship|NOUN here|ADV ?|.
+ I|PRON 'm|VERB not|ADV sure|ADJ .|.
+ Never|ADV mind|VERB the|DET professional|ADJ ethics|NOUN ,|. what|PRON happened|VERB ?|.
+ (|. sighs|NOUN )|. I|PRON do|VERB n't|ADV know|VERB why|ADV I|PRON 'm|VERB covering|VERB for|ADP that|DET sonofabitch|NOUN in|ADP Farkis|NOUN Pavilion|NOUN anyway|ADV .|.
+ What|QUESTIONTAG sonofabitch|NOUN in|ADP Farkis|NOUN Pavilion|NOUN ?|.
+ Some|DET post-grad|ADJ fellow|NOUN named|VERB Ives|NOUN .|.
+ Are|NOUN you|PRON trying|VERB to|PRT tell|VERB me|PRON some|DET post-|ADJ grad|NOUN fellow|NOUN came|VERB up|ADV here|ADV and|CONJ did|VERB a|DET biopsy|NOUN on|ADP the|DET patient|NOUN ?|.
+ Yes|X ,|. sir|NOUN .|.
+ ...|. protein|NOUN in|ADP the|DET urine|NOUN ?|.
+ Yes|X ,|. sir|NOUN .|.
+ And|CONJ he|PRON biopsied|VERB the|DET man|NOUN ?|.
+ And|CONJ he|PRON nicked|VERB a|DET vessel|NOUN ,|. and|CONJ at|ADP two|NUM o'clock|NOUN in|ADP the|DET morning|NOUN ,|. they|PRON woke|VERB up|PRT Biegelman|NOUN because|ADP the|DET nurse|NOUN found|VERB the|DET patient|NOUN in|ADP shock|NOUN .|.
+ Have|VERB you|PRON got|VERB some|DET punk|NOUN named|VERB Ives|VERB rotating|VERB in|ADP your|PRON department|NOUN ?|.
+ Listen|NOUN ,|. Herb|NOUN ...|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ,|. Ives|NOUN is|VERB dead|ADJ ?|.
+ I|PRON mean|VERB he|PRON 's|VERB dead|ADJ .|.
+ He|PRON had|VERB a|DET heart|NOUN attack|NOUN in|ADP the|DET Emergency|NOUN Room|NOUN ?|.
+ Yeah|X .|.
+ You|PRON do|VERB n't|ADV find|VERB anything|NOUN grotesque|ADJ about|ADP all|DET this|DET ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ How|QUESTIONTAG long|ADJ are|VERB they|PRON going|VERB to|PRT be|VERB on|ADP Schaefer|NOUN 's|PRT post|NOUN ?|.
+ laboratory|NOUN from|ADP the|DET operating|NOUN room|NOUN .|.
+ (|. pauses|NOUN at|ADP door|NOUN ,|. to|PRT Lagerman|NOUN )|. I|PRON do|VERB n't|ADV suppose|VERB you|PRON 'd|VERB like|VERB to|PRT call|VERB next|ADJ of|ADP kin|NOUN ?|.
+ No|DET thanks|NOUN .|.
+ What|QUESTIONTAG the|DET hell|NOUN is|VERB going|VERB on|ADP in|ADP there|DET ?|.
+ OVER|ADP DRUMMOND|NOUN PERFORMING|NOUN SOME|NOUN PAGAN|NOUN RITUAL|NOUN .|.
+ (|. looking|VERB up|PRT )|. What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ I|PRON mean|VERB that|ADP Indian|NOUN 's|PRT in|ADP there|ADV ,|. half-|ADJ naked|ADJ and|CONJ going|VERB pis-pis-pis|ADJ with|ADP a|DET little|ADJ bag|NOUN .|.
+ You|PRON do|VERB n't|ADV seriously|ADV believe|VERB all|DET that|DET mumbo-jumbo|ADJ will|VERB cure|VERB him|PRON ?|.
+ On|ADP the|DET other|ADJ hand|NOUN ,|. it|PRON wo|VERB n't|ADV kill|VERB him|PRON ,|. Doctor|NOUN .|.
+ Miss|NOUN Drummond|NOUN ,|. are|VERB you|PRON still|ADV taking|VERB your|PRON father|NOUN out|PRT ?|.
+ Yes|X .|.
+ You|PRON believe|VERB in|ADP witchcraft|NOUN ,|. Miss|NOUN Drummond|NOUN ?|.
+ I|PRON believe|VERB in|ADP everything|NOUN ,|. Doctor|NOUN .|.
+ Like|ADP a|DET drink|NOUN ?|.
+ Yes|X .|.
+ (|. who|PRON has|VERB been|VERB staring|VERB at|ADP her|PRON as|ADP if|ADP she|PRON were|VERB insane|NOUN )|. What|QUESTIONTAG the|DET hell|NOUN am|VERB I|PRON supposed|VERB to|PRT say|VERB to|PRT that|DET ,|. Miss|NOUN Drummond|NOUN ?|.
+ Now|ADV what|PRON was|VERB that|ADP all|DET about|ADP ,|. Miss|NOUN Drummond|NOUN ?|.
+ I|PRON thought|VERB I|PRON was|VERB obvious|ADJ as|ADP hell|NOUN .|.
+ Then|ADV can|VERB you|PRON understand|VERB that|ADP the|DET only|ADJ admissable|ADJ matter|NOUN left|VERB is|VERB death|NOUN ?|.
+ sits|NOUN heavily|ADV and|CONJ fights|VERB his|PRON tears|NOUN .|.
+ (|. off-screen|ADJ )|. What|QUESTIONTAG 're|VERB you|PRON shooting|ADJ ,|. Doc|NOUN ?|.
+ rigidly|ADV extended|VERB ,|. the|DET belt|NOUN dangling|NOUN ,|. the|DET hypodermic|ADJ clenched|NOUN in|ADP his|PRON other|ADJ hand|NOUN .|.
+ Do|VERB you|PRON have|VERB a|DET match|NOUN ,|. Doctor|NOUN ?|.
+ when|ADV he|PRON suddenly|ADV sandbags|VERB her|PRON from|ADP behind|NOUN .|.
+ What|QUESTIONTAG time|NOUN is|VERB it|PRON ?|.
+ the|DET chair|NOUN .|.
+ Talk|NOUN to|PRT me|PRON about|ADP what|PRON ?|.
+ About|ADP your|PRON father|NOUN .|.
+ Is|VERB this|DET your|PRON way|NOUN of|ADP saying|VERB you|PRON 'd|VERB like|VERB me|PRON to|PRT stay|VERB in|ADP town|NOUN a|DET few|ADJ more|ADJ days|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON say|VERB ,|. Miss|NOUN Drummond|NOUN ?|.
+ I|PRON expect|VERB you|PRON can|VERB call|VERB me|PRON Barbara|NOUN ,|. considering|VERB you|PRON ravished|VERB me|PRON three|NUM times|NOUN last|ADJ night|NOUN .|.
+ Three|NUM times|NOUN ?|.
+ Oh|X ,|. look|VERB at|ADP him|PRON ,|. pretending|VERB he|PRON did|VERB n't|ADV count|NOUN .|.
+ Let|VERB 's|PRT give|VERB your|PRON father|NOUN a|DET week|NOUN ,|. Barbara|NOUN ,|. what|PRON do|VERB you|PRON say|VERB ?|.
+ (|. a|DET frown|NOUN darkens|VERB her|PRON face|NOUN )|. No|X ,|. I|PRON do|VERB n't|ADV want|VERB my|PRON father|NOUN in|ADP this|DET hospital|NOUN .|.
+ You|PRON 're|VERB a|DET real|ADJ fruitcake|NOUN ,|. you|PRON know|VERB ?|.
+ Bock|NOUN 's|PRT overcoat|NOUN rather|ADV than|ADP use|VERB it|PRON as|ADP a|DET cover|NOUN .|.
+ Gratitude|NOUN for|ADP what|PRON ?|.
+ Well|ADV ,|. my|PRON God|NOUN ,|. for|ADP resurrecting|VERB feelings|NOUN of|ADP life|NOUN in|ADP me|PRON I|PRON thought|VERB dead|ADJ .|.
+ Well|ADV ,|. my|PRON God|NOUN ,|. what|PRON do|VERB you|PRON think|VERB love|VERB is|VERB ?|.
+ Okay|NOUN ,|. I|PRON love|VERB you|PRON ,|. and|CONJ you|PRON love|VERB me|PRON .|.
+ (|. who|PRON 's|VERB been|VERB slipping|VERB into|ADP the|DET nurse|NOUN 's|PRT uniform|NOUN )|. Yeah|NOUN ?|.
+ Yeah|X .|.
+ So|ADV how|ADV come|ADJ ,|. eight|NUM hours|NOUN ago|ADV ,|. you|PRON were|VERB trying|VERB to|PRT kill|VERB yourself|PRON with|ADP an|DET overdose|NOUN of|ADP potassium|NOUN ?|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB now|ADV ?|.
+ What|QUESTIONTAG decisions|NOUN ?|.
+ You|PRON 're|VERB a|DET very|ADV tired|ADJ and|CONJ very|ADV damaged|ADJ man|NOUN .|.
+ What|QUESTIONTAG the|DET hell|NOUN does|VERB the|DET male|ADJ establishment|NOUN know|VERB about|ADP abortions|NOUN ?|.
+ (|. staring|VERB through|ADP his|PRON sedation|NOUN at|ADP her|PRON )|. There|DET was|VERB ?|.
+ It|PRON 's|VERB legal|ADJ for|ADP a|DET doctor|NOUN to|PRT incorporate|VERB in|ADP New|NOUN York|NOUN ,|. is|VERB n't|ADV it|PRON ,|. Doctor|NOUN ?|.
+ (|. en|ADP route|NOUN to|PRT phone|NOUN )|. Since|ADP last|ADJ September|NOUN .|.
+ Mangafranni|NOUN ,|. right|ADV ?|.
+ Right|ADV .|.
+ What|QUESTIONTAG 's|VERB the|DET pressure|NOUN ?|.
+ There|DET 's|VERB no|DET blood|NOUN pressure|NOUN ,|. Doctor|NOUN .|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ I|PRON ca|VERB n't|ADV feel|VERB a|DET thing|NOUN ,|. sir|NOUN .|.
+ What|QUESTIONTAG the|DET hell|NOUN happened|VERB ?|.
+ and|CONJ the|DET others|NOUN ,|. likewise|NOUN ,|. go|VERB to|PRT work|VERB .|.
+ (|. off-screen|ADJ )|. Bicarb|NOUN ?|.
+ into|ADP the|DET tube|NOUN of|ADP the|DET patient|NOUN 's|PRT I.V.|NOUN ,|. is|VERB frowning|VERB at|ADP her|PRON rigid|ADJ ,|. white-capped|ADJ face|NOUN .|.
+ (|. barking|VERB at|ADP the|DET scrub|NOUN nurse|NOUN )|. You|PRON got|VERB those|DET paddles|NOUN ready|ADJ ?|.
+ at|ADP the|DET sweating|NOUN surgeon|NOUN ,|. perched|VERB on|ADP the|DET operating|NOUN table|NOUN ,|. rhythmically|ADV crushing|VERB away|ADV at|ADP the|DET patient|NOUN 's|PRT rib|NOUN cage|NOUN .|.
+ What|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON talking|VERB about|ADP ?|.
+ (|. to|PRT Bock|NOUN )|. Doctor|NOUN ,|. did|VERB you|PRON ask|VERB the|DET head|NOUN nurse|NOUN on|ADP the|DET eighth|ADJ floor|NOUN to|PRT let|VERB you|PRON know|VERB when|ADV a|DET Miss|NOUN Drummond|NOUN got|VERB there|ADV ?|.
+ Yes|X .|.
+ Who|QUESTIONTAG ?|.
+ Mrs.|NOUN Mangafranni|NOUN ,|. the|DET woman|NOUN who|PRON was|VERB supposed|VERB to|PRT have|VERB been|VERB operated|VERB on|ADP ...|. (|. calls|VERB to|PRT a|DET nurse|ADJ passing|NOUN )|. Are|VERB they|PRON still|ADV working|VERB on|ADP that|DET woman|NOUN in|ADP Three|NUM ?|.
+ Did|NOUN any|DET of|ADP you|PRON take|VERB a|DET woman|NOUN named|VERB Mangafranni|NOUN out|ADP of|ADP the|DET Holding|NOUN Room|NOUN back|ADV up|ADP to|PRT Holly|NOUN Five|NOUN around|ADP ten|NOUN o'clock|NOUN ?|.
+ the|DET outer|NOUN corridor|NOUN .|.
+ (|. to|PRT Hitchcock|NOUN in|ADP the|DET doorway|NOUN )|. What|QUESTIONTAG happened|VERB ?|.
+ Well|ADV ,|. who|PRON 's|VERB the|DET woman|NOUN in|ADP the|DET operating|NOUN room|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Is|VERB she|PRON dead|ADJ ?|.
+ Well|ADV ,|. they|PRON had|VERB to|PRT open|VERB her|PRON up|NOUN ,|. and|CONJ that|DET 's|VERB not|ADV good|ADJ .|.
+ How|QUESTIONTAG long|ADJ ago|ADV did|VERB this|DET happen|VERB ?|.
+ About|ADP half|DET an|DET hour|NOUN .|.
+ Have|VERB you|PRON called|VERB the|DET Medical|NOUN Examiner|NOUN ?|.
+ Not|ADV yet|ADV .|.
+ Does|VERB anybody|NOUN know|VERB who|PRON she|PRON is|VERB ?|.
+ numbly|ADV at|ADP Mr.|NOUN Sloan|NOUN .|.
+ (|. to|PRT Mrs.|NOUN Kimball|NOUN ,|. examining|VERB the|DET chart|NOUN dangling|VERB from|ADP the|DET operating|NOUN table|NOUN )|. What|QUESTIONTAG 's|VERB her|PRON chart|NOUN say|VERB ?|.
+ Her|PRON chart|NOUN says|VERB Mangafranni|NOUN .|.
+ What|QUESTIONTAG dialysis|NOUN nurse|NOUN ?|.
+ You|PRON mean|VERB she|PRON was|VERB the|DET one|NUM ?|.
+ That|DET 's|VERB the|DET one|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB he|PRON killed|VERB two|NUM doctors|NOUN and|CONJ a|DET nurse|NOUN ?|.
+ I|PRON mean|VERB ,|. he|PRON 's|VERB killed|VERB two|NUM doctors|NOUN and|CONJ a|DET nurse|NOUN !|.
+ What|QUESTIONTAG 's|VERB this|DET in|ADP your|PRON pocket|NOUN ?|.
+ That|DET 's|VERB my|PRON insulin|NOUN .|.
+ Why|ADV X-Ray|NOUN ?|.
+ Well|ADV ,|. at|ADP X-Ray|NOUN ,|. a|DET sedated|VERB body|NOUN lying|VERB around|ADV unattended|VERB for|ADP five|NUM hours|NOUN would|VERB n't|ADV seem|VERB unusual|ADJ .|.
+ You|PRON rang|VERB for|ADP your|PRON nurse|NOUN ?|.
+ To|PRT insure|VERB one|NUM full|ADJ hour|NOUN of|ADP uninterrupted|ADJ privacy|NOUN .|.
+ Yeah|X ,|. you|PRON got|VERB ta|ADJ send|VERB me|PRON somebody|NOUN ...|. Oh|NOUN yeah|X ?|.
+ see|VERB him|PRON scouring|VERB the|DET shelves|NOUN for|ADP thorazine|NOUN and|CONJ a|DET syringe|NOUN .|.
+ (|. chuckles|NOUN into|ADP phone|NOUN )|. ...|. then|ADV what|PRON did|VERB she|PRON say|VERB ?|.
+ (|. to|PRT Mrs.|NOUN Donovan|NOUN )|. I|PRON 'm|VERB Dr.|NOUN Welbeck|NOUN .|.
+ (|. on|ADP phone|NOUN )|. This|DET is|VERB Mr.|NOUN Mead|NOUN ,|. are|VERB you|PRON paging|VERB me|PRON ?|.
+ A|DET couple|NOUN of|ADP hours|NOUN later|ADV I|PRON wake|VERB up|ADV again|ADV ,|. and|CONJ the|DET guy|NOUN in|ADP that|DET bed|NOUN there|DET is|VERB getting|VERB out|ADP of|ADP the|DET bed|NOUN ...|.
+ (|. to|PRT Hitchcock|NOUN )|. Are|VERB the|DET police|NOUN still|ADV in|ADP the|DET building|NOUN ?|.
+ Yes|X .|.
+ Are|NOUN you|PRON all|ADV right|ADV ,|. Welbeck|NOUN ?|.
+ All|DET right|NOUN ?|. !|.
+ (|. angrily|ADV seizes|VERB the|DET chart|NOUN )|. What|QUESTIONTAG room|NOUN is|VERB it|PRON ?|.
+ Eight-O-Six|NOUN .|.
+ Where|QUESTIONTAG 's|PRT Biegelman|NOUN ?|.
+ He|PRON went|VERB to|PRT lunch|NOUN .|.
+ (|. off-screen|ADJ )|. What|QUESTIONTAG 's|VERB been|VERB happening|VERB ?|.
+ bed|VERB out|PRT and|CONJ is|VERB extracting|VERB an|DET ambu|NOUN bag|NOUN and|CONJ tube|NOUN from|ADP the|DET cart|NOUN 's|PRT lower|ADJ shelf|NOUN .|.
+ In|ADP here|ADV ?|.
+ Yeah|X .|.
+ (|. to|PRT Intern|NOUN Chandler|NOUN )|. Who|QUESTIONTAG is|VERB it|PRON ?|.
+ (|. off-screen|ADJ )|. Dr.|NOUN Robert|NOUN Jackson|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON have|VERB ,|. Dr.|NOUN Bock|NOUN ?|.
+ Total|ADJ cardiac|ADJ arrest|NOUN .|.
+ How|QUESTIONTAG long|ADV has|VERB he|PRON been|VERB like|ADP this|DET ?|.
+ About|ADP a|DET minute|NOUN .|.
+ Shall|NOUN we|PRON get|VERB him|PRON up|PRT on|ADP the|DET cart|NOUN ?|.
+ Yeah|X .|.
+ Is|VERB this|DET his|PRON chart|NOUN ,|. Dr.|NOUN Bock|NOUN ?|.
+ Was|ADP it|PRON Drummond|NOUN ?|.
+ Who|QUESTIONTAG else|ADV would|VERB it|PRON be|VERB ?|.
+ (|. in|ADP background|NOUN )|. Did|VERB he|PRON convert|VERB ?|.
+ (|. in|ADP background|NOUN )|. No|X ,|. he|PRON 's|VERB still|ADV fibrillating|ADJ .|.
+ (|. sotto|VERB voce|NOUN to|PRT Bock|NOUN )|. What|QUESTIONTAG do|VERB we|PRON do|VERB now|ADV ?|.
+ Is|VERB he|PRON dead|ADJ ?|.
+ They|PRON ca|VERB n't|ADV get|VERB him|PRON out|ADP of|ADP fib|NOUN .|.
+ You|PRON people|NOUN want|VERB to|PRT see|VERB me|PRON ?|.
+ Yeah|X ,|. baby|NOUN ,|. we|PRON want|VERB to|PRT see|VERB you|PRON ...|.
+ Lookit|NOUN ,|. man|NOUN ,|. where|ADV 's|VERB the|DET TV|NOUN camera|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT do|VERB about|ADP those|DET fourteen|ADJ ghetto|ADJ people|NOUN ?|.
+ crowd|NOUN .|.
+ You|PRON going|VERB back|ADV in|ADP ?|.
+ Yeah|X .|.
+ (|. matter-of-factly|ADV )|. It|PRON 's|VERB like|ADP pissing|VERB in|ADP the|DET wind|NOUN ,|. right|ADV ,|. Herb|NOUN ?|.
+ Right|ADV .|.

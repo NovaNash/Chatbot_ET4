@@ -1,0 +1,70 @@
+ Why|ADV is|VERB this|DET happening|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ What|QUESTIONTAG did|VERB the|DET bird|NOUN say|VERB ?|.
+ Do|NOUN not|ADV blame|VERB the|DET bird|NOUN .|.
+ Chinese|ADJ man|NOUN ,|. black|ADJ man|NOUN with|ADP a|DET black|ADJ beard|NOUN ,|. white|ADJ bearded|VERB man|NOUN with|ADP large|ADJ black|ADJ hat|PRON ]|VERB JACK|NOUN SPARROW|NOUN Gentlemen|NOUN ,|. what|PRON do|VERB keys|NOUN do|VERB ?|.
+ Keys|NOUN ...|. unlock|NOUN ...|. *things*|NOUN ?|.
+ a|DET few|ADJ drops|NOUN spill|VERB out|PRT ]|NOUN JACK|NOUN SPARROW|NOUN Why|ADV is|VERB the|DET rum|NOUN always|ADV gone|VERB ?|.
+ scuttle|ADJ across|ADP his|PRON face|NOUN ]|NOUN JACK|NOUN SPARROW|NOUN Is|VERB this|DET a|DET dream|NOUN ?|.
+ I|PRON thought|VERB not|ADV .|.
+ Which|QUESTIONTAG port|NOUN ?|.
+ Did|NOUN n't|ADV say|VERB port|NOUN .|.
+ Jack|NOUN ?|.
+ Shhh|NOUN !|.
+ What|QUESTIONTAG 's|VERB got|VERB into|ADP *'im*|NOUN ?|.
+ Must|NOUN 've|VERB seen|VERB a|DET catfish|NOUN .|.
+ the|DET nearby|ADJ cannibal|NOUN ]|VERB What|QUESTIONTAG 's|VERB he|PRON doing|VERB ?|.
+ The|DET sea|NOUN ?|.
+ Sums|NOUN !|.
+ Literally|ADV ,|. or|CONJ figuratively|ADV ?|.
+ He|PRON could|VERB n't|ADV li'erally|ADV put|VERB his|PRON heart|NOUN in|ADP a|DET chest|NOUN !|.
+ Yes|X ?|.
+ Is|VERB the|DET ...|. jar|NOUN of|ADP dirt|NOUN going|VERB to|PRT help|VERB ?|.
+ So|ADP what|PRON 's|VERB your|PRON plan|NOUN ,|. then|ADV ?|.
+ I|PRON row|VERB over|ADP ,|. search|VERB the|DET ship|NOUN until|ADP I|PRON find|VERB your|PRON bloody|NOUN key|NOUN .|.
+ in|ADP his|PRON claw|NOUN ]|NOUN DAVY|NOUN JONES|NOUN Do|NOUN you|PRON not|ADV fear|VERB death|NOUN ?|.
+ I|PRON 'll|VERB take|VERB my|PRON chances|NOUN ,|. Sir|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET over|ADP there|ADV ?|.
+ men|NOUN ,|. pointing|VERB at|ADP the|DET deck|NOUN where|ADV the|DET lantern|NOUN fell|VERB ]|NOUN [|ADP the|DET men|NOUN at|ADP the|DET railing|VERB turn|NOUN around|ADV and|CONJ look|VERB where|ADV Elizabeth|NOUN is|VERB pointing|VERB ]|ADJ [|DET the|DET fire|NOUN burning|NOUN on|ADP the|DET desk|NOUN spells|VERB out|PRT ``|. Tortuga|NOUN ''|. in|ADP fiery|ADJ letters|NOUN ]|VERB Tortuga|NOUN
+ How|QUESTIONTAG we|PRON going|VERB ?|.
+ Including|VERB those|DET four|NUM ?|.
+ And|CONJ what|PRON 's|VERB *your*|ADJ story|NOUN ?|.
+ My|PRON story|NOUN ...|. it|PRON 's|VERB exactly|ADV the|DET same|ADJ as|ADP your|PRON story|NOUN ,|. just|ADV one|NUM chapter|NOUN behind|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON know|VERB of|ADP this|DET ?|.
+ Open|VERB the|DET chest|NOUN with|ADP the|DET key|NOUN ,|. and|CONJ stab|VERB the|DET heart|NOUN .|.
+ much|ADJ ]|NOUN WILL|NOUN TURNER|NOUN Where|QUESTIONTAG *is*|VERB the|DET key|NOUN ?|.
+ Hidden|NOUN .|.
+ Where|QUESTIONTAG is|VERB the|DET chest|NOUN ?|.
+ Hidden|NOUN .|.
+ Where|QUESTIONTAG does|VERB it|PRON point|VERB ?|.
+ It|PRON points|VERB to|PRT the|DET thing|NOUN you|PRON want|VERB most|ADV in|ADP this|DET world|NOUN .|.
+ So|ADV any|DET crewman|NOUN can|VERB be|VERB challenged|VERB ?|.
+ I|PRON challenge|VERB Davy|NOUN Jones|NOUN .|.
+ The|DET stakes|NOUN ?|.
+ My|PRON soul|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB of|ADP the|DET key|NOUN ?|.
+ That|DET 's|VERB not|ADV part|NOUN of|ADP the|DET game|NOUN ,|. is|VERB it|PRON ?|.
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ No|DET !|.
+ Friendly|ADV ?|.
+ Decidedly|ADV not|ADV .|.
+ Colors|NOUN ?|.
+ She|PRON is|VERB n't|ADV flyin|ADJ '|. any|DET .|.
+ How|QUESTIONTAG did|VERB you|PRON get|VERB here|ADV ?|.
+ Sea|NOUN turtles|NOUN ,|. mate|NOUN .|.
+ You|PRON do|VERB ?|.
+ After|ADP you|PRON tricked|VERB me|PRON onto|ADP that|DET ship|NOUN to|PRT square|VERB your|PRON debt|NOUN with|ADP Jones|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON was|VERB reunited|VERB with|ADP my|PRON father|NOUN .|.
+ consciousness|NOUN aboard|ADP the|DET Black|NOUN Pearl|NOUN ]|NOUN WILL|NOUN TURNER|NOUN What|QUESTIONTAG happened|VERB to|PRT the|DET chest|NOUN ?|.
+ Norrington|NOUN took|VERB it|PRON to|PRT draw|VERB them|PRON off|PRT .|.
+ Where|QUESTIONTAG 's|VERB the|DET Commodore|NOUN ?|.
+ He|PRON fell|VERB behind|ADV .|.
+ We|PRON 're|VERB the|DET faster|NOUN ?|.
+ Against|ADP the|DET wind|NOUN the|DET Dutchman|NOUN beats|VERB us|PRON .|.
+ Will|VERB ?|.
+ Will|VERB ?|.
+ [|ADV ball|NOUN whistles|NOUN through|ADP the|DET air|NOUN ,|. strikes|VERB the|DET gunpowder|NOUN ,|. which|DET explodes|VERB ]|NOUN [|NOUN the|DET Kraken|NOUN releases|VERB its|PRON hold|NOUN ,|. burned|VERB tentacles|NOUN withdraw|VERB into|ADP the|DET ocean|NOUN ,|. groaning|VERB sound|ADJ ]|NOUN MARTY|NOUN Did|NOUN we|PRON kill|VERB it|PRON ?|.
+ No|DET .|.
+ Where|QUESTIONTAG 's|VERB Jack|NOUN ?|.
+ He|PRON elected|VERB to|PRT stay|VERB behind|ADP to|PRT give|VERB us|PRON a|DET chance|NOUN .|.

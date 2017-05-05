@@ -1,0 +1,72 @@
+ Contaminated|VERB Products|NOUN Claim|NOUN 72|NUM Lives|NOUN WHO|PRON IS|VERB THE|NOUN MYSTERIOUS|NOUN ``|. JOKER|NOUN ''|. ?|.
+ curiously|ADV sallow|ADJ .|.
+ Jack|NOUN ?|.
+ moves|NOUN toward|ADP them|PRON ,|. drugged|VERB ,|. wraithlike|NOUN .|.
+ (|. hesitantly|ADV )|. ...|. Why|ADV the|DET mask|NOUN ?|.
+ Alicia|NOUN !|.
+ WHICH|NOUN CAR|NOUN ?|.
+ are|VERB many|ADJ cars|NOUN parked|VERB along|ADP the|DET side|NOUN alley|NOUN --|. there|DET is|VERB only|ADV one|NUM BATMOBILE|NOUN .|.
+ Are|ADP they|PRON ours|PRON ?|.
+ ...|.
+ How|QUESTIONTAG much|ADJ do|VERB you|PRON weigh|VERB ?|.
+ ...|. A|DET hundred|NUM and|CONJ eight|NUM ?|.
+ ...|. What|QUESTIONTAG is|VERB that|DET ?|.
+ Some|DET kind|NOUN of|ADP body|NOUN armor|NOUN .|.
+ Did|NOUN you|PRON hit|VERB her|PRON ?|.
+ Who|QUESTIONTAG cares|VERB ?|.
+ ...|. Not|ADV even|ADV a|DET 'thank|NOUN you|PRON '|. ?|.
+ Well|ADV --|. I|PRON think|VERB you|PRON might|VERB consider|VERB thanking|VERB me|PRON .|.
+ How|QUESTIONTAG do|VERB I|PRON know|VERB you|PRON wo|VERB n't|ADV keep|VERB them|PRON all|DET ?|.
+ Because|ADP I|PRON 'll|VERB take|VERB you|PRON with|ADP me|PRON .|.
+ ...|. Where|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT take|VERB me|PRON ?|.
+ closer|NOUN to|PRT him|PRON .|.
+ ...|. How|QUESTIONTAG long|ADV have|VERB I|PRON been|VERB out|PRT ?|.
+ Quite|DET a|DET while|NOUN .|.
+ How|QUESTIONTAG 'd|VERB you|PRON find|VERB this|DET place|NOUN ?|.
+ Stumbled|VERB across|ADP it|PRON when|ADV I|PRON was|VERB a|DET boy|NOUN .|.
+ Who|QUESTIONTAG pays|VERB for|ADP all|DET this|DET ?|.
+ I|PRON have|VERB sponsors|NOUN .|.
+ The|DET computers|NOUN ?|.
+ I|PRON 'm|VERB running|VERB a|DET check|NOUN on|ADP the|DET tainted|ADJ products|NOUN .|.
+ Care|NOUN for|ADP an|DET autograph|NOUN ?|.
+ with|ADP the|DET inscription|NOUN :|. ``|. TO|NOUN VICKI|NOUN .|.
+ ...|. Bruce|NOUN ?|.
+ Are|NOUN you|PRON talking|VERB to|PRT me|PRON ?|.
+ SMILE|NOUN ...|. the|DET same|ADJ crooked|NOUN ,|. curious|ADJ ,|. childlike|NOUN smile|NOUN she|PRON saw|VERB on|ADP BRUCE|NOUN 's|PRT face|NOUN that|ADP morning|NOUN when|ADV she|PRON caught|VERB him|PRON singing|VERB .|.
+ Do|VERB you|PRON want|VERB to|PRT do|VERB it|PRON this|DET time|NOUN ?|.
+ he|PRON walks|VERB over|ADP to|PRT the|DET driver|NOUN 's|PRT side|NOUN and|CONJ gets|VERB in|ADP .|.
+ Vicki|NOUN ...|. ?|.
+ Not|ADV what|PRON ?|.
+ He|PRON 's|VERB not|ADV crazy|ADJ .|.
+ (|. through|ADP loudspeaker|NOUN )|. Yes|X ?|.
+ Alexander|NOUN Knox|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON you|PRON want|VERB ?|.
+ Simple|NOUN .|.
+ Do|VERB you|PRON want|VERB a|DET drink|NOUN ?|.
+ Yeah|X ,|. a|DET drink|NOUN .|.
+ Are|NOUN you|PRON expecting|VERB anyone|NOUN ?|.
+ Who|QUESTIONTAG 's|VERB there|ADV ?|.
+ ...|. Where|QUESTIONTAG are|VERB you|PRON calling|VERB from|ADP ?|.
+ rushes|NOUN into|ADP the|DET living|NOUN room|NOUN and|CONJ crouches|NOUN beside|ADP his|PRON LAPTOP|NOUN COMPUTER|NOUN .|.
+ How|QUESTIONTAG can|VERB you|PRON do|VERB that|ADP if|ADP she|PRON 's|VERB already|ADV off|ADP the|DET line|NOUN ?|.
+ I|PRON 've|VERB had|VERB an|DET automatic|ADJ tracer|NOUN on|ADP this|DET number|NOUN ever|ADV since|ADP he|PRON tracked|VERB you|PRON to|PRT the|DET museum|NOUN .|.
+ There|DET 's|VERB a|DET garage|NOUN in|ADP this|DET building|NOUN ?|.
+ element|NOUN --|. disappears|VERB into|ADP VICKI|NOUN 's|PRT bedroom|NOUN .|.
+ Ready|ADJ to|PRT go|VERB ,|. Dick|NOUN ?|.
+ What|QUESTIONTAG 's|VERB all|DET the|DET ruckus|NOUN down|ADP there|ADV ?|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ Batman|NOUN !|.
+ ...|. Where|QUESTIONTAG am|VERB I|PRON ?|.
+ My|PRON name|NOUN is|VERB Bruce|NOUN Wayne|NOUN .|.
+ All|DET right|NOUN ,|. Bruce|NOUN ,|. what|PRON do|VERB you|PRON suggest|VERB ?|.
+ I|PRON suggest|VERB a|DET nice|ADJ big|ADJ bomb|NOUN .|.
+ In|ADP all|DET these|DET years|NOUN ...|. why|ADV could|VERB n't|ADV I|PRON see|VERB how|ADV it|PRON would|VERB turn|VERB out|PRT ?|.
+ she|PRON 's|VERB truly|ADV afraid|ADJ .|.
+ Where|QUESTIONTAG 's|VERB the|DET boy|NOUN ?|.
+ Upstairs|NOUN .|.
+ You|PRON okay|VERB ?|.
+ Yeah|X .|.
+ ...|. Batman|NOUN ?|.
+ snicker|NOUN .|.
+ No|DET ...|. sense|NOUN ...|. of|ADP humor|NOUN ?|.
+ better|ADJ of|ADP it|PRON and|CONJ retracts|VERB his|PRON shaking|ADJ hand|NOUN .|.

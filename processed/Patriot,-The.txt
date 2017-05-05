@@ -1,0 +1,214 @@
+ Those|DET swimming|VERB breaks|NOUN cut|VERB into|ADP the|DET day|NOUN ,|. do|VERB n't|ADV they|PRON ?|.
+ contrite|ADJ sons|NOUN who|PRON jostle|VERB one|NUM another|DET ,|. trying|VERB to|PRT pass|VERB off|PRT the|DET blame|NOUN .|.
+ News|NOUN of|ADP Boston|NOUN ,|. father|NOUN ?|.
+ I|PRON hate|VERB turnips|NOUN ...|.
+ Father|NOUN ...|. ?|.
+ Samuel|NOUN ,|. William|NOUN ,|. both|DET of|ADP you|PRON clean|VERB it|PRON up|PRT ...|.
+ When|QUESTIONTAG ,|. father|ADV ,|. when|ADV ?|.
+ We|PRON 'll|VERB leave|VERB tomorrow|NOUN ...|.
+ The|DET middle|ADJ colonies|NOUN ?|.
+ Rioting|VERB both|DET sides|NOUN of|ADP the|DET bay|NOUN ,|. in|ADP Chestertown|NOUN they|PRON burned|VERB the|DET Customs|NOUN House|NOUN and|CONJ tar-and-feathered|VERB the|DET Customs|NOUN Agent|NOUN .|.
+ Anything|VERB about|ADP the|DET convention|NOUN in|ADP Philadelphia|NOUN ?|.
+ Poor|NOUN Richard|NOUN says|VERB they|PRON 'll|VERB make|VERB a|DET Declaration|NOUN of|ADP Independence|NOUN by|ADP July|NOUN .|.
+ What|QUESTIONTAG news|NOUN ?|.
+ The|DET British|ADJ army|NOUN is|VERB barricaded|VERB in|ADP Boston|NOUN .|.
+ Is|VERB that|DET why|ADV the|DET Assembly|NOUN was|VERB convened|VERB ?|.
+ Yes|X .|.
+ And|CONJ the|DET Governor|NOUN ?|.
+ He|PRON vowed|VERB that|ADP if|ADP the|DET Assembly|NOUN votes|VERB a|DET single|ADJ shilling|NOUN to|PRT Lee|NOUN ,|. he|PRON 'll|VERB dissolve|VERB the|DET body|NOUN .|.
+ And|CONJ what|PRON nation|NOUN is|VERB that|ADP ?|.
+ Mister|NOUN Robinson|NOUN ,|. tell|VERB me|PRON ,|. why|ADV should|VERB I|PRON trade|VERB one|NUM tyrant|NOUN ,|. three|NUM thousand|NOUN miles|NOUN away|ADV ,|. for|ADP three|NUM thousand|NUM tyrants|NOUN ,|. one|NUM mile|NOUN away|ADV ?|.
+ Patriots|NOUN .|.
+ Sir|NOUN ?|.
+ An|DET elected|ADJ legislature|NOUN can|VERB trample|VERB a|DET man|NOUN 's|PRT rights|NOUN just|ADV as|ADV easily|ADV as|ADP a|DET King|NOUN can|VERB .|.
+ Was|VERB n't|ADV it|PRON a|DET Union|NOUN Jack|NOUN we|PRON fought|VERB under|ADP ?|.
+ A|DET long|ADJ time|NOUN ago|ADP ...|.
+ And|CONJ your|PRON principles|NOUN ?|.
+ I|PRON 'm|VERB a|DET parent|NOUN ,|. I|PRON do|VERB n't|ADV have|VERB the|DET luxury|NOUN of|ADP principles|NOUN .|.
+ Do|VERB you|PRON intend|VERB to|PRT enlist|VERB without|ADP my|PRON permission|NOUN ?|.
+ Yes|X .|.
+ One|NUM of|ADP yours|NOUN ?|.
+ Gabriel|NOUN .|.
+ When|QUESTIONTAG ?|.
+ of|ADP really|ADV thinking|VERB about|ADP the|DET answer|NOUN .|.
+ Is|VERB it|PRON going|VERB to|PRT rain|VERB ?|.
+ That|DET 's|VERB not|ADV thunder|VERB .|.
+ Father|NOUN ?|.
+ Six-pounders|NOUN .|.
+ How|QUESTIONTAG far|ADV away|ADV ?|.
+ Four|NUM ,|. five|NUM miles|NOUN .|.
+ Waxhaus|NOUN ?|.
+ Just|ADV east|NOUN of|ADP it|PRON .|.
+ Are|ADP we|PRON safe|VERB here|ADV ?|.
+ The|DET battle|NOUN ,|. were|VERB you|PRON there|ADV ?|.
+ Margaret|NOUN ,|. get|VERB bandages|NOUN and|CONJ water|NOUN .|.
+ Have|VERB you|PRON seen|VERB any|DET Redcoats|NOUN ?|.
+ Not|ADV yet|ADV .|.
+ They|PRON had|VERB surrendered|VERB ?|.
+ Father|NOUN ?|.
+ But|CONJ they|PRON 're|VERB wounded|VERB .|.
+ What|QUESTIONTAG unit|NOUN ?|.
+ First|NOUN Virginia|NOUN Regulars|NOUN under|ADP Colonel|NOUN Hamilton|NOUN .|.
+ Who|QUESTIONTAG cared|VERB for|ADP your|PRON wounds|NOUN ?|.
+ With|ADP a|DET lace|NOUN table|NOUN cloth|NOUN ?|.
+ Who|QUESTIONTAG carried|VERB this|DET ?|.
+ I|PRON did|VERB .|.
+ And|CONJ the|DET Rebel|NOUN wounded|VERB ?|.
+ Kill|NOUN them|PRON .|.
+ Would|VERB you|PRON like|ADP a|DET lesson|NOUN in|ADP the|DET rules|NOUN of|ADP war|NOUN ?|.
+ taking|VERB his|PRON measure|NOUN ,|. waiting|VERB to|PRT see|VERB if|ADP he|PRON 's|VERB going|VERB to|PRT pull|VERB the|DET trigger|NOUN .|.
+ But|CONJ what|PRON about|ADP Thomas|NOUN ?|.
+ Leave|NOUN him|PRON .|.
+ How|QUESTIONTAG are|VERB they|PRON ?|.
+ How|QUESTIONTAG did|VERB this|DET ...|. how|ADV did|VERB I|PRON let|VERB this|DET happen|VERB ?|.
+ You|PRON could|VERB n't|ADV have|VERB known|VERB .|.
+ When|QUESTIONTAG will|VERB you|PRON be|VERB back|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. William|NOUN .|.
+ Tomorrow|NOUN ?|.
+ Goodbye|NOUN ?|.
+ Where|QUESTIONTAG is|VERB he|PRON now|ADV ?|.
+ Last|ADJ anyone|NOUN saw|VERB ,|. riding|VERB hard|ADJ ,|. northeast|ADV ,|. his|PRON staff|NOUN a|DET hundred|ADJ yards|NOUN behind|ADP ,|. trying|VERB to|PRT catch|VERB up|PRT .|.
+ Who|QUESTIONTAG 's|VERB in|ADP command|NOUN ?|.
+ I|PRON am|VERB ,|. I|PRON think|VERB .|.
+ What|QUESTIONTAG are|VERB my|PRON orders|NOUN ?|.
+ When|QUESTIONTAG ?|.
+ Fall|NOUN ,|. six|NUM months|NOUN at|ADP the|DET earliest|ADJ .|.
+ You|PRON expect|VERB Cornwallis|NOUN to|PRT be|VERB held|VERB here|ADV by|ADP militia|NOUN ?|.
+ Not|ADV held|VERB ,|. just|ADV slowed|VERB down|PRT .|.
+ How|QUESTIONTAG many|ADJ men|NOUN does|VERB Cornwallis|NOUN have|VERB under|ADP his|PRON command|NOUN ?|.
+ Four|NUM thousand|NOUN infantry|NOUN and|CONJ around|ADP six|NUM hundred|VERB cavalry|NOUN ...|. (|. beat|NOUN )|. ...|. including|VERB the|DET Green|ADJ Dragoons|NOUN under|ADP Tarleton|NOUN .|.
+ What|QUESTIONTAG now|ADV ,|. sir|NOUN ?|.
+ We|PRON put|VERB out|PRT the|DET word|NOUN .|.
+ Oh|X ?|.
+ I|PRON 've|VERB been|VERB doing|VERB this|DET for|ADP two|NUM years|NOUN .|.
+ Is|VERB that|DET so|ADV ?|.
+ Yes|X ,|. sir|NOUN .|.
+ Did|NOUN your|PRON father|NOUN teach|NOUN you|PRON humility|NOUN ?|.
+ He|PRON tried|VERB .|.
+ You|PRON expect|VERB to|PRT hold|VERB Cornwallis|NOUN with|ADP militia|NOUN ?|.
+ I|PRON expect|VERB to|PRT try|VERB .|.
+ You|PRON coming|VERB ,|. or|CONJ not|ADV ?|.
+ Is|VERB it|PRON ?|.
+ If|ADP you|PRON 're|VERB here|ADV only|ADV for|ADP revenge|NOUN ,|. you|PRON 're|VERB doing|VERB a|DET disservice|NOUN to|PRT him|PRON as|ADV well|ADV as|ADP yourself|PRON .|.
+ How|QUESTIONTAG old|ADJ are|VERB you|PRON ?|.
+ You|PRON know|VERB how|ADV old|ADJ I|PRON am|VERB .|.
+ Have|VERB I|PRON made|VERB myself|PRON clear|ADJ ,|. gentlemen|NOUN ?|.
+ (|. multiple|NOUN )|. Yes|X ,|. sir|NOUN .|.
+ Did|NOUN you|PRON know|VERB that|ADP Lord|NOUN Cornwallis|NOUN '|PRT father|NOUN was|VERB a|DET tenant|NOUN on|ADP the|DET estate|NOUN of|ADP my|PRON grandfather|NOUN ?|.
+ and|CONJ follows|VERB .|.
+ Flanking|VERB riders|NOUN ?|.
+ I|PRON did|VERB n't|ADV see|VERB any|DET .|.
+ For|ADP what|PRON ?|.
+ For|ADP trying|VERB to|PRT impose|VERB some|DET decency|NOUN on|ADP that|DET sort|NOUN .|.
+ Am|NOUN I|PRON one|NUM of|ADP that|DET sort|NOUN ?|.
+ You|PRON 're|VERB the|DET worst|ADJ of|ADP that|DET sort|NOUN .|.
+ You|PRON do|VERB n't|ADV know|VERB him|PRON very|ADV well|ADV ,|. do|VERB you|PRON ?|.
+ He|PRON 's|VERB my|PRON father|NOUN .|.
+ I|PRON know|VERB him|PRON well|ADV enough|ADV ?|.
+ Do|VERB n't|ADV fault|VERB him|PRON for|ADP having|VERB grown|VERB up|PRT on|ADP the|DET frontier|NOUN .|.
+ Well|ADV ?|.
+ I|PRON 've|VERB just|ADV been|VERB inside|ADP the|DET mind|NOUN of|ADP a|DET genius|NOUN .|.
+ Father|NOUN ?|.
+ Pride|NOUN is|VERB his|PRON weakness|NOUN .|.
+ Why|ADV am|VERB I|PRON here|ADV ,|. Colonel|NOUN Halbert|NOUN ?|.
+ For|ADP the|DET ball|NOUN ,|. sir|NOUN ?|.
+ Our|PRON supply|NOUN line|NOUN ,|. sir|NOUN ?|.
+ Excellent|ADJ guess|NOUN ,|. Major|NOUN .|.
+ And|CONJ what|PRON ,|. praytell|NOUN ,|. is|VERB this|DET ?|.
+ Uh|NOUN ...|.
+ Hey|NOUN ,|. what|PRON you|PRON got|VERB there|ADV ?|.
+ the|DET light|NOUN --|. THE|DET DRUNKEN|NOUN REDCOATS|NOUN ARE|NOUN BILLINGS|NOUN AND|NOUN DALTON|NOUN .|.
+ Is|VERB there|DET no|DET decency|NOUN ?|.
+ Among|ADP the|DET rebels|NOUN ?|.
+ These|DET rebels|NOUN seem|VERB to|PRT lack|VERB fear|NOUN as|ADV well|ADV as|ADP decency|NOUN ,|. eh|NOUN ,|. General|NOUN ?|.
+ Major|ADJ Halbert|NOUN ,|. then|ADV turns|VERB to|PRT Tarleton|NOUN .|.
+ You|PRON call|VERB that|ADP a|DET compliment|NOUN ?|.
+ It|PRON 's|VERB a|DET start|NOUN .|.
+ ...|. the|DET younger|ADJ ones|NOUN barely|ADV remember|VERB her|PRON but|CONJ Gabriel|NOUN spent|VERB more|ADJ time|NOUN with|ADP Elizabeth|NOUN ...|. she|PRON taught|VERB him|PRON well|ADV ,|. guided|VERB him|PRON ,|. she|PRON was|VERB his|PRON North|ADJ Star|NOUN and|CONJ mine|NOUN ...|. her|PRON father|NOUN was|VERB a|DET minister|NOUN ,|. in|ADP Boston|NOUN ,|. did|VERB you|PRON know|VERB that|DET ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ,|. old|ADJ and|CONJ ugly|ADV ?|.
+ You|PRON got|VERB me|PRON beat|NOUN on|ADP both|DET accounts|NOUN .|.
+ Which|QUESTIONTAG way|NOUN ?|.
+ This|DET way|NOUN ...|. no|DET this|DET ...|.
+ I|PRON should|VERB have|VERB killed|VERB him|PRON when|ADV I|PRON had|VERB the|DET chance|NOUN ?|.
+ When|QUESTIONTAG was|VERB that|ADP ?|.
+ Are|NOUN you|PRON going|VERB to|PRT meet|VERB with|ADP him|PRON ?|.
+ Most|ADJ certainly|ADV .|.
+ Shall|NOUN we|PRON proceed|VERB ?|.
+ Let|VERB us|PRON .|.
+ Oh|X ?|.
+ I|PRON served|VERB in|ADP His|PRON Majesty|NOUN 's|PRT army|NOUN in|ADP the|DET French|ADJ and|CONJ Indian|ADJ War|NOUN .|.
+ And|CONJ what|PRON are|VERB inappropriate|ADJ levels|NOUN of|ADP hostile|ADJ attention|NOUN ?|.
+ Colonel|NOUN ,|. imagine|VERB the|DET utter|ADJ chaos|NOUN that|DET would|VERB result|VERB from|ADP un-led|ADJ armies|NOUN having|VERB at|ADP each|DET other|ADJ .|.
+ Restrain|VERB them|PRON from|ADP the|DET targeting|NOUN of|ADP civilians|NOUN ,|. including|VERB women|NOUN and|CONJ children|NOUN ?|.
+ That|DET is|VERB a|DET separate|ADJ issue|NOUN .|.
+ Sir|NOUN ?|.
+ You|PRON have|VERB eighteen|VERB of|ADP my|PRON men|NOUN .|.
+ What|QUESTIONTAG officers|NOUN ?|.
+ hillside|NOUN is|VERB visible|ADJ in|ADP the|DET distance|NOUN .|.
+ Their|PRON names|NOUN ,|. ranks|NOUN and|CONJ posts|NOUN ?|.
+ They|PRON refused|VERB to|PRT give|VERB me|PRON their|PRON names|NOUN .|.
+ You|PRON do|VERB n't|ADV remember|VERB me|PRON ,|. do|VERB you|PRON ?|.
+ unable|ADJ to|PRT place|VERB him|PRON ...|. then|ADV Tarleton|NOUN remembers|NOUN ...|.
+ Why|ADV did|VERB n't|ADV father|VERB come|VERB ?|.
+ heretofore|ADV silent|ADJ sister|NOUN .|.
+ Why|ADV did|VERB n't|ADV he|PRON come|VERB ?|.
+ He|PRON wanted|VERB to|PRT ,|. Susan|NOUN ,|. but|CONJ he|PRON could|VERB n't|ADV leave|VERB his|PRON men|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Come|VERB with|ADP me|PRON .|.
+ How|QUESTIONTAG can|VERB we|PRON end|VERB this|DET madness|NOUN ?|.
+ Difficult|NOUN ,|. sir|NOUN .|.
+ You|PRON still|ADV want|VERB me|PRON to|PRT give|VERB wounded|ADJ Redcoats|NOUN quarter|NOUN ?|.
+ his|PRON lathered|ADJ horse|NOUN and|CONJ speaks|NOUN to|PRT them|PRON without|ADP dismounting|VERB .|.
+ Where|QUESTIONTAG ?|.
+ Seven|NOUN homes|NOUN along|ADP the|DET Black|NOUN River|NOUN so|ADV far|ADV ...|.
+ May|NOUN I|PRON ask|VERB you|PRON a|DET question|NOUN ?|.
+ explanation|NOUN .|.
+ Do|VERB you|PRON think|VERB Frances|NOUN with|ADP an|DET ``|. e|NOUN ''|. is|VERB too|ADV manly|ADV a|DET name|NOUN for|ADP a|DET girl|NOUN ?|.
+ No|DET .|.
+ Do|VERB you|PRON think|VERB Francis|NOUN with|ADP an|DET ``|. i|NOUN ''|. is|VERB too|ADV womanly|ADV a|DET name|NOUN for|ADP a|DET boy|NOUN ?|.
+ No|DET .|.
+ When|QUESTIONTAG ?|.
+ Late|ADJ summer|NOUN .|.
+ Excuse|ADP me|PRON ?|.
+ I|PRON said|VERB ,|. I|PRON 'm|VERB not|ADV my|PRON sister|NOUN .|.
+ Do|VERB you|PRON ?|.
+ Of|ADP course|NOUN ,|. I|PRON do|VERB .|.
+ How|QUESTIONTAG many|ADJ came|VERB back|ADV ?|.
+ About|ADP a|DET hundred|NUM and|CONJ twenty|NOUN .|.
+ Everyone|NOUN ?|.
+ Colonel|NOUN Tarleton|NOUN wants|VERB to|PRT address|VERB ,|. the|DET whole|ADJ village|NOUN .|.
+ By|ADP what|PRON right|NOUN are|VERB we|PRON made|VERB prisoners|NOUN ?|.
+ looking|VERB LOYALIST|NOUN MILITIAMEN|NOUN ,|. disappear|VERB into|ADP the|DET blacksmith|NOUN shop|NOUN .|.
+ Sir|NOUN ?|.
+ Yes|X ,|. Major|NOUN .|.
+ Anne|NOUN ...|. ?|.
+ Marion|NOUN walks|VERB out|PRT and|CONJ intercepts|VERB him|PRON .|.
+ Father|NOUN ,|. tell|VERB me|PRON what|PRON happened|VERB at|ADP Fort|NOUN Wilderness|NOUN ?|.
+ You|PRON know|VERB what|PRON happened|VERB .|.
+ And|CONJ what|PRON do|VERB they|PRON know|VERB ?|.
+ That|ADP the|DET French|ADJ and|CONJ Cherokees|NOUN captured|VERB the|DET fort|NOUN and|CONJ when|ADV you|PRON retook|VERB it|PRON ,|. you|PRON took|VERB revenge|NOUN on|ADP them|PRON for|ADP what|PRON they|PRON did|VERB during|ADP the|DET occupation|NOUN .|.
+ As|ADP you|PRON did|VERB at|ADP Fort|NOUN Wilderness|NOUN ?|.
+ THEM|NOUN .|.
+ May|NOUN I|PRON help|VERB you|PRON try|VERB to|PRT find|VERB solace|NOUN with|ADP the|DET word|NOUN of|ADP God|NOUN ?|.
+ He|PRON looks|VERB as|ADP if|ADP he|PRON 's|VERB sleeping|ADJ ,|. does|VERB n't|ADV he|PRON ?|.
+ Yes|X ,|. he|PRON does|VERB .|.
+ How|QUESTIONTAG many|ADJ men|NOUN have|VERB we|PRON seen|VERB die|NOUN ?|.
+ Two|NUM .|.
+ You|PRON called|VERB for|ADP me|PRON ,|. sir|VERB ?|.
+ WALNUT|NOUN which|DET he|PRON hands|VERB to|PRT the|DET boy|NOUN .|.
+ Did|NOUN you|PRON bring|VERB me|PRON this|DET ?|.
+ Yes|X ,|. sir|NOUN .|.
+ Gentlemen|NOUN ,|. what|PRON do|VERB we|PRON see|VERB ?|.
+ Mortars|NOUN ,|. center|NOUN ,|. with|ADP two|NUM lines|NOUN of|ADP enfilading|VERB trenches|NOUN .|.
+ Remember|NOUN Braddock|NOUN ?|.
+ That|DET bad|ADJ ?|.
+ How|QUESTIONTAG long|ADJ before|ADP they|PRON arrive|VERB ?|.
+ Less|ADJ than|ADP a|DET week|NOUN .|.
+ And|CONJ what|PRON is|VERB the|DET second|ADJ thing|NOUN ?|.
+ leafs|NOUN through|ADP it|PRON .|.
+ Sir|NOUN ?|.
+ crumples|NOUN the|DET dispatch|NOUN and|CONJ speaks|NOUN with|ADP quiet|ADJ fury|NOUN .|.
+ Do|VERB you|PRON see|VERB that|ADP ,|. Colonel|NOUN ?|.
+ Unless|ADP I|PRON 'm|VERB dreaming|VERB ,|. I|PRON think|VERB I|PRON see|VERB irregulars|NOUN at|ADP their|PRON center|NOUN .|.
+ Your|PRON son|NOUN ,|. what|PRON did|VERB you|PRON name|VERB him|PRON ?|.
+ Robert|NOUN .|.

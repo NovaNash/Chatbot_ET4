@@ -1,0 +1,61 @@
+ A|DET friend|NOUN of|ADP mine|NOUN is|VERB going|VERB to|PRT join|VERB us|PRON ,|. okay|PRON ?|.
+ Hi|NOUN .|.
+ Why|ADV did|VERB you|PRON do|VERB that|DET ?|.
+ (|. groaning|VERB )|. What|QUESTIONTAG is|VERB it|PRON ?|.
+ It|PRON 's|VERB for|ADP the|DET pain|NOUN .|.
+ Did|NOUN you|PRON undress|VERB me|PRON ?|.
+ Yes|X .|.
+ And|CONJ you|PRON ...|. slept|VERB here|ADV with|ADP me|PRON ?|.
+ Yes|X .|.
+ Did|NOUN we|PRON ...|. ?|.
+ Are|NOUN you|PRON kidding|VERB ?|.
+ May|NOUN I|PRON ask|VERB you|PRON a|DET personal|ADJ question|NOUN ?|.
+ Do|VERB you|PRON do|VERB this|DET for|ADP all|DET Redskin|NOUN quarterbacks|NOUN ?|.
+ Of|ADP course|NOUN not|ADV .|.
+ Then|ADV why|ADV me|PRON ?|.
+ Redskins|NOUN ?|.
+ It|PRON does|VERB n't|ADV say|VERB .|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ McGinty|NOUN called|VERB a|DET dinner|NOUN meeting|NOUN with|ADP the|DET whole|ADJ team|NOUN .|.
+ Coach|NOUN ,|. what|PRON will|VERB be|VERB your|PRON strategy|NOUN against|ADP New|NOUN York|NOUN this|DET Sunday|NOUN ?|.
+ players|NOUN and|CONJ a|DET few|ADJ break|NOUN into|ADP ``|. Hail|NOUN to|PRT the|DET Redskins|NOUN .|. ''|.
+ What|QUESTIONTAG ?|.
+ Shane|NOUN ...|.
+ You|PRON think|VERB that|DET 's|VERB worth|ADP a|DET shoe|NOUN deal|NOUN ?|.
+ Seriously|ADV ?|.
+ (|. to|PRT Shane|NOUN )|. You|PRON hold|VERB it|PRON .|.
+ You|PRON look|VERB great|ADJ ,|. Lou|NOUN ,|. you|PRON know|VERB that|ADP ?|.
+ Are|NOUN you|PRON hurt|VERB ?|.
+ No|DET .|.
+ Would|VERB you|PRON like|ADP to|PRT come|VERB in|ADP and|CONJ make|VERB love|NOUN ?|.
+ Yes|X .|.
+ Any|DET idea|NOUN how|ADV Wilkinson|NOUN 's|PRT identity|NOUN was|VERB discovered|VERB and|CONJ who|PRON leaked|VERB it|PRON to|PRT the|DET media|NOUN ?|.
+ No|DET ,|. Bob|NOUN ,|. but|CONJ rumor|NOUN has|VERB it|PRON that|ADP the|DET National|NOUN Football|NOUN League|NOUN Player|NOUN 's|PRT Association|NOUN had|VERB something|NOUN to|PRT do|VERB with|ADP it|PRON .|.
+ Where|QUESTIONTAG are|VERB we|PRON gon|VERB na|PRT keep|VERB him|PRON ?|.
+ In|ADP the|DET stadium|NOUN .|.
+ How|QUESTIONTAG did|VERB you|PRON pull|VERB that|ADP off|PRT ?|.
+ How|QUESTIONTAG else|ADV ?|.
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ This|DET is|VERB a|DET visit|NOUN .|.
+ (|. pointing|VERB to|PRT the|DET linemen|NOUN )|. You|PRON know|VERB who|PRON these|DET guys|NOUN are|VERB ,|. do|VERB n't|ADV you|PRON ?|.
+ Dallas|NOUN Cowboys|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ Who|QUESTIONTAG ,|. me|PRON ?|.
+ Is|VERB the|DET union|NOUN behind|ADP this|DET 'visit|NOUN '|. ?|.
+ I|PRON ca|VERB n't|ADV really|ADV say|VERB ,|. Shane|NOUN .|.
+ Mister|NOUN Matheson|NOUN ,|. what|DET are|VERB the|DET sticking|VERB points|NOUN in|ADP the|DET negotiations|NOUN as|ADV far|ADV as|ADP the|DET owners|NOUN are|VERB concerned|VERB ?|.
+ Only|ADV one|NUM :|. that|ADP the|DET players|NOUN immediately|ADV go|VERB back|ADV to|PRT work|VERB with|ADP no|DET change|NOUN in|ADP the|DET existing|VERB contract|NOUN .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ with|ADP you|PRON guys|NOUN ?|.
+ He|PRON started|VERB it|PRON .|.
+ are|VERB you|PRON gon|ADJ na|PRT sing|VERB it|PRON ?|.
+ beaten|NOUN and|CONJ depressed|ADJ .|.
+ Congratulations|NOUN on|ADP what|PRON ?|.
+ Shane|NOUN is|VERB staying|VERB on|ADP .|.
+ Is|VERB that|ADP true|ADJ ?|.
+ Yes|X ,|. Andre|NOUN .|.
+ (|. to|PRT Shane|NOUN )|. Are|VERB you|PRON okay|ADP ?|.
+ Just|ADV make|VERB it|PRON a|DET good|ADJ snap|NOUN .|.
+ (|. to|PRT Pacifico|NOUN )|. Lou|NOUN ,|. are|VERB you|PRON alright|ADP ?|.
+ the|DET kick|NOUN .|.
+ What|QUESTIONTAG ?|.
+ (|. through|ADP his|PRON legs|NOUN )|. Come|NOUN on|ADP ,|. Shane|NOUN !|.

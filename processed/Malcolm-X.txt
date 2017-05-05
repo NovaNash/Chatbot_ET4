@@ -1,0 +1,4 @@
+ HONEY|NOUN You|PRON know|VERB that|ADP gal|NOUN ?|.
+ Mind|VERB your|PRON own|ADJ goddamn|NOUN business|NOUN ...|. She|PRON comes|VERB in|ADP a|DET lot|NOUN ?|.
+ What|QUESTIONTAG mission|NOUN ?|.
+ To|PRT wire|VERB your|PRON car|NOUN so|ADP it|PRON would|VERB explode|VERB when|ADV you|PRON turned|VERB the|DET ignition|NOUN .|.

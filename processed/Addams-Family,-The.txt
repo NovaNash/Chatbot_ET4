@@ -1,0 +1,16 @@
+ Where|QUESTIONTAG ...|. where|ADV 's|VERB the|DET party|NOUN ?|.
+ your|PRON sister|NOUN ?|.
+ With|ADP your|PRON children|NOUN ?|.
+ he|PRON currently|ADV employed|VERB ?|.
+ Is|VERB this|DET made|VERB from|ADP real|ADJ lemons|NOUN ?|.
+ then|ADV who|PRON is|VERB he|PRON ,|. mother|ADV ?|.
+ What|QUESTIONTAG ?|.
+ Mrs.|NOUN Addams|NOUN -|. any|DET thoughts|NOUN ?|.
+ politely|ADV )|. Where|QUESTIONTAG 's|VERB your|PRON bathroom|NOUN ?|.
+ Is|VERB this|DET gon|NOUN na|PRT smell|VERB ?|.
+ Gordon|NOUN ?|.
+ Oh|X ,|. really|ADV ?|.
+ I|PRON 've|VERB never|ADV played|VERB this|DET before|ADP -|. how|ADV does|VERB it|PRON go|VERB ?|.
+ more|ADV precious|ADJ ?|.
+ Our|PRON family|NOUN ...|. what|PRON are|VERB they|PRON ?|.
+ Cara|NOUN mia|NOUN ...|. is|VERB it|PRON true|ADJ ?|.

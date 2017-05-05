@@ -1,0 +1,22 @@
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN Brad|NOUN ,|. darling|VERB ?|.
+ What|QUESTIONTAG was|VERB that|DET bang|NOUN ?|.
+ We|PRON must|VERB have|VERB a|DET blow-out|NOUN .|.
+ And|CONJ so|ADP it|PRON seemed|VERB that|ADP fortune|NOUN had|VERB smiled|VERB on|ADP Brad|NOUN and|CONJ Janet|NOUN and|CONJ that|ADP they|PRON had|VERB found|VERB the|DET assistance|NOUN that|ADP their|PRON plight|NOUN required|VERB -|. or|CONJ had|VERB they|PRON ?|.
+ Are|NOUN you|PRON -|. giving|VERB a|DET party|NOUN ?|.
+ No|DET .|.
+ (|. to|PRT Magenta|NOUN )|. It|PRON he|PRON -|. Frank|NOUN -|. is|VERB he|PRON your|PRON husband|NOUN ?|.
+ Who|QUESTIONTAG 's|VERB Eddie|NOUN ?|.
+ The|DET delivery|NOUN boy|NOUN .|.
+ You|PRON beast|VERB ,|. you|PRON monster|VERB ,|. what|PRON have|VERB you|PRON done|VERB with|ADP Brad|NOUN ?|.
+ Nothing|NOUN .|.
+ Why|ADV you|PRON -|. what|PRON have|VERB you|PRON done|VERB with|ADP Janet|NOUN ?|.
+ Nothing|NOUN .|.
+ You|PRON promise|VERB you|PRON wo|VERB n't|ADV tell|VERB ?|.
+ On|ADP my|PRON mother|NOUN 's|PRT grave|NOUN .|.
+ (|. to|PRT Magenta|NOUN )|. You|PRON mean|VERB she|PRON only|ADV ever|ADV kissed|VERB ?|.
+ What|QUESTIONTAG exactly|ADV are|VERB you|PRON implying|VERB ?|.
+ What|QUESTIONTAG 's|VERB it|PRON say|VERB ,|. What|QUESTIONTAG 's|VERB it|PRON say|VERB ?|.
+ When|QUESTIONTAG we|PRON made|VERB it|PRON Did|NOUN ya|VERB hear|VERB a|DET bell|NOUN ring|NOUN ?|.
+ You|PRON mean|VERB he|PRON 's|VERB gon|NOUN na|PRT send|VERB us|PRON to|PRT another|DET planet|NOUN ?|.
+ to|PRT be|VERB subjected|VERB to|PRT ?|.
+ spoken|NOUN of|ADP ?|.

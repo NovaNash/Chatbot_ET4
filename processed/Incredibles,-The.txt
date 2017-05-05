@@ -1,0 +1,20 @@
+ wedded|VERB wife|NOUN ?|.
+ carnivore|NOUN cut|VERB his|PRON meat|NOUN ?|.
+ school|NOUN ?|.
+ you|PRON hungry|VERB for|ADP ?|.
+ this|DET family|NOUN know|VERB about|ADP normal|ADJ ?|.
+ and|CONJ ...|. you|PRON remember|VERB Gazerbeam|VERB ?|.
+ of|ADP muscle|NOUN ?|.
+ again|ADV ?|.
+ good|ADJ ,|. is|VERB n't|ADV it|PRON ?|.
+ Prague|NOUN ?|.
+ here|ADV ?|.
+ mimosa|NOUN ?|.
+ secrets|NOUN from|ADP you|PRON ?|.
+ something|NOUN ?|.
+ more|ADV can|VERB you|PRON take|VERB away|PRT from|ADP me|PRON ?|.
+ pretend|NOUN to|PRT be|VERB one|NUM ?|.
+ I|PRON get|VERB into|ADP the|DET computer|NOUN ?|.
+ take|VERB ?|.
+ what|PRON is|VERB that|ADP all|DET about|ADP ?|.
+ wait|NOUN ...|. so|ADV Friday|NOUN ?|.

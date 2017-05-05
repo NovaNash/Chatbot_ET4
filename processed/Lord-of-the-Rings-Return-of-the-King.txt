@@ -1,0 +1,48 @@
+ (|. prompting|VERB )|. Yes|X ,|. the|DET stairs|NOUN ...|. and|CONJ then|ADV ?|.
+ Up|ADV ,|. up|ADV ,|. up|ADV ,|. up|ADP the|DET stairs|NOUN we|PRON go|VERB .|.
+ Pippin|NOUN ,|. are|VERB you|PRON mad|ADJ ?|.
+ I|PRON just|ADV want|VERB to|PRT look|VERB at|ADP it|PRON .|.
+ What|QUESTIONTAG did|VERB you|PRON tell|VERB him|PRON about|ADP Frodo|NOUN and|CONJ the|DET Ring|NOUN ?|.
+ What|QUESTIONTAG do|VERB we|PRON owe|VERB Gondor|NOUN ?|.
+ (|. low|ADJ and|CONJ urgent|ADJ )|. I|PRON will|VERB go|VERB .|.
+ (|. worried|VERB )|. Where|QUESTIONTAG are|VERB we|PRON going|VERB ?|.
+ Why|ADV did|VERB you|PRON look|VERB -|. why|ADV do|VERB you|PRON always|ADV have|VERB to|PRT look|VERB ?|.
+ (|. nervous|ADJ )|. How|QUESTIONTAG far|ADV is|VERB Minas|NOUN Tirith|NOUN ?|.
+ Three|NUM days|NOUN ride|ADV as|ADP the|DET Nazgul|NOUN flies|NOUN and|CONJ you|PRON 'd|VERB better|VERB hope|NOUN we|PRON do|VERB n't|ADV have|VERB one|NUM of|ADP those|DET on|ADP our|PRON tail|NOUN .|.
+ But|CONJ we'11|ADJ see|VERB each|DET other|ADJ soon|ADV ?|.
+ Wo|ADJ n't|ADV we|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Lady|ADJ Arwen|NOUN ?|.
+ concerned|VERB .|.
+ What|QUESTIONTAG did|VERB you|PRON see|VERB ?|.
+ Arwen|NOUN ?|.
+ fierce|NOUN light|NOUN in|ADP her|PRON eyes|NOUN .|.
+ (|. bitter|NOUN )|. Perhaps|ADV you|PRON come|VERB to|PRT explain|VERB this|DET ?|.
+ Perhaps|ADV you|PRON come|VERB to|PRT tell|VERB me|PRON why|ADV my|PRON son|NOUN is|VERB dead|ADJ ?|.
+ (|. nervous|ADJ )|. Gandalf|NOUN ?|.
+ his|PRON mind|NOUN 's|PRT eye|NOUN .|.
+ What|QUESTIONTAG 's|VERB it|PRON doing|VERB ?|.
+ No|DET !|.
+ You|PRON ride|VERB with|ADP us|PRON ?|.
+ (|. disbelief|NOUN )|. You|PRON 've|VERB seen|VERB Frodo|NOUN and|CONJ Sam|NOUN ?|.
+ What|QUESTIONTAG of|ADP the|DET Wizard|NOUN ?|.
+ (|. worried|VERB )|. Where|QUESTIONTAG are|VERB Theoden|NOUN 's|PRT riders|NOUN ?|.
+ Will|NOUN Rohan|NOUN 's|PRT army|NOUN come|NOUN ?|.
+ Mithrandir|NOUN ?|.
+ (|. grim|NOUN )|. Courage|NOUN is|VERB the|DET best|ADJ defence|NOUN that|ADP you|PRON have|VERB now|ADV .|.
+ What|QUESTIONTAG would|VERB you|PRON have|VERB me|PRON do|VERB ?|.
+ I|PRON will|VERB not|ADV yield|VERB the|DET River|NOUN and|CONJ Pelennor|NOUN unfought|ADJ -|. Osgiliath|NOUN must|VERB be|VERB retaken|VERB .|.
+ (|. quietly|ADV )|. You|PRON wish|VERB now|ADV that|ADP our|PRON places|NOUN had|VERB been|VERB exchanged|VERB ,|. that|ADP I|PRON had|VERB died|VERB and|CONJ Boromir|NOUN had|VERB lived|VERB ?|.
+ then|ADV ...|.
+ (|. deadened|VERB )|. Where|QUESTIONTAG does|VERB my|PRON allegiance|NOUN lie|NOUN if|ADP not|ADV here|ADV ?|.
+ him|PRON ,|. trying|VERB one|NUM more|ADJ time|NOUN to|PRT stop|VERB the|DET YOUNG|NOUN MAN|NOUN .|.
+ Can|VERB you|PRON sing|VERB ,|. Master|NOUN Hobbit|NOUN ?|.
+ (|. uneasy|ADJ )|. Well|NOUN .|.
+ Grimbold|NOUN ,|. how|ADV many|ADJ ?|.
+ I|PRON bring|VERB five|NUM hundred|VERB men|NOUN from|ADP the|DET Westfold|NOUN ,|. my|PRON Lord|NOUN .|.
+ (|. quietly|ADV )|. Where|QUESTIONTAG are|VERB the|DET riders|NOUN from|ADP Snowbourne|NOUN ?|.
+ None|NOUN have|VERB come|VERB ,|. My|NOUN Lord|NOUN .|.
+ That|DET road|NOUN there|DET -|. where|ADV does|VERB that|ADP lead|VERB ?|.
+ It|PRON is|VERB the|DET road|NOUN to|PRT the|DET Dimholt|NOUN ...|.
+ She|PRON stayed|VERB ?|.
+ She|PRON will|VERB not|ADV long|ADV survive|VERB the|DET evil|NOUN that|DET now|ADV spreads|VERB from|ADP Mordor|NOUN .|.

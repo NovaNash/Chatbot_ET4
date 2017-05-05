@@ -1,0 +1,83 @@
+ The|DET Emperor|NOUN 's|PRT coming|VERB here|ADV ?|.
+ That|DET is|VERB correct|ADJ ,|. Commander|NOUN .|.
+ What|QUESTIONTAG did|VERB he|PRON say|VERB ?|.
+ ...|.
+ How|QUESTIONTAG many|ADJ languages|NOUN do|VERB you|PRON speak|VERB ?|.
+ I|PRON am|VERB fluent|ADJ in|ADP over|ADP six|NUM million|NUM forms|NOUN of|ADP communication|NOUN ,|. and|CONJ can|VERB readily|VERB ...|.
+ Disintegrated|VERB ?|.
+ Guard|NOUN !|.
+ Where|QUESTIONTAG am|VERB I|PRON ?|.
+ Jabba|NOUN 's|PRT palace|NOUN .|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ revealing|VERB the|DET beautiful|ADJ face|NOUN of|ADP PRINCESS|NOUN LEIA|NOUN .|.
+ Are|NOUN you|PRON all|DET right|ADV ?|.
+ Fine|NOUN .|.
+ How|QUESTIONTAG are|VERB we|PRON doing|VERB ?|.
+ The|DET same|ADJ as|ADP always|ADV .|.
+ On|ADP second|ADJ thought|NOUN ,|. let|VERB 's|PRT pass|NOUN on|ADP that|DET ,|. huh|VERB ?|.
+ Why|ADV do|VERB n't|ADV you|PRON leave|VERB that|DET crate|NOUN and|CONJ come|NOUN with|ADP us|PRON ?|.
+ I|PRON have|VERB a|DET promise|NOUN I|PRON have|VERB to|PRT keep|VERB first|ADV ...|. to|PRT an|DET old|ADJ friend|NOUN .|.
+ Then|ADV I|PRON am|VERB a|DET Jedi|NOUN ?|.
+ Ohhh|NOUN .|.
+ Master|NOUN Yoda|NOUN ...|. is|VERB Darth|ADJ Vader|NOUN my|PRON father|NOUN ?|.
+ creases|NOUN his|PRON face|NOUN .|.
+ Told|NOUN you|PRON ,|. did|VERB he|PRON ?|.
+ Yes|X .|.
+ Unfortunate|ADP that|DET I|PRON know|VERB the|DET truth|NOUN ?|.
+ Well|ADV ,|. look|VERB at|ADP you|PRON ,|. a|DET general|ADJ ,|. huh|NOUN ?|.
+ Oh|X ,|. well|X ,|. someone|NOUN must|VERB have|VERB told|VERB them|PRON about|ADP my|PRON little|ADJ maneuver|NOUN at|ADP the|DET battle|NOUN of|ADP Taanab|NOUN .|.
+ General|NOUN Solo|NOUN ,|. is|VERB your|PRON strike|NOUN team|NOUN assembled|VERB ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Ask|NOUN me|PRON again|ADV sometime|ADV .|.
+ You|PRON got|VERB her|PRON warmed|VERB ?|.
+ Yeah|NOUN ,|. she|PRON 's|VERB comin|NOUN '|. up|ADV .|.
+ Hey|NOUN ,|. are|VERB you|PRON awake|VERB ?|.
+ Yeah|X ,|. I|PRON just|ADV got|VERB a|DET funny|ADJ feeling|NOUN .|.
+ What|QUESTIONTAG is|VERB thy|ADJ bidding|NOUN ,|. my|PRON Master|NOUN ?|.
+ Send|VERB the|DET fleet|NOUN to|PRT the|DET far|ADV side|NOUN of|ADP Endor|NOUN .|.
+ What|QUESTIONTAG of|ADP the|DET reports|NOUN of|ADP the|DET Rebel|NOUN fleet|NOUN massing|VERB near|ADP Sullust|NOUN ?|.
+ It|PRON is|VERB of|ADP no|DET concern|NOUN .|.
+ Where|QUESTIONTAG is|VERB that|ADP shuttle|NOUN going|VERB ?|.
+ Shuttle|NOUN Tydirium|NOUN ,|. what|PRON is|VERB your|PRON cargo|NOUN and|CONJ destination|NOUN ?|.
+ Do|VERB they|PRON have|VERB a|DET code|NOUN clearance|NOUN ?|.
+ It|PRON 's|VERB an|DET older|ADJ code|NOUN ,|. sir|NOUN ,|. but|CONJ it|PRON checks|VERB out|PRT .|.
+ Shall|NOUN I|PRON hold|VERB them|PRON ?|.
+ No|DET .|.
+ Shall|NOUN we|PRON try|VERB and|CONJ go|VERB around|ADV ?|.
+ It|PRON 'll|VERB take|VERB time|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ next|ADJ to|PRT Leia|NOUN .|.
+ Are|NOUN you|PRON sure|ADV ?|.
+ I|PRON have|VERB felt|VERB him|PRON ,|. my|PRON Master|NOUN .|.
+ He|PRON will|VERB come|VERB to|PRT me|PRON ?|.
+ I|PRON have|VERB foreseen|ADJ it|PRON .|.
+ Do|VERB you|PRON understand|VERB anything|NOUN they|PRON 're|VERB saying|VERB ?|.
+ Oh|X ,|. yes|X ,|. Master|NOUN Luke|NOUN !|.
+ What|QUESTIONTAG are|VERB you|PRON telling|VERB them|PRON ?|.
+ Hello|NOUN ,|. I|PRON think|VERB ...|.
+ Well|ADV ,|. why|ADV do|VERB n't|ADV you|PRON use|VERB your|PRON divine|NOUN influence|NOUN and|CONJ get|VERB us|PRON out|ADP of|ADP this|DET ?|.
+ I|PRON beg|VERB your|PRON pardon|NOUN ,|. General|NOUN Solo|NOUN ,|. but|CONJ that|DET just|ADV would|VERB n't|ADV be|VERB proper|ADJ .|.
+ Proper|NOUN ?|.
+ It|PRON 's|VERB against|ADP my|PRON programming|NOUN to|PRT impersonate|VERB a|DET deity|NOUN .|.
+ What|QUESTIONTAG did|VERB he|PRON say|VERB ?|.
+ I|PRON 'm|VERB rather|ADV embarrassed|VERB ,|. General|NOUN Solo|NOUN ,|. but|CONJ it|PRON appears|VERB you|PRON are|VERB to|PRT be|VERB the|DET main|ADJ course|NOUN at|ADP a|DET banquet|NOUN in|ADP my|PRON honor|NOUN .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Luke|NOUN ,|. what|PRON 's|VERB wrong|ADJ ?|.
+ What|QUESTIONTAG do|VERB you|PRON remember|VERB ?|.
+ Just|ADV ...|. images|NOUN ,|. really|ADV .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB ?|.
+ I|PRON felt|VERB his|PRON presence|NOUN .|.
+ Why|ADV ?|.
+ Your|PRON father|NOUN ?|.
+ There|DET 's|VERB more|ADJ .|.
+ But|CONJ ,|. why|ADV must|VERB you|PRON confront|VERB him|PRON ?|.
+ Because|ADP ...|. there|DET is|VERB good|ADJ in|ADP him|PRON .|.
+ Hey|NOUN ,|. what|PRON 's|VERB goin|NOUN '|. on|ADP ?|.
+ What|QUESTIONTAG 's|VERB he|PRON saying|VERB ?|.
+ He|PRON says|VERB there|DET 's|VERB a|DET secret|ADJ entrance|NOUN on|ADP the|DET other|ADJ side|NOUN of|ADP the|DET ridge|NOUN .|.
+ We|PRON 're|VERB not|ADV going|VERB to|PRT attack|VERB ?|.
+ I|PRON have|VERB my|PRON orders|NOUN from|ADP the|DET Emperor|NOUN himself|PRON .|.
+ Oh|X ,|. Princess|NOUN Leia|NOUN ,|. are|VERB you|PRON all|DET right|ADV ?|.
+ Let|VERB 's|PRT see|VERB .|.
+ You|PRON love|VERB him|PRON ,|. do|VERB n't|ADV you|PRON ?|.

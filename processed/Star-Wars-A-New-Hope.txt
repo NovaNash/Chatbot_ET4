@@ -1,0 +1,172 @@
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ Wait|ADV a|DET minute|NOUN ,|. where|ADV are|VERB you|PRON going|VERB ?|.
+ Where|QUESTIONTAG are|VERB those|DET transmissions|NOUN you|PRON intercepted|VERB ?|.
+ What|QUESTIONTAG have|VERB you|PRON done|VERB with|ADP those|DET plans|NOUN ?|.
+ We|PRON intercepted|VERB no|DET transmissions|NOUN .|.
+ If|ADP this|DET is|VERB a|DET consular|ADJ ship|NOUN ...|. were|VERB is|VERB the|DET Ambassador|NOUN ?|.
+ Dark|NOUN Lord|NOUN begins|VERB to|PRT squeeze|VERB the|DET officer|NOUN 's|PRT throat|NOUN ,|. creating|VERB a|DET gruesome|ADJ snapping|NOUN and|CONJ choking|NOUN ,|. until|ADP the|DET soldier|NOUN goes|VERB limp|ADV .|.
+ Are|NOUN you|PRON sure|VERB this|DET things|NOUN safe|ADJ ?|.
+ Did|NOUN I|PRON hear|VERB a|DET young|ADJ noise|NOUN blast|NOUN through|ADP here|ADV ?|.
+ It|PRON was|VERB just|ADV wormie|VERB on|ADP another|DET rampage|NOUN .|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ robot|NOUN .|.
+ What|QUESTIONTAG makes|VERB you|PRON think|VERB there|DET are|VERB settlements|NOUN over|ADP there|ADV ?|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ I|PRON made|VERB some|DET friends|NOUN at|ADP the|DET Academy|NOUN .|.
+ I|PRON wish|VERB I|PRON was|VERB going|VERB ...|. Are|VERB you|PRON going|VERB to|PRT be|VERB around|ADP long|ADV ?|.
+ No|DET ,|. I|PRON 'm|VERB leaving|VERB in|ADP the|DET morning|NOUN ...|.
+ Do|VERB you|PRON think|VERB they|PRON 'll|VERB melt|VERB us|PRON down|PRT ?|.
+ Do|VERB you|PRON speak|VERB Bocce|NOUN ?|.
+ Of|ADP course|NOUN I|PRON can|VERB ,|. sir|VERB .|.
+ Yeah|X ?|.
+ This|DET R2|NOUN unit|NOUN has|VERB a|DET bad|ADJ motivator|NOUN .|.
+ (|. to|PRT the|DET head|NOUN Jawa|NOUN )|. Hey|NOUN ,|. what|PRON 're|VERB you|PRON trying|VERB to|PRT push|VERB on|ADP us|PRON ?|.
+ out|ADP of|ADP line|NOUN and|CONJ is|VERB moving|VERB up|ADV and|CONJ down|ADV trying|VERB to|PRT attract|VERB attention|NOUN .|.
+ Yeah|X ?|.
+ What|QUESTIONTAG about|ADP that|DET one|NUM ?|.
+ Is|VERB there|DET anything|NOUN I|PRON might|VERB do|VERB to|PRT help|VERB ?|.
+ and|CONJ a|DET tiny|ADJ smile|ADJ creeps|NOUN across|ADP his|PRON face|NOUN .|.
+ You|PRON know|VERB of|ADP the|DET Rebellion|NOUN against|ADP the|DET Empire|NOUN ?|.
+ That|DET 's|VERB how|ADV we|PRON came|VERB to|PRT be|VERB in|ADP your|PRON service|NOUN ,|. if|ADP you|PRON take|VERB my|PRON meaning|NOUN ,|. sir|NOUN .|.
+ Have|VERB you|PRON been|VERB in|ADP many|ADJ battles|NOUN ?|.
+ Several|ADJ ,|. I|PRON think|VERB .|.
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ to|PRT translate|VERB .|.
+ Is|VERB there|ADV more|ADJ to|PRT this|DET recording|NOUN ?|.
+ squeaks|NOUN and|CONJ a|DET whistle|NOUN .|.
+ I|PRON beg|VERB your|PRON pardon|NOUN ,|. sir|NOUN ,|. but|CONJ do|VERB you|PRON know|VERB what|PRON he|PRON 's|VERB talking|VERB about|ADP ?|.
+ Well|ADV ,|. I|PRON do|VERB n't|ADV know|VERB anyone|NOUN named|VERB Obi-|NOUN Wan|NOUN ,|. but|CONJ old|ADJ Ben|NOUN lives|VERB out|PRT beyond|ADP the|DET dune|ADJ sea|NOUN .|.
+ What|QUESTIONTAG makes|VERB you|PRON think|VERB that|ADP ?|.
+ Well|ADV ,|. I|PRON stumbled|VERB across|ADP a|DET recording|NOUN while|ADP I|PRON was|VERB cleaning|VERB him|PRON .|.
+ But|CONJ what|PRON if|ADP this|DET Obi-Wan|NOUN comes|VERB looking|VERB for|ADP him|PRON ?|.
+ He|PRON wo|VERB n't|ADV ,|. I|PRON do|VERB n't|ADV think|VERB he|PRON exists|VERB any|DET more|ADV .|.
+ He|PRON knew|VERB my|PRON father|NOUN ?|.
+ I|PRON told|VERB you|PRON to|PRT forget|VERB it|PRON .|.
+ You|PRON mean|VERB the|DET next|ADJ semester|NOUN before|ADP harvest|NOUN ?|.
+ Sure|ADV ,|. there|DET 're|VERB more|ADJ than|ADP enough|ADJ droids|NOUN .|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ It|PRON looks|VERB like|ADP I|PRON 'm|VERB going|VERB nowhere|ADV .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB hiding|VERB there|ADV ?|.
+ sight|NOUN .|.
+ Pardon|NOUN me|PRON ,|. sir|NOUN ,|. but|CONJ could|VERB n't|ADV we|PRON go|VERB after|ADP him|PRON ?|.
+ It|PRON 's|VERB too|ADV dangerous|ADJ with|ADP all|DET the|DET Sandpeople|NOUN around|ADP .|.
+ Have|VERB you|PRON seen|VERB Luke|NOUN this|DET morning|NOUN ?|.
+ He|PRON said|VERB he|PRON had|VERB some|DET things|NOUN to|PRT do|VERB before|ADP he|PRON started|VERB today|NOUN ,|. so|ADP he|PRON left|VERB early|ADJ .|.
+ Hey|NOUN ,|. whoa|NOUN ,|. just|ADV where|ADV do|VERB you|PRON think|VERB you|PRON 're|VERB going|VERB ?|.
+ menacingly|ADV behind|ADP the|DET little|ADJ runaway|NOUN .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ with|ADP him|PRON now|ADV ?|.
+ Oh|X my|PRON ...|. sir|NOUN ,|. he|PRON says|VERB there|DET are|VERB several|ADJ creatures|NOUN approaching|VERB from|ADP the|DET southeast|NOUN .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ Rest|NOUN easy|NOUN ,|. son|NOUN ,|. you|PRON 've|VERB had|VERB a|DET busy|ADJ day|NOUN .|.
+ You|PRON fought|VERB in|ADP the|DET Clone|NOUN Wars|NOUN ?|.
+ Yes|X ,|. I|PRON was|VERB once|ADV a|DET Jedi|NOUN Knight|NOUN the|DET same|ADJ as|ADP your|PRON father|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Your|PRON fathers|NOUN lightsaber|VERB .|.
+ How|QUESTIONTAG did|VERB my|PRON father|NOUN die|NOUN ?|.
+ A|DET young|ADJ Jedi|NOUN named|VERB Darth|NOUN Vader|NOUN ,|. who|PRON was|VERB a|DET pupil|NOUN of|ADP mine|NOUN until|ADP he|PRON turned|VERB to|PRT evil|VERB ,|. helped|VERB the|DET Empire|NOUN hunt|NOUN down|ADV and|CONJ destroy|VERB the|DET Jedi|NOUN Knights|NOUN .|.
+ The|DET Force|NOUN ?|.
+ Well|ADV ,|. the|DET Force|NOUN is|VERB what|PRON gives|VERB a|DET Jedi|NOUN his|PRON power|NOUN .|.
+ Why|ADV would|VERB Imperial|NOUN troops|NOUN want|VERB to|PRT slaughter|VERB Jawas|NOUN ?|.
+ inspecting|VERB the|DET dead|ADJ Jawas|NOUN ,|. and|CONJ put|VERB two|NUM and|CONJ two|NUM together|ADV .|.
+ How|QUESTIONTAG long|ADV have|VERB you|PRON had|VERB these|DET droids|NOUN ?|.
+ About|ADP three|NUM or|CONJ four|NUM seasons|NOUN .|.
+ Do|VERB you|PRON really|ADV think|VERB we|PRON 're|VERB going|VERB to|PRT find|VERB a|DET pilot|NOUN here|ADV that|DET 'll|VERB take|VERB us|PRON to|PRT Alderaan|NOUN ?|.
+ Well|ADV ,|. most|ADJ of|ADP the|DET best|ADJ freighter|NOUN pilots|NOUN can|VERB be|VERB found|VERB here|ADV .|.
+ What|QUESTIONTAG ?|.
+ Your|PRON droids|NOUN .|.
+ Should|VERB I|PRON have|VERB ?|.
+ It|PRON 's|VERB the|DET ship|NOUN that|DET made|VERB the|DET Kessel|NOUN run|NOUN in|ADP less|ADJ than|ADP twelve|VERB parsecs|NOUN !|.
+ Going|VERB somewhere|ADV ,|. Solo|NOUN ?|.
+ Yes|X ,|. Greedo|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ I|PRON think|VERB it|PRON is|VERB time|NOUN we|PRON demonstrate|VERB the|DET full|ADJ power|NOUN of|ADP this|DET station|NOUN .|.
+ Which|QUESTIONTAG way|NOUN ?|.
+ bay|NOUN .|.
+ How|QUESTIONTAG long|ADJ before|ADP you|PRON can|VERB make|VERB the|DET jump|NOUN to|PRT light|ADJ speed|NOUN ?|.
+ It|PRON 'll|VERB take|VERB a|DET few|ADJ moments|NOUN to|PRT get|VERB the|DET coordinates|NOUN from|ADP the|DET navi-computer|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET flashing|NOUN ?|.
+ We|PRON 're|VERB losing|VERB our|PRON deflector|NOUN shield|NOUN .|.
+ What|QUESTIONTAG ?|.
+ You|PRON 're|VERB far|ADV too|ADV trusting|VERB .|.
+ You|PRON mean|VERB it|PRON controls|VERB your|PRON actions|NOUN ?|.
+ Partially|ADV .|.
+ You|PRON do|VERB n't|ADV believe|VERB in|ADP the|DET Force|NOUN ,|. do|VERB you|PRON ?|.
+ Kid|NOUN ,|. I|PRON 've|VERB flown|VERB from|ADP one|NUM side|NOUN of|ADP this|DET galaxy|NOUN to|PRT the|DET other|ADJ .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ Our|PRON position|NOUN is|VERB correct|ADJ ,|. except|ADP ...|. no|DET ,|. Alderaan|ADV !|.
+ Why|ADV are|VERB we|PRON still|ADV moving|VERB towards|ADP it|PRON ?|.
+ We|PRON 're|VERB caught|VERB in|ADP a|DET tractor|NOUN beam|NOUN !|.
+ Did|NOUN you|PRON find|VERB any|DET droids|NOUN ?|.
+ No|DET ,|. sir|NOUN .|.
+ Who|QUESTIONTAG 's|VERB the|DET more|ADV foolish|ADJ ...|. the|DET fool|NOUN or|CONJ the|DET fool|NOUN who|PRON follows|VERB him|PRON ?|.
+ Hey|NOUN down|ADV there|ADV ,|. could|VERB you|PRON give|VERB us|PRON a|DET hand|NOUN with|ADP this|DET ?|.
+ is|VERB heard|VERB .|.
+ Where|QUESTIONTAG did|VERB you|PRON dig|VERB up|PRT that|DET old|ADJ fossil|NOUN ?|.
+ Ben|NOUN is|VERB a|DET great|ADJ man|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ I|PRON 'm|VERB afraid|ADJ I|PRON 'm|VERB not|ADV quite|ADV sure|ADJ ,|. sir|NOUN .|.
+ Well|ADV ,|. who|PRON ...|. who|PRON has|VERB he|PRON found|VERB ?|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ The|DET droid|ADJ belongs|NOUN to|PRT her|PRON .|.
+ Rich|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG ?|.
+ Well|ADV more|ADV wealth|NOUN that|ADP you|PRON can|VERB imagine|VERB .|.
+ What|QUESTIONTAG 's|VERB your|PRON plan|NOUN ?|.
+ Uh|NOUN ...|. Threepio|NOUN ,|. hand|NOUN me|PRON those|DET binders|NOUN there|ADV will|VERB you|PRON ?|.
+ Why|ADV did|VERB n't|ADV you|PRON say|VERB so|ADV before|ADV ?|.
+ I|PRON did|VERB say|VERB so|ADV before|ADV !|.
+ Where|QUESTIONTAG are|VERB you|PRON taking|VERB this|DET ...|. thing|NOUN ?|.
+ up|ADV .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ (|. getting|VERB nervous|ADJ )|. Uh|NOUN ...|. had|VERB a|DET slight|ADJ weapons|NOUN malfunction|NOUN .|.
+ (|. finally|ADV )|. Are|VERB n't|ADV you|PRON a|DET little|ADJ short|ADJ to|PRT be|VERB a|DET stormtrooper|NOUN ?|.
+ You|PRON 're|VERB who|PRON ?|.
+ I|PRON 'm|VERB here|ADV to|PRT rescue|VERB you|PRON .|.
+ (|. over|ADP comlink|NOUN )|. Yes|X sir|NOUN ?|.
+ We|PRON 've|VERB been|VERB cut|VERB off|PRT !|.
+ What|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON doing|VERB ?|.
+ Somebody|NOUN has|VERB to|PRT save|VERB our|PRON skins|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Help|NOUN !|.
+ Where|QUESTIONTAG ?|.
+ Anywhere|ADV !|.
+ What|QUESTIONTAG happened|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. it|PRON just|ADV let|VERB go|VERB of|ADP me|PRON and|CONJ disappeared|VERB ...|.
+ Are|NOUN you|PRON there|ADV ,|. sir|NOUN ?|.
+ Hey|NOUN ...|. hey|NOUN ,|. open|VERB the|DET pressure|NOUN maintenance|NOUN hatch|NOUN on|ADP unit|NOUN number|NOUN ...|. where|ADV are|VERB we|PRON ?|.
+ (|. to|PRT Chewie|NOUN )|. Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ tentacle|NOUN works|VERB its|PRON way|NOUN out|ADP of|ADP the|DET doorway|NOUN searching|VERB for|ADP a|DET victim|NOUN .|.
+ Do|VERB you|PRON know|VERB what|PRON 's|VERB going|VERB on|ADP ?|.
+ Maybe|ADV it|PRON 's|VERB another|DET drill|NOUN .|.
+ What|QUESTIONTAG was|VERB that|DET ?|.
+ Oh|X ,|. it|PRON 's|VERB nothing|NOUN .|.
+ See-Threepio|NOUN ,|. do|VERB you|PRON copy|VERB ?|.
+ (|. voice|NOUN )|. For|ADP the|DET moment|NOUN .|.
+ Where|QUESTIONTAG could|VERB they|PRON be|VERB ?|.
+ and|CONJ right|NOUN ,|. beeping|VERB a|DET response|NOUN .|.
+ Did|NOUN n't|ADV we|PRON just|ADV leave|VERB this|DET party|NOUN ?|.
+ What|QUESTIONTAG kept|VERB you|PRON ?|.
+ We|PRON ran|VERB into|ADP some|DET old|ADJ friends|NOUN .|.
+ Is|VERB the|DET ship|NOUN all|DET right|NOUN ?|.
+ Seems|NOUN okay|PRON ,|. if|ADP we|PRON can|VERB get|VERB to|PRT it|PRON .|.
+ Are|VERB they|PRON away|ADV ?|.
+ They|PRON have|VERB just|ADV made|VERB the|DET jump|NOUN into|ADP hyperspace|NOUN .|.
+ Easy|NOUN ...|. you|PRON call|VERB that|ADP easy|NOUN ?|.
+ Their|PRON tracking|VERB us|PRON !|.
+ So|ADV ...|. what|PRON do|VERB you|PRON think|VERB of|ADP her|PRON ,|. Han|NOUN ?|.
+ I|PRON 'm|VERB trying|VERB not|ADV to|PRT ,|. kid|NOUN !|.
+ Pardon|VERB me|PRON for|ADP asking|VERB ,|. sir|NOUN ,|. but|CONJ what|PRON good|ADJ are|VERB snub|ADJ fighters|NOUN going|VERB to|PRT be|VERB against|ADP that|DET ?|.
+ Well|ADV ,|. the|DET Empire|NOUN does|VERB n't|ADV consider|VERB a|DET small|ADJ one-man|ADJ fighter|NOUN to|PRT be|VERB any|DET threat|NOUN ,|. or|CONJ they|PRON 'd|VERB have|VERB a|DET tighter|ADJ defense|NOUN .|.
+ So|ADV ...|. you|PRON got|VERB your|PRON reward|NOUN and|CONJ you|PRON 're|VERB just|ADV leaving|VERB then|ADV ?|.
+ That|DET 's|VERB right|ADJ ,|. yeah|X !|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ Oh|X ,|. it|PRON 's|VERB Han|NOUN !|.
+ You|PRON would|VERB n't|ADV want|VERB my|PRON life|NOUN to|PRT get|VERB boring|ADJ ,|. would|VERB you|PRON ?|.
+ Are|NOUN you|PRON all|DET right|ADV ?|.
+ (|. over|ADP speaker|NOUN )|. Can|VERB you|PRON see|VERB Red|ADJ Five|NUM ?|.
+ (|. over|ADP speaker|NOUN )|. There|DET 's|VERB a|DET heavy|ADJ fire|NOUN zone|NOUN on|ADP this|DET side|NOUN .|.
+ Red|ADJ Five|NUM ,|. can|VERB you|PRON see|VERB them|PRON from|ADP where|ADV you|PRON are|VERB ?|.
+ Luke|NOUN ,|. at|ADP that|DET speed|NOUN will|VERB you|PRON be|VERB able|ADJ to|PRT pull|VERB out|PRT in|ADP time|NOUN ?|.
+ What|QUESTIONTAG about|ADP the|DET tower|NOUN ?|.
+ What|QUESTIONTAG ?|.

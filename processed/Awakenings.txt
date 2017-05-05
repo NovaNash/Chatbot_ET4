@@ -1,0 +1,4 @@
+ Leonard|NOUN ?|.
+ In|ADP a|DET far|ADV corner|NOUN of|ADP the|DET darkened|ADJ ward|NOUN ,|. in|ADP a|DET pool|NOUN of|ADP lamp|NOUN light|NOUN ,|. two|NUM silhouetted|VERB figures|NOUN .|.
+ Sh|NOUN e|NOUN p|NOUN ull|ADJ s|NOUN at|ADP he|PRON r|VERB f|ADJ ade|NOUN d|NOUN s|NOUN hape|NOUN les|VERB s|ADJ d|NOUN res|NOUN s|VERB w|ADJ ith|NOUN gre|NOUN at|ADP dis|ADJ dai|NOUN n.|NOUN ROSE|NOUN Who|QUESTIONTAG put|VERB me|PRON in|ADP this|DET ?|.
+ h|NOUN im|NOUN ,|. we|PRON c|VERB at|ADP c|NOUN h|NOUN a|DET gl|NOUN i|NOUN m|VERB ps|ADJ e|NOUN of|ADP a|DET D|NOUN u|ADJ tc|NOUN h|NOUN wo|VERB m|VERB an|DET i|NOUN n|VERB a|DET wh|NOUN e|NOUN el|VERB c|NOUN h|NOUN ai|ADJ r|NOUN ,|. w|NOUN i|NOUN t|VERB h|DET a|DET nurse|ADJ -|.

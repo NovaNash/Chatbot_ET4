@@ -1,0 +1,192 @@
+ How|QUESTIONTAG ya|ADJ doin|NOUN '|. ,|. Papa|NOUN ,|. you|PRON doin|VERB '|. alright|NOUN ?|.
+ Fine|NOUN ,|. fine|NOUN ...|.
+ Where|QUESTIONTAG are|VERB they|PRON taking|VERB them|PRON ?|.
+ --|. Shveig|NOUN !|.
+ (|. in|ADP Russian|NOUN ;|. subtitles|NOUN )|. Some|DET food|NOUN ...|. ?|.
+ They|PRON are|VERB looking|VERB for|ADP you|PRON people|NOUN .|.
+ And|CONJ no|DET news|NOUN of|ADP my|PRON brothers|NOUN ?|.
+ They|PRON are|VERB used|VERB to|PRT trouble|NOUN ,|. they|PRON 'll|VERB be|VERB all|DET right|NOUN .|.
+ Will|VERB you|PRON at|ADP least|ADJ stay|VERB tonight|ADV ?|.
+ I|PRON need|VERB to|PRT see|VERB to|PRT my|PRON family|NOUN .|.
+ Are|NOUN you|PRON going|VERB back|ADV to|PRT the|DET army|NOUN ?|.
+ There|DET is|VERB no|DET more|ADV army|NOUN .|.
+ Where|QUESTIONTAG is|VERB Sonia|NOUN and|CONJ the|DET baby|NOUN ?|.
+ Horodysze|NOUN .|.
+ You|PRON are|VERB still|ADV separated|VERB ?|.
+ She|PRON is|VERB still|ADV my|PRON wife|NOUN .|.
+ You|PRON have|VERB a|DET plan|NOUN ?|.
+ No|DET .|.
+ You|PRON think|VERB Wilencki|NOUN is|VERB going|VERB to|PRT give|VERB us|PRON food|NOUN ?|.
+ No|DET .|.
+ How|QUESTIONTAG ?|.
+ We|PRON ...|. Take|VERB ...|. It|PRON .|.
+ Where|QUESTIONTAG is|VERB your|PRON gun|NOUN ,|. farmer|NOUN ?|.
+ I|PRON have|VERB no|DET gun|NOUN .|.
+ The|DET police|NOUN captain|NOUN ?|.
+ We|PRON do|VERB n't|ADV know|VERB he|PRON did|VERB it|PRON .|.
+ Your|PRON sister|NOUN is|VERB sick|ADJ ?|.
+ They|PRON kept|VERB her|PRON for|ADP a|DET week|NOUN .|.
+ You|PRON know|VERB the|DET Bielski|NOUN 's|PRT ?|.
+ Sure|ADV .|.
+ You|PRON 'll|VERB keep|VERB your|PRON eyes|NOUN open|ADJ ,|. yes|X ?|.
+ Good|ADJ hunting|NOUN .|.
+ The|DET little|ADJ one|NOUN does|VERB not|ADV talk|VERB ?|.
+ He|PRON saw|VERB .|.
+ You|PRON send|VERB me|PRON ?|.
+ Did|NOUN you|PRON at|ADP least|ADJ get|VERB the|DET gun|NOUN ?|.
+ ...|. what|PRON are|VERB you|PRON talking|VERB about|ADP ?|.
+ You|PRON have|VERB no|DET idea|NOUN what|PRON I|PRON 'm|VERB talking|VERB about|ADP ...|.
+ How|QUESTIONTAG was|VERB it|PRON ?|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG are|VERB we|PRON going|VERB to|PRT do|VERB with|ADP these|DET others|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB --|.
+ And|CONJ how|ADV will|VERB we|PRON feed|VERB this|DET family|NOUN ?|.
+ We|PRON 'll|VERB water|NOUN the|DET soup|NOUN .|.
+ And|CONJ this|DET one|NUM ,|. is|VERB she|PRON family|NOUN ?|.
+ No|DET .|.
+ Does|NOUN anyone|NOUN have|VERB news|NOUN from|ADP Vilna|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON you|PRON do|VERB ,|. then|ADV ?|.
+ I|PRON suppose|VERB ...|. you|PRON 'd|VERB have|VERB to|PRT say|VERB ...|. I|PRON was|VERB ...|. am|VERB ...|. an|DET intellectual|ADJ .|.
+ This|DET is|VERB a|DET job|NOUN ?|.
+ I|PRON published|VERB a|DET small|ADJ magazine|NOUN ...|. actually|ADV a|DET journal|NOUN ...|. well|ADV ,|. more|ADV like|ADP a|DET pamphlet|NOUN .|.
+ Hello|NOUN ,|. boys|VERB ,|. what|PRON can|VERB we|PRON do|VERB for|ADP you|PRON ?|.
+ Food|NOUN .|.
+ You|PRON are|VERB Jews|VERB ?|.
+ Why|ADV not|ADV us|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Here|ADV ?|.
+ And|CONJ also|ADV in|ADP the|DET Lipicanska|NOUN .|.
+ So|ADV this|DET is|VERB God|NOUN 's|PRT work|NOUN you|PRON 're|VERB doing|VERB ,|. Zussie|NOUN ?|.
+ No|DET .|.
+ If|ADP only|ADV ...|. (|. a|DET hard|ADJ look|NOUN )|. Are|VERB you|PRON coming|VERB with|ADP us|PRON or|CONJ not|ADV ?|.
+ Us|NOUN ?|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ You|PRON do|VERB n't|ADV understand|VERB .|.
+ How|QUESTIONTAG 'd|VERB you|PRON get|VERB past|ADP the|DET Lazar|NOUN ?|.
+ Who|QUESTIONTAG ?|.
+ You|PRON know|VERB me|PRON ?|.
+ I|PRON am|VERB Ben|NOUN Zion|NOUN Gulkowitz|NOUN .|.
+ How|QUESTIONTAG ?|.
+ Better|NOUN security|NOUN .|.
+ Are|NOUN you|PRON listening|VERB to|PRT me|PRON ?|.
+ Yes|X .|.
+ What|QUESTIONTAG 's|VERB her|PRON name|NOUN ?|.
+ Chaya|NOUN .|.
+ Whose|ADJ turn|NOUN to|PRT go|VERB ?|.
+ Zus|NOUN .|.
+ You|PRON are|VERB Chaya|NOUN ?|.
+ ...|. Yes|X .|.
+ (|. somewhat|ADV taken|VERB aback|NOUN )|. Yet|ADV ?|.
+ You|PRON are|VERB not|ADV eating|VERB ?|.
+ By|ADP my|PRON best|ADJ calculation|NOUN ,|. today|NOUN is|VERB High|ADJ Holiday|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ The|DET new|ADJ ones|NOUN ,|. they|PRON are|VERB from|ADP Novagroduk|NOUN .|.
+ Can|VERB we|PRON stay|VERB to|PRT watch|VERB ?|.
+ If|ADP we|PRON hide|VERB .|.
+ Is|VERB that|ADP a|DET Nazi|NOUN train|NOUN ?|.
+ If|ADP we|PRON had|VERB some|DET dynamite|NOUN we|PRON could|VERB blow|VERB the|DET shit|NOUN out|ADP of|ADP it|PRON .|.
+ May|NOUN I|PRON join|VERB you|PRON ?|.
+ Of|ADP course|NOUN .|.
+ You|PRON get|VERB lonely|ADV out|ADP here|ADV ?|.
+ I|PRON like|VERB the|DET woods|NOUN .|.
+ Why|ADV is|VERB there|ADV a|DET rule|NOUN against|ADP women|NOUN having|VERB guns|NOUN ?|.
+ There|DET are|VERB n't|ADV enough|ADV for|ADP the|DET men|NOUN .|.
+ What|QUESTIONTAG for|ADP ?|.
+ For|ADP protection|NOUN .|.
+ What|QUESTIONTAG does|VERB that|DET mean|VERB ?|.
+ It|PRON means|VERB --|. we|PRON should|VERB have|VERB killed|VERB the|DET fucking|VERB milkman|NOUN .|.
+ What|QUESTIONTAG brigade|VERB ?|.
+ ...|. But|CONJ --|. ?|.
+ Other|ADJ things|NOUN are|VERB important|ADJ ,|. too|ADV .|.
+ You|PRON will|VERB help|VERB my|PRON parents|NOUN ?|.
+ You|PRON think|VERB Pachenko|NOUN wants|VERB hundreds|NOUN more|ADJ of|ADP us|PRON in|ADP the|DET forest|NOUN ?|.
+ I|PRON can|VERB not|ADV have|VERB you|PRON contradicting|VERB me|PRON ...|. Not|ADV when|ADV others|NOUN are|VERB around|ADV .|.
+ --|. Is|VERB it|PRON love|VERB Zus|NOUN ?|.
+ What|QUESTIONTAG if|ADP we|PRON were|VERB to|PRT take|VERB all|DET of|ADP you|PRON ?|.
+ The|DET old|ADJ ,|. the|DET sick|NOUN ?|.
+ Rabbi|NOUN ?|.
+ We|PRON ...|. are|VERB waiting|VERB for|ADP God|NOUN .|.
+ Can|VERB you|PRON repair|VERB guns|NOUN ?|.
+ Guns|NOUN ?|.
+ Shoes|NOUN ,|. Riva|NOUN ?|.
+ There|DET was|VERB a|DET man|NOUN in|ADP a|DET shop|NOUN on|ADP Grudek|NOUN street|NOUN ...|. and|CONJ the|DET way|NOUN he|PRON caressed|VERB my|PRON feet|NOUN when|ADV I|PRON tried|VERB on|ADP his|PRON shoes|NOUN ...|. Riva|NOUN swoons|NOUN .|.
+ May|NOUN ...|. I|PRON help|VERB you|PRON ?|.
+ Wash|NOUN clothes|NOUN ?|.
+ You|PRON do|VERB ?|.
+ I|PRON do|VERB .|.
+ You|PRON are|VERB related|VERB to|PRT Bielski|NOUN ?|.
+ I|PRON am|VERB a|DET Bielski|NOUN ,|. too|ADV .|.
+ .Asael|NOUN ?|.
+ You|PRON are|VERB such|ADJ an|DET idiot|NOUN .|.
+ He|PRON is|VERB a|DET Big|NOUN Shit|NOUN also|ADV ?|.
+ A|DET soldier|NOUN .|.
+ Lilka|NOUN ?|.
+ Sorry|NOUN ,|. Tuvia|NOUN .|.
+ You|PRON too|ADV ?|.
+ (|. a|DET small|ADJ nod|NOUN )|. Here|ADV ...|.
+ No|DET sign|NOUN of|ADP the|DET food|NOUN mission|NOUN ?|.
+ Not|ADV yet|ADV .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ with|ADP them|PRON all|DET ?|.
+ If|ADP it|PRON 's|VERB typhus|NOUN we|PRON 're|VERB in|ADP trouble|NOUN .|.
+ Are|NOUN you|PRON all|DET right|ADV ?|.
+ Fine|NOUN .|.
+ There|DET would|VERB be|VERB medicine|VERB in|ADP the|DET police|NOUN headquarters|NOUN at|ADP Stankiewcze|NOUN ,|. yes|ADV ?|.
+ What|QUESTIONTAG about|ADP the|DET others|NOUN ?|.
+ The|DET others|NOUN ?|.
+ Fighters|NOUN die|VERB so|ADV that|ADP malbushim|NOUN may|VERB live|VERB ,|. that|DET 's|VERB what|PRON you|PRON believe|VERB ,|. yes|X ?|.
+ Whassa|NOUN problem|NOUN ,|. Arkady|NOUN ?|.
+ Those|DET who|PRON risk|VERB their|PRON lives|NOUN to|PRT bring|VERB back|PRT food|NOUN deserve|NOUN a|DET larger|ADJ portion|NOUN than|ADP those|DET who|PRON risk|VERB nothing|NOUN .|.
+ --|. What|QUESTIONTAG ?|.
+ How|QUESTIONTAG long|ADJ was|VERB I|PRON asleep|ADV ?|.
+ Two|NUM days|NOUN .|.
+ And|CONJ you|PRON 've|VERB nursed|VERB me|PRON the|DET whole|ADJ time|NOUN ?|.
+ Chaya|NOUN helped|VERB .|.
+ Did|NOUN you|PRON study|VERB nursing|VERB at|ADP university|NOUN ?|.
+ We|PRON devoted|VERB ourselves|PRON to|PRT more|ADV essential|ADJ knowledge|NOUN --|. like|ADP Greek|NOUN Philosophy|NOUN and|CONJ Latin|NOUN .|.
+ You|PRON know|VERB Chopin|NOUN ?|.
+ Who|QUESTIONTAG does|VERB n't|ADV ?|.
+ What|QUESTIONTAG is|VERB this|DET ?|.
+ New|NOUN policy|NOUN .|.
+ ..Who|NOUN is|VERB the|DET father|NOUN ?|.
+ I|PRON --|. -|. It|PRON was|VERB when|ADV I|PRON was|VERB escaping|VERB .|.
+ You|PRON call|VERB that|ADP a|DET move|NOUN ?|.
+ I|PRON call|VERB it|PRON an|DET inevitable|ADJ conclusion|NOUN based|VERB on|ADP unimpeachable|ADJ reasoning|NOUN .|.
+ Who|QUESTIONTAG would|VERB make|VERB a|DET move|NOUN like|ADP that|DET ?|.
+ A|DET genius|NOUN maybe|ADV .|.
+ Do|VERB you|PRON hear|VERB that|ADP ?|.
+ We|PRON HEAR|VERB the|DET SOUND|NOUN for|ADP what|PRON it|PRON is|VERB ...|.
+ Yes|X ?|.
+ We|PRON 've|VERB caught|VERB one|NUM .|.
+ Do|VERB n't|ADV they|PRON have|VERB a|DET war|NOUN to|PRT fight|VERB ?|.
+ (|. still|ADV reading|VERB )|. Assault|NOUN begins|VERB in|ADP two|NUM days|NOUN .|.
+ (|. to|PRT Asael|NOUN )|. Did|NOUN you|PRON reach|VERB Viktor|NOUN ?|.
+ He|PRON 's|VERB on|ADP his|PRON way|NOUN .|.
+ And|CONJ if|ADP I|PRON refuse|VERB ?|.
+ You|PRON are|VERB officially|ADV a|DET deserter|NOUN .|.
+ You|PRON 're|VERB deliberately|ADV sacrificing|VERB them|PRON so|ADP we|PRON can|VERB remain|VERB safe|ADJ ?|.
+ No|DET .|.
+ (|. looking|VERB at|ADP the|DET plane|NOUN )|. Did|VERB it|PRON see|VERB us|PRON ?|.
+ ...|. How|QUESTIONTAG should|VERB I|PRON know|VERB ?|.
+ Moses|NOUN .|.
+ (|. to|PRT Tuvia|NOUN )|. Do|VERB we|PRON wait|VERB ...|. a|DET while|NOUN ?|.
+ We|PRON could|VERB hide|VERB ...|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ with|ADP him|PRON ?|.
+ (|. fighting|VERB for|ADP breath|NOUN )|. ...|. He|PRON ...|.
+ In|ADP there|DET ?|.
+ It|PRON is|VERB impossible|ADJ !|.
+ But|CONJ how|ADV ?|.
+ (|. leans|NOUN closer|ADV )|. What|QUESTIONTAG is|VERB it|PRON ?|.
+ You|PRON should|VERB n't|ADV think|VERB so|ADV much|ADJ .|.
+ (|. stunned|VERB ;|. looks|VERB around|ADP )|. This|DET world|NOUN ?|.
+ Even|ADV this|DET one|NOUN .|.
+ What|QUESTIONTAG about|ADP the|DET dead|ADJ ?|.
+ Everybody|NOUN gather|VERB your|PRON things|NOUN !|.
+ Where|QUESTIONTAG is|VERB the|DET rest|NOUN of|ADP your|PRON unit|NOUN ?|.
+ Good|ADJ question|NOUN .|.
+ You|PRON are|VERB going|VERB back|ADV ?|.
+ No|DET .|.
+ Perhaps|ADV you|PRON have|VERB room|NOUN for|ADP one|NUM more|ADJ ?|.
+ Do|VERB n't|ADV you|PRON hear|VERB it|PRON ?|.
+ What|QUESTIONTAG ...|. ?|.
+ What|QUESTIONTAG else|VERB can|VERB I|PRON give|VERB you|PRON ,|. do|VERB for|ADP you|PRON ?|.
+ Nothing|NOUN ,|. it|PRON is|VERB n't|ADV necessary|ADJ .|.

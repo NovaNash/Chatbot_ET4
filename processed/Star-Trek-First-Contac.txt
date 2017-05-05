@@ -1,0 +1,182 @@
+ What|QUESTIONTAG ?|.
+ (|. incredulous|ADJ )|. Some|DET sort|NOUN of|ADP suicide|NOUN tactic|NOUN ?|.
+ Unknown|NOUN ,|. sir|NOUN .|.
+ Where|QUESTIONTAG 's|VERB the|DET Sphere|NOUN ?|.
+ They|PRON have|VERB traveled|VERB into|ADP the|DET vortex|NOUN ...|. through|ADP time|NOUN .|.
+ Life|NOUN signs|NOUN ?|.
+ Population|NOUN ...|. thirty-five|ADJ billion|NUM ...|. (|. reacts|NOUN )|. All|DET Borg|NOUN .|.
+ But|CONJ how|ADV ?|.
+ They|PRON must|VERB 've|VERB done|VERB it|PRON in|ADP the|DET past|NOUN ...|. they|PRON went|VERB back|ADV and|CONJ changed|VERB history|NOUN ...|.
+ But|CONJ if|ADP they|PRON changed|VERB history|NOUN ...|. then|ADV why|ADV are|VERB we|PRON still|ADV here|ADV ?|.
+ We|PRON were|VERB caught|VERB in|ADP the|DET temporal|ADJ wake|NOUN from|ADP the|DET vortex|NOUN .|.
+ Captain|NOUN ...|. ?|.
+ We|PRON have|VERB to|PRT follow|VERB them|PRON back|PRT ...|. repair|NOUN whatever|DET damage|NOUN they|PRON 've|VERB done|VERB to|PRT that|DET time-line|NOUN .|.
+ What|QUESTIONTAG year|NOUN is|VERB it|PRON ?|.
+ (|. working|VERB )|. According|VERB to|PRT our|PRON astrometric|ADJ readings|NOUN ...|. the|DET year|NOUN is|VERB 2063|NUM .|.
+ (|. urgent|NOUN )|. Mister|NOUN Worf|NOUN ?|.
+ Life|NOUN signs|NOUN ?|.
+ Ca|NOUN n't|ADV tell|VERB .|.
+ Captain|NOUN ?|.
+ In|ADP twenty-four|ADJ hours|NOUN ,|. Zephram|NOUN Cochrane|NOUN is|VERB supposed|VERB to|PRT conduct|VERB the|DET very|ADV first|ADJ warp|ADJ test|NOUN ...|. from|ADP a|DET missile|NOUN silo|NOUN in|ADP Montana|NOUN .|.
+ Will|VERB somebody|VERB please|VERB tell|VERB me|PRON where|ADV we|PRON 're|VERB going|VERB ?|.
+ (|. continuing|VERB )|. --|. going|VERB to|PRT Montana|NOUN ?|.
+ scanning|VERB the|DET landscape|NOUN .|.
+ Cochrane|NOUN ...|. the|DET inventor|NOUN of|ADP warp|ADJ drive|NOUN ?|.
+ Yes|X ...|.
+ But|CONJ he|PRON 's|VERB been|VERB dead|ADJ for|ADP three|NUM hundred|NOUN ...|. (|. realizes|VERB ,|. long|ADV sigh|ADJ )|. Oh|NOUN God|NOUN ...|. we|PRON 've|VERB gone|VERB back|ADV in|ADP time|NOUN again|ADV ,|. have|VERB n't|ADV we|PRON ?|.
+ I|PRON 'm|VERB afraid|ADJ so|ADV .|.
+ Well|ADV ,|. why|ADV did|VERB n't|ADV you|PRON just|ADV say|VERB so|ADV in|ADP the|DET first|ADJ place|NOUN ?|.
+ Did|NOUN you|PRON know|VERB her|PRON ?|.
+ Not|ADV very|ADV well|ADV .|.
+ Data|NOUN ...|. are|VERB you|PRON sure|ADJ you|PRON 're|VERB all|DET right|NOUN ?|.
+ I|PRON am|VERB still|ADV having|VERB difficulty|NOUN integrating|VERB certain|ADJ emotions|NOUN into|ADP my|PRON programming|NOUN .|.
+ (|. shocked|VERB )|. Diathermic|NOUN oxygen|NOUN ?|.
+ It|PRON is|VERB a|DET new|ADJ subsystem|NOUN of|ADP Nova|NOUN Class|NOUN ships|NOUN .|.
+ Ensign|NOUN Porter|NOUN ?|.
+ SKITTERING|NOUN SCRAPE|NOUN can|VERB be|VERB heard|VERB --|. like|ADP tiny|ADJ claws|NOUN on|ADP a|DET metal|ADJ surface|NOUN .|.
+ Ensign|NOUN ...|. are|VERB you|PRON all|DET right|ADV ?|.
+ room|NOUN ...|. turns|VERB the|DET corner|NOUN to|PRT where|ADV Porter|NOUN was|VERB working|VERB .|.
+ How|QUESTIONTAG serious|ADJ is|VERB the|DET damage|NOUN ?|.
+ (|. off|ADP tricorder|NOUN )|. I|PRON 'm|VERB having|VERB trouble|NOUN scanning|VERB underground|NOUN .|.
+ Are|NOUN you|PRON saying|VERB they|PRON wo|VERB n't|ADV help|VERB us|PRON ?|.
+ I|PRON 'm|VERB saying|VERB they|PRON might|VERB shoot|VERB us|PRON on|ADP sight|NOUN .|.
+ Are|VERB we|PRON in|ADP any|DET danger|NOUN of|ADP being|VERB detected|VERB by|ADP Earth|NOUN defense|NOUN systems|NOUN ?|.
+ There|DET were|VERB no|DET planetary|ADJ defense|NOUN systems|NOUN in|ADP this|DET era|NOUN .|.
+ What|QUESTIONTAG ?|.
+ We|PRON 're|VERB venting|VERB our|PRON internal|ADJ atmosphere|NOUN directly|ADV into|ADP space|NOUN !|.
+ What|QUESTIONTAG the|DET hell|NOUN is|VERB happening|VERB ,|. Worf|NOUN ?|.
+ (|. off|ADP console|NOUN )|. It|PRON appears|VERB that|ADP someone|NOUN has|VERB taken|VERB over|PRT the|DET Environmental|NOUN Control|NOUN Room|NOUN .|.
+ Someone|NOUN ...|. ?|.
+ (|. realizing|VERB )|. The|DET Borg|NOUN .|.
+ How|QUESTIONTAG long|ADV has|VERB he|PRON been|VERB unconscious|ADJ ?|.
+ At|ADP least|ADJ four|NUM hours|NOUN .|.
+ (|. re|NOUN :|. tricorder|NOUN )|. What|QUESTIONTAG is|VERB that|DET ?|.
+ It|PRON 's|VERB a|DET ...|. new|ADJ medical|ADJ scanner|NOUN .|.
+ Is|VERB it|PRON Japanese|ADJ ?|.
+ Um|NOUN ...|. yeah|NOUN .|.
+ Juice|NOUN ?|.
+ Power|NOUN .|.
+ Do|VERB n't|ADV you|PRON have|VERB any|DET generators|NOUN ,|. or|CONJ other|ADJ fuel|NOUN sources|NOUN ?|.
+ (|. to|PRT Doctor|NOUN )|. Where|QUESTIONTAG 's|VERB the|DET battery|NOUN room|NOUN for|ADP the|DET hospital|NOUN ?|.
+ I|PRON told|VERB you|PRON ,|. there|DET 's|VERB no|DET --|.
+ Where|QUESTIONTAG ?|.
+ Outside|ADJ ,|. around|ADP back|ADV .|.
+ What|QUESTIONTAG did|VERB you|PRON do|VERB to|PRT the|DET batteries|NOUN ?|.
+ Oh|X ...|. just|ADV a|DET little|ADJ tinkering|NOUN .|.
+ What|QUESTIONTAG happened|VERB to|PRT him|PRON ?|.
+ Where|QUESTIONTAG in|ADP the|DET States|NOUN ?|.
+ Oh|X ...|. here|ADV and|CONJ there|ADV .|.
+ Where|QUESTIONTAG are|VERB you|PRON from|ADP most|ADJ recently|ADV ?|.
+ (|. thinking|VERB fast|ADV )|. California|NOUN .|.
+ And|CONJ what|PRON were|VERB you|PRON doing|VERB out|PRT at|ADP the|DET missile|NOUN silo|NOUN ?|.
+ I|PRON 'm|VERB an|DET old|ADJ friend|NOUN of|ADP Cochrane|NOUN 's|PRT ...|.
+ Something|VERB wrong|ADJ with|ADP that|DET ?|.
+ Not|ADV yet|ADV .|.
+ What|QUESTIONTAG the|DET hell|NOUN is|VERB going|VERB on|ADP ?|.
+ Borg|NOUN ...|.
+ Any|DET sign|NOUN of|ADP Data|NOUN ,|. or|CONJ the|DET Borg|NOUN themselves|PRON ?|.
+ Hawk|NOUN ,|. who|PRON is|VERB now|ADV the|DET last|ADJ man|NOUN in|ADP the|DET formation|NOUN ,|. covering|VERB the|DET rear|NOUN .|.
+ Stand|NOUN by|ADP ,|. Commander|NOUN (|. to|PRT team|NOUN )|. Where|QUESTIONTAG 's|PRT Ensign|NOUN Hawk|NOUN ?|.
+ Everyone|NOUN is|VERB alert|ADJ ,|. keyed|VERB up|PRT .|.
+ What|QUESTIONTAG the|DET hell|NOUN happened|VERB down|ADV there|ADV ,|. Worf|NOUN ?|.
+ Commander|NOUN ...|. we|PRON have|VERB a|DET problem|NOUN .|.
+ Can|VERB you|PRON reconstruct|VERB the|DET throttle|NOUN valve|NOUN ?|.
+ Yeah|X ...|. if|ADP I|PRON knew|VERB what|PRON it|PRON looked|VERB like|ADP .|.
+ Could|NOUN you|PRON reconstruct|VERB the|DET throttle|NOUN from|ADP a|DET photograph|NOUN like|ADP this|DET ...|. if|ADP that|DET man|NOUN was|VERB n't|ADV blocking|VERB the|DET view|NOUN ?|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ I|PRON am|VERB the|DET Borg|NOUN .|.
+ You|PRON are|VERB the|DET guiding|VERB intelligence|NOUN behind|ADP the|DET Borg|NOUN ...|. ?|.
+ Intelligence|NOUN ...|. ambition|NOUN ...|. desire|NOUN ...|.
+ How|QUESTIONTAG do|VERB you|PRON define|VERB perfection|NOUN ?|.
+ herself|NOUN .|.
+ Have|VERB you|PRON ever|ADV wondered|VERB what|PRON it|PRON 's|VERB like|ADP to|PRT have|VERB flesh|VERB ?|.
+ It|PRON is|VERB impossible|ADJ to|PRT imagine|VERB sensations|NOUN for|ADP which|DET I|PRON have|VERB no|DET frame|NOUN of|ADP reference|NOUN .|.
+ Do|VERB we|PRON have|VERB any|DET idea|NOUN how|ADV many|ADJ Borg|NOUN we|PRON 're|VERB dealing|VERB with|ADP ?|.
+ We|PRON saw|VERB at|ADP least|ADJ thirty|NOUN ...|. and|CONJ there|DET are|VERB twenty-two|ADJ Enterprise|NOUN crewmembers|NOUN reported|VERB missing|VERB ...|. including|VERB Commander|NOUN Data|NOUN .|.
+ Even|ADV Data|NOUN ?|.
+ Data|NOUN 's|PRT positronic|ADJ net|NOUN contains|NOUN classified|VERB information|NOUN on|ADP the|DET Enterprise|NOUN .|.
+ (|. re|NOUN :|. X-ray|NOUN )|. Cochrane|NOUN ?|.
+ Yes|X ...|. and|CONJ I|PRON only|ADV had|VERB enough|ADJ silver|NOUN halide|NOUN for|ADP one|NUM shot|NOUN .|.
+ Did|NOUN you|PRON take|VERB any|DET other|ADJ pictures|NOUN of|ADP the|DET rocket|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ (|. casual|ADJ )|. You|PRON 're|VERB lying|VERB .|.
+ What|QUESTIONTAG makes|VERB you|PRON say|VERB that|ADP ?|.
+ You|PRON 're|VERB not|ADV someone|NOUN who|PRON lies|VERB very|ADV easily|ADV ...|. so|ADP it|PRON 's|VERB obvious|ADJ when|ADV you|PRON do|VERB ...|. at|ADP least|ADJ to|PRT me|PRON .|.
+ Are|NOUN you|PRON always|ADV sucha|VERB good|ADJ judge|NOUN of|ADP character|NOUN ?|.
+ Were|ADV the|DET two|NUM of|ADP you|PRON ...|. involved|VERB ?|.
+ No|DET ...|. not|ADV like|ADP you|PRON and|CONJ Doctor|NOUN Crusher|NOUN used|VERB to|PRT be|VERB .|.
+ (|. surprised|VERB )|. How|QUESTIONTAG did|VERB you|PRON know|VERB about|ADP that|DET ?|.
+ Are|NOUN you|PRON sure|VERB you|PRON do|VERB n't|ADV want|VERB something|NOUN a|DET little|ADV more|ADV ...|. sophisticated|ADJ ,|. sir|VERB ?|.
+ Mind|NOUN your|PRON post|NOUN ,|. Lieutenant|NOUN .|.
+ Where|QUESTIONTAG the|DET hell|NOUN are|VERB they|PRON going|VERB ?|.
+ (|. re|NOUN :|. flesh|NOUN )|. Do|VERB you|PRON know|VERB what|PRON this|DET is|VERB ,|. Data|NOUN ?|.
+ It|PRON would|VERB appear|VERB that|ADP you|PRON are|VERB attempting|VERB to|PRT graft|VERB organic|ADJ skin|NOUN onto|ADP my|PRON endo-skeletal|ADJ structure|NOUN .|.
+ Was|NOUN that|DET good|ADJ for|ADP you|PRON ?|.
+ it|PRON was|VERB pleasurable|ADJ .|.
+ We|PRON ?|.
+ Myself|PRON ...|. and|CONJ a|DET few|ADJ other|ADJ friends|NOUN of|ADP Zephram|NOUN 's|PRT .|.
+ Or|CONJ ...|. ?|.
+ throw|VERB her|PRON off|NOUN with|ADP a|DET high-tech|ADJ explanation|NOUN .|.
+ What|QUESTIONTAG are|VERB they|PRON doing|VERB ?|.
+ They|PRON appear|VERB to|PRT be|VERB modifying|VERB the|DET deflector|NOUN dish|NOUN .|.
+ Deflector|NOUN dish|NOUN ...|. why|ADV the|DET deflector|NOUN dish|NOUN ...|. ?|.
+ It|PRON does|VERB n't|ADV make|VERB sense|NOUN .|.
+ They|PRON may|VERB be|VERB trying|VERB to|PRT send|VERB a|DET message|NOUN to|PRT the|DET other|ADJ Borg|NOUN ...|. the|DET Borg|NOUN in|ADP this|DET time|NOUN period|NOUN ...|. WORF|NOUN What|QUESTIONTAG kind|NOUN of|ADP message|NOUN ?|.
+ (|. thinking|VERB )|. If|ADP it|PRON was|VERB me|PRON ...|.
+ Can|VERB we|PRON aim|VERB our|PRON dorsal|NOUN phasers|NOUN at|ADP it|PRON ?|.
+ (|. to|PRT Worf|NOUN )|. What|QUESTIONTAG are|VERB you|PRON suggesting|VERB ?|.
+ I|PRON think|VERB Mister|NOUN Worf|NOUN is|VERB suggesting|VERB that|ADP we|PRON go|VERB outside|ADJ for|ADP a|DET little|ADJ stroll|NOUN ...|.
+ Where|QUESTIONTAG 's|PRT you|PRON get|VERB the|DET alloy|NOUN for|ADP the|DET throttle|NOUN itself|PRON ?|.
+ They|PRON used|VERB copper|NOUN pipes|NOUN in|ADP their|PRON plumbing|NOUN ...|. so|ADV I|PRON melted|VERB it|PRON down|PRT ...|. and|CONJ fused|VERB it|PRON with|ADP some|DET tritanium|NOUN from|ADP one|NUM of|ADP our|PRON phaser|NOUN casings|NOUN .|.
+ Mister|NOUN Lange|NOUN --|. have|VERB you|PRON brought|VERB the|DET computer|NOUN systems|NOUN back|ADV on-line|ADJ yet|ADV ?|.
+ Aye|NOUN ,|. Captain|NOUN .|.
+ Since|ADP time|NOUN is|VERB short|ADJ ...|. why|ADV do|VERB n't|ADV you|PRON pick|VERB the|DET top|ADJ ten|NOUN and|CONJ fire|VERB away|ADV ?|.
+ (|. surprised|VERB )|. You|PRON actually|ADV performed|VERB surgery|NOUN ...|. ?|.
+ It|PRON was|VERB an|DET experience|NOUN .|.
+ How|QUESTIONTAG did|VERB Doctor|NOUN Almack|NOUN react|NOUN to|PRT that|DET ?|.
+ He|PRON was|VERB so|ADV confused|ADJ by|ADP what|PRON I|PRON was|VERB doing|VERB ,|. I|PRON do|VERB n't|ADV think|VERB he|PRON even|ADV noticed|VERB .|.
+ You|PRON think|VERB they|PRON 're|VERB still|ADV up|ADP there|ADV ?|.
+ (|. wry|NOUN )|. If|ADP they|PRON 're|VERB not|ADV ...|. we|PRON 'd|VERB better|VERB get|VERB used|VERB to|PRT living|VERB in|ADP Montana|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET supposed|VERB to|PRT mean|VERB ?|.
+ attitude|NOUN ,|. she|PRON 's|VERB simply|ADV making|VERB an|DET observation|NOUN about|ADP someone|NOUN she|PRON cares|VERB about|ADP .|.
+ How|QUESTIONTAG do|VERB you|PRON feel|VERB ?|.
+ Ready|ADJ ?|.
+ activates|VERB the|DET control|NOUN .|.
+ (|. to|PRT Riker|NOUN )|. Are|VERB you|PRON alright|ADP ?|.
+ Just|ADV a|DET little|ADJ queasy|NOUN ...|.
+ Ready|ADJ to|PRT make|VERB a|DET little|ADJ history|NOUN ?|.
+ Always|NOUN am|VERB .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB me|PRON to|PRT do|VERB ,|. sir|VERB ?|.
+ We|PRON ca|VERB n't|ADV let|VERB her|PRON in|ADP ...|. she|PRON 'll|VERB see|VERB Cochrane|NOUN is|VERB n't|ADV making|VERB the|DET flight|NOUN .|.
+ How|QUESTIONTAG long|ADV until|ADP they|PRON can|VERB send|VERB a|DET message|NOUN ?|.
+ About|ADV seven|NUM or|CONJ eight|NUM minutes|NOUN .|.
+ (|. re|NOUN :|. blast|NOUN doors|NOUN )|. What|QUESTIONTAG about|ADP these|DET doors|NOUN ?|.
+ They|PRON 're|VERB locked|VERB down|PRT tight|NOUN from|ADP the|DET inside|NOUN .|.
+ Geordi|NOUN ,|. can|VERB you|PRON see|VERB into|ADP the|DET room|NOUN ?|.
+ electronic|ADJ PUPILS|NOUN in|ADP his|PRON eyes|NOUN rotate|NOUN ,|. change|NOUN shape|NOUN and|CONJ color|NOUN .|.
+ What|QUESTIONTAG 's|VERB still|ADV there|ADV ?|.
+ Get|VERB a|DET tricorder|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ The|DET invasion|NOUN plans|NOUN .|.
+ A|DET universe|NOUN of|ADP sensation|NOUN is|VERB waiting|VERB for|ADP you|PRON ...|. do|VERB n't|ADV you|PRON want|VERB to|PRT explore|VERB it|PRON ...|. with|ADP me|PRON ?|.
+ to|PRT this|DET strange|ADJ creature|NOUN and|CONJ all|DET that|ADP she|PRON can|VERB offer|VERB him|PRON .|.
+ Is|VERB n't|ADV it|PRON better|ADV like|ADP this|DET ...|. ?|.
+ Yes|X ...|. but|CONJ the|DET Enterprise|NOUN ...|. my|PRON duty|NOUN ...|.
+ Is|VERB n't|ADV anyone|NOUN going|VERB to|PRT say|VERB welcome|VERB back|ADV ?|.
+ Did|VERB it|PRON work|VERB ?|.
+ relieved|VERB .|.
+ My|PRON God|NOUN ...|. they|PRON 're|VERB really|ADV from|ADP another|DET world|NOUN ?|.
+ That|DET 's|VERB right|ADJ .|.
+ You|PRON 're|VERB leaving|VERB ,|. are|VERB n't|ADV you|PRON ?|.
+ I|PRON have|VERB to|PRT ...|.
+ Why|ADV ?|.
+ This|DET may|VERB be|VERB hard|ADJ for|ADP you|PRON to|PRT understand|VERB ...|. but|CONJ I|PRON 'm|VERB duty-bound|ADJ not|ADV to|PRT interfere|VERB with|ADP you|PRON ,|. or|CONJ anyone|NOUN else|ADV here|ADV ...|. any|DET more|ADJ than|ADP is|VERB absolutely|ADV necessary|ADJ .|.
+ Say|NOUN again|ADV ,|. Captain|NOUN ?|.
+ starts|NOUN running|VERB to|PRT him|PRON .|.
+ How|QUESTIONTAG 's|PRT Mister|NOUN Data|NOUN ?|.
+ Return|NOUN to|PRT our|PRON own|ADJ time|NOUN ?|.
+ Yes|X ,|. sir|NOUN .|.
+ Admiral|ADJ ...|. what|PRON 's|VERB the|DET status|NOUN of|ADP the|DET Borg|NOUN fleet|NOUN ?|.
+ It|PRON 's|VERB been|VERB destroyed|VERB .|.
+ Her|PRON remains|NOUN ...|. are|VERB they|PRON still|ADV here|ADV ?|.
+ about|ADV to|PRT close|VERB a|DET storage|NOUN container|NOUN .|.

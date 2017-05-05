@@ -1,0 +1,67 @@
+ Are|NOUN my|PRON ships|NOUN from|ADP Sicily|NOUN still|ADV afloat|VERB ...|. ?|.
+ HERMAS|NOUN No|NOUN ,|. no|DET ...|. offer|VERB the|DET grain|NOUN first|ADV ...|. sprinkle|VERB it|PRON on|ADP the|DET altar|NOUN ...|. Lucinnius|NOUN obeys|NOUN .|.
+ Will|VERB he|PRON help|VERB you|PRON ?|.
+ I|PRON have|VERB to|PRT kill|VERB myself|PRON by|ADP tomorrow|NOUN morning|NOUN .|.
+ So|ADV I|PRON 'm|VERB a|DET conspirator|NOUN ?|.
+ Yes|X .|.
+ HECTOR|NOUN Can|VERB I|PRON sit|VERB down|PRT ?|.
+ Of|ADP course|NOUN .|.
+ Do|VERB you|PRON believe|VERB everything|NOUN that|ADP Greek|NOUN tells|VERB you|PRON ...|. ?|.
+ GALLUS|NOUN Rome|NOUN must|VERB be|VERB right|ADV in|ADP the|DET middle|NOUN ...|. here|ADV ...|. and|CONJ we|PRON must|VERB be|VERB out|PRT here|ADV somewhere|ADV ...|. Hector|NOUN becomes|VERB more|ADV interested|ADJ .|.
+ HECTOR|NOUN So|NOUN ,|. where|ADV is|VERB my|PRON home|NOUN ?|.
+ How|QUESTIONTAG many|ADJ months|NOUN did|VERB they|PRON march|VERB you|PRON here|ADV ?|.
+ Where|QUESTIONTAG is|VERB the|DET Captain|NOUN ?|.
+ So|ADV ,|. the|DET mad|ADJ knights|NOUN are|VERB at|ADP it|PRON again|ADV ...|. what|PRON were|VERB they|PRON ,|. Swiss|NOUN or|CONJ English|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ How|QUESTIONTAG long|ADJ for|ADP you|PRON on|ADP the|DET road|NOUN ?|.
+ Three|NUM or|CONJ four|NUM days|NOUN .|.
+ So|ADV ,|. you|PRON 're|VERB leaving|VERB ?|.
+ You|PRON have|VERB work|VERB to|PRT do|VERB here|ADV .|.
+ Well|ADV ...|. would|VERB you|PRON take|VERB my|PRON cloth|NOUN ,|. at|ADP least|ADJ ?|.
+ Keep|VERB it|PRON and|CONJ build|VERB your|PRON own|ADJ hovel|NOUN somewhere|ADV else|ADV ...|. leave|VERB us|PRON alone|ADV ...|. !|.
+ Do|VERB you|PRON think|VERB so|ADV ?|.
+ Of|ADP course|NOUN ...|. we|PRON ca|VERB n't|ADV allow|VERB ourselves|NOUN to|PRT fall|VERB into|ADP terror|NOUN and|CONJ violence|NOUN ...|.
+ DOM|NOUN PAULO|NOUN So|NOUN I|PRON was|VERB right|ADV the|DET first|ADJ time|NOUN ?|.
+ FRANCISCO|NOUN No|NOUN ,|. sir|NOUN ...|. there|DET must|VERB be|VERB proper|ADJ justice|NOUN ...|. DOM|NOUN PAULO|NOUN What|QUESTIONTAG 's|VERB proper|ADJ justice|NOUN ?|.
+ NUNO|NOUN Hector|NOUN ,|. will|VERB you|PRON help|VERB me|PRON ?|.
+ raft|NOUN on|ADP the|DET shoreline|NOUN .|.
+ HECTOR|NOUN Have|VERB you|PRON any|DET eggs|NOUN left|VERB ?|.
+ The|DET slaves|NOUN only|ADV got|VERB three|NUM .|.
+ Much|ADV too|ADV rich|ADJ for|ADP her|PRON ...|. do|VERB you|PRON want|VERB to|PRT kill|VERB her|PRON ?|.
+ Surely|ADV ...|. some|DET fruit|NOUN could|VERB n't|ADV ...|. (|. CONTINUED|NOUN )|.
+ And|CONJ afterwards|NOUN ...|. what|PRON will|VERB you|PRON do|VERB then|ADV ?|.
+ Follow|NOUN you|PRON and|CONJ the|DET others|NOUN .|.
+ What|QUESTIONTAG about|ADP them|PRON ?|.
+ Can|VERB I|PRON have|VERB them|PRON ?|.
+ How|QUESTIONTAG long|ADV ?|.
+ They|PRON 've|VERB been|VERB gone|VERB a|DET week|NOUN ,|. at|ADP least|ADJ .|.
+ Did|NOUN you|PRON see|VERB him|PRON ?|.
+ Sure|ADJ I|PRON saw|VERB him|PRON .|.
+ What|QUESTIONTAG about|ADP bears|NOUN ,|. without|ADP a|DET fire|NOUN ?|.
+ HECTOR|NOUN Tobacco|NOUN ?|.
+ BOBBY|NOUN Where|QUESTIONTAG the|DET hell|NOUN is|VERB it|PRON coming|VERB from|ADP ?|.
+ BOBBY|NOUN Daniel|NOUN Boone|NOUN ?|.
+ HECTOR|NOUN Yeah|NOUN .|.
+ So|ADV ...|. where|ADV do|VERB you|PRON want|VERB to|PRT start|VERB ?|.
+ Hector|NOUN reads|VERB the|DET silence|NOUN well|ADV .|.
+ Think|VERB you|PRON 'll|VERB go|VERB to|PRT jail|VERB again|ADV ?|.
+ Look|NOUN here|ADV for|ADP a|DET second|ADJ ,|. will|VERB you|PRON ,|. Mr.|NOUN Troup|NOUN ?|.
+ DETECTIVE|NOUN You|PRON bring|VERB everything|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ You|PRON 're|VERB going|VERB to|PRT have|VERB to|PRT check|VERB out|PRT *|ADP the|DET whole|ADJ building|NOUN ...|. you|PRON know|VERB that|ADP ,|. do|VERB n't|ADV you|PRON ?|.
+ Can|VERB I|PRON do|VERB it|PRON Monday|NOUN ?|.
+ HECTOR|NOUN Oh|NOUN no|DET ...|. Jesus|NOUN save|VERB me|PRON ...|. what|PRON have|VERB I|PRON done|VERB ...|. BETSY|NOUN What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ number|NOUN ,|. then|ADV he|PRON stops|VERB .|.
+ HECTOR|NOUN You|PRON do|VERB n't|ADV eat|VERB eggs|NOUN ?|.
+ How|QUESTIONTAG many|ADJ have|VERB you|PRON got|VERB in|ADP there|ADV ?|.
+ HECTOR|NOUN It|PRON comes|VERB up|PRT every|DET year|NOUN ?|.
+ The|DET last|ADJ two|NUM .|.
+ How|QUESTIONTAG do|VERB we|PRON land|VERB these|DET things|NOUN ?|.
+ THOMAS|NOUN Where|QUESTIONTAG have|VERB you|PRON been|VERB ?|.
+ What|QUESTIONTAG he|PRON means|VERB is|VERB why|ADV did|VERB you|PRON stay|VERB away|ADV ?|.
+ What|QUESTIONTAG for|ADP ?|.
+ We|PRON were|VERB doing|VERB government|NOUN work|NOUN ,|. big|ADJ contracts|NOUN ...|. there|DET were|VERB some|DET temptations|NOUN ...|. my|PRON boss|NOUN asked|VERB me|PRON to|PRT shuffle|VERB a|DET few|ADJ papers|NOUN ...|. there|DET was|VERB a|DET lot|NOUN of|ADP money|NOUN in|ADP it|PRON ...|.
+ You|PRON did|VERB ?|.
+ HECTOR|NOUN Well|NOUN I|PRON appreciate|VERB that|ADP ...|. but|CONJ I|PRON 'm|VERB glad|ADJ your|PRON mother|NOUN did|VERB n't|ADV let|VERB you|PRON .|.
+ HECTOR|NOUN This|DET is|VERB at|ADP school|NOUN ?|.
+ Yeah|X .|.

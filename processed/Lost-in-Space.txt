@@ -1,0 +1,35 @@
+ they|PRON come|VERB from|ADP ?|.
+ thrusters|NOUN ?|.
+ if|ADP ample|ADJ food|NOUN and|CONJ clean|ADJ drinking|NOUN water|NOUN were|VERB the|DET birthright|NOUN of|ADP all|DET our|PRON planet|NOUN 's|PRT children|NOUN ?|.
+ there|ADV no|DET way|NOUN his|PRON father|NOUN could|VERB have|VERB attended|VERB the|DET science|NOUN fair|NOUN ?|.
+ hyperengine|NOUN to|PRT zap|VERB straight|ADV to|PRT Alpha|NOUN Prime|NOUN ?|.
+ What|QUESTIONTAG will|VERB I|PRON wear|VERB ?|.
+ Mission|NOUN ,|. Major|NOUN ?|.
+ flu|NOUN ,|. does|VERB he|PRON sir|VERB ?|.
+ spacecraft|NOUN ,|. disobeyed|VERB a|DET direct|ADJ order|NOUN because|ADP of|ADP a|DET friend|NOUN ?|.
+ such|ADJ a|DET bad|ADJ nursery|NOUN ,|. would|VERB n't|ADV you|PRON agree|VERB ,|. Major|NOUN ?|.
+ platform|NOUN stands|VERB a|DET DOCTOR|NOUN in|ADP a|DET lab|NOUN coat|NOUN .|.
+ dimensions|NOUN perhaps|ADV over|ADP dinner|NOUN ?|.
+ of|ADP a|DET war|NOUN hero|NOUN ,|. are|VERB n't|ADV you|PRON ?|.
+ in|ADP these|DET tubes|NOUN for|ADP two|NUM ?|.
+ there|ADV be|VERB more|ADJ girls|NOUN ?|.
+ On|ADP its|PRON hull|NOUN ,|. under|ADP the|DET legend|NOUN PROTEUS|NOUN ,|. an|DET American|ADJ flag|NOUN .|.
+ what|DET are|VERB those|DET scales|NOUN on|ADP her|PRON hull|NOUN ?|.
+ secondary|ADJ docking|VERB ring|NOUN ?|.
+ they|PRON launch|VERB a|DET rescue|NOUN mission|NOUN for|ADP us|PRON when|ADV we|PRON 've|VERB only|ADV been|VERB lost|VERB a|DET day|NOUN ?|.
+ suppose|ADV happened|VERB to|PRT its|PRON parents|NOUN ?|.
+ tyranny|NOUN of|ADP the|DET sentimental|NOUN ?|.
+ cowboy|NOUN or|CONJ ballerina|NOUN on|ADP Halloween|NOUN ?|.
+ are|VERB n't|ADV we|PRON little|VERB one|NUM ?|.
+ wind|NOUN blow|VERB us|PRON home|NOUN ,|. Is|VERB that|ADP it|PRON Major|NOUN ?|.
+ pleasantries|NOUN ,|. get|VERB down|ADV to|PRT business|NOUN ?|.
+ out|ADP here|ADV into|ADP space|NOUN ?|.
+ does|VERB n't|ADV leave|VERB much|ADJ time|NOUN for|ADP the|DET people|NOUN you|PRON love|VERB ,|. does|VERB it|PRON ?|.
+ late|ADV night|NOUN tutorial|NOUN ,|. Professor|NOUN ?|.
+ up|ADV overnight|ADV ?|.
+ occasion|NOUN ,|. would|VERB n't|ADV you|PRON agree|VERB ,|. Doc|NOUN ?|.
+ are|VERB n't|ADV you|PRON aging|VERB like|ADP the|DET plants|NOUN ?|.
+ Where|QUESTIONTAG the|DET hell|NOUN are|VERB we|PRON ?|.
+ ...|. Where|QUESTIONTAG 's|PRT my|PRON family|NOUN ?|.
+ the|DET girls|NOUN die|NOUN ?|.
+ for|ADP one|NUM person|NOUN ,|. one|NUM trip|NOUN ,|. remember|VERB ?|.

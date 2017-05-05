@@ -1,0 +1,77 @@
+ What|QUESTIONTAG is|VERB this|DET chicken-scratch|NOUN ?|.
+ So|ADV why|ADV here|ADV ?|.
+ Is|VERB that|ADP a|DET body|NOUN --|. ?|.
+ What|QUESTIONTAG the|DET fuck|NOUN --|. ?|.
+ Guys|NOUN ?|.
+ What|QUESTIONTAG 's|VERB he|PRON been|VERB doing|VERB ?|.
+ (|. nervously|ADV )|. Do|VERB you|PRON think|VERB we|PRON 've|VERB got|VERB enough|ADJ security|NOUN ?|.
+ Why|ADV have|VERB you|PRON woken|VERB me|PRON ?|.
+ What|QUESTIONTAG makes|VERB you|PRON think|VERB I|PRON wanted|VERB to|PRT be|VERB brought|VERB back|PRT ?|.
+ Dr.|NOUN Vance|NOUN --|. you|PRON 're|VERB a|DET psychiatrist|NOUN and|CONJ a|DET biochemist|NOUN ,|. is|VERB n't|ADV that|ADV right|ADV ?|.
+ So|ADP we|PRON pass|VERB the|DET buck|NOUN to|PRT someone|NOUN else|ADV ?|.
+ And|CONJ vampires|NOUN ?|.
+ What|QUESTIONTAG the|DET fuck|NOUN happened|VERB tonight|NOUN ?|.
+ Like|ADP I|PRON care|VERB ?|.
+ How|QUESTIONTAG about|ADP that|DET one|NUM ?|.
+ What|QUESTIONTAG about|ADP that|DET shrunken|ADJ apple-head|ADJ beeyatch-a-saurus|NOUN over|ADP there|ADV ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP in|ADP there|DET ?|.
+ (|. flipping|VERB them|PRON off|PRT )|. How|QUESTIONTAG 'bout|ADP this|DET one|NUM ?|.
+ Who|QUESTIONTAG --|. ?|.
+ (|. sighing|VERB )|. Alright|NOUN then|ADV ,|. let|VERB 's|PRT talk|VERB about|ADP vampires|NOUN --|. what|PRON can|VERB you|PRON tell|VERB me|PRON about|ADP that|DET ?|.
+ And|CONJ are|VERB you|PRON one|NUM of|ADP them|PRON ?|.
+ What|QUESTIONTAG 's|VERB your|PRON assessment|NOUN ,|. Doctor|NOUN ?|.
+ Why|ADV 'd|VERB the|DET Polish|ADJ vampire|NOUN starve|NOUN to|PRT death|NOUN ?|.
+ Hey|NOUN Blacula|NOUN ,|. you|PRON ready|VERB to|PRT shake|VERB and|CONJ bake|VERB ?|.
+ (|. nudging|VERB Abigail|NOUN )|. Is|VERB he|PRON epic|VERB or|CONJ what|PRON ?|.
+ Who|QUESTIONTAG are|VERB you|PRON people|NOUN ?|.
+ Juicyfruit|NOUN ?|.
+ (|. looking|VERB around|ADV )|. How|QUESTIONTAG do|VERB you|PRON bankroll|VERB this|DET place|NOUN ?|.
+ How|QUESTIONTAG many|ADJ of|ADP you|PRON are|VERB there|DET total|ADJ ?|.
+ And|CONJ what|PRON makes|VERB you|PRON think|VERB you|PRON know|VERB so|ADV much|ADJ about|ADP killing|VERB vampires|NOUN ?|.
+ You|PRON through|ADP remodeling|VERB ?|.
+ Has|VERB he|PRON been|VERB told|VERB yet|ADV ?|.
+ About|ADP your|PRON failure|NOUN ?|.
+ Why|ADV ?|.
+ (|. incredulous|ADJ )|. So|ADP the|DET movies|NOUN are|VERB true|ADJ ?|.
+ How|QUESTIONTAG early|ADJ ?|.
+ In|ADP the|DET window|NOUN --|. you|PRON sell|VERB vampire|VERB merchandise|NOUN ?|.
+ Was|NOUN there|DET something|NOUN special|ADJ you|PRON needed|VERB ?|.
+ Why|ADV wake|VERB up|PRT Drake|NOUN now|ADV ?|.
+ Like|ADP what|PRON ?|.
+ So|ADP what|PRON 's|VERB been|VERB holding|VERB you|PRON back|ADV ?|.
+ Is|VERB it|PRON ?|.
+ Explosive|ADJ rounds|NOUN ?|.
+ How|QUESTIONTAG ?|.
+ Who|QUESTIONTAG 's|VERB your|PRON handler|NOUN ?|.
+ What|QUESTIONTAG --|. ?|.
+ Why|ADV did|VERB you|PRON kill|VERB Vance|NOUN ?|.
+ How|QUESTIONTAG can|VERB you|PRON exist|VERB in|ADP the|DET daylight|NOUN ?|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ Hey|NOUN ,|. hey|NOUN --|. what|PRON 'd|VERB the|DET one|NUM lesbian|ADJ vampire|NOUN say|VERB to|PRT the|DET other|ADJ ?|.
+ Why|ADV do|VERB you|PRON wear|VERB that|DET --|. symbol|NOUN ?|.
+ Why|ADV ?|.
+ Why|ADV do|VERB you|PRON do|VERB that|DET ?|.
+ Why|ADV ca|VERB n't|ADV you|PRON just|ADV be|VERB nice|ADJ ?|.
+ Doing|VERB a|DET little|ADJ moonlighting|NOUN ,|. Chief|NOUN ?|.
+ What|QUESTIONTAG 's|VERB back|ADV there|ADV ?|.
+ What|QUESTIONTAG 's|VERB behind|ADJ Door|NOUN Number|NOUN One|NUM ?|.
+ What|QUESTIONTAG was|VERB this|DET place|NOUN ?|.
+ (|. sickened|VERB )|. But|CONJ where|ADV did|VERB you|PRON get|VERB all|DET these|DET people|NOUN ?|.
+ (|. realizing|VERB )|. Zoe|NOUN --|. where|ADV 's|PRT Zoe|NOUN ?|.
+ Where|QUESTIONTAG is|VERB she|PRON ?|.
+ You|PRON made|VERB a|DET goddamn|NOUN vampire|NOUN dog|NOUN ?|.
+ How|QUESTIONTAG about|ADP you|PRON take|VERB a|DET sugar-frosted|ADJ fuck|NOUN off|ADP the|DET end|NOUN of|ADP my|PRON dick|NOUN ?|.
+ You|PRON do|VERB n't|ADV want|VERB to|PRT go|VERB back|ADV to|PRT being|VERB one|NUM of|ADP us|PRON --|. (|. her|PRON lips|NOUN grazing|VERB his|PRON )|. --|. do|VERB you|PRON ?|.
+ You|PRON alright|VERB ?|.
+ Where|QUESTIONTAG are|VERB you|PRON taking|VERB us|PRON ?|.
+ Do|VERB you|PRON know|VERB who|PRON I|PRON am|VERB ?|.
+ Excuse|ADP me|PRON ?|.
+ (|. smiling|VERB ,|. playing|VERB along|ADV )|. Okay|NOUN ,|. King|NOUN ,|. where|ADV did|VERB they|PRON put|VERB this|DET tracking|VERB node|NOUN of|ADP yours|NOUN ?|.
+ (|. coughing|VERB )|. And|CONJ what|PRON happens|VERB then|ADV ,|. lover|ADV ?|.
+ You|PRON alright|VERB ?|.
+ Are|NOUN you|PRON ready|ADJ to|PRT die|VERB ,|. Blade|NOUN ?|.
+ I|PRON was|VERB that|ADP bad|ADJ ,|. huh|NOUN ?|.
+ King|NOUN ,|. what|PRON the|DET hell|NOUN are|VERB you|PRON doing|VERB here|ADV ?|.
+ What|QUESTIONTAG do|VERB you|PRON get|VERB when|ADV you|PRON cross|VERB a|DET vampire|NOUN with|ADP a|DET werewolf|NOUN ?|.
+ Do|VERB n't|ADV you|PRON know|VERB fur|. is|VERB murder|NOUN ?|.

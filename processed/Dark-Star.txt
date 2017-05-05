@@ -1,0 +1,92 @@
+ (|. over|ADP --|. radio|ADJ filter|NOUN )|. Ah|NOUN ,|. what|PRON 'd|ADP you|PRON say|VERB ,|. Pinback|NOUN ?|.
+ (|. over|ADP --|. great|ADJ static|ADJ )|. Mafhkin|NOUN oble|ADJ groop|NOUN ...|.
+ (|. over|ADP --|. filter|NOUN )|. Ah|NOUN ,|. what|PRON was|VERB that|DET again|ADV ,|. I|PRON still|ADV ca|VERB n't|ADV hear|VERB you|PRON ?|.
+ (|. over|ADP --|. filter|NOUN )|. I|PRON said|VERB I|PRON 'm|VERB trying|VERB to|PRT reach|VERB Talby|NOUN .|.
+ (|. cont|ADJ 'd|NUM --|. over|ADP --|. filter|NOUN )|. Talby|NOUN ,|. do|VERB you|PRON read|VERB me|PRON ?|.
+ and|CONJ clear|ADJ :|.
+ Boiler|NOUN ,|. can|VERB you|PRON set|VERB me|PRON up|PRT with|ADP some|DET temp|NOUN figures|NOUN ?|.
+ Ninety|NOUN seven|NUM million|NUM ,|. minus|CONJ eight|NUM ,|. corrected|VERB to|PRT mass|VERB critical|ADJ .|.
+ (|. not|ADV looking|VERB up|PRT )|. Which|QUESTIONTAG one|NUM ?|.
+ Another|DET unknown|ADJ .|.
+ Any|DET planets|NOUN ?|.
+ Yeah|X .|.
+ Any|DET of|ADP 'em|PRON any|DET good|ADJ ?|.
+ (|. scans|VERB the|DET board|NOUN )|. Naah|NOUN .|.
+ (|. cont|VERB 'd|VERB )|. What|QUESTIONTAG are|VERB you|PRON gon|ADJ na|PRT name|VERB it|PRON ?|.
+ (|. not|ADV looking|VERB up|PRT )|. What|QUESTIONTAG ?|.
+ Wha|NOUN ?|.
+ I|PRON hereby|VERB name|ADV this|DET star|NOUN Fred|NOUN .|.
+ You|PRON know|VERB what|PRON I|PRON think|VERB about|ADP ,|. Talby|NOUN ?|.
+ I|PRON 'm|VERB getting|VERB something|NOUN here|ADV ,|. on|ADP this|DET readout|NOUN ...|.
+ What|QUESTIONTAG flickering|VERB light|NOUN ?|.
+ The|DET one|NUM on|ADP unit|NOUN ...|. oh|X ,|. I|PRON think|VERB it|PRON 's|VERB GMR|NOUN twelve|NOUN zero|NOUN zero|NOUN .|.
+ Remember|NOUN when|ADV the|DET artificial|ADJ gravity|NOUN ,|. went|VERB out|PRT in|ADP the|DET toilet|NOUN ?|.
+ oven|ADV .|.
+ Hey|NOUN ,|. Doolittle|NOUN ,|. think|VERB we|PRON 'll|VERB ever|ADV find|VERB real|ADJ intelligent|ADJ life|NOUN out|ADP there|ADV ?|.
+ Out|ADP where|ADV ?|.
+ Who|QUESTIONTAG cares|VERB ?|.
+ (|. over|ADP --|. filter|NOUN )|. Yes|X ,|. Talby|NOUN ,|. what|PRON is|VERB it|PRON ?|.
+ Sorry|NOUN to|PRT interrupt|VERB your|PRON lunch|NOUN ,|. sir|NOUN ,|. but|CONJ I|PRON 'm|VERB in|ADP the|DET Computer|NOUN Room|NOUN ,|. and|CONJ I|PRON think|VERB I|PRON 've|VERB located|VERB the|DET malfunction|NOUN .|.
+ Why|ADV does|VERB n't|ADV Talby|VERB ever|ADV eat|VERB down|PRT here|ADV with|ADP the|DET rest|NOUN of|ADP us|PRON ?|.
+ He|PRON just|ADV likes|VERB it|PRON up|PRT in|ADP the|DET dome|NOUN ,|. that|DET 's|VERB all|DET .|.
+ What|QUESTIONTAG 's|VERB Talby|NOUN 's|PRT first|ADJ name|NOUN ?|.
+ What|QUESTIONTAG 's|VERB my|PRON first|ADJ name|NOUN ?|.
+ One|NUM hundred|VERB twenty|NOUN seconds|NOUN to|PRT drop|VERB ,|. bomb|NOUN ,|. have|VERB you|PRON checked|VERB your|PRON platinum|NOUN euridium|NOUN energy|NOUN shielding|NOUN ?|.
+ Do|VERB you|PRON remember|VERB the|DET detonation|NOUN time|NOUN ?|.
+ What|QUESTIONTAG 's|VERB that|DET ,|. sir|VERB ?|.
+ Tell|VERB me|PRON ,|. Doolittle|NOUN ,|. how|ADV are|VERB the|DET Dodgers|NOUN doing|VERB ?|.
+ What|QUESTIONTAG was|VERB that|DET ,|. Doolittle|NOUN ?|.
+ Negative|ADJ effect|NOUN .|.
+ It|PRON did|VERB n't|ADV work|VERB ?|.
+ That|DET 's|VERB correct|ADJ ,|. sir|ADJ .|.
+ Doolittle|NOUN ,|. hello|NOUN ?|.
+ Sorry|NOUN ,|. sir|NOUN ,|. you|PRON faded|VERB out|PRT there|ADV for|ADP a|DET minute|NOUN .|.
+ What|QUESTIONTAG were|VERB you|PRON saying|VERB ,|. Commander|NOUN ,|. about|ADP the|DET bomb|NOUN ?|.
+ Ah|NOUN ...|. it|PRON seems|VERB to|PRT me|PRON ,|. Doolittle|NOUN ...|.
+ You|PRON wo|VERB n't|ADV consider|VERB another|DET course|NOUN of|ADP action|NOUN ,|. for|ADP instance|NOUN just|ADV waiting|VERB around|ADV awhile|ADV so|ADP we|PRON can|VERB disarm|VERB you|PRON ?|.
+ Sir|NOUN ?|.
+ Talk|NOUN to|PRT the|DET bomb|NOUN .|.
+ Sir|NOUN ?|.
+ Phenomenology|NOUN ...|.
+ Hello|NOUN ,|. bomb|NOUN ,|. are|VERB you|PRON with|ADP me|PRON ?|.
+ Of|ADP course|NOUN .|.
+ Are|NOUN you|PRON willing|ADJ to|PRT entertain|VERB a|DET few|ADJ concepts|NOUN ?|.
+ I|PRON am|VERB always|ADV receptive|VERB to|PRT suggestions|NOUN .|.
+ What|QUESTIONTAG 's|VERB he|PRON doin|VERB '|. ?|.
+ I|PRON think|VERB he|PRON 's|VERB talking|VERB to|PRT it|PRON .|.
+ But|CONJ how|ADV do|VERB you|PRON know|VERB you|PRON exist|VERB ?|.
+ It|PRON is|VERB intuitively|ADV obvious|ADJ .|.
+ All|DET right|NOUN now|ADV ,|. here|ADV 's|VERB the|DET big|ADJ question|NOUN :|. how|ADV do|VERB you|PRON know|VERB that|ADP the|DET evidence|NOUN your|PRON sensory|ADJ apparatus|NOUN reveals|NOUN to|PRT you|PRON is|VERB correct|ADJ ?|.
+ Why|ADV do|VERB n't|ADV you|PRON have|VERB more|ADJ time|NOUN ?|.
+ Because|ADP I|PRON must|VERB detonate|VERB in|ADP seventy-|ADJ five|NUM seconds|NOUN .|.
+ Key|NOUN ?|.
+ Where|QUESTIONTAG 's|VERB the|DET fail-safe|ADJ key|NOUN ?|.
+ And|CONJ you|PRON can|VERB only|ADV do|VERB it|PRON once|ADV ,|. right|ADV ?|.
+ That|DET is|VERB correct|ADJ .|.
+ And|CONJ you|PRON would|VERB n't|ADV want|VERB to|PRT explode|VERB on|ADP the|DET basis|NOUN of|ADP false|ADJ data|NOUN ,|. would|VERB you|PRON ?|.
+ Of|ADP course|NOUN not|ADV .|.
+ Where|QUESTIONTAG is|VERB the|DET key|NOUN ?|.
+ We|PRON 're|VERB gon|VERB na|PRT die|VERB ,|. Boiler|NOUN .|.
+ Doolittle|NOUN ,|. are|VERB you|PRON there|ADV ?|.
+ Hello|NOUN ,|. Pinback|NOUN ,|. are|VERB you|PRON there|ADV ?|.
+ Talby|NOUN ,|. Talby|NOUN ,|. can|VERB you|PRON read|VERB me|PRON ?|.
+ Talby|NOUN ,|. can|VERB you|PRON read|VERB me|PRON ?|.
+ Huh|NOUN ?|.
+ Therefore|ADV ,|. I|PRON shall|VERB ignore|VERB you|PRON .|.
+ (|. over|ADP )|. Bomb|NOUN ?|.
+ What|QUESTIONTAG the|DET hell|NOUN ?|.
+ Yoo|NOUN hoo|NOUN ,|. bomb|NOUN ...|.
+ Doolittle|NOUN ,|. Doolittle|NOUN ,|. where|ADV are|VERB you|PRON ?|.
+ Here|ADV I|PRON am|VERB .|.
+ What|QUESTIONTAG happened|VERB ,|. Doolittle|NOUN ?|.
+ Bomb|NOUN must|VERB have|VERB gone|VERB off|PRT inside|ADP the|DET ship|NOUN .|.
+ (|. weakly|NOUN )|. Men|NOUN ...|. men|NOUN ...|. what|PRON happened|VERB ,|. men|NOUN ?|.
+ Yeah|X ,|. the|DET skipper|NOUN always|ADV was|VERB lucky|ADJ .|.
+ Oh|X yeah|NOUN ?|.
+ Doolittle|NOUN ...|.
+ Phoenix|NOUN ?|.
+ into|ADP a|DET group|NOUN of|ADP beautifully|ADV colored|VERB frost-like|ADJ shapes|NOUN .|.
+ No|DET kidding|NOUN ?|.
+ I|PRON 'm|VERB going|VERB into|ADP them|PRON ,|. I|PRON 'm|VERB going|VERB to|PRT hit|VERB them|PRON .|.
+ Yeah|X ?|.
+ Before|ADP we|PRON get|VERB too|ADV far|ADV away|ADV ,|. and|CONJ our|PRON signals|NOUN start|VERB to|PRT fade|VERB ,|. I|PRON just|ADV wanted|VERB to|PRT tell|VERB you|PRON ...|. you|PRON were|VERB my|PRON favorite|ADJ .|.

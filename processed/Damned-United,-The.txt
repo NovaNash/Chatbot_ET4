@@ -1,0 +1,152 @@
+ Any|DET chance|NOUN of|ADP a|DET cup|NOUN of|ADP tea|NOUN ,|. duck|NOUN ?|.
+ They|PRON 're|VERB waiting|VERB for|ADP you|PRON .|.
+ Who|QUESTIONTAG 's|VERB desk|NOUN is|VERB that|ADP ,|. love|VERB ?|.
+ Yours|NOUN ,|. Mr.|NOUN Clough|NOUN .|.
+ Were|ADV you|PRON his|PRON secretary|NOUN ?|.
+ I|PRON was|VERB .|.
+ What|QUESTIONTAG 's|VERB your|PRON name|NOUN ,|. pet|NOUN ?|.
+ Jean|NOUN ,|. Sir|NOUN .|.
+ Why|ADV did|VERB you|PRON do|VERB it|PRON ?|.
+ Do|VERB what|PRON ?|.
+ (|. already|ADV knowing|VERB it|PRON 'll|VERB be|VERB SAM|NOUN LONGSON|NOUN )|. What|QUESTIONTAG do|VERB you|PRON say|VERB to|PRT that|DET ,|. Mr.|NOUN Chairman|NOUN ?|.
+ Who|QUESTIONTAG ?|.
+ Don|NOUN Revie|NOUN .|.
+ What|QUESTIONTAG are|VERB they|PRON doing|VERB ?|.
+ They|PRON 've|VERB run|VERB out|ADP of|ADP petrol|NOUN .|.
+ Like|ADP to|PRT see|VERB Don|NOUN fucking|VERB Revie|NOUN do|VERB that|ADP ,|. eh|VERB ?|.
+ GORDON|NOUN quickly|ADV divides|VERB the|DET players|NOUN into|ADP two|NUM teams|NOUN ,|. blows|VERB the|DET whistle..|NOUN (|. CO|NOUN NTINU|NOUN ED|NOUN )|.
+ What|QUESTIONTAG about|ADP the|DET petrol|NOUN ?|.
+ In|ADP the|DET boot|NOUN of|ADP the|DET car|NOUN .|.
+ Everything|VERB all|DET right|NOUN ?|.
+ (|. sunny|NOUN ,|. waving|VERB with|ADP the|DET axe|NOUN )|. Fine|NOUN thank|NOUN you|PRON ,|. Mr.|NOUN Cussins|NOUN .|.
+ Not|ADV now|ADV ,|. love|VERB -|. please|NOUN ?|.
+ You|PRON sure|ADV ?|.
+ Never|ADV been|VERB more|ADJ sure|ADJ of|ADP anything|NOUN in|ADP my|PRON life|NOUN .|.
+ Well|ADV ,|. what|PRON did|VERB you|PRON fucking|VERB call|VERB me|PRON for|ADP then|ADV ?|.
+ Because|ADP when|ADV I|PRON asked|VERB Bill|NOUN Nick|NOUN how|ADV done|VERB the|DET deal|NOUN was|VERB -|. he|PRON said|VERB ninety-|ADJ nine|NUM per|ADP cent|NOUN .|.
+ Where|QUESTIONTAG would|VERB we|PRON play|VERB him|PRON ?|.
+ In|ADP the|DET middle|NOUN of|ADP the|DET park|NOUN .|.
+ Fucking|VERB tie|NOUN shop|NOUN ?|.
+ Who|QUESTIONTAG the|DET bloody|NOUN hell|NOUN are|VERB you|PRON ?|.
+ My|PRON name|NOUN 's|PRT Brian|NOUN Clough|NOUN ,|. and|CONJ I|PRON once|ADV had|VERB the|DET pleasure|NOUN of|ADP playing|VERB for|ADP England|NOUN against|ADP you|PRON in|ADP an|DET Under-23|ADJ match|NOUN .|.
+ (|. almost|ADV passing|VERB out|PRT )|. Where|QUESTIONTAG did|VERB they|PRON come|VERB from|ADP ?|.
+ My|PRON old|ADJ stomping|ADJ grounds|NOUN .|.
+ Will|VERB you|PRON be|VERB supporting|VERB Leeds|NOUN today|NOUN ,|. Don|NOUN ?|.
+ You|PRON 'd|VERB expect|VERB nothing|NOUN less|ADJ having|VERB been|VERB their|PRON manager|NOUN for|ADP 13|NUM years|NOUN .|.
+ Well|ADV he|PRON 's|VERB not|ADV fucking|VERB here|ADV now|ADV ,|. is|VERB he|PRON ?|.
+ No|DET ,|. he|PRON 's|VERB not|ADV .|.
+ It|PRON 's|VERB not|ADV a|DET cup|NOUN game|NOUN ,|. is|VERB it|PRON ?|.
+ You|PRON know|VERB what|PRON your|PRON job|NOUN is|VERB today|NOUN ?|.
+ Yes|X ,|. Boss|NOUN .|.
+ Clear|ADJ about|ADP what|PRON you|PRON 're|VERB doing|VERB today|NOUN ?|.
+ Be|NOUN big|ADJ .|.
+ Understand|VERB what|PRON I|PRON want|VERB from|ADP you|PRON today|NOUN ,|. son|NOUN ?|.
+ (|. smiles|NOUN )|. I|PRON should|VERB ,|. Mr.|NOUN Clough|NOUN .|.
+ You|PRON do|VERB want|VERB me|PRON to|PRT get|VERB the|DET sack|NOUN ?|.
+ No|DET ,|. Boss|NOUN .|.
+ Then|ADV why|ADV the|DET fuck|NOUN did|VERB you|PRON give|VERB it|PRON to|PRT their|PRON most|ADV dangerous|ADJ player|NOUN ,|. Johnny|NOUN fucking|VERB Giles|NOUN ?|.
+ I|PRON did|VERB n't|ADV see|VERB him|PRON .|.
+ You|PRON want|VERB me|PRON to|PRT get|VERB the|DET sack|NOUN ,|. Mr|NOUN O'Hare|NOUN ?|.
+ No|DET ,|. Boss|NOUN .|.
+ You|PRON do|VERB want|VERB me|PRON to|PRT get|VERB the|DET sack|NOUN ,|. Mr.|NOUN Todd|NOUN ?|.
+ No|DET .|.
+ No|DET what|PRON ?|.
+ No|DET ,|. Boss|NOUN .|.
+ You|PRON all|DET right|ADV ?|.
+ Yeah|NOUN ...|. .fine|NOUN .|.
+ (|. to|PRT TAYLOR|NOUN )|. Where|QUESTIONTAG 's|VERB he|PRON gone|VERB now|ADV ?|.
+ And..|NOUN ?|.
+ 2-1|ADJ !|. !|.
+ Who|QUESTIONTAG scored|VERB ?|.
+ O'Hare|NOUN .|.
+ TAYLOR|NOUN (|. cont|ADJ 'd|VERB )|. What|QUESTIONTAG made|VERB you|PRON go|VERB for|ADP the|DET Brandy|NOUN ?|.
+ They|PRON were|VERB just|ADV nervous|ADJ .|.
+ Why|ADV do|VERB n't|ADV you|PRON want|VERB me|PRON to|PRT ask|VERB why|ADV you|PRON do|VERB n't|ADV like|VERB him|PRON ?|.
+ Because|ADP I|PRON ca|VERB n't|ADV tell|VERB you|PRON .|.
+ Are|NOUN you|PRON going|VERB to|PRT stop|VERB it|PRON ?|.
+ No|DET ,|. I|PRON want|VERB to|PRT fight|VERB him|PRON !|.
+ Hello|NOUN ?|.
+ God|NOUN ...|. what|PRON time|NOUN is|VERB it|PRON ?|.
+ Suspended|VERB for|ADP eleven|ADJ bloody|ADJ games|NOUN !|.
+ Why|ADV would|VERB I|PRON do|VERB that|DET ?|.
+ Exorcise|VERB the|DET bloody|ADJ place|NOUN .|.
+ Who|QUESTIONTAG 's|VERB Duncan|NOUN Mackenzie|NOUN ?|.
+ Is|VERB that|ADP Duncan|NOUN Mackenzie|NOUN ?|.
+ Yes|X .|.
+ Do|VERB you|PRON know|VERB how|ADV many|ADJ goals|NOUN I|PRON scored|VERB before|ADP I|PRON got|VERB injured|VERB ?|.
+ I|PRON 'm|VERB sorry|ADJ ,|. Mr.|NOUN Clough|NOUN .|.
+ Do|VERB you|PRON know|VERB how|ADV many|ADJ games|NOUN it|PRON took|VERB me|PRON ?|.
+ I|PRON 'm|VERB sorry|ADJ ,|. Mr.|NOUN Clough|NOUN ,|. I|PRON do|VERB n't|ADV .|.
+ Three|NUM hundred|NUM ?|.
+ Is|VERB that|ADP a|DET record|NOUN ,|. Mr.|NOUN Clough|NOUN ?|.
+ (|. rolling|VERB eyes|NOUN )|. `Course|VERB it|PRON 's|VERB a|DET bloody|NOUN record|NOUN .|.
+ And|CONJ Duncan..|NOUN ?|.
+ Yes|X ,|. Mr.|NOUN Clough|NOUN ?|.
+ Hello|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ They|PRON wo|VERB n't|ADV play|VERB for|ADP me|PRON .|.
+ Get|VERB me|PRON today|NOUN 's|PRT team|NOUN sheet|NOUN ,|. will|VERB you|PRON ?|.
+ What|QUESTIONTAG ?|.
+ Y'know|NOUN ...|.
+ My|PRON employer|NOUN ?|.
+ Chairman|NOUN of|ADP Derby|NOUN County|NOUN .|.
+ What|QUESTIONTAG have|VERB you|PRON done|VERB now|ADV ?|.
+ direction|NOUN .|.
+ Who|QUESTIONTAG else|ADV ?|.
+ Norman|NOUN Hunter|NOUN .|.
+ Who|QUESTIONTAG else|ADV ?|.
+ Eddie|NOUN Gray|NOUN .|.
+ Who|QUESTIONTAG else|ADV ?|.
+ Peter|NOUN Lorimer|NOUN .|.
+ And|CONJ that|ADP all|DET thing|NOUN 's|PRT considered|VERB they|PRON were|VERB all|DET a|DET lot|NOUN happier|ADJ under|ADP ...|. CLOUGH|NOUN Under|ADP who|PRON ?|.
+ Don|NOUN Revie|NOUN ?|.
+ Is|VERB that|ADP what|PRON they|PRON say|VERB ?|.
+ Yes|X ,|. Boss|NOUN .|.
+ Carpet|NOUN bloody|NOUN bowls|VERB ?|.
+ It|PRON helps|VERB them|PRON relax|VERB before|ADP a|DET game|NOUN .|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ Do|VERB I|PRON ?|.
+ Forgotten|NOUN what|PRON a|DET woman|NOUN smells|VERB like|ADP .|.
+ Tell|VERB us|PRON a|DET joke|NOUN ,|. Dad|NOUN ?|.
+ (|. double-takes|NOUN )|. What|QUESTIONTAG ?|.
+ We|PRON hear|VERB that|DET 's|VERB what|PRON you|PRON like|VERB to|PRT drive|VERB .|.
+ CLOUGH|NOUN Is|VERB that|ADP it|PRON ,|. then|ADV ?|.
+ Why|ADV ?|.
+ What|QUESTIONTAG did|VERB you|PRON think|VERB we|PRON 'd|VERB asked|VERB you|PRON up|ADP here|ADV for|ADP ?|.
+ and|CONJ intent|NOUN .|.
+ Heart|NOUN attack|NOUN ,|. eh|NOUN ?|.
+ Had|VERB it|PRON three|NUM weeks|NOUN ago|ADV ,|. they|PRON reckon|VERB .|.
+ Would|VERB you|PRON like|ADP to|PRT hear|VERB my|PRON contrite|NOUN reply|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB ?|.
+ I|PRON do|VERB n't|ADV want|VERB to|PRT resign|VERB .|.
+ Does|NOUN none|NOUN of|ADP you|PRON have|VERB the|DET guts|NOUN to|PRT stop|VERB this|DET ?|.
+ Now|ADV !|.
+ (|. holding|VERB phone|NOUN )|. Mike|NOUN Bamber|NOUN on|ADP the|DET phone|NOUN ?|.
+ Who|QUESTIONTAG 's|VERB Mike|NOUN Bamber|NOUN ?|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ What|QUESTIONTAG I|PRON want|VERB to|PRT know|VERB is|VERB why|ADV ,|. after|ADP all|DET the|DET thing|NOUN he|PRON 's|VERB said|VERB about|ADP us|PRON ,|. did|VERB you|PRON appoint|VERB him|PRON in|ADP the|DET first|ADJ place|NOUN ?|.
+ I|PRON 'm|VERB about|ADP to|PRT go|VERB home|NOUN and|CONJ work|NOUN out|PRT how|ADV much|ADJ I|PRON want|VERB in|ADP severance|NOUN pay|NOUN .|.
+ Are|NOUN you|PRON sure|VERB you|PRON 're|VERB worth|ADP it|PRON ?|.
+ Cheeky|NOUN sod|NOUN .|.
+ Who|QUESTIONTAG 's|VERB looking|VERB ?|.
+ My|PRON name|NOUN 's|PRT Keith|NOUN Archer|NOUN .|.
+ Well|ADV ,|. let|VERB 's|PRT see|VERB ,|. shall|VERB we|PRON ?|.
+ What|QUESTIONTAG ?|.
+ Might|NOUN be|VERB a|DET bit|NOUN flash|NOUN for|ADP a|DET man|NOUN out|ADP of|ADP a|DET job|NOUN ,|. but|CONJ the|DET truth|NOUN is|VERB ,|. I|PRON 've|VERB grown|VERB to|PRT like|VERB it|PRON .|.
+ Who|QUESTIONTAG the|DET bloody|NOUN hell|NOUN do|VERB you|PRON think|VERB you|PRON are|VERB ?|.
+ Brian|NOUN Clough|NOUN .|.
+ How|QUESTIONTAG did|VERB I|PRON do|VERB that|DET ,|. Don|NOUN ?|.
+ Shooting|VERB his|PRON mouth|NOUN off|ADP about|ADP how|ADV dirty|ADJ my|PRON players|NOUN were|VERB .|.
+ Do|VERB you|PRON think|VERB that|ADP might|VERB have|VERB hurt|VERB your|PRON chances|NOUN of|ADP success|NOUN when|ADV you|PRON then|ADV came|VERB to|PRT manage|VERB them|PRON ?|.
+ Of|ADP course|NOUN it|PRON did|VERB !|.
+ What|QUESTIONTAG did|VERB I|PRON do|VERB ?|.
+ C'mon|NOUN ,|. Don|NOUN .|.
+ They|PRON 've|VERB kicked|VERB you|PRON out|ADP ,|. already|ADV ?|.
+ They|PRON have|VERB .|.
+ So|ADV how|ADV long|ADJ was|VERB that|ADP ?|.
+ Forty-four|ADJ days|NOUN .|.
+ So|ADP what|PRON are|VERB you|PRON doing|VERB here|ADV ?|.
+ Do|VERB n't|ADV make|VERB this|DET difficult|ADJ for|ADP me|PRON ,|. Pete|NOUN ...|. you|PRON know|VERB why|ADV I|PRON 'm|VERB here|ADV ...|. and|CONJ I|PRON wo|VERB n't|ADV bloody|VERB grovel|NOUN .|.
+ You|PRON 'll|VERB only|ADV fuck|VERB me|PRON up|PRT again|ADV ,|. wo|VERB n't|ADV you|PRON ?|.
+ I|PRON love|VERB you|PRON ,|. y'know|PRON .|.

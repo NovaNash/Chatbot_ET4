@@ -1,0 +1,226 @@
+ May|NOUN we|PRON come|VERB in..|ADV ?|.
+ Are|NOUN you|PRON happy|ADJ ?|.
+ Very|ADV .|.
+ What|QUESTIONTAG about|ADP Anne|NOUN ?|.
+ dancing|VERB with|ADP GEORGE|NOUN ...|.
+ hen|NOUN was|VERB it|PRON that|ADP people|NOUN stopped|VERB thinking|VERB of|ADP ambition|NOUN as|ADP a|DET sin|NOUN ,|. and|CONJ started|VERB thinking|NOUN of|ADP it|PRON as|ADP a|DET virtue|NOUN ?|.
+ Easy|NOUN for|ADP you|PRON to|PRT say|VERB .|.
+ You|PRON asked|VERB to|PRT see|VERB me|PRON father|ADJ ?|.
+ Yes|X .|.
+ Are|NOUN you|PRON nervous|ADJ ?|.
+ A|DET little|ADJ .|.
+ You|PRON 'll|VERB tell|VERB me|PRON everything|NOUN in|ADP the|DET morning|NOUN ?|.
+ I|PRON promise|VERB .|.
+ No|DET details|NOUN spared|VERB ?|.
+ Hold|VERB me|PRON a|DET moment|NOUN ?|.
+ You|PRON are|VERB ,|. are|VERB n't|ADV you|PRON ?|.
+ Drink|NOUN ?|.
+ You|PRON think|VERB he|PRON will|VERB like|VERB me|PRON ?|.
+ Of|ADP course|NOUN ,|. sister|NOUN .|.
+ Perhaps|ADV you|PRON 'll|VERB allow|VERB Anne|NOUN to|PRT show|VERB you|PRON around|ADP our|PRON modest|ADJ house|NOUN ?|.
+ A|DET pleasure|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ she|PRON thinking|VERB ?|.
+ What|QUESTIONTAG of|ADP our|PRON painters|NOUN ,|. then|ADV ?|.
+ Years|NOUN behind|ADP their|PRON Italian|ADJ counterparts|NOUN .|.
+ The|DET universities|NOUN in|ADP Spain|NOUN and|CONJ the|DET philosophers|NOUN in|ADP Germany|NOUN may|VERB be|VERB strong|ADJ ,|. but|CONJ are|VERB they|PRON really|ADV the|DET equal|NOUN of|ADP Oxford|NOUN and|CONJ Thomas|NOUN More|ADJ ?|.
+ Never|ADV !|.
+ ho|NOUN will|VERB you|PRON be|VERB riding|VERB with|ADP ?|.
+ on|ADP the|DET back|NOUN of|ADP his|PRON saddle|NOUN .|.
+ Your|PRON own..|NOUN ?|.
+ And|CONJ who|PRON are|VERB you|PRON ?|.
+ Mary|NOUN ,|. your|PRON Grace|NOUN .|.
+ You|PRON 've|VERB been|VERB here|ADV all|DET week-end|NOUN ?|.
+ Yes|X ,|. your|PRON Grace|NOUN .|.
+ From|ADP Wolsey|NOUN 's|PRT office|NOUN ?|.
+ Yes|X ,|. your|PRON Grace|NOUN .|.
+ Then|ADV why|ADV have|VERB n't|ADV I|PRON seen|VERB you|PRON at|ADP court|NOUN ?|.
+ Because|ADP I|PRON have|VERB persuaded|VERB him|PRON to|PRT spend|VERB a|DET year|NOUN or|CONJ two|NUM here|ADV first|ADV .|.
+ You|PRON 'll|VERB take|VERB care|NOUN of|ADP that|DET matter|NOUN ?|.
+ Consider|VERB it|PRON done|VERB ,|. your|PRON Majesty|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Y'hear|ADP that|DET ?|.
+ But|CONJ would|VERB that|DET be|VERB so|ADV bad|ADJ ?|.
+ Who|QUESTIONTAG ?|.
+ The|DET new|ADJ Lady|NOUN in|ADP Waiting|NOUN .|.
+ oetry|NOUN ,|. perhaps|ADV ?|.
+ N-no..|NOUN
+ Or|CONJ dressmaking|NOUN ?|.
+ I..I..|NOUN
+ Would|VERB you|PRON ?|.
+ Of|ADP course|NOUN .|.
+ (|. tailing|VERB off|PRT )|. What|QUESTIONTAG are|VERB you..|VERB ?|.
+ instead|ADV of|ADP staring|VERB at|ADP MARY|NOUN 's|PRT beautiful|NOUN ,|. exposed|VERB body|NOUN ,|. stay|VERB focused|VERB on|ADP her|PRON eyes|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Asking|VERB a|DET whore|NOUN to|PRT have|VERB feelings|NOUN ,|. too|ADV .|.
+ Are|NOUN you|PRON there|ADV ?|.
+ shawl|NOUN .|.
+ No|DET one|NOUN saw|NOUN you|PRON ?|.
+ hat|ADV ?|.
+ he|PRON 's|VERB married|ADJ Henry|NOUN Percy|NOUN !|.
+ (|. horrified|VERB )|. What|QUESTIONTAG ?|.
+ In|ADP secret|ADJ .|.
+ Why|ADV would|VERB I|PRON be|VERB pleased|VERB ?|.
+ It|PRON would|VERB make|VERB her|PRON the|DET future|NOUN Duchess|NOUN of|ADP Northumberland|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Who|QUESTIONTAG knows|VERB about|ADP this|DET ?|.
+ No|DET one|NOUN .|.
+ WHAT|PRON ?|.
+ (|. struggling|VERB to|PRT contain|VERB his|PRON anger|NOUN )|. There|DET have|VERB been|VERB improper|ADJ intimacies|NOUN ,|. too|ADV ?|.
+ What|QUESTIONTAG ?|.
+ How|QUESTIONTAG could|VERB you|PRON do|VERB this|DET to|PRT your|PRON sister|NOUN ?|.
+ Why|ADV look|VERB so|ADV glum|ADJ ,|. Mary|NOUN ?|.
+ What|QUESTIONTAG reason|NOUN have|VERB I|PRON to|PRT be|VERB happy|ADJ ?|.
+ ou|NOUN have|VERB two|NUM men|NOUN ,|. the|DET King|NOUN of|ADP England|NOUN and|CONJ I|PRON ,|. both|DET fighting|VERB for|ADP your|PRON love|NOUN .|.
+ Do|VERB I|PRON know|VERB you|PRON ?|.
+ You|PRON know|VERB me|PRON ,|. Mary|NOUN -|. but|CONJ not|ADV half|NOUN as|ADV well|ADV as|ADP I|PRON know|VERB you|PRON .|.
+ wonder|NOUN ,|. will|VERB you|PRON be|VERB kind|NOUN to|PRT me|PRON ?|.
+ What|QUESTIONTAG is|VERB it|PRON you|PRON desire|VERB ?|.
+ Is|VERB there|DET anything|NOUN I|PRON can|VERB bring|VERB you|PRON ?|.
+ No|DET .|.
+ Nothing|NOUN to|PRT increase|VERB your|PRON comfort|NOUN or|CONJ well-|NOUN being|VERB ?|.
+ You|PRON might|VERB ask|VERB your|PRON servants|NOUN to|PRT bring|VERB me|PRON some|DET water|NOUN .|.
+ You|PRON look|VERB surprised|VERB ?|.
+ I|PRON am|VERB .|.
+ And|CONJ yet|ADV you|PRON invite|VERB me|PRON here|ADV ?|.
+ Because|ADP I|PRON trust|VERB you|PRON .|.
+ What|QUESTIONTAG ?|.
+ To|PRT say|VERB something|NOUN ,|. or|CONJ do|VERB something|NOUN you|PRON could|VERB n't|ADV outside|VERB .|.
+ Do|VERB you|PRON not|ADV know|VERB what|PRON it|PRON is|VERB to|PRT be|VERB lonely|ADV in|ADP a|DET marriage|NOUN ?|.
+ Yes|X .|.
+ Well..|NOUN ?|.
+ Did|NOUN he|PRON have|VERB you|PRON ?|.
+ More|ADV than|ADP once|ADV ?|.
+ So|ADV he|PRON was|VERB satisfied|VERB ?|.
+ I|PRON believe|VERB so|ADV ,|. Uncle|NOUN .|.
+ You|PRON want|VERB me|PRON to|PRT make|VERB him|PRON a|DET match|NOUN ?|.
+ Do|VERB you|PRON have|VERB anyone|NOUN in|ADP mind|NOUN ?|.
+ There|DET is|VERB one|NUM lady|NOUN ,|. Sir..|NOUN
+ verreach|NOUN themselves|PRON ?|.
+ Jane|NOUN Parker..|NOUN ?|.
+ But|CONJ must|VERB I|PRON actually|ADV ...|. marry|VERB her|PRON ?|.
+ You|PRON 're|VERB in|ADP love|NOUN with|ADP him|PRON ,|. are|VERB n't|ADV you|PRON ?|.
+ illiam|NOUN ,|. you|PRON 're|VERB drunk|ADJ .|.
+ Are|NOUN you|PRON certain|ADJ ?|.
+ Yes|X .|.
+ (|. horrified|VERB )|. What|QUESTIONTAG ?|.
+ Why|ADV ?|.
+ Really..|NOUN ?|.
+ Which|QUESTIONTAG are..|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ That|DET in|ADP this|DET department|NOUN too|ADV ,|. the|DET King|NOUN has|VERB his|PRON shortcomings|NOUN .|.
+ What|QUESTIONTAG ?|.
+ 'm|VERB wary|ADJ of|ADP any|DET suggestion|NOUN that|ADP Anne|NOUN would|VERB serve|VERB anyone|NOUN but|CONJ herself|PRON .|.
+ Really|ADV ?|.
+ MA|NOUN she|PRON nt|VERB '|. )|. since|ADP she|PRON returned|VERB ?|.
+ Is|VERB that|ADP so..|NOUN ?|.
+ wrong|ADJ thing|NOUN .|.
+ storm|NOUN ,|. you|PRON say..|VERB ?|.
+ She|PRON did|VERB what|PRON ?|.
+ Sent|VERB it|PRON back|PRT ,|. your|PRON Grace|NOUN .|.
+ Sent|VERB it|PRON back|PRT ?|.
+ Mary..|NOUN ?|.
+ Anne|NOUN !|.
+ Anne..|ADP A|NOUN ANNE|NOUN (|. hurriedly|ADV dressing|VERB )|. Your|PRON Grace|NOUN ?|.
+ You|PRON received|VERB my|PRON gifts|NOUN ?|.
+ Yes|X .|.
+ Then|ADV why|ADV did|VERB you|PRON return|VERB them|PRON ?|.
+ What|QUESTIONTAG ?|.
+ How|QUESTIONTAG could|VERB I|PRON forget|VERB that|ADP you|PRON chose|VERB her|PRON above|ADP me|PRON when|ADV we|PRON first|ADV met|VERB ?|.
+ Does|VERB the|DET King|NOUN know|VERB ?|.
+ But|CONJ how|ADV could|VERB I|PRON ever|ADV TRUST|NOUN you|PRON ?|.
+ What|QUESTIONTAG ?|.
+ THOMAS|NOUN and|CONJ NORFOLK|NOUN crowd|VERB into|ADP the|DET room|NOUN ,|. anxious|ADJ to|PRT see..|VERB
+ falls|NOUN to|PRT his|PRON knees|NOUN and|CONJ kisses|VERB ANNE|NOUN 's|PRT hand..|NOUN M|NOUN MARY|NOUN (|. a|DET dagger|NOUN in|ADP her|PRON heart|NOUN )|. Henry..|NOUN ?|.
+ looking|VERB in|ADP the|DET direction|NOUN of|ADP MARY|NOUN or|CONJ the|DET BABY|NOUN .|.
+ My|PRON Lord..|NOUN ?|.
+ Or|CONJ what|PRON ...|. Uncle|NOUN ?|.
+ Stop|VERB it|PRON !|.
+ How|QUESTIONTAG can|VERB you|PRON show|VERB your|PRON face|NOUN in|ADP here|ADV ?|.
+ I|PRON understand|VERB you|PRON 're|VERB angry|ADJ -|. but|CONJ be|VERB assured|VERB .|.
+ Well|ADV ,|. has|VERB n't|ADV it|PRON ?|.
+ Be|NOUN careful|ADJ ,|. that|DET 's|PRT my|PRON advice|NOUN .|.
+ W|NOUN WILLIAM|NOUN Have|NOUN you|PRON christened|VERB the|DET child|NOUN ?|.
+ Henry|NOUN .|.
+ As|ADP what|PRON ?|.
+ My|PRON one|NUM true|ADJ mistress|NOUN .|.
+ Well|ADV ,|. what|PRON would|VERB you|PRON have|VERB me|PRON do|VERB ?|.
+ What|QUESTIONTAG insult|NOUN ?|.
+ Annul|ADP it|PRON ?|.
+ That|DET woman|NOUN married|VERB two|NUM brothers|NOUN and|CONJ therefore|ADV sinned|VERB against|ADP God|NOUN .|.
+ Wolsey|NOUN has|VERB agreed|VERB to|PRT charge|VERB the|DET Queen|NOUN ?|.
+ But|CONJ that|DET 's|VERB wonderful|ADJ .|.
+ Why|ADV do|VERB you|PRON look|VERB sad|ADJ ?|.
+ Because|ADP she|PRON will|VERB contest|VERB it|PRON .|.
+ What|QUESTIONTAG ?|.
+ She|PRON continues|VERB to|PRT hold|VERB out|PRT .|.
+ ..until|VERB what|PRON ?|.
+ Until|ADP he|PRON makes|VERB her|PRON the|DET ultimate|ADJ offer|NOUN .|.
+ And|CONJ my|PRON brother|NOUN George|NOUN ?|.
+ Continues|NOUN to|PRT be|VERB promoted|VERB .|.
+ Then|ADV what|PRON troubles|VERB you|PRON ?|.
+ One|NUM or|CONJ two|NUM friends|NOUN have|VERB refused|VERB to|PRT lend|VERB their|PRON support|NOUN .|.
+ Do|VERB I|PRON ?|.
+ tells|NOUN us|PRON -|. this|DET is|VERB getting|VERB harder|ADV and|CONJ harder|ADV .|.
+ Who|QUESTIONTAG ?|.
+ Mary|NOUN Talbot|NOUN !|. !|.
+ Mary|NOUN ?|.
+ ou|NOUN asked|VERB to|PRT see|VERB me|PRON ,|. your|PRON Grace|NOUN ?|.
+ ho|NOUN 's|PRT that|ADP ?|.
+ The|DET Papal|NOUN Legate|NOUN .|.
+ And|CONJ that|DET upsets|VERB you|PRON so|ADV ?|.
+ What|QUESTIONTAG upsets|VERB the|DET King|NOUN upsets|NOUN me|PRON .|.
+ (|. becoming|VERB suspicious|ADJ )|. What|QUESTIONTAG ?|.
+ Who|QUESTIONTAG 's|VERB this|DET ?|.
+ A|DET ANNE|NOUN Go|NOUN ,|. on..|NOUN
+ Is|VERB that|ADP sword|NOUN real|ADJ ?|.
+ I|PRON think|VERB so|ADV .|.
+ (|. in|ADP LATIN|NOUN ,|. we|PRON see|VERB sub-titles|NOUN )|. Do|VERB you|PRON ,|. Henry|NOUN Tudor|NOUN ,|. take|VERB Anne|NOUN Boleyn|NOUN as|ADP your|PRON lawful|NOUN wedded|VERB wife..|NOUN ?|.
+ (|. haunted|VERB ,|. hollow|NOUN )|. How|QUESTIONTAG much|ADJ the|DET King|NOUN loves|VERB me|PRON ?|.
+ in|ADP the|DET corner|NOUN ,|. lost|VERB in|ADP serious|ADJ conversation..|NOUN
+ What|QUESTIONTAG about|ADP the|DET Duke|NOUN of|ADP Suffolk|NOUN ?|.
+ Does|VERB it|PRON hurt|VERB ?|.
+ Little|ADJ nips|NOUN and|CONJ stabs|NOUN .|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN with|ADP her|PRON ?|.
+ What|QUESTIONTAG ?|.
+ Mooning|VERB .|.
+ And..|NOUN ?|.
+ It|PRON 's|VERB a|DET girl|NOUN !|.
+ A|DET girl|NOUN ?|.
+ Is|VERB the|DET child|NOUN healthy|ADJ ?|.
+ Perfectly|ADV ,|. Sir|NOUN .|.
+ And..|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ You|PRON did|VERB n't|ADV know|VERB ?|.
+ (|. flinches|NOUN as|ADP she|PRON speaks|VERB )|. But|CONJ fetch|VERB my|PRON brother|NOUN and|CONJ sister|NOUN ,|. will|VERB you|PRON ?|.
+ slowly|ADV looks|VERB down|PRT ,|. and|CONJ pulls|VERB back|PRT the|DET bedsheets..|NOUN W|NOUN hen|NOUN ANNE|NOUN sees|VERB what|PRON lies|VERB beneath|NOUN ,|. she|PRON howls|VERB in|ADP horror|NOUN .|.
+ You|PRON mean|VERB lying|VERB with|ADP another|DET man|NOUN ?|.
+ Of|ADP course|NOUN .|.
+ esides|NOUN ,|. where|ADV would|VERB you|PRON find|VERB someone|NOUN you|PRON could|VERB trust|VERB ?|.
+ Obviously|ADV ,|. it|PRON would|VERB have|VERB to|PRT be|VERB someone|NOUN close|ADV .|.
+ Where|QUESTIONTAG are|VERB we|PRON going|VERB ?|.
+ Away|ADV from|ADP here|ADV .|.
+ Who|QUESTIONTAG lives|VERB here|ADV ,|. Mother|NOUN ?|.
+ Someone|NOUN .|.
+ William|NOUN ?|.
+ Do|VERB you|PRON ,|. Mary|NOUN ,|. take|VERB William|NOUN as|ADP your|PRON lawful|NOUN wedded|VERB husband|NOUN ?|.
+ I|PRON do|VERB .|.
+ STAFFORD..|NOUN M|NOUN MARY|NOUN What|QUESTIONTAG is|VERB it|PRON ?|.
+ News|NOUN from|ADP court|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON plead|VERB ?|.
+ Not|ADV guilty|ADJ ,|. my|PRON Lord|NOUN .|.
+ ho|NOUN was|VERB it|PRON ?|.
+ Mary..|NOUN ?|.
+ excitedly|ADV towards|ADP her|PRON .|.
+ What|QUESTIONTAG ?|.
+ For|ADP your|PRON part|NOUN in|ADP the|DET matter..|NOUN
+ How|QUESTIONTAG could|VERB I|PRON have|VERB made|VERB that|ADP mistake|NOUN ?|.
+ Choosing|VERB her|PRON over|ADP you|PRON ?|.
+ How|QUESTIONTAG has|VERB it|PRON come|VERB to|PRT this|DET ?|.
+ Ssshhhhh|NOUN .|.
+ The|DET King|NOUN saw|NOUN you|PRON ?|.
+ Yes|X .|.
+ And|CONJ now|ADV look|VERB ?|.
+ frightened..|NOUN
+ You|PRON 'll|VERB look|VERB after|ADP Elizabeth|NOUN ?|.
+ It|PRON will|VERB be|VERB all|DET right|NOUN .|.

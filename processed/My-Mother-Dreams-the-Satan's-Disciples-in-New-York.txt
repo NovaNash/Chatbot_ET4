@@ -1,0 +1,64 @@
+ (|. brusquely|ADV )|. Where|QUESTIONTAG to|PRT ?|.
+ Are|NOUN you|PRON sure|VERB you|PRON got|VERB my|PRON bag|NOUN in|ADP ?|.
+ And|CONJ where|ADV is|VERB she|PRON ?|.
+ She|PRON would|VERB have|VERB come|VERB to|PRT the|DET airport|NOUN to|PRT meet|VERB me|PRON -|. she|PRON wanted|VERB to|PRT -|. but|CONJ ...|. but|CONJ ,|. she|PRON just|ADV started|VERB a|DET new|ADJ job|NOUN and|CONJ ,|. well|ADV ,|. I|PRON guess|VERB no|DET one|NOUN drives|VERB here|ADV .|.
+ So|ADV ,|. you|PRON come|VERB here|ADV all|DET by|ADP yourself|PRON ?|.
+ Uh|NOUN ,|. yes|X .|.
+ (|. disconcerted|VERB )|. You|PRON mean|VERB it|PRON 's|VERB dangerous|ADJ ?|.
+ Nah|NOUN ,|. not|ADV dangerous|ADJ .|.
+ (|. pointing|VERB uncertainly|ADV )|. This|DET way|NOUN ?|.
+ Yeah|X .|.
+ Hey|NOUN ,|. lady|NOUN ,|. can|VERB you|PRON help|VERB us|PRON out|PRT with|ADP some|DET change|NOUN today|NOUN ?|.
+ past|ADP them|PRON ,|. smiling|VERB faintly|ADV .|.
+ So|ADV ,|. what|PRON do|VERB you|PRON think|VERB ?|.
+ Well|ADV ,|. once|ADV you|PRON 're|VERB inside|ADP ,|. it|PRON 's|VERB nice|ADJ .|.
+ You|PRON do|VERB n't|ADV like|VERB where|ADV I|PRON live|VERB ?|.
+ Uh-huh|NOUN ?|.
+ ...|. What|QUESTIONTAG are|VERB they|PRON all|DET doing|VERB there|ADV ?|.
+ (|. mildly|ADV rebuking|VERB )|. You|PRON did|VERB n't|ADV leave|VERB the|DET house|NOUN all|DET day|NOUN ?|.
+ (|. washing|VERB her|PRON pill|NOUN down|PRT with|ADP some|DET wine|NOUN )|. How|QUESTIONTAG are|VERB you|PRON doing|VERB sweetheart|VERB ?|.
+ I|PRON 'm|VERB good|ADJ .|.
+ Dating|VERB anyone|NOUN ?|.
+ No|DET ,|. I|PRON 'm|VERB working|VERB too|ADV much|ADJ ,|. I|PRON do|VERB n't|ADV have|VERB time|NOUN .|.
+ What|QUESTIONTAG about|ADP the|DET fellow|NOUN in|ADP those|DET pictures|NOUN ?|.
+ What|QUESTIONTAG pictures|VERB ?|.
+ What|QUESTIONTAG 's|VERB this|DET ,|. huh|NOUN ?|.
+ I|PRON ai|VERB n't|ADV got|VERB shit|VERB on|ADP me|PRON .|.
+ Hello|NOUN ?|.
+ My|PRON daughter|NOUN lives|VERB here|ADV and|CONJ I|PRON 'm|VERB her|PRON mother|NOUN and|CONJ I|PRON 've|VERB lost|VERB my|PRON keys|NOUN .|.
+ Who|QUESTIONTAG is|VERB it|PRON ?|.
+ It|PRON 's|VERB Marika|NOUN .|.
+ (|. brightening|VERB )|. Really|ADV ?|.
+ Oh|X ,|. it|PRON was|VERB such|ADJ a|DET big|ADJ scandal|NOUN .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ Poor|NOUN man|NOUN had|VERB to|PRT leave|VERB town|NOUN .|.
+ What|QUESTIONTAG does|VERB he|PRON do|VERB ?|.
+ He|PRON 's|VERB an|DET organic|ADJ farmer|NOUN .|.
+ ...|. Manly|ADV ?|.
+ Marika|NOUN .|.
+ And|CONJ you|PRON do|VERB n't|ADV deal|VERB drugs|NOUN ?|.
+ mock|NOUN reprovingly|ADV .|.
+ Who|QUESTIONTAG told|VERB you|PRON we|PRON deal|VERB drugs|NOUN ?|.
+ I|PRON 'm|VERB just|ADV concerned|VERB about|ADP my|PRON daughter|NOUN .|.
+ Is|VERB there|DET something|NOUN else|ADV I|PRON can|VERB do|VERB for|ADP you|PRON ?|.
+ Well|ADV ,|. I|PRON 'd|VERB love|VERB to|PRT see|VERB inside|ADP your|PRON club|NOUN .|.
+ (|. taken|VERB aback|ADV )|. You|PRON want|VERB to|PRT come|VERB inside|ADV ?|.
+ Well|ADV ,|. if|ADP you|PRON 're|VERB not|ADV holding|VERB a|DET meeting|NOUN or|CONJ anything|NOUN .|.
+ What|QUESTIONTAG ?|.
+ She|PRON 's|VERB curious|ADJ ...|.
+ Hey|NOUN ,|. is|VERB she|PRON cute|NOUN ?|.
+ Does|VERB she|PRON like|ADP motorcycles|NOUN ?|.
+ Can|VERB she|PRON cook|VERB ?|.
+ She|PRON glances|VERB all|DET around|ADP her|PRON ,|. fascinated|VERB by|ADP this|DET dungeon|NOUN she|PRON had|VERB dreamed|VERB and|CONJ fantasized|VERB about|ADP since|ADP she|PRON first|ADV arrived|VERB in|ADP New|NOUN York|NOUN .|.
+ (|. chuckling|VERB nervously|ADV )|. Really|ADV ?|.
+ Mother|NOUN ,|. I|PRON ...|.
+ What|QUESTIONTAG do|VERB you|PRON say|VERB ...|. we|PRON take|VERB a|DET subway|NOUN uptown|ADJ and|CONJ see|VERB a|DET play|NOUN tonight|NOUN ?|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ Mom|NOUN ...|.
+ Now|ADV ,|. you|PRON know|VERB you|PRON did|VERB n't|ADV go|VERB into|ADP the|DET clubhouse|NOUN ,|. did|VERB you|PRON ?|.
+ say|NOUN would|VERB compromise|VERB her|PRON .|.
+ You|PRON know|VERB that|DET guy|NOUN in|ADP the|DET pictures|NOUN you|PRON saw|VERB ?|.
+ Aaron|NOUN ?|.
+ It|PRON 's|VERB unusually|ADV quiet|ADJ tonight|NOUN ,|. is|VERB n't|ADV it|PRON ?|.
+ Mm|NOUN hmm|NOUN .|.
+ All|DET right|NOUN ?|.

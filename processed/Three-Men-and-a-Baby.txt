@@ -1,0 +1,6 @@
+ MICHAEL|NOUN It|PRON 's|VERB not|ADV working|VERB ...|. What|QUESTIONTAG about|ADP laying|VERB her|PRON down|NOUN ?|.
+ Go|NOUN ahead|ADV ...|. No|X ,|. not|ADV on|ADP the|DET towels|NOUN ,|. they|PRON 're|VERB all|DET covered|ADJ with|ADP crap|NOUN ...|. Michael|NOUN lays|VERB Mary|NOUN down|ADV right|ADV on|ADP the|DET couch|NOUN .|.
+ PETER|NOUN Do|VERB you|PRON have|VERB any|DET idea|NOUN what|PRON it|PRON 's|VERB been|VERB like|ADP around|ADP here|ADV for|ADP the|DET past|ADJ four|NUM days|NOUN ?|.
+ She|PRON could|VERB have|VERB at|ADP least|ADJ given|VERB us|PRON a|DET phone|NOUN number|NOUN or|CONJ the|DET name|NOUN of|ADP someone|NOUN to|PRT contact|VERB ...|.
+ (|. as|ADP if|ADP he|PRON were|VERB dreaming|VERB )|. Fine|NOUN ,|. fine|NOUN ,|. she|PRON 's|VERB doing|VERB great|ADJ ...|. She|PRON 's|VERB getting|VERB her|PRON back|NOUN teeth|NOUN in|ADP lately|ADV ,|. it|PRON 's|VERB been|VERB a|DET bit|NOUN rough|ADJ ...|. SYLVIA|NOUN Can|VERB I|PRON see|VERB her|PRON ?|.
+ Oh|X ,|. yeah|X ,|. sure|ADJ ,|. she|PRON 's|VERB in|ADP there|DET ...|.

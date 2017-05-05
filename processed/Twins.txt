@@ -1,0 +1,55 @@
+ WERNER|NOUN And|CONJ ...|. ?|.
+ Well|ADV ,|. if|ADP a|DET woman|NOUN loved|VERB my|PRON brother|NOUN enough|ADV to|PRT marry|VERB him|PRON ,|. she|PRON might|VERB have|VERB a|DET sister|NOUN who|PRON 'd|VERB feel|VERB the|DET same|ADJ way|NOUN about|ADP me|PRON .|.
+ (|. a|DET bit|NOUN surprised|ADJ but|CONJ not|ADV panicked|VERB )|. What|QUESTIONTAG 's|VERB he|PRON doing|VERB back|ADV so|ADV early|ADV ?|.
+ while|ADP Carla|NOUN slips|VERB into|ADP a|DET bathrobe|NOUN .|.
+ Do|VERB n't|ADV you|PRON think|VERB you|PRON 're|VERB doing|VERB this|DET too|ADV often|ADV ?|.
+ I|PRON 'm|VERB a|DET desperate|ADJ man|NOUN .|.
+ BIKER|NOUN #|. 1|NUM (|. indicating|VERB ``|. Fredericks|NOUN ''|. )|. Looking|VERB for|ADP something|NOUN for|ADP your|PRON girl|NOUN friend|NOUN ?|.
+ I|PRON ...|. do|VERB n't|ADV have|VERB a|DET girl|NOUN friend|NOUN .|.
+ How|QUESTIONTAG did|VERB you|PRON know|VERB ?|.
+ It|PRON 's|VERB the|DET one|NOUN I|PRON would|VERB have|VERB chosen|VERB .|.
+ I|PRON have|VERB some|DET more|ADJ money|NOUN --|. VINCE|NOUN You|PRON do|VERB ?|.
+ I|PRON am|VERB happy|ADJ to|PRT help|VERB you|PRON ,|. Vincent|NOUN .|.
+ JULIUS|NOUN I|PRON know|VERB what|PRON you|PRON 're|VERB thinking|VERB ?|.
+ No|DET ,|. you|PRON do|VERB n't|ADV .|.
+ VINCE|NOUN What|QUESTIONTAG 're|VERB you|PRON doing|VERB with|ADP my|PRON desk|NOUN ?|.
+ Taking|VERB back|PRT the|DET furniture|NOUN --|. you|PRON 're|VERB six|NUM months|NOUN behind|ADP .|.
+ Time|NOUN 's|PRT up|PRT ,|. Vincent|NOUN --|. Got|VERB the|DET money|NOUN ?|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ That|DET dopey|VERB Sam|NOUN --|. He|PRON did|VERB it|PRON again|ADV .|.
+ (|. moved|VERB )|. Handicapped|VERB children|NOUN ?|.
+ You|PRON think|VERB we|PRON should|VERB do|VERB a|DET thing|NOUN like|ADP that|DET ?|.
+ Of|ADP course|NOUN --|. it|PRON 's|VERB for|ADP the|DET children|NOUN ...|. CUT|NOUN TO|NOUN :|.
+ Linda|NOUN is|VERB your|PRON girl|ADJ friend|NOUN ,|. is|VERB n't|ADV she|PRON ?|.
+ Yeah|X .|.
+ You|PRON do|VERB like|ADP women|NOUN ,|. do|VERB n't|ADV you|PRON ?|.
+ (|. into|ADP phone|NOUN )|. Beetroot|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ WEBSTER|NOUN Who|QUESTIONTAG are|VERB you|PRON ?|.
+ (|. helping|VERB out|PRT )|. We|PRON 're|VERB the|DET Klane|NOUN brothers|NOUN .|.
+ You|PRON tellin|VERB '|. me|PRON I|PRON 'm|VERB a|DET side|NOUN effect|NOUN !|. ?|.
+ SALES|NOUN CLERK|NOUN Can|VERB I|PRON help|VERB you|PRON ,|. sir|VERB ?|.
+ JULIUS|NOUN Dance|NOUN ?|.
+ I|PRON guess|VERB you|PRON have|VERB n't|ADV done|VERB that|ADP before|ADP either|DET .|.
+ (|. to|PRT Julius|NOUN )|. Go|NOUN easy|ADJ on|ADP the|DET beer|NOUN ,|. okay|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ We|PRON want|VERB to|PRT take|VERB Vince|NOUN out|ADP to|PRT the|DET parking|NOUN lot|NOUN and|CONJ kill|VERB him|PRON .|.
+ That|DET 's|VERB kind|NOUN of|ADP drastic|ADJ ,|. do|VERB n't|ADV you|PRON think|VERB ?|.
+ MORRIS|NOUN KLANE|NOUN Let|NOUN 's|PRT go|VERB .|.
+ Are|NOUN you|PRON cold|VERB ?|.
+ It|PRON 's|VERB alright|ADJ .|.
+ MARNIE|NOUN What|QUESTIONTAG ?|.
+ (|. looking|VERB away|ADV )|. I|PRON 'm|VERB a|DET virgin|NOUN .|.
+ --|. Is|VERB Mary|ADJ Ann|NOUN ?|.
+ No|DET --|. This|DET is|VERB an|DET artist|NOUN 's|PRT colony|NOUN ;|. there|DET 's|VERB a|DET lot|NOUN of|ADP painters|NOUN .|.
+ You|PRON ca|VERB n't|ADV really|ADV own|ADJ something|NOUN like|ADP that|DET view|NOUN over|ADP there|ADV ,|. or|CONJ that|ADP sunset|NOUN ,|. can|VERB you|PRON ?|.
+ (|. a|DET believer|NOUN )|. No|X ,|. of|ADP course|NOUN not|ADV .|.
+ VINCE|NOUN She|PRON 's|VERB not|ADV famous|ADJ anymore|ADV ?|.
+ She|PRON never|ADV wanted|VERB to|PRT be|VERB famous|ADJ .|.
+ (|. behind|ADP the|DET wheel|NOUN )|. Can|VERB we|PRON get|VERB the|DET hell|NOUN out|ADP of|ADP here|ADV ?|.
+ WEBSTER|ADP The|DET third|ADJ rule|NOUN ?|.
+ JULIUS|NOUN (|. smiling|VERB )|. Duck|NOUN .|.
+ (|. feigning|VERB ignorance|NOUN )|. What|QUESTIONTAG matter|NOUN is|VERB that|ADP ?|.
+ The|DET matter|NOUN of|ADP you|PRON and|CONJ me|PRON living|VERB together|ADV .|.
+ (|. haltingly|ADV )|. What|QUESTIONTAG about|ADP it|PRON ?|.
+ Your|PRON place|NOUN or|CONJ mine|NOUN ?|.

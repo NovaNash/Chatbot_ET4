@@ -1,0 +1,2 @@
+ HOGAN|NOUN What|QUESTIONTAG in|ADP the|DET world|NOUN could|VERB they|PRON be|VERB doing|VERB here|ADV ?|.
+ The|DET Girls|NOUN pass|NOUN through|ADP the|DET metal|NOUN detector|NOUN and|CONJ move|VERB toward|ADP a|DET small|ADJ group|NOUN of|ADP TOURISTS|NOUN waiting|VERB by|ADP the|DET sign|NOUN that|DET reads|VERB :|. NEXT|ADJ TOUR|NOUN 11:00|NUM .|.

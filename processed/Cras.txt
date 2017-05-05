@@ -1,0 +1,61 @@
+ Where|QUESTIONTAG were|VERB you|PRON ?|.
+ In|ADP the|DET private|ADJ aircraft|NOUN hangar|NOUN .|.
+ Did|NOUN you|PRON come|VERB ?|.
+ No|DET .|.
+ Where|QUESTIONTAG 's|VERB the|DET car|NOUN ?|.
+ Outside|ADP in|ADP the|DET visitors|NOUN '|PRT car-park|NOUN .|.
+ Have|VERB you|PRON seen|VERB it|PRON ?|.
+ The|DET sergeant|NOUN asked|VERB me|PRON to|PRT identify|VERB it|PRON .|.
+ It|PRON is|VERB ?|.
+ After|ADP being|VERB bombarded|VERB endlessly|ADV by|ADP road-safety|NOUN propaganda|NOUN ,|. it|PRON 's|VERB almost|ADV a|DET relief|NOUN to|PRT have|VERB found|VERB myself|PRON in|ADP an|DET actual|ADJ accident|NOUN .|.
+ James|NOUN Ballard|NOUN ?|.
+ Yes|X ?|.
+ Crash|NOUN victim|NOUN ?|.
+ Yes|X .|.
+ Dr.|NOUN Remington|NOUN ...|. ?|.
+ She|PRON does|VERB not|ADV falter|VERB ,|. but|CONJ changes|VERB her|PRON grip|NOUN on|ADP the|DET cane|NOUN ,|. as|ADP if|ADP preparing|VERB to|PRT thrash|VERB him|PRON across|ADP the|DET face|NOUN with|ADP it|PRON .|.
+ You|PRON 're|VERB not|ADV envious|ADJ ?|.
+ Maybe|ADV I|PRON am|VERB a|DET little|ADJ .|.
+ Are|ADP we|PRON allowed|VERB to|PRT park|VERB here|ADV ?|.
+ No|DET .|.
+ Are|NOUN you|PRON still|ADV involving|VERB me|PRON in|ADP your|PRON crash|NOUN ?|.
+ staring|VERB down|PRT at|ADP the|DET couple|NOUN in|ADP the|DET car|NOUN .|.
+ Can|VERB you|PRON drive|VERB ?|.
+ I|PRON can|VERB drive|VERB .|.
+ This|DET is|VERB the|DET exact|ADJ same|ADJ car|NOUN as|ADP your|PRON old|ADJ one|NUM ,|. is|VERB n't|ADV it|PRON ?|.
+ Yes|X ,|. it|PRON is|VERB .|.
+ This|DET is|VERB your|PRON car|NOUN ?|.
+ feeling|VERB a|DET chrome|ADJ pillar|ADJ torn|NOUN from|ADP the|DET accordion|NOUN ,|. as|ADP if|ADP searching|VERB for|ADP some|DET trace|NOUN of|ADP her|PRON husband|NOUN 's|PRT presence|NOUN among|ADP the|DET blood-spattered|ADJ paintwork|NOUN .|.
+ So|ADV --|. why|ADV the|DET airport|NOUN ?|.
+ I|PRON work|VERB in|ADP the|DET immigration|NOUN department|NOUN there|ADV .|.
+ Are|ADP we|PRON imagining|VERB it|PRON ?|.
+ whole|ADJ interior|NOUN of|ADP the|DET car|NOUN .|.
+ Is|VERB n't|ADV that|ADP rather|ADV too|ADV close|ADJ ...|. ?|.
+ That|DET 's|VERB the|DET point|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ A|DET complimentary|ADJ ticket|NOUN for|ADP a|DET special|ADJ stunt-driving|ADJ exhibition|NOUN .|.
+ We|PRON 've|VERB had|VERB a|DET few|ADJ of|ADP those|DET ourselves|NOUN ,|. have|VERB n't|ADV we|PRON ?|.
+ James|NOUN to|PRT contemplate|VERB the|DET contents|NOUN of|ADP the|DET envelope|NOUN .|.
+ Is|VERB that|ADP part|NOUN of|ADP the|DET act|NOUN or|CONJ are|VERB they|PRON really|ADV hurt|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ (|. to|PRT Vaughan|NOUN )|. What|QUESTIONTAG 's|VERB the|DET matter|NOUN with|ADP Seagrave|NOUN ?|.
+ Hit|VERB his|PRON head|NOUN ,|. I|PRON think|VERB .|.
+ Why|ADV are|VERB the|DET police|NOUN taking|VERB this|DET all|DET so|ADV seriously|ADV ?|.
+ It|PRON 's|VERB not|ADV the|DET police|NOUN .|.
+ Ah|NOUN ,|. well|ADV ...|. We|PRON 're|VERB familiar|ADJ enough|ADV with|ADP that|DET ,|. then|ADV ,|. are|VERB n't|ADV we|PRON ?|.
+ piece|NOUN of|ADP resin|NOUN in|ADP a|DET twist|NOUN of|ADP silver|NOUN foil|NOUN ,|. Vaughan|NOUN brings|VERB a|DET brass|NOUN lighter|ADJ out|ADP of|ADP his|PRON hip|NOUN pocket|NOUN .|.
+ Do|VERB you|PRON find|VERB him|PRON attractive|ADJ ?|.
+ He|PRON 's|VERB very|ADV pale|ADJ .|.
+ Have|VERB you|PRON seen|VERB his|PRON penis|NOUN ?|.
+ I|PRON think|VERB it|PRON 's|VERB badly|ADV scarred|VERB too|ADV .|.
+ Have|VERB you|PRON come|VERB ?|.
+ Helen|NOUN 's|PRT car|NOUN ,|. Helen|NOUN sitting|VERB on|ADP James|NOUN 's|PRT lap|NOUN with|ADP her|PRON back|NOUN to|PRT him|PRON .|.
+ What|QUESTIONTAG does|VERB he|PRON want|VERB from|ADP you|PRON ?|.
+ Hard|ADJ to|PRT say|VERB .|.
+ Is|VERB there|DET something|NOUN here|ADV that|ADP interests|NOUN you|PRON ?|.
+ The|DET white|ADJ sports|NOUN model|NOUN .|.
+ (|. phone|NOUN )|. Where|QUESTIONTAG are|VERB you|PRON ?|.
+ Where|QUESTIONTAG do|VERB you|PRON think|VERB that|ADP one|NUM should|VERB go|VERB ?|.
+ grabs|VERB the|DET right|ADJ inner|NOUN thigh|NOUN of|ADP his|PRON greasy|ADJ jeans|NOUN .|.
+ One|NUM of|ADP your|PRON suitors|NOUN ?|.
+ One|NUM of|ADP my|PRON suitors|NOUN .|.

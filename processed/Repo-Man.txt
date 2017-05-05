@@ -1,0 +1,93 @@
+ Otto|NOUN ?|.
+ Mister|NOUN Humphries|VERB !|.
+ Huh|NOUN ?|.
+ OTTO|NOUN okay|NOUN
+ What|QUESTIONTAG ?|.
+ Get|VERB me|PRON another|DET beer|NOUN .|.
+ You|PRON want|VERB to|PRT make|VERB ten|NOUN bucks|NOUN ?|.
+ Fuck|NOUN you|PRON ,|. queer|VERB .|.
+ Will|VERB you|PRON ,|. Will|NOUN you|PRON hold|VERB please|VERB ?|.
+ Helping|VERB hand|NOUN acceptance|NOUN corporation|NOUN Marlene|NOUN speaking|NOUN .|.
+ Bud|NOUN what|PRON street|NOUN was|VERB that|ADP car|NOUN on|ADP ?|.
+ Honey|NOUN I|PRON do|VERB n't|ADV know|VERB ,|. some|DET alley|NOUN uh|NOUN .|.
+ Can|VERB you|PRON hold|VERB ?|.
+ Got|NOUN a|DET name|NOUN kid|NOUN ?|.
+ What|QUESTIONTAG if|ADP we|PRON are|VERB ?|.
+ Right|NOUN Lite|NOUN ?|.
+ Got|NOUN any|DET messages|NOUN for|ADP me|PRON baby|NOUN ?|.
+ Yeah|X .|.
+ What|QUESTIONTAG is|VERB it|PRON son|NOUN ?|.
+ Do|VERB you|PRON remember|VERB that|ADP you|PRON once|ADV told|VERB me|PRON along|ADP time|NOUN ago|ADV .|.
+ Am|NOUN I|PRON what|PRON ?|.
+ Packin|NOUN '|PRT something|NOUN .|.
+ Otto|NOUN who|PRON ?|.
+ You|PRON got|VERB ta|ADJ watch|NOUN yourself|PRON .|.
+ Want|VERB me|PRON to|PRT take|VERB them|PRON ?|.
+ Wo|NOUN !|.
+ What|QUESTIONTAG ?|.
+ You|PRON pick|VERB it|PRON up|PRT .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ Its|NOUN a|DET repossesser|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Those|DET men|NOUN in|ADP the|DET car|NOUN next|ADJ to|PRT us|PRON do|VERB n't|ADV look|VERB at|ADP them|PRON .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ Take|VERB a|DET look|NOUN at|ADP this|DET .|.
+ What|QUESTIONTAG ,|. here|ADV ?|.
+ Yeah|X .|.
+ What|QUESTIONTAG book|NOUN ?|.
+ Dioretix|NOUN .|.
+ Yeah|X ?|.
+ Do|VERB you|PRON think|VERB all|DET repo|NOUN men|NOUN follow|VERB the|DET code|NOUN ?|.
+ Huh|NOUN ?|.
+ What|QUESTIONTAG did|VERB you|PRON want|VERB to|PRT tell|VERB me|PRON ?|.
+ Says|NOUN who|PRON ?|.
+ enjoyed|VERB doing|VERB this|DET on|ADP a|DET regular|ADJ basis|NOUN .|.
+ Need|VERB a|DET vacuum|NOUN sir|NOUN ?|.
+ Have|VERB you|PRON any|DET machines|NOUN ?|.
+ You|PRON do|VERB n't|ADV want|VERB to|PRT eat|VERB from|ADP a|DET machine|NOUN .|.
+ Oh|X how|ADV was|VERB the|DET rehearsal|NOUN son|NOUN ?|.
+ It|PRON was|VERB O.K|NOUN .|.
+ The|DET tea|NOUN ?|.
+ Uh|NOUN huh|NOUN ?|.
+ See|VERB what|PRON I|PRON mean|VERB punk|NOUN ?|.
+ Fuck|NOUN (|. flip|NOUN )|. you|PRON !|.
+ the|DET van|NOUN to|PRT Agents|NOUN Rogersz|NOUN ,|. who|PRON is|VERB watching|VERB a|DET monitor|NOUN which|DET shows|VERB Leila|NOUN being|VERB questioned|VERB LEILA|NOUN What|QUESTIONTAG do|VERB you|PRON want|VERB from|ADP me|PRON ?|.
+ We|PRON ask|VERB the|DET questions|NOUN .|.
+ What|QUESTIONTAG did|VERB you|PRON say|VERB man|NOUN ?|.
+ Whaa|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ John|NOUN Wayne|NOUN was|VERB a|DET fag|NOUN .|. ]|NOUN
+ Do|VERB n't|ADV you|PRON ?|.
+ Damn|NOUN straight|VERB I|PRON do|VERB .|.
+ Leila|NOUN who|PRON ?|.
+ Want|VERB some|DET toot|NOUN dude|NOUN ?|.
+ Debbie|NOUN and|CONJ Archie|NOUN yell|NOUN and|CONJ put|VERB their|PRON noses|NOUN to|PRT the|DET table|NOUN to|PRT sniff|VERB it|PRON all|DET up|ADV .|.
+ Can|VERB we|PRON feel|VERB it|PRON ?|.
+ Oh|X Chante|NOUN .|. ]|NOUN
+ into|ADP the|DET Malibu|NOUN DEBBI|NOUN Hey|NOUN what|PRON you|PRON doing|VERB with|ADP our|PRON car|NOUN ?|.
+ Your|PRON car|NOUN ?|.
+ You|PRON 're|VERB still|ADV here|ADV ?|.
+ My|PRON car|NOUN looks|VERB just|ADV like|ADP this|DET .|.
+ Of|ADP course|NOUN ...|. what|PRON 's|VERB in|ADP the|DET trunk|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ What|QUESTIONTAG line|NOUN of|ADP work|NOUN you|PRON in|ADP ?|.
+ re|NOUN ,|. re|NOUN ,|. re..|NOUN
+ Ever|ADV been|VERB to|PRT Utah|NOUN ?|.
+ Nuh-uh|NOUN
+ And|CONJ you|PRON do|VERB the|DET same|ADJ type|NOUN of|ADP work|NOUN ?|.
+ Did|NOUN n't|ADV I|PRON tell|VERB you|PRON ?|.
+ What|QUESTIONTAG is|VERB this|DET ?|.
+ Equity|NOUN turnover|NOUN .|.
+ Who|QUESTIONTAG ?|.
+ So|ADV you|PRON want|VERB to|PRT talk|VERB about|ADP it|PRON ?|.
+ Talk|NOUN about|ADP what|PRON kid|NOUN ?|.
+ Why|ADV you|PRON 're|VERB so|ADV damn|ADJ mad|NOUN at|ADP me|PRON ?|.
+ I|PRON 'm|VERB not|ADV mad|ADJ at|ADP you|PRON .|.
+ Debbie|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Why|ADV ?|.
+ It|PRON 's|VERB none|NOUN of|ADP your|PRON business|NOUN .|.
+ Yeah|X ?|.
+ out|ADP of|ADP the|DET agents|NOUN .|.
+ But|CONJ what|PRON if|ADP he|PRON 's|VERB innocent|ADJ ?|.
+ No|DET one|NOUN is|VERB innocent|ADJ .|.

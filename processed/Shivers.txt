@@ -1,0 +1,71 @@
+ Do|VERB you|PRON ever|ADV use|VERB that|ADP ?|.
+ This|DET ?|.
+ Can|VERB I|PRON call|VERB you|PRON at|ADP the|DET office|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB to|PRT call|VERB me|PRON at|ADP the|DET office|NOUN for|ADP ?|.
+ Is|VERB that|ADP the|DET man|NOUN who|PRON called|VERB you|PRON up|ADP here|ADV ?|.
+ Yeah|X ,|. that|DET 's|VERB Dr.|NOUN St.|NOUN Luc|NOUN .|.
+ Medical|ADJ clinic|NOUN ?|.
+ Yeah|X .|.
+ You|PRON 're|VERB the|DET one|NOUN who|PRON found|VERB the|DET bodies|NOUN ?|.
+ Yes|X .|.
+ You|PRON knew|VERB these|DET people|NOUN ?|.
+ I|PRON knew|VERB the|DET man|NOUN ,|. Emil|NOUN Hobbes|NOUN ,|. a|DET doctor|NOUN and|CONJ a|DET professor|NOUN at|ADP university|NOUN .|.
+ So|ADV you|PRON just|ADV came|VERB up|ADV to|PRT visit|VERB this|DET Hobbes|NOUN and|CONJ you|PRON found|VERB them|PRON like|ADP that|DET ?|.
+ Oh|X ,|. no|DET .|.
+ So|ADV who|PRON changes|NOUN ?|.
+ But|CONJ you|PRON gave|VERB up|PRT your|PRON private|ADJ practice|NOUN .|.
+ (|. shaking|VERB his|PRON head|NOUN in|ADP protest|NOUN )|. Did|NOUN I|PRON say|VERB anything|NOUN ?|.
+ (|. excited|VERB ,|. waving|VERB specimens|NOUN of|ADP parasites|NOUN and|CONJ diseased|ADJ organs|NOUN around|ADP )|. Look|NOUN .|.
+ Rollo|NOUN ,|. how|ADV come|ADJ Hobbes|NOUN killed|VERB himself|PRON ?|.
+ the|DET stirrups|NOUN in|ADP and|CONJ out|ADP on|ADP their|PRON adjustment|NOUN bars|NOUN .|.
+ Who|QUESTIONTAG was|VERB she|PRON ?|.
+ (|. reluctant|ADJ to|PRT talk|VERB )|. Aw|NOUN ,|. he|PRON met|VERB her|PRON when|ADV he|PRON was|VERB lecturing|VERB at|ADP some|DET private|ADJ girls|NOUN '|PRT school|NOUN .|.
+ But|CONJ you|PRON 'll|VERB think|VERB about|ADP what|PRON I|PRON said|VERB about|ADP working|VERB together|ADV ,|. huh|NOUN ?|.
+ OK|X .|.
+ You|PRON say|VERB something|NOUN ?|.
+ Nope|NOUN .|.
+ (|. after|ADP a|DET pause|NOUN )|. You|PRON sure|VERB you|PRON 're|VERB OK|ADJ ,|. Nick|NOUN ?|.
+ way|NOUN and|CONJ disappears|NOUN .|.
+ (|. a|DET bit|NOUN relieved|ADJ but|CONJ still|ADV tense|VERB )|. You|PRON 'll|VERB come|VERB up|ADV and|CONJ take|VERB a|DET look|NOUN at|ADP him|PRON ?|.
+ (|. standing|VERB up|PRT )|. If|ADP he|PRON ca|VERB n't|ADV make|VERB it|PRON down|PRT here|ADV ...|. sure|ADV .|.
+ You|PRON know|VERB what|PRON a|DET restless|ADJ night|NOUN you|PRON have|VERB if|ADP you|PRON do|VERB n't|ADV get|VERB your|PRON two|NUM hours|NOUN of|ADP color|NOUN TV|NOUN ,|. dear|NOUN ,|. so|ADP let|NOUN 's|PRT bustle|VERB along|ADV and|CONJ get|VERB our|PRON walk|NOUN over|ADP with|ADP ,|. shall|VERB we|PRON ...|. ?|.
+ Want|VERB me|PRON to|PRT breathe|VERB deeply|ADV ?|.
+ Just|ADV breathe|VERB normally|ADV .|.
+ (|. confidentially|ADV )|. Good|ADJ shape|NOUN for|ADP an|DET old|ADJ man|NOUN ,|. eh|VERB ?|.
+ (|. after|ADP a|DET pause|NOUN )|. Mr.|NOUN Parkins|NOUN ,|. what|PRON makes|VERB you|PRON think|VERB you|PRON caught|VERB these|DET lumps|NOUN of|ADP yours|NOUN from|ADP a|DET young|ADJ lady|NOUN ?|.
+ Did|NOUN n't|ADV she|PRON ever|ADV have|VERB these|DET lumps|NOUN looked|VERB at|ADP by|ADP a|DET doctor|NOUN ?|.
+ (|. shrugs|NOUN )|. Did|VERB n't|ADV seem|VERB worried|VERB about|ADP them|PRON .|.
+ Was|NOUN this|DET girl|NOUN from|ADP Starliner|NOUN Towers|NOUN ?|.
+ Yep|NOUN .|.
+ Was|NOUN her|PRON name|NOUN Annabelle|NOUN Horsefield|NOUN ?|.
+ That|DET 's|VERB the|DET one|NOUN .|.
+ Gon|NOUN na|PRT cut|VERB me|PRON open|VERB ?|.
+ Well|ADV ,|. let|VERB 's|PRT wait|NOUN for|ADP the|DET X-rays|NOUN .|.
+ Was|NOUN he|PRON nice|ADV to|PRT you|PRON ?|.
+ Buy|NOUN 'em|PRON with|ADP what|PRON ,|. dumbhead|NOUN ?|.
+ (|. flipping|VERB open|PRT a|DET milk|NOUN box|NOUN )|. With|ADP some|DET milk|NOUN jugs|NOUN I|PRON just|ADV happened|VERB to|PRT pick|VERB up|PRT on|ADP the|DET way|NOUN home|NOUN .|.
+ (|. frustrated|VERB )|. Oh|X ,|. why|ADV wo|VERB n't|ADV you|PRON let|VERB me|PRON help|VERB you|PRON ?|.
+ door|NOUN behind|ADP her|PRON .|.
+ Do|VERB I|PRON get|VERB a|DET kiss|NOUN ?|.
+ Forsythe|NOUN prods|NOUN his|PRON shoulder|NOUN .|.
+ Kiss|NOUN ,|. kiss|VERB ?|.
+ Uh|NOUN ,|. OK.|NOUN Sure|NOUN .|.
+ Another|DET kiss|NOUN ?|.
+ C'mon|NOUN ,|. Forsythe|NOUN .|.
+ Yes|X ?|.
+ That|ADP you|PRON ,|. Rog|NOUN ?|.
+ (|. not|ADV recognizing|VERB the|DET voice|NOUN )|. Yes|X ?|.
+ It|PRON 's|VERB me|PRON ,|. Rollo|NOUN Linsky|NOUN .|.
+ Huh|NOUN ?|.
+ Maybe|ADV Hobbes|NOUN did|VERB n't|ADV know|VERB it|PRON ,|. but|CONJ Annabelle|NOUN was|VERB a|DET pretty|ADJ popular|ADJ girl|NOUN around|ADP Starliner|NOUN Towers|NOUN .|.
+ Anything|VERB wrong|ADJ ?|.
+ No|DET .|.
+ Yes|X ?|.
+ as|ADP though|ADP in|ADP anticipation|NOUN of|ADP a|DET meal|NOUN .|.
+ Can|VERB I|PRON ...|. can|VERB I|PRON help|VERB you|PRON ?|.
+ What|QUESTIONTAG happened|VERB ?|.
+ (|. tipping|VERB his|PRON hat|NOUN as|ADP he|PRON introduces|VERB himself|PRON even|ADV in|ADP the|DET midst|NOUN of|ADP chaos|NOUN )|. Please|NOUN pardon|VERB me|PRON .|.
+ Where|QUESTIONTAG is|VERB this|DET thing|NOUN that|DET attacked|VERB your|PRON wife|NOUN ?|.
+ I|PRON hit|VERB it|PRON .|.
+ But|CONJ where|ADV are|VERB you|PRON going|VERB ?|.
+ (|. walking|VERB away|ADV )|. Down|ADP to|PRT the|DET incinerator|NOUN .|.

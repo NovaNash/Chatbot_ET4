@@ -1,0 +1,121 @@
+ Lord|NOUN Uther|NOUN ,|. if|ADP I|PRON yield|VERB to|PRT the|DET sword|NOUN of|ADP power|NOUN ,|. what|PRON will|VERB you|PRON yield|VERB ?|.
+ Me|NOUN ,|. yield|NOUN !|.
+ Have|VERB you|PRON found|VERB him|PRON ?|.
+ No|DET --|.
+ His|PRON spirit|NOUN ?|.
+ silence|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ,|. lady|ADV ?|.
+ I|PRON ?|.
+ The|DET child|NOUN is|VERB mine|ADJ ,|. Uther|NOUN .|.
+ To|PRT kill|VERB and|CONJ be|VERB king|NOUN ,|. is|VERB that|ADP all|DET ?|.
+ Maybe|ADV not|ADV even|ADV that|ADP ,|. Uther|NOUN .|.
+ Merlin|NOUN ,|. are|VERB you|PRON now|ADV the|DET father|NOUN ,|. and|CONJ the|DET mother|NOUN ,|. of|ADP the|DET baby|NOUN ?|.
+ continues|VERB away|ADV ,|. faster|ADJ now|ADV ,|. and|CONJ into|ADP an|DET unlit|ADJ passageway|NOUN ,|. disappearing|VERB from|ADP sight|VERB a|DET bit|NOUN sooner|ADJ than|ADP an|DET ordinary|ADJ mortal|NOUN would|VERB have|VERB .|.
+ Did|NOUN you|PRON free|VERB the|DET sword|NOUN ,|. boy|NOUN ?|.
+ I|PRON ...|. did|VERB ,|. Father|NOUN .|.
+ You|PRON freed|VERB it|PRON ,|. son|NOUN ?|.
+ I|PRON did|VERB ,|. Father|NOUN .|.
+ Who|QUESTIONTAG is|VERB ,|. then|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Who|QUESTIONTAG is|VERB Merlin|NOUN ?|.
+ Speak|NOUN of|ADP the|DET devil|NOUN !|. ...|.
+ Whose|NOUN son|NOUN am|VERB I|PRON ?|.
+ You|PRON are|VERB the|DET son|NOUN of|ADP King|NOUN Uther|NOUN ,|. and|CONJ the|DET fair|ADJ Igrayne|NOUN ...|. you|PRON are|VERB King|VERB Arthur|NOUN .|.
+ You|PRON called|VERB ,|. sir|NOUN ?|.
+ sleep|NOUN .|.
+ Maybe|ADV you|PRON 'd|VERB like|VERB to|PRT meet|VERB the|DET power|NOUN that|DET gave|VERB you|PRON the|DET sword|NOUN ?|.
+ What|QUESTIONTAG book|NOUN is|VERB that|ADP ?|.
+ (|. melodramatic|ADJ )|. The|DET book|NOUN without|ADP pages|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Noble|ADJ knights|NOUN swear|VERB faith|NOUN to|PRT a|DET mere|ADJ squire|NOUN ?|.
+ from|ADP a|DET distance|NOUN .|.
+ (|. to|PRT himself|PRON )|. What|QUESTIONTAG 's|VERB this|DET ,|. what|PRON 's|VERB this|DET ?|.
+ his|PRON features|NOUN set|VERB .|.
+ It|PRON did|VERB n't|ADV hurt|VERB too|ADV much|ADJ ,|. did|VERB it|PRON ?|.
+ Ye|NOUN ...|.
+ --|. And|CONJ damsels|NOUN in|ADP besieged|ADJ castles|NOUN are|VERB waiting|VERB to|PRT be|VERB rescued|VERB ?|.
+ I|PRON did|VERB n't|ADV know|VERB Leondegrance|NOUN had|VERB a|DET daughter|NOUN .|.
+ Would|VERB you|PRON rescue|VERB me|PRON from|ADP a|DET fiery|NOUN dragon|NOUN ,|. sir|NOUN ?|.
+ speaking|VERB in|ADP a|DET half-whisper|NOUN .|.
+ What|QUESTIONTAG 's|VERB in|ADP them|PRON ?|.
+ Where|QUESTIONTAG is|VERB Merlin|NOUN ?|.
+ Lancelot|NOUN ,|. how|ADV did|VERB you|PRON fare|VERB in|ADP the|DET North|NOUN ?|.
+ We|PRON spared|VERB the|DET lives|NOUN of|ADP a|DET few|ADJ ,|. so|ADP they|PRON could|VERB sail|VERB home|NOUN and|CONJ tell|VERB their|PRON fellows|NOUN what|PRON fate|VERB they|PRON met|VERB at|ADP the|DET hands|NOUN of|ADP King|NOUN Arthur|NOUN 's|PRT knights|NOUN ...|.
+ And|CONJ you|PRON ,|. Uryens|NOUN ?|.
+ Victory|NOUN !|.
+ Lot|NOUN ,|. and|CONJ you|PRON ?|.
+ We|PRON drove|VERB the|DET invaders|NOUN into|ADP the|DET sea|NOUN .|.
+ You|PRON ,|. Gawain|NOUN ,|. the|DET East|NOUN ?|.
+ The|DET East|NOUN is|VERB ours|ADV again|ADV .|.
+ Without|ADP Lancelot|NOUN ?|.
+ looks|NOUN at|ADP him|PRON ,|. lively|ADV and|CONJ amused|VERB ,|. and|CONJ he|PRON ca|VERB n't|ADV help|VERB smiling|VERB .|.
+ Why|ADV ?|.
+ I|PRON am|VERB a|DET fighting|NOUN man|NOUN and|CONJ I|PRON am|VERB married|VERB to|PRT the|DET quest|NOUN .|.
+ And|CONJ there|DET is|VERB no|DET maiden|NOUN in|ADP the|DET whole|ADJ world|NOUN who|PRON inspires|VERB you|PRON ?|.
+ There|DET is|VERB one|NUM .|.
+ Who|QUESTIONTAG ?|.
+ You|PRON .|.
+ Me|NOUN ?|.
+ Yes|X .|.
+ Lord|NOUN Merlin|NOUN ,|. are|VERB you|PRON ill|VERB ?|.
+ No|DET ,|. no|DET ,|. I|PRON need|VERB air|NOUN .|.
+ Merlin|NOUN ,|. do|VERB n't|ADV you|PRON join|VERB the|DET celebration|NOUN ?|.
+ bystanders|NOUN ,|. looks|VERB up|PRT .|.
+ Is|VERB that|DET Mandrake|NOUN ,|. Lord|NOUN Merlin|NOUN ?|.
+ It|PRON is|VERB .|.
+ Can|VERB it|PRON truly|ADV be|VERB used|VERB for|ADP magic|NOUN ?|.
+ cruel|NOUN and|CONJ lovely|ADV .|.
+ (|. stuttering|VERB )|. Have|VERB I|PRON taken|VERB too|ADV much|ADJ ?|.
+ And|CONJ Perceval|NOUN ,|. cartwheels|NOUN backward|VERB ,|. landing|VERB in|ADP the|DET stream|NOUN and|CONJ scooping|VERB a|DET fish|NOUN out|PRT .|.
+ Can|VERB I|PRON grow|VERB metal|NOUN skin|NOUN ?|.
+ I|PRON 'll|VERB learn|VERB ...|. take|VERB me|PRON ...|. to|PRT the|DET King|NOUN ...|. What|QUESTIONTAG 's|VERB a|DET ...|. King|NOUN ?|.
+ Perceval|NOUN lengthens|VERB his|PRON stride|NOUN ,|. and|CONJ keeps|VERB up|PRT !|.
+ Who|QUESTIONTAG will|VERB give|VERB me|PRON my|PRON sword|NOUN ?|.
+ the|DET ear|NOUN and|CONJ leads|VERB him|PRON across|ADP the|DET drawbridge|NOUN and|CONJ into|ADP the|DET castle|NOUN .|.
+ What|QUESTIONTAG does|VERB it|PRON cost|VERB to|PRT get|VERB drunk|VERB on|ADP your|PRON ale|NOUN ?|.
+ At|ADP least|ADJ three|NUM shillings|NOUN ,|. sir|NOUN .|.
+ Merlin|NOUN ,|. are|VERB you|PRON counselor|VERB to|PRT the|DET King|NOUN ,|. or|CONJ to|PRT my|PRON sister|NOUN ?|.
+ Where|QUESTIONTAG hides|NOUN evil|VERB ,|. then|ADV ,|. in|ADP my|PRON kingdom|NOUN ?|.
+ Never|ADV where|ADV you|PRON expect|VERB it|PRON ,|. that|DET 's|VERB all|DET I|PRON know|VERB .|.
+ (|. lashing|VERB out|PRT )|. What|QUESTIONTAG is|VERB it|PRON you|PRON would|VERB have|VERB your|PRON words|NOUN mean|VERB ,|. Sir|NOUN Gahalt|NOUN ?|.
+ Guenevere|NOUN 's|PRT side|NOUN .|.
+ Not|ADV you|PRON ,|. my|PRON husband|NOUN ?|.
+ Why|ADV ca|VERB n't|ADV you|PRON be|VERB my|PRON champion|NOUN ?|.
+ If|ADP I|PRON am|VERB your|PRON judge|NOUN ,|. I|PRON can|VERB not|ADV be|VERB your|PRON champion|NOUN .|.
+ Is|VERB he|PRON coming|VERB ?|.
+ He|PRON heard|VERB Lady|NOUN Guenevere|NOUN 's|PRT request|NOUN and|CONJ he|PRON said|VERB nothing|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON my|PRON child|NOUN ?|.
+ face|NOUN .|.
+ Will|VERB I|PRON have|VERB a|DET son|NOUN ?|.
+ high|ADJ up|PRT .|.
+ Has|VERB n't|ADV Merlin|NOUN mended|VERB your|PRON wound|NOUN ?|.
+ It|PRON is|VERB deep|ADJ ...|.
+ Why|ADV did|VERB n't|ADV he|PRON kill|VERB us|PRON ?|.
+ He|PRON has|VERB given|VERB up|PRT .|.
+ People|NOUN make|VERB you|PRON laugh|ADP ?|.
+ Why|ADV ?|.
+ Has|VERB no|DET one|NOUN seen|VERB Merlin|NOUN ?|.
+ their|PRON heads|NOUN .|.
+ Do|VERB you|PRON know|VERB what|PRON Guenevere|NOUN 's|PRT maids|NOUN have|VERB whispered|VERB ?|.
+ Who|QUESTIONTAG will|VERB ride|VERB the|DET labyrinths|NOUN of|ADP the|DET forest|ADJ ,|. to|PRT the|DET very|ADV root|NOUN of|ADP his|PRON soul|NOUN ,|. to|PRT the|DET very|ADV ends|VERB of|ADP the|DET earth|NOUN ,|. to|PRT find|VERB the|DET secret|ADJ that|DET will|VERB redeem|VERB us|PRON from|ADP the|DET evil|NOUN that|DET has|VERB fallen|VERB upon|ADP us|PRON ,|. and|CONJ make|VERB this|DET chalice|NOUN ,|. and|CONJ ourselves|PRON ,|. whole|VERB again|ADV ?|.
+ Your|PRON mother|NOUN told|VERB you|PRON that|ADP ?|.
+ looks|VERB upon|ADP his|PRON son|NOUN ,|. desperately|ADV trying|VERB to|PRT read|VERB him|PRON .|.
+ Who|QUESTIONTAG does|VERB it|PRON serve|VERB ?|.
+ You|PRON ,|. my|PRON lord|NOUN .|.
+ But|CONJ who|PRON am|VERB I|PRON ?|.
+ What|QUESTIONTAG horror|NOUN is|VERB that|ADP ?|.
+ Mordred|NOUN ,|. sir|NOUN .|.
+ What|QUESTIONTAG is|VERB this|DET place|NOUN ,|. Merlin|NOUN ?|.
+ It|PRON is|VERB like|ADP a|DET tree|NOUN .|.
+ Merlin|NOUN ?|.
+ Of|ADP Merlin|NOUN ?|.
+ Yes|X .|.
+ ...|. Mother|NOUN ?|.
+ rising|VERB from|ADP within|ADP her|PRON ruptured|ADJ body|NOUN .|.
+ Has|NOUN anyone|NOUN seen|VERB Lancelot|NOUN ?|.
+ He|PRON lies|VERB over|ADP there|ADV ,|. sir|NOUN .|.
+ (|. a|DET death|NOUN whisper|NOUN )|. Guenevere|NOUN ,|. has|VERB she|PRON come|VERB to|PRT you|PRON ,|. is|VERB she|PRON Queen|NOUN again|ADV ?|.
+ Where|QUESTIONTAG is|VERB Arthur|NOUN ?|.
+ crushes|NOUN his|PRON skull|ADJ underfoot|NOUN .|.
+ When|QUESTIONTAG you|PRON threw|VERB it|PRON in|ADP ,|. what|PRON did|VERB you|PRON see|VERB ?|.
+ ...|. I|PRON saw|VERB nothing|NOUN .|.

@@ -1,0 +1,9 @@
+ me|PRON ?|.
+ between|ADP ?|.
+ thing|NOUN ?|.
+ there|ADV ?|.
+ know|VERB about|ADP them|PRON ?|.
+ them|PRON .|.
+ Are|NOUN you|PRON ,|. hurt|VERB ?|.
+ yourself|PRON ?|.
+ earth|NOUN ?|.

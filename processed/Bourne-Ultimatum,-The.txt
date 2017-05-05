@@ -1,0 +1,156 @@
+ Where|QUESTIONTAG is|VERB my|PRON sister|NOUN ?|.
+ She|PRON 's|VERB dead|ADJ .|.
+ Why|ADV did|VERB she|PRON die|VERB ?|.
+ She|PRON was|VERB shot|VERB .|.
+ Now|ADV what|PRON ?|.
+ Someone|NOUN started|VERB all|DET this|DET ...|. and|CONJ I|PRON 'm|VERB going|VERB to|PRT find|VERB them|PRON .|.
+ (|. in|ADP French|NOUN )|. Who|QUESTIONTAG started|VERB Treadstone|NOUN ?|.
+ You|PRON tracking|VERB him|PRON ?|.
+ Is|VERB that|ADP all|DET ?|.
+ Yeah|X .|.
+ questions|NOUN ?|.
+ Where|QUESTIONTAG 's|PRT my|PRON picture|NOUN please|VERB ?|.
+ Coming|VERB online|NOUN ...|. Online|NOUN ...|. Now|ADV .|.
+ So|ADV how|ADV do|VERB we|PRON know|VERB he|PRON 's|VERB not|ADV spinning|VERB for|ADP someone|NOUN ?|.
+ There|DET 's|VERB more|ADJ .|.
+ Scared|NOUN of|ADP what|PRON ?|.
+ Blackbriar|NOUN .|.
+ Who|QUESTIONTAG is|VERB it|PRON ?|.
+ Wo|VERB n't|ADV give|VERB hie|NOUN name|NOUN .|.
+ Why|ADV are|VERB n't|ADV we|PRON hearing|VERB this|DET ?|.
+ That|DET 's|VERB a|DET hard|ADJ line|NOUN ,|. Jimmy|NOUN ,|. why|ADV do|VERB n't|ADV we|PRON have|VERB it|PRON ?|.
+ Who|QUESTIONTAG is|VERB this|DET ?|.
+ This|DET is|VERB Jason|NOUN Bourne|NOUN .|.
+ Are|NOUN you|PRON getting|VERB an|DET image|NOUN ?|.
+ Where|QUESTIONTAG 's|VERB he|PRON going|VERB ?|.
+ Where|QUESTIONTAG is|VERB he|PRON heading|VERB ?|.
+ Waterloo|NOUN Station|NOUN .|.
+ Hello|NOUN ?|.
+ Do|VERB n't|ADV ask|VERB questions|NOUN .|.
+ What|QUESTIONTAG 's|VERB the|DET ROE|NOUN on|ADP this|DET one|NUM ?|.
+ Okay|NOUN ,|. who|PRON 's|VERB the|DET guy|NOUN in|ADP the|DET blue|NOUN hood|NOUN ?|.
+ Trying|VERB to|PRT play|VERB it|PRON cool|ADJ --|. ROSS|NOUN in|ADP clear|ADJ view|NOUN of|ADP the|DET cameras|NOUN .|.
+ What|QUESTIONTAG happened|VERB to|PRT Survey|VERB One|NUM ?|.
+ I|PRON do|VERB n't|ADV like|VERB this|DET .|.
+ Why|ADV do|VERB you|PRON know|VERB so|ADV much|ADJ about|ADP me|PRON ?|.
+ What|QUESTIONTAG ?|.
+ I|PRON ca|VERB n't|ADV tell|VERB you|PRON that|ADP ...|. .|. Who|QUESTIONTAG 's|VERB following|VERB me|PRON ?|.
+ Whoever|ADP they|PRON are|VERB it|PRON 's|VERB trouble|NOUN .|.
+ Are|ADP they|PRON Blackbriar|NOUN ?|.
+ Blackbriar|NOUN ,|. what|PRON 's|VERB Blackbriar|NOUN ?|.
+ Has|NOUN she|PRON seen|VERB me|PRON ?|.
+ Not|ADV yet|ADV .|.
+ Are|ADP we|PRON clear|ADJ ?|.
+ Clear|ADJ .|.
+ Asset|NOUN in|ADP play|NOUN ?|.
+ Keep|VERB moving|NOUN ...|.
+ Maybe|ADV he|PRON 's|VERB the|DET source|NOUN ?|.
+ It|PRON does|VERB n't|ADV matter|VERB ,|. the|DET asset|NOUN now|ADV has|VERB 2|NUM targets|NOUN .|.
+ I|PRON 'm|VERB going|VERB to|PRT go|VERB for|ADP it|PRON ,|. okay|PRON ?|.
+ Do|VERB n't|ADV move|VERB until|ADP I|PRON tell|VERB you|PRON .|.
+ What|QUESTIONTAG about|ADP Bourne|NOUN ?|.
+ does|VERB n't|ADV need|VERB to|PRT see|VERB anymore|ADV .|.
+ (|. handing|VERB her|PRON the|DET menu|NOUN )|. Ma'am|NOUN ?|.
+ Nothing|NOUN for|ADP me|PRON .|.
+ Meaning|VERB ?|.
+ Jason|NOUN Bourne|NOUN .|.
+ Really|ADV ?|.
+ It|PRON was|VERB finished|VERB the|DET moment|NOUN I|PRON realized|VERB I|PRON was|VERB chasing|VERB him|PRON for|ADP something|NOUN he|PRON did|VERB n't|ADV do|VERB .|.
+ Why|ADV 's|PRT it|PRON so|ADV hard|ADV for|ADP you|PRON to|PRT believe|VERB ?|.
+ Probably|ADV because|ADP it|PRON 's|VERB coming|VERB from|ADP you|PRON ,|. Noah|NOUN .|.
+ So|ADV what|PRON happened|VERB at|ADP Waterloo|NOUN ?|.
+ We|PRON have|VERB a|DET leak|NOUN .|.
+ And|CONJ the|DET reporter|NOUN ended|VERB up|PRT dead|ADJ ?|.
+ Bourne|NOUN saw|VERB us|PRON coming|VERB .|.
+ So|ADV what|PRON was|VERB he|PRON doing|VERB ?|.
+ We|PRON do|VERB n't|ADV know|VERB .|.
+ Where|QUESTIONTAG are|VERB your|PRON grids|NOUN coming|VERB from|ADP ?|.
+ NSA|NOUN Tactical|NOUN .|.
+ You|PRON have|VERB an|DET Echelon|NOUN package|NOUN ?|.
+ Yes|X .|.
+ Why|ADV is|VERB n't|ADV it|PRON on|ADP ?|.
+ We|PRON were|VERB waiting|VERB .|.
+ I|PRON think|VERB we|PRON can|VERB be|VERB pretty|ADV certain|ADJ that|ADP Bourne|NOUN 's|PRT not|ADV your|PRON source|NOUN then|ADV ?|.
+ How|QUESTIONTAG ?|.
+ So|ADV ?|.
+ So|ADV ,|. what|PRON ,|. Bourne|NOUN met|VERB Ross|NOUN for|ADP breakfast|NOUN and|CONJ then|ADV ,|. at|ADP noon|DET the|DET same|ADJ day|NOUN Bourne|NOUN calls|VERB Ross|NOUN to|PRT demand|VERB a|DET meet|NOUN at|ADP Waterloo|NOUN ?|.
+ (|. Needling|NOUN Wills|NOUN )|. Maybe|ADV they|PRON were|VERB even|ADV on|ADP the|DET same|ADJ flight|NOUN ?|.
+ Cross|NOUN check|VERB the|DET secure|NOUN cell|NOUN phone|NOUN usage|NOUN of|ADP everyone|NOUN with|ADP Blackbriar|NOUN SCI|NOUN clearance|NOUN against|ADP all|DET calls|NOUN in|ADP and|CONJ out|ADP of|ADP Turin|NOUN during|ADP the|DET morning|NOUN Ross|NOUN was|VERB there|DET
+ Do|VERB you|PRON have|VERB a|DET better|ADJ idea|NOUN ?|.
+ Yeah|X ,|. I|PRON 'd|VERB look|VERB at|ADP all|DET the|DET people|NOUN whose|PRON cell|NOUN phones|NOUN were|VERB switched|VERB off|PRT the|DET entire|ADJ period|NOUN Ross|NOUN was|VERB in|ADP Turin|NOUN .|.
+ Team|NOUN two|NUM ,|. ETA|NOUN Callee|NOUN Norte|NOUN ?|.
+ Three|NUM minutes|NOUN .|.
+ How|QUESTIONTAG long|ADJ till|ADJ back-up|NOUN arrives|NOUN ?|.
+ background|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB here|ADV ?|.
+ I|PRON was|VERB posted|VERB here|ADV after|ADP Berlin|NOUN .|.
+ Where|QUESTIONTAG 's|PRT Daniels|NOUN ?|.
+ it|PRON up|PRT .|.
+ Who|QUESTIONTAG is|VERB this|DET ?|.
+ This|DET is|VERB Nicky|ADJ Parsons|NOUN .|.
+ Is|VERB there|DET any|DET sign|NOUN of|ADP Daniels|NOUN ?|.
+ No|DET .|.
+ How|QUESTIONTAG long|ADJ do|VERB I|PRON have|VERB ?|.
+ Three|NUM minutes|NOUN ...|.
+ Okay|NOUN ,|. where|ADV is|VERB Daniels|NOUN headed|VERB ?|.
+ 8|NUM o'clock|NOUN this|DET morning|NOUN ,|. he|PRON wired|VERB $|. 100,000|NUM .|.
+ And|CONJ then|ADV what|PRON ?|.
+ You|PRON still|ADV think|VERB he|PRON 's|VERB after|ADP Daniels|NOUN ?|.
+ Yeah|X .|.
+ Do|VERB you|PRON know|VERB who|PRON this|DET is|VERB ?|.
+ between|ADP them|PRON .|.
+ Who|QUESTIONTAG is|VERB he|PRON ?|.
+ What|QUESTIONTAG happened|VERB ?|.
+ An|DET initiation|NOUN ...|. I|PRON guess|VERB ...|.
+ Why|ADV are|VERB you|PRON helping|VERB me|PRON ?|.
+ It|PRON was|VERB difficult|ADJ for|ADP me|PRON ...|. with|ADP you|PRON .|.
+ You|PRON really|ADV do|VERB n't|ADV remember|VERB anything|NOUN ?|.
+ No|DET .|.
+ Since|ADP when|ADV do|VERB you|PRON have|VERB authorization|NOUN for|ADP lethal|ADJ action|NOUN against|ADP Daniels|NOUN ?|.
+ Since|ADP he|PRON cleaned|VERB out|PRT a|DET Blackbriar|NOUN safe|ADJ and|CONJ fled|VERB to|PRT Morocco|NOUN !|.
+ Do|VERB we|PRON have|VERB that|DET room|NOUN yet|ADV ?|.
+ Yes|X sir|NOUN Room|NOUN 117|NUM .|.
+ Now|ADV they|PRON found|VERB Daniels|NOUN ,|. do|VERB you|PRON know|VERB where|ADV he|PRON is|VERB ?|.
+ They|PRON 'll|VERB get|VERB one|NUM of|ADP the|DET operatives|NOUN to|PRT terminate|VERB him|PRON .|.
+ Where|QUESTIONTAG did|VERB the|DET course|NOUN deviation|NOUN occur|ADP ?|.
+ South|NOUN to|PRT Rue|NOUN Belgique|NOUN .|.
+ (|. going|VERB to|PRT Vosen|NOUN ,|. firm|NOUN )|. Noah|NOUN ,|. what|PRON are|VERB you|PRON doing|VERB ?|.
+ Not|ADV now|ADV .|.
+ Confirmed|VERB ?|.
+ Not|ADV yet|ADV .|.
+ Bourne|NOUN ?|.
+ Is|VERB that|ADP official|ADJ ?|.
+ Are|ADP we|PRON triangulating|VERB ?|.
+ Why|ADV the|DET hell|NOUN did|VERB she|PRON give|VERB him|PRON that|DET ?|.
+ You|PRON were|VERB born|VERB 4/15/71|NUM in|ADP Nixa|NOUN ,|. Missouri|NOUN .|.
+ What|QUESTIONTAG the|DET hell|NOUN do|VERB you|PRON mean|VERB we|PRON ca|VERB n't|ADV read|VERB it|PRON ?|.
+ Working|VERB on|ADP it|PRON --|.
+ (|. frustrated|VERB )|. How|QUESTIONTAG do|VERB you|PRON know|VERB a|DET text|NOUN came|VERB if|ADP you|PRON ca|VERB n't|ADV read|VERB it|PRON --|. (|. to|PRT Wills|NOUN )|. Are|VERB we|PRON on|ADP Landy|NOUN ?|.
+ Six|NUM men|NOUN .|.
+ Any|DET sign|NOUN of|ADP Bourne|NOUN ?|.
+ How|QUESTIONTAG did|VERB you|PRON get|VERB this|DET number|NOUN ?|.
+ You|PRON did|VERB n't|ADV actually|ADV think|VERB I|PRON was|VERB coming|VERB to|PRT Tudor|NOUN City|NOUN ,|. did|VERB you|PRON ?|.
+ Where|QUESTIONTAG are|VERB you|PRON right|ADV now|ADV ?|.
+ In|ADP my|PRON office|NOUN .|.
+ What|QUESTIONTAG just|ADV happened|VERB ?|.
+ Bourne|NOUN got|VERB into|ADP Vosen|NOUN 's|PRT safe|ADJ .|.
+ What|QUESTIONTAG ?|.
+ Where|QUESTIONTAG to|PRT ?|.
+ 415|NUM East|NOUN 71st|NUM Street|NOUN .|.
+ (|. practically|ADV screaming|VERB into|ADP his|PRON handheld|NOUN )|. He|PRON did|VERB what|PRON ?|.
+ What|QUESTIONTAG about|ADP it|PRON ?|.
+ Well|ADV ,|. Landy|NOUN told|VERB Bourne|NOUN his|PRON birthday|NOUN was|VERB 4/15/71|NUM so|ADV ...|.
+ How|QUESTIONTAG long|ADJ do|VERB I|PRON have|VERB ?|.
+ Not|ADV long|ADV .|.
+ Why|ADV 'd|VERB you|PRON do|VERB it|PRON ?|.
+ This|DET is|VERB n't|ADV us|PRON ,|. David|NOUN .|.
+ What|QUESTIONTAG does|VERB that|DET mean|VERB ?|.
+ You|PRON volunteered|VERB .|.
+ Who|QUESTIONTAG is|VERB he|PRON ?|.
+ We|PRON 've|VERB been|VERB through|ADP that|DET .|.
+ What|QUESTIONTAG did|VERB he|PRON do|VERB ?|.
+ It|PRON does|VERB n't|ADV matter|VERB .|.
+ Do|VERB you|PRON remember|VERB now|ADV ?|.
+ So|ADV now|ADV you|PRON 're|VERB going|VERB to|PRT kill|VERB me|PRON ?|.
+ No|DET .|.
+ Why|ADV did|VERB n't|ADV you|PRON take|VERB the|DET shot|NOUN ?|.

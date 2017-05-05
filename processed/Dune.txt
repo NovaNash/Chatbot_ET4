@@ -1,0 +1,96 @@
+ Yes|X ?|.
+ Forced|NOUN spice|NOUN evolution|NOUN of|ADP humans|NOUN changes|NOUN many|ADJ things|NOUN ...|. .|.
+ Where|QUESTIONTAG are|VERB the|DET Harkonnens|NOUN from|ADP here|ADV ?|.
+ (|. strange|NOUN shielded|VERB voice|NOUN )|. Is|VERB this|DET what|PRON you|PRON seek|VERB ?|.
+ (|. strange|NOUN shielded|VERB voice|NOUN )|. Good|VERB ...|. the|DET slow|ADJ blade|NOUN penetrates|VERB the|DET shield|NOUN ...|. but|CONJ look|VERB down|PRT .|.
+ Would|VERB you|PRON really|ADV have|VERB drawn|VERB my|PRON blood|NOUN ?|.
+ If|ADP you|PRON 'd|VERB fought|VERB one|NUM whit|DET below|ADP your|PRON abilities|NOUN I|PRON 'd|VERB have|VERB scratched|VERB you|PRON a|DET good|ADJ one|NUM .|.
+ Only|ADV ?|.
+ Well|ADV ,|. how|ADV do|VERB the|DET Fremen|NOUN survive|VERB there|ADV ?|.
+ We|PRON do|VERB n't|ADV know|VERB much|ADV about|ADP the|DET Fremen|NOUN ...|.
+ The|DET bull|NOUN that|DET killed|VERB my|PRON grandfather|NOUN ...|. is|VERB this|DET an|DET evil|ADJ omen|NOUN ?|.
+ black|ADJ head|NOUN .|.
+ --|. PAUL|VERB What|QUESTIONTAG 's|VERB in|ADP the|DET box|NOUN ?|.
+ Pain|NOUN .|.
+ Are|NOUN you|PRON suggesting|VERB a|DET Duke|NOUN 's|PRT son|NOUN is|VERB an|DET animal|NOUN ?|.
+ Let|VERB us|PRON say|VERB I|PRON suggest|VERB you|PRON may|VERB be|VERB human|ADJ .|.
+ You|PRON feel|VERB the|DET flesh|NOUN crisping|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ (|. profoundly|ADV )|. The|DET person|NOUN who|PRON can|VERB be|VERB many|ADJ places|NOUN at|ADP once|ADV ...|. the|DET one|NOUN who|PRON bridges|VERB space|NOUN and|CONJ time|NOUN ...|. .|.
+ Where|QUESTIONTAG ?|.
+ Do|VERB you|PRON know|VERB of|ADP the|DET Water|NOUN of|ADP Life|NOUN ?|. ...|.
+ Did|NOUN they|PRON try|VERB and|CONJ fail|VERB ?|.
+ They|PRON tried|VERB and|CONJ died|VERB ...|. .|. (|. she|PRON calls|VERB out|PRT loudly|ADV )|. Jessica|NOUN !|.
+ What|QUESTIONTAG does|VERB Leto|NOUN say|VERB ,|. Piter|NOUN ?|.
+ He|PRON wishes|VERB to|PRT inform|VERB you|PRON that|ADP Vendetta|NOUN --|. as|ADP he|PRON puts|VERB it|PRON ,|. using|VERB the|DET ancient|NOUN tongue|NOUN ,|. the|DET art|NOUN of|ADP Kanly|NOUN --|. is|VERB still|ADV alive|ADJ .|.
+ Who|QUESTIONTAG is|VERB the|DET traitor|NOUN ?|.
+ (|. laughs|PRON )|. I|PRON wo|VERB n't|ADV tell|VERB you|PRON who|PRON the|DET traitor|NOUN is|VERB or|CONJ when|ADV we|PRON 'll|VERB attack|VERB .|.
+ (|. into|ADP a|DET radio|NOUN microphone|NOUN )|. Why|ADV is|VERB n't|ADV the|DET shield|NOUN up|PRT yet|ADV ?|.
+ Listen|NOUN here|ADV ...|. .|. You|PRON can|VERB here|ADV the|DET people|NOUN of|ADP Arrakeen|NOUN outside|ADP ...|. .|. Can|VERB you|PRON here|ADV the|DET cry|NOUN ``|. Soo|NOUN Soo|NOUN Sook|NOUN ''|. of|ADP the|DET water|NOUN sellers|NOUN ?|.
+ So|ADV many|ADJ reminders|NOUN of|ADP the|DET scarcity|NOUN of|ADP water|NOUN .|.
+ (|. whispering|VERB inner|ADJ voice|NOUN )|. Terrible|NOUN purpose|NOUN ...|. .|. What|QUESTIONTAG is|VERB it|PRON ?|.
+ (|. strangely|ADV asked|VERB )|. You|PRON know|VERB the|DET ancient|NOUN tongues|NOUN ?|.
+ I|PRON know|VERB the|DET Bhotani|NOUN Jib|NOUN and|CONJ Chakobsa|NOUN ,|. all|DET the|DET hunting|NOUN languages|NOUN .|.
+ Do|VERB you|PRON know|VERB this|DET my|PRON lady|NOUN ?|.
+ (|. inner|ADJ voice|NOUN )|. It|PRON could|VERB only|ADV be|VERB one|NUM thing|NOUN ...|. .|. (|. out|ADP loud|NOUN )|. It|PRON 's|VERB a|DET crysknife|NOUN .|.
+ Say|VERB it|PRON not|ADV lightly|ADV ...|. (|. very|ADV slowly|ADV )|. Do|VERB you|PRON know|VERB its|PRON meaning|NOUN ?|.
+ (|. inner|ADJ voice|NOUN )|. Here|ADV is|VERB why|ADV this|DET Fremen|NOUN has|VERB taken|VERB service|NOUN with|ADP me|PRON ,|. to|PRT ask|VERB that|ADP one|NUM question|NOUN .|.
+ So|ADP you|PRON are|VERB Dr.|NOUN Kynes|NOUN ,|. the|DET Imperial|NOUN Ecologist|NOUN ?|.
+ (|. turning|VERB to|PRT Gurney|NOUN )|. I|PRON prefer|VERB the|DET more|ADV ancient|ADJ term|NOUN ,|. planetologist|NOUN ...|. Noble|ADJ Born|NOUN .|.
+ Are|NOUN you|PRON a|DET Fremen|NOUN ?|.
+ I|PRON am|VERB a|DET servant|NOUN of|ADP the|DET His|PRON Majesty|NOUN the|DET Emperor|NOUN .|.
+ Will|VERB we|PRON see|VERB a|DET worm|NOUN ?|.
+ Where|QUESTIONTAG there|DET is|VERB spice|NOUN and|CONJ spice|NOUN mining|NOUN there|DET are|VERB always|ADV worms|NOUN .|.
+ Always|NOUN ?|.
+ Always|NOUN .|.
+ Why|ADV do|VERB they|PRON come|VERB ?|.
+ To|PRT protect|VERB their|PRON territory|NOUN .|.
+ (|. over|ADP radio|NOUN )|. Who|QUESTIONTAG calls|VERB Pad|NOUN Nine|NOUN ?|.
+ (|. quickly|ADV )|. Do|VERB n't|ADV mention|VERB the|DET Duke|NOUN ...|.
+ What|QUESTIONTAG happens|VERB now|ADV ?|.
+ The|DET carryall|NOUN will|VERB come|VERB and|CONJ lift|VERB off|PRT the|DET spice|NOUN harvester|NOUN .|.
+ How|QUESTIONTAG many|ADJ men|NOUN do|VERB you|PRON have|VERB ?|.
+ (|. over|ADP radio|NOUN )|. Full|NOUN crew|NOUN --|. twenty-six|ADJ men|NOUN --|. but|CONJ Sire|NOUN ,|. we|PRON ca|VERB n't|ADV leave|VERB this|DET spice|NOUN ...|.
+ (|. yelling|VERB )|. What|QUESTIONTAG 's|VERB that|ADP you|PRON 're|VERB saying|VERB ?|.
+ Nothing|NOUN .|.
+ (|. inner|ADJ voice|NOUN )|. Liet|NOUN ?|.
+ (|. pointing|VERB down|ADV and|CONJ yelling|VERB )|. You|PRON are|VERB about|ADP to|PRT witness|VERB something|NOUN few|ADJ have|VERB seen|VERB --|. watch|NOUN !|.
+ (|. hoarse|VERB whisper|NOUN )|. ...|. Why|ADV ?|.
+ --|. YUEH|NOUN I|PRON wish|VERB to|PRT kill|VERB a|DET man|NOUN ...|. not|ADV you|PRON ,|. my|PRON dear|ADJ Duke|NOUN ,|. but|CONJ the|DET Baron|NOUN ...|. .|. You|PRON were|VERB dead|ADJ already|ADV ...|. but|CONJ you|PRON will|VERB be|VERB close|ADV to|PRT the|DET Baron|NOUN before|ADP you|PRON die|VERB .|.
+ (|. inner|ADJ voice|NOUN )|. Leto|NOUN ...|. where|ADV are|VERB you|PRON ?|.
+ What|QUESTIONTAG are|VERB your|PRON orders|NOUN ,|. Piter|NOUN ?|.
+ Take|VERB them|PRON to|PRT the|DET desert|NOUN ,|. as|ADP the|DET traitor|NOUN suggested|VERB and|CONJ worms|NOUN will|VERB destroy|VERB the|DET evidence|NOUN .|.
+ (|. to|PRT Yueh|NOUN -|. quietly|ADV )|. You|PRON wish|VERB now|ADV to|PRT join|VERB your|PRON wife|NOUN ,|. is|VERB that|ADP it|PRON ,|. traitor|NOUN ?|.
+ She|PRON lives|VERB ?|.
+ (|. laughing|VERB )|. Of|ADP course|NOUN ...|. what|PRON did|VERB you|PRON think|VERB ?|.
+ No|DET ?|.
+ No|DET .|.
+ Now|ADV ?|.
+ (|. The|DET Voice|NOUN )|. First|NOUN cut|VERB my|PRON son|NOUN 's|PRT bonds|NOUN .|.
+ Where|QUESTIONTAG is|VERB your|PRON ring|NOUN ?|.
+ Where|QUESTIONTAG are|VERB we|PRON do|VERB you|PRON think|VERB ?|.
+ The|DET South|NOUN Polar|NOUN regions|NOUN ...|. the|DET forbidden|ADJ area|NOUN .|.
+ (|. inner|ADJ voice|NOUN )|. Is|VERB he|PRON ...|. .|. ?|.
+ You|PRON carry|VERB my|PRON unborn|ADJ sister|NOUN in|ADP your|PRON womb|NOUN !|.
+ (|. to|PRT Jessica|NOUN )|. Are|VERB you|PRON trained|VERB in|ADP the|DET ways|NOUN of|ADP the|DET desert|NOUN ?|.
+ No|DET ,|. but|CONJ many|ADJ consider|VERB my|PRON training|NOUN valuable|ADJ .|.
+ (|. thinking|VERB )|. What|QUESTIONTAG do|VERB you|PRON call|VERB the|DET mouse|NOUN shadow|NOUN in|ADP the|DET second|ADJ moon|NOUN ?|.
+ We|PRON call|VERB that|ADP one|NUM Muad'dib|NOUN .|.
+ Could|VERB I|PRON be|VERB known|VERB as|ADP Paul|NOUN Muad'dib|NOUN ?|.
+ You|PRON are|VERB Paul|NOUN Muad'dib|NOUN ,|. and|CONJ your|PRON mother|NOUN shall|VERB be|VERB a|DET Sayyadina|NOUN among|ADP us|PRON ...|. .|. We|PRON welcome|VERB you|PRON .|.
+ Death|NOUN may|VERB be|VERB the|DET result|NOUN ...|. .|. Are|VERB you|PRON sure|ADJ ?|.
+ (|. inner|ADJ voice|NOUN )|. I|PRON must|VERB do|VERB this|DET for|ADP Paul|NOUN ,|. but|CONJ what|PRON of|ADP my|PRON unborn|ADJ child|NOUN ?|.
+ Did|NOUN they|PRON try|VERB and|CONJ fail|VERB ?|.
+ They|PRON tried|VERB and|CONJ died|VERB .|.
+ (|. inner|ADJ voice|NOUN )|. (|. turning|VERB to|PRT his|PRON mother|NOUN )|. What|QUESTIONTAG if|ADP she|PRON should|VERB fail|VERB ?|.
+ What|QUESTIONTAG will|VERB you|PRON call|VERB her|PRON ?|.
+ Alia|NOUN .|.
+ Who|QUESTIONTAG is|VERB this|DET Muad'dib|NOUN ?|.
+ (|. inner|ADJ voice|NOUN )|. Now|ADV ...|. the|DET test|NOUN of|ADP the|DET water|NOUN of|ADP life|NOUN ...|. what|PRON is|VERB it|PRON that|ADP waits|VERB for|ADP me|PRON in|ADP this|DET darkness|NOUN ?|.
+ Why|ADV have|VERB you|PRON brought|VERB me|PRON here|ADV ?|.
+ Your|PRON Highness|NOUN ...|.
+ Paul|NOUN 's|PRT sister|NOUN ...|. Paul|NOUN is|VERB Muad'dib|NOUN ?|.
+ present|NOUN in|ADP the|DET room|NOUN .|.
+ My|PRON Lord|NOUN ?|.
+ Let|VERB him|PRON stand|VERB free|ADJ !|.
+ And|CONJ how|ADV can|VERB this|DET be|VERB ?|.

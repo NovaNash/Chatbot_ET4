@@ -1,0 +1,7 @@
+ 2t2Is|NUM that|ADP your|PRON wife|NOUN ?|.
+ 2t2So|NUM you|PRON 'll|VERB stay|VERB ?|.
+ 2t2Can|NUM I|PRON ask|VERB you|PRON something|NOUN ?|.
+ 2t2What|NUM ?|.
+ 2t2Do|NUM you|PRON think|VERB my|PRON writing|NOUN is|VERB good|ADJ ?|.
+ 2t2What|NUM am|VERB I|PRON doing|VERB ?|.
+ 2t2What|NUM 's|PRT wrong|ADJ ?|.

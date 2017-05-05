@@ -1,0 +1,30 @@
+ Tell|VERB me|PRON ,|. was|VERB n't|ADV it|PRON Ilse|NOUN Koch|NOUN who|PRON made|VERB the|DET lampshades|NOUN out|ADP of|ADP human|ADJ skin|NOUN ?|.
+ Now|ADV I|PRON do|VERB n't|ADV know|VERB what|PRON you|PRON 're|VERB talking|VERB about|ADP .|.
+ You|PRON have|VERB been|VERB following|VERB me|PRON ?|.
+ Of|ADP course|NOUN ,|. I|PRON followed|VERB you|PRON .|.
+ Your|PRON what|PRON ?|.
+ My|PRON One|NUM Great|NOUN Interest|NOUN .|.
+ Yes|X ,|. what|PRON are|VERB you|PRON telling|VERB me|PRON for|ADP ?|.
+ (|. ignoring|VERB him|PRON )|. Then|ADV last|ADJ year|NOUN I|PRON wrote|VERB my|PRON big|ADJ term|NOUN paper|NOUN on|ADP Dachau|NOUN .|.
+ Accelerated|VERB ?|.
+ You|PRON know|VERB ,|. accelerated|VERB .|.
+ What|QUESTIONTAG ?|.
+ (|. suddenly|ADV wary|NOUN of|ADP Todd|NOUN )|. Your|PRON mom|NOUN 's|PRT on|ADP the|DET phone|NOUN .|.
+ Why|ADV do|VERB I|PRON care|VERB about|ADP this|DET ?|.
+ Because|ADP ,|. I|PRON do|VERB n't|ADV want|VERB it|PRON softened|VERB .|.
+ You|PRON told|VERB your|PRON parents|NOUN about|ADP me|PRON ,|. then|ADV ?|.
+ You|PRON think|VERB I|PRON 'm|VERB crazy|ADJ ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ All|DET of|ADP this|DET ...|. because|ADP of|ADP a|DET rain|NOUN coat|NOUN ?|.
+ Well|ADV ,|. it|PRON was|VERB n't|ADV that|ADP easy|ADJ .|.
+ You|PRON took|VERB photographs|NOUN of|ADP me|PRON ?|.
+ Yeah|X ,|. I|PRON got|VERB this|DET little|ADJ camera|NOUN .|.
+ Would|VERB you|PRON care|VERB for|ADP a|DET drink|NOUN ,|. boy|NOUN ?|.
+ Sure|ADV ,|. you|PRON got|VERB a|DET Coke|NOUN ?|.
+ Milk|NOUN ?|.
+ Milk|NOUN .|.
+ Is|VERB that|ADP right|NOUN ?|.
+ A|DET violation|NOUN ?|.
+ Yes|X .|.
+ You|PRON what|PRON ?|.
+ I|PRON demand|VERB --|.

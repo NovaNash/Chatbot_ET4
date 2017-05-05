@@ -1,0 +1,111 @@
+ What|QUESTIONTAG does|VERB that|DET mean|VERB ?|.
+ It|PRON means|VERB yes|X .|.
+ Yes|X ,|. replace|VERB Melissa|NOUN ?|.
+ He|PRON wants|VERB your|PRON show|NOUN on|ADP the|DET air|NOUN ,|. starring|VERB Dahlia|NOUN .|.
+ What|QUESTIONTAG about|ADP Melissa|NOUN ?|.
+ You|PRON want|VERB me|PRON to|PRT call|VERB her|PRON agents|NOUN ?|.
+ The|DET woman|NOUN ?|.
+ It|PRON was|VERB a|DET man|NOUN .|.
+ Your|PRON house|NOUN is|VERB haunted|VERB by|ADP yourself|PRON ?|.
+ Yeah|X .|.
+ Gavin|NOUN ,|. are|VERB you|PRON alright|ADP ?|.
+ No|DET .|.
+ When|QUESTIONTAG did|VERB you|PRON get|VERB in|ADP ?|.
+ Did|NOUN something|NOUN happen|VERB ?|.
+ ...|. who|PRON tells|VERB me|PRON Gatin|NOUN 's|PRT show|NOUN got|VERB picked|VERB up|PRT ,|. so|ADP no|DET ,|. she|PRON wo|VERB n't|ADV be|VERB in|ADP my|PRON show|NOUN ,|. which|DET makes|VERB me|PRON wonder|ADJ ,|. does|VERB my|PRON show|VERB even|ADV exist|VERB ?|.
+ then|ADV a|DET RUSH|NOUN ,|. like|ADP autumn|NOUN leaves|VERB blowing|VERB down|PRT a|DET street|NOUN .|.
+ The|DET rest|NOUN is|VERB ,|. what|PRON ,|. reality|NOUN ?|.
+ You|PRON can|VERB go|VERB mid-season|ADJ .|.
+ Did|NOUN n't|ADV you|PRON ?|.
+ G.|NOUN ,|. I|PRON 'm|VERB on|ADP your|PRON side|NOUN .|.
+ You|PRON want|VERB a|DET motive|NOUN ?|.
+ Yes|X .|.
+ Is|VERB that|ADP all|DET there|DET is|VERB ?|.
+ Susan|NOUN gets|VERB to|PRT her|PRON feet|NOUN .|.
+ Are|NOUN you|PRON alright|ADV ?|.
+ for|ADP the|DET same|ADJ crosswalk|NOUN .|.
+ Who|QUESTIONTAG were|VERB you|PRON talking|VERB to|PRT ?|.
+ Theories|NOUN ?|.
+ This|DET is|VERB all|DET a|DET dream|NOUN .|.
+ (|. suspicious|ADJ )|. What|QUESTIONTAG does|VERB that|DET mean|VERB ?|.
+ Are|NOUN you|PRON saying|VERB I|PRON 'm|VERB God|NOUN ?|.
+ Technically|ADV ,|. no|DET .|.
+ So|ADP what|PRON are|VERB you|PRON ?|.
+ Humans|NOUN are|VERB sevens|NOUN .|.
+ What|QUESTIONTAG are|VERB the|DET eights|NOUN ?|.
+ Koalas|NOUN .|.
+ Did|NOUN you|PRON hit|VERB it|PRON ?|.
+ Should|VERB n't|ADV have|VERB to|PRT .|.
+ How|QUESTIONTAG do|VERB we|PRON ...|. ?|.
+ We|PRON call|VERB the|DET service|NOUN .|.
+ Are|NOUN you|PRON getting|VERB a|DET signal|NOUN ?|.
+ No|DET .|.
+ Well|ADV ,|. what|PRON do|VERB you|PRON want|VERB to|PRT do|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ So|ADV ...|. we|PRON stay|VERB here|ADV ?|.
+ You|PRON okay|VERB with|ADP that|DET ?|.
+ Why|ADV wo|VERB n't|ADV you|PRON trust|VERB me|PRON ?|.
+ Do|VERB you|PRON want|VERB to|PRT see|VERB where|ADV we|PRON were|VERB today|NOUN ?|.
+ Were|NOUN you|PRON following|VERB me|PRON ?|.
+ Once|ADV I|PRON was|VERB sure|ADJ you|PRON were|VERB n't|ADV following|VERB me|PRON .|.
+ Really|ADV ?|.
+ Yeah|X .|.
+ Really|ADV ?|.
+ I|PRON was|VERB n't|ADV sure|ADJ ,|. but|CONJ I|PRON think|VERB I|PRON saw|VERB a|DET picture|NOUN of|ADP you|PRON in|ADP some|DET videogame|NOUN magazine|NOUN my|PRON boyfriend|NOUN had|VERB .|.
+ You|PRON seriously|ADV recognized|VERB me|PRON off|ADP of|ADP one|NUM photo|NOUN ?|.
+ I|PRON thought|VERB you|PRON were|VERB kinda|VERB hot|ADJ .|.
+ Considering..|NOUN ?|.
+ Within|ADP the|DET subset|NOUN of|ADP videogame|ADJ people|NOUN .|.
+ So|ADV your|PRON boyfriend|NOUN plays|VERB videogames|NOUN ?|.
+ Ex-boyfriend|NOUN .|.
+ Super-crack|NOUN ?|.
+ Sure|ADV .|.
+ Shaman|NOUN ?|.
+ Yeah|X .|.
+ You|PRON had|VERB an|DET account|NOUN ?|.
+ I|PRON was|VERB part|NOUN of|ADP your|PRON world|NOUN ,|. and|CONJ you|PRON did|VERB n't|ADV even|ADV know|VERB it|PRON .|.
+ You|PRON do|VERB ?|.
+ I|PRON understand|VERB .|.
+ So|ADV you|PRON play|VERB a|DET lot|NOUN of|ADP characters|NOUN at|ADP once|ADV ?|.
+ A|DET couple|NOUN .|.
+ What|QUESTIONTAG ,|. like|ADP `God|NOUN mode|NOUN '|. ?|.
+ That|DET 's|VERB what|PRON you|PRON call|VERB it|PRON ?|.
+ Do|VERB you|PRON think|VERB I|PRON 'm|VERB pretty|ADV ?|.
+ What|QUESTIONTAG ?|.
+ Do|VERB you|PRON think|VERB I|PRON 'm|VERB hot|ADJ ?|.
+ So|ADV where|ADV 's|VERB the|DET orc|NOUN now|ADV ?|.
+ He|PRON 's|VERB dead|ADJ .|.
+ And|CONJ what|PRON makes|VERB you|PRON think|VERB you|PRON have|VERB n't|ADV pissed|VERB me|PRON off|PRT already|ADV ?|.
+ How|QUESTIONTAG are|VERB you|PRON doing|VERB ,|. kiddo|VERB ?|.
+ Am|NOUN I|PRON crazy|VERB ,|. or|CONJ is|VERB it|PRON getting|VERB hotter|ADV ?|.
+ Oh|X ,|. you|PRON 're|VERB crazy|ADJ .|.
+ Where|QUESTIONTAG are|VERB they|PRON ?|.
+ I|PRON mean|VERB ,|. which|DET direction|NOUN ?|.
+ They|PRON 're|VERB back|ADV ...|.
+ Where|QUESTIONTAG 's|VERB your|PRON car|NOUN ?|.
+ There|DET is|VERB no|DET car|NOUN .|.
+ What|QUESTIONTAG 's|VERB happening|VERB ?|.
+ I|PRON 'm|VERB sorry|ADJ it|PRON had|VERB to|PRT come|VERB this|DET ,|. G.|NOUN But|CONJ it|PRON 'll|VERB all|ADV be|VERB over|PRT soon|ADV .|.
+ Melissa|NOUN ?|.
+ I|PRON can|VERB you|PRON out|ADP of|ADP here|ADV .|.
+ Why|ADV are|VERB you|PRON doing|VERB this|DET ?|.
+ You|PRON did|VERB it|PRON to|PRT yourself|PRON .|.
+ How|QUESTIONTAG long|ADV have|VERB I..|NOUN ?|.
+ You|PRON 've|VERB been|VERB gone|VERB for|ADP four|NUM thousand|NUM years|NOUN .|.
+ Why|ADV now|ADV ?|.
+ Everything|VERB okay|NOUN ?|.
+ Absolutely|ADV .|.
+ You|PRON need|VERB to|PRT go|VERB ,|. do|VERB n't|ADV you|PRON ?|.
+ No|DET .|.
+ That|DET 's|VERB all|DET ?|.
+ Honey|NOUN ,|. do|VERB we|PRON have|VERB nutmeg|VERB ?|.
+ reading|VERB from|ADP a|DET recipe|NOUN .|.
+ Nutmeg|NOUN ?|.
+ No|DET ,|. Flash|NOUN .|.
+ Sweetie|NOUN ?|.
+ Keeping|VERB her|PRON voice|NOUN low|ADJ enough|ADV so|ADV Ben|NOUN ca|VERB n't|ADV hear|VERB :|.
+ This|DET is|VERB going|VERB to|PRT sound|VERB really|ADV strange|ADJ ,|. but|CONJ ...|. what|PRON 's|VERB my|PRON name|NOUN ?|.
+ How|QUESTIONTAG long|ADV have|VERB I..|NOUN ?|.
+ You|PRON 've|VERB been|VERB gone|VERB for|ADP four|NUM thousand|NUM years|NOUN .|.
+ Why|ADV now|ADV ?|.
+ We|PRON could|VERB n't|ADV just|ADV storm|VERB in|ADP on|ADP a|DET fiery|ADJ chariot|NOUN .|.

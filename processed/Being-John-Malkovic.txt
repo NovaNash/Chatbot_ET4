@@ -1,0 +1,209 @@
+ What|QUESTIONTAG ?|.
+ Would|VERB you|PRON check|VERB in|ADP on|ADP Elijah|NOUN ?|.
+ Which|QUESTIONTAG one|NUM is|VERB Elijah|NOUN again|ADV ?|.
+ The|DET monkey|NOUN .|.
+ (|. finally|ADV )|. Is|VERB the|DET trial|NOUN date|NOUN set|VERB ?|.
+ May|NOUN 11th|NUM .|.
+ Why|ADV 'd|VERB you|PRON do|VERB it|PRON ,|. Craig|NOUN ?|.
+ I|PRON 'm|VERB a|DET puppeteer|NOUN .|.
+ Seven|NOUN and|CONJ a|DET half|NOUN ,|. right|ADV ?|.
+ Uh|NOUN .|.
+ Pardon|NOUN ?|.
+ Schwartz|NOUN .|.
+ Money|NOUN ,|. Miss|NOUN Warts|NOUN ?|.
+ Forget|VERB it|PRON .|.
+ (|. calling|VERB across|ADP the|DET room|NOUN )|. Fork|NOUN ah|NOUN did|VERB ?|.
+ (|. to|PRT Craig|NOUN )|. Mr.|NOUN Juarez|NOUN ?|.
+ Yes|X ?|.
+ Yex|NOUN ?|.
+ I|PRON said|VERB ``|. yes|ADV .|. ''|.
+ Tell|VERB me|PRON ,|. Dr.|NOUN Schwartz|NOUN ,|. what|PRON do|VERB you|PRON feel|VERB you|PRON can|VERB bring|VERB to|PRT LesterCorp|NOUN ?|.
+ Well|ADV ,|. sir|NOUN ,|. I|PRON 'm|VERB an|DET excellent|ADJ filer|NOUN .|.
+ Gehginnis|NOUN ondah|VERB foam|VERB ?|.
+ Forget|VERB it|PRON .|.
+ Fork|NOUN ah|NOUN did|VERB ?|.
+ (|. flips|VERB off|PRT switch|NOUN )|. Fine|NOUN woman|NOUN ,|. Floris|NOUN .|.
+ Don|NOUN ,|. I|PRON was|VERB wondering|VERB ,|. do|VERB you|PRON know|VERB why|ADV our|PRON workplace|NOUN has|VERB such|ADJ low|ADJ ceilings|NOUN ?|.
+ It|PRON 's|VERB an|DET interesting|ADJ story|NOUN ,|. Wendy|NOUN .|.
+ Captain|NOUN Mertin|NOUN ?|.
+ What|QUESTIONTAG want|VERB ye|NOUN ,|. girl|X child|NOUN ?|.
+ Is|VERB that|ADP true|ADJ ?|.
+ Well|ADV ,|. truth|NOUN is|VERB for|ADP suckers|NOUN ,|. is|VERB n't|ADV it|PRON ?|. .|.
+ Vegetarian|ADJ ,|. right|ADV ?|.
+ Yes|X .|.
+ How|QUESTIONTAG many|ADJ ?|.
+ Ten|NUM ,|. I|PRON think|VERB .|.
+ New|NOUN puppet|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ I|PRON just|ADV wanted|VERB to|PRT say|VERB hi.|NOUN Did|NOUN you|PRON know|VERB I|PRON still|ADV do|VERB n't|ADV know|VERB your|PRON name|NOUN or|CONJ where|ADV you|PRON work|VERB ?|.
+ Why|ADV not|ADV ?|.
+ Great|NOUN .|.
+ Who|QUESTIONTAG told|VERB you|PRON ?|.
+ I|PRON 'm|VERB right|ADJ ?|.
+ Who|QUESTIONTAG told|VERB you|PRON ?|.
+ That|DET 's|VERB incredible|ADJ !|.
+ Buy|NOUN you|PRON a|DET drink|NOUN ,|. Maxine|NOUN ?|.
+ You|PRON married|VERB ?|.
+ What|QUESTIONTAG 'll|VERB you|PRON have|VERB ?|.
+ (|. to|PRT bartender|VERB )|. The|DET usual|ADJ ,|. Barry|NOUN .|.
+ My|PRON tits|NOUN ?|.
+ No|DET ,|. no|DET ,|. it|PRON 's|VERB your|PRON energy|NOUN or|CONJ your|PRON attitude|NOUN or|CONJ the|DET way|NOUN you|PRON carry|VERB yourself|PRON or|CONJ ...|.
+ That|DET 's|VERB the|DET usual|ADJ ?|.
+ Dont|NOUN let|VERB the|DET girly|ADJ shit|NOUN fool|NOUN you|PRON .|.
+ Did|NOUN you|PRON eat|VERB ?|.
+ Nah|NOUN .|.
+ The|DET ferret|NOUN ?|.
+ The|DET iguana|NOUN .|.
+ Yes|X ?|.
+ Say|NOUN ,|. are|VERB n't|ADV you|PRON that|ADP actor|NOUN guy|NOUN ?|.
+ Yeah|X .|.
+ Mapplethorpe|NOUN ?|.
+ Malkovich|NOUN .|.
+ Who|QUESTIONTAG am|VERB I|PRON thinking|NOUN of|ADP ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Do|VERB n't|ADV you|PRON want|VERB to|PRT know|VERB what|PRON happened|VERB to|PRT me|PRON ?|.
+ (|. considers|NOUN )|. No|DET .|.
+ What|QUESTIONTAG 's|VERB he|PRON been|VERB in|ADP ?|.
+ Lots|NOUN of|ADP things|NOUN .|.
+ Is|VERB this|DET Malkovich|NOUN fellow|VERB appealing|VERB ?|.
+ Yes|X ,|. of|ADP course|NOUN .|.
+ Tickets|NOUN to|PRT Malkovich|NOUN ?|.
+ Exactly|ADV .|.
+ You|PRON wanted|VERB to|PRT be|VERB partners|NOUN with|ADP me|PRON ?|.
+ (|. bored|VERB )|. Sure|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON want|VERB to|PRT be|VERB John|NOUN Malkovich|NOUN .|.
+ Now|ADV ?|.
+ Yeah|X .|.
+ Tell|VERB me|PRON ,|. Lotte|NOUN ,|. can|VERB you|PRON understand|VERB a|DET word|NOUN I|PRON 'm|VERB saying|VERB ?|.
+ Yes|X ,|. of|ADP course|NOUN ,|. Dr.|NOUN Lester|NOUN .|.
+ Dr.|NOUN Lester|NOUN ,|. would|VERB you|PRON point|VERB me|PRON toward|ADP the|DET restroom|NOUN ?|.
+ With|ADP immense|ADJ pleasure|NOUN ,|. my|PRON dear|NOUN .|.
+ More|ADV beet-spinach|ADJ juice|NOUN ,|. my|PRON friend|NOUN ?|.
+ No|DET thank|NOUN you|PRON sir|VERB .|.
+ (|. to|PRT Lotte|NOUN )|. Why|ADV are|VERB n't|ADV you|PRON at|ADP work|NOUN ?|.
+ I|PRON 've|VERB been|VERB going|VERB over|ADP and|CONJ over|ADP my|PRON experience|NOUN last|ADJ night|NOUN .|.
+ (|. into|ADP phone|NOUN )|. Yeah|NOUN ?|.
+ (|. telephone|NOUN voice|NOUN )|. Mr.|NOUN Malkovich|NOUN ?|.
+ Who|QUESTIONTAG 's|VERB calling|VERB ?|.
+ You|PRON do|VERB n't|ADV know|VERB me|PRON ,|. but|CONJ I|PRON 'm|VERB a|DET great|ADJ admirer|NOUN of|ADP yours|NOUN .|.
+ How|QUESTIONTAG 'd|VERB you|PRON get|VERB this|DET number|NOUN ?|.
+ It|PRON 's|VERB just|ADV that|ADP I|PRON fantasize|VERB about|ADP you|PRON and|CONJ ,|. well|ADV ,|. speaking|VERB to|PRT you|PRON now|ADV has|VERB gotten|VERB me|PRON sort|NOUN of|ADP excited|ADJ and|CONJ ...|.
+ How|QUESTIONTAG was|VERB it|PRON ?|.
+ I|PRON have|VERB to|PRT go|VERB back|ADV tonight|NOUN .|.
+ Why|ADV ?|.
+ Do|VERB n't|ADV crowd|VERB me|PRON ,|. Craig|NOUN .|.
+ Excuse|ADP me|PRON ,|. are|VERB you|PRON John|NOUN Malkovich|NOUN ?|.
+ Yes|X .|.
+ Can|VERB I|PRON get|VERB you|PRON a|DET drink|NOUN ?|.
+ Whatever|DET you|PRON 're|VERB having|VERB .|.
+ You|PRON ?|.
+ When|QUESTIONTAG you|PRON say|VERB ,|. I|PRON can|VERB be|VERB somebody|NOUN else|ADV ,|. what|PRON do|VERB you|PRON mean|VERB exactly|ADV ?|.
+ Exactly|ADV that|DET .|.
+ Long|ADJ term|NOUN psychic|NOUN or|CONJ physiological|ADJ repercussions|NOUN ?|.
+ No|DET .|.
+ Can|VERB I|PRON be|VERB anyone|NOUN I|PRON want|VERB ?|.
+ You|PRON can|VERB be|VERB John|NOUN Malkovich|NOUN .|.
+ But|CONJ why|ADV ,|. Son|NOUN of|ADP Malkovich|NOUN ?|.
+ We|PRON need|VERB you|PRON on|ADP the|DET inside|NOUN ,|. my|PRON child|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ I|PRON 'm|VERB moving|VERB .|.
+ What|QUESTIONTAG ?|.
+ I|PRON 'm|VERB getting|VERB rid|NOUN of|ADP the|DET animals|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ (|. beat|NOUN )|. Us|NOUN ,|. of|ADP course|NOUN .|.
+ What|QUESTIONTAG about|ADP Maxine|NOUN ?|.
+ Fuck|NOUN Maxine|NOUN .|.
+ Yes|X ?|.
+ I|PRON have|VERB to|PRT see|VERB you|PRON .|.
+ When|QUESTIONTAG ?|.
+ Give|VERB me|PRON one|NUM hour|NOUN to|PRT get|VERB inside|ADP him|PRON Exactly|ADV .|.
+ So|ADV ,|. do|VERB you|PRON enjoy|VERB being|VERB an|DET actor|NOUN ?|.
+ Oh|X sure|NOUN .|.
+ (|. stopping|VERB )|. I|PRON 'm|VERB sorry|ADJ ,|. did|VERB you|PRON just|ADV call|VERB me|PRON ``|. Lotte|NOUN ''|. ?|.
+ Do|VERB you|PRON mind|VERB ?|.
+ You|PRON were|VERB him|PRON last|ADJ night|NOUN ,|. were|VERB n't|ADV you|PRON ?|.
+ (|. quietly|ADV )|. Yes|X .|.
+ We|PRON ?|.
+ Me|NOUN and|CONJ John|NOUN .|.
+ Life|NOUN is|VERB confusing|VERB ,|. is|VERB n't|ADV it|PRON ?|.
+ Sometimes|ADV we|PRON 're|VERB forced|VERB to|PRT make|VERB hard|ADJ decisions|NOUN .|.
+ Are|NOUN you|PRON torturing|VERB me|PRON on|ADP purpose|NOUN ?|.
+ (|. matter|NOUN of|ADP fact|NOUN )|. I|PRON 've|VERB fallen|VERB in|ADP love|NOUN .|.
+ (|. depressing|VERB switch|NOUN )|. Yes|X ,|. my|PRON dear|NOUN ?|.
+ (|. intercom|ADJ voice|NOUN )|. Someone|NOUN names|VERB A|DET Lot|NOUN of|ADP Warts|NOUN on|ADP line|NOUN two|NUM .|.
+ (|. intercom|ADJ voice|NOUN )|. Think|VERB ,|. Jew|NOUN florist|NOUN ?|.
+ (|. pressing|VERB line|NOUN 2|NUM )|. Good|ADJ morning|NOUN ,|. Lotte|NOUN !|.
+ Tommy|NOUN ,|. can|VERB I|PRON take|VERB fifteen|NOUN ?|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ I|PRON 'm|VERB a|DET puppeteer|NOUN .|.
+ Excuse|ADP me|PRON ,|. what|PRON type|NOUN of|ADP service|NOUN does|VERB this|DET company|NOUN provide|VERB ?|.
+ You|PRON get|VERB to|PRT be|VERB John|NOUN Malkovich|NOUN for|ADP fifteen|ADJ minutes|NOUN .|.
+ What|QUESTIONTAG the|DET fuck|NOUN is|VERB going|VERB on|ADP ?|.
+ Mr.|NOUN Malkovich|NOUN ,|. my|PRON name|NOUN is|VERB Craig|NOUN Schwartz|NOUN .|.
+ Simulates|NOUN ?|.
+ Sure|NOUN ,|. after|ADP a|DET fashion|NOUN .|.
+ What|QUESTIONTAG happens|VERB when|ADV a|DET man|NOUN climbs|VERB through|ADP his|PRON own|ADJ portal|NOUN ?|.
+ (|. shrugs|NOUN )|. How|QUESTIONTAG the|DET hell|NOUN would|VERB I|PRON know|VERB ?|.
+ Malkovich|NOUN Malkovich|NOUN Malkovich|NOUN ?|.
+ Malkovich|NOUN Malkovich|NOUN Malkovich|NOUN Malkovich|NOUN .|.
+ So|ADV how|ADV was|VERB it|PRON ?|.
+ That|DET ...|. was|VERB ...|. no|DET ...|. simulation|NOUN .|.
+ (|. calling|VERB after|ADP him|PRON )|. And|CONJ who|PRON 's|VERB to|PRT say|VERB I|PRON wo|VERB n't|ADV be|VERB seeing|VERB what|PRON you|PRON 're|VERB seeing|VERB ...|. in|ADP court|NOUN ?|.
+ Hello|NOUN ,|. Dr.|NOUN Lester|NOUN ?|.
+ Oh|X ,|. did|VERB n't|ADV anyone|NOUN show|VERB you|PRON the|DET indoctrination|NOUN video|NOUN ?|.
+ No|DET .|.
+ Does|NOUN Floris|NOUN know|VERB that|ADP she|PRON 's|VERB the|DET chosen|NOUN ?|.
+ Well|ADV ,|. I|PRON tried|VERB to|PRT explain|VERB it|PRON to|PRT her|PRON ,|. but|CONJ ...|.
+ You|PRON still|ADV there|ADV ,|. sweets|NOUN ?|.
+ Yeah|X .|.
+ You|PRON mean|VERB with|ADP Malkovich|NOUN ?|.
+ I|PRON 'd|VERB love|VERB to|PRT see|VERB your|PRON work|NOUN .|.
+ Stay|NOUN in|ADP him|PRON forever|ADV ?|.
+ (|. as|ADP Malkovich|NOUN ,|. screaming|VERB )|. No|X !|.
+ W-w-what|PRON 's|VERB it|PRON like|ADP on|ADP the|DET inside|NOUN ?|.
+ Oh|X ,|. it|PRON 's|VERB glorious|ADJ .|.
+ That|DET 's|VERB the|DET only|ADJ difference|NOUN ?|.
+ Absolutely|ADV .|.
+ Anybody|NOUN else|ADV ?|.
+ Do|VERB we|PRON get|VERB to|PRT wear|VERB a|DET crown|NOUN ?|.
+ Does|VERB n't|ADV he|PRON know|VERB how|ADV important|ADJ tonight|NOUN is|VERB to|PRT us|PRON ?|.
+ He|PRON 's|VERB a|DET selfish|ADJ bastard|NOUN .|.
+ A|DET scary|ADJ dream|NOUN ?|.
+ No|DET ,|. a|DET sexy|ADJ dream|NOUN .|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ I|PRON am|VERB the|DET Devil|NOUN .|.
+ Bad|NOUN dream|NOUN ,|. darling|VERB ?|.
+ I|PRON 've|VERB got|VERB to|PRT leave|VERB Malkovich|NOUN .|.
+ Yeah|VERB what|PRON ?|.
+ Derek|NOUN Mantini|NOUN !|.
+ Did|NOUN you|PRON see|VERB the|DET reviews|NOUN ?|.
+ Yeah|X ,|. I|PRON saw|VERB them|PRON
+ How|QUESTIONTAG do|VERB we|PRON do|VERB that|DET ?|.
+ A|DET friendly|ADJ competition|NOUN ,|. if|ADP you|PRON will|VERB .|.
+ What|QUESTIONTAG 's|VERB the|DET play|NOUN ?|.
+ Say|NOUN ...|. ``|. Equus|NOUN ''|. ?|.
+ Is|VERB there|DET dancing|VERB ?|.
+ No|DET .|.
+ Who|QUESTIONTAG needs|VERB dancing|VERB ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP circumstances|NOUN ?|.
+ Maxine|NOUN says|VERB she|PRON 'll|VERB leave|VERB him|PRON if|ADP he|PRON leaves|VERB Malkovich|NOUN ,|. plus|CONJ he|PRON 's|VERB been|VERB challenged|VERB to|PRT a|DET puppet-duel|NOUN by|ADP Mantini|NOUN .|.
+ The|DET Great|NOUN Mantini|NOUN ?|.
+ No|DET ,|. the|DET Mediocre|NOUN Mantini|NOUN .|.
+ Why|ADV are|VERB you|PRON being|VERB like|ADP this|DET ?|.
+ What|QUESTIONTAG have|VERB I|PRON become|VERB ?|.
+ Do|VERB you|PRON dream|VERB often|ADV ?|.
+ Do|VERB you|PRON ?|.
+ Says|NOUN who|PRON ?|.
+ Says|VERB me|PRON .|.
+ Do|VERB you|PRON ?|.
+ Great|NOUN things|NOUN ,|. my|PRON lonely|ADJ subtext|NOUN ?|.
+ (|. rolls|VERB his|PRON eyes|NOUN )|. Boy|NOUN ,|. be|VERB careful|ADJ what|PRON you|PRON wish|VERB for|ADP .|.
+ Must|NOUN you|PRON take|VERB this|DET terrible|ADJ demon|NOUN on|ADP yourself|PRON ,|. my|PRON love|NOUN ?|.
+ Yes|X .|.
+ The|DET iguana|NOUN ?|.
+ The|DET monkey|NOUN .|.
+ You|PRON came|VERB up|ADV here|ADV looking|VERB for|ADP the|DET portal|NOUN ?|.
+ Yeah|X .|.
+ You|PRON 'll|VERB have|VERB me|PRON ,|. after|ADP all|DET I|PRON 've|VERB done|VERB to|PRT you|PRON ?|.
+ People|NOUN make|VERB mistakes|NOUN .|.

@@ -1,0 +1,74 @@
+ What|QUESTIONTAG 's|VERB that|DET ,|. General|NOUN ?|.
+ Someone|NOUN else|ADV will|VERB be|VERB going|VERB in|ADP with|ADP you|PRON .|.
+ (|. warmly|ADV )|. How|QUESTIONTAG you|PRON been|VERB ,|. Dutch|VERB ?|.
+ Dillon|NOUN 's|PRT arm|NOUN slowly|ADV downward|ADV .|.
+ (|. shouting|VERB )|. Hey|NOUN ,|. Billy|NOUN ,|. how|ADV many|ADJ marines|NOUN does|VERB it|PRON take|VERB to|PRT eat|VERB a|DET squirrel|NOUN ?|.
+ Who|QUESTIONTAG 's|VERB our|PRON back-up|NOUN on|ADP this|DET ?|.
+ (|. grinning|VERB )|. No|DET such|ADJ thing|NOUN ,|. old|ADJ buddy|NOUN .|.
+ Mmmnnn|NOUN ...|. ?|.
+ I|PRON do|VERB n't|ADV think|VERB that|DET was|VERB any|DET ordinary|ADJ army|NOUN taxi|NOUN ...|.
+ Have|VERB you|PRON picked|VERB up|PRT their|PRON trail|NOUN yet|ADV ?|.
+ away|ADV .|.
+ (|. puzzled|VERB )|. What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ Six|NUM others|NOUN ,|. U.S.|NOUN issue|NOUN jungle|NOUN boots|NOUN .|.
+ Mean|ADJ anything|NOUN to|PRT you|PRON ?|.
+ Probably|ADV another|DET rebel|NOUN patrol|NOUN .|.
+ What|QUESTIONTAG 's|VERB he|PRON got|VERB ?|.
+ Same|NOUN business|NOUN ,|. guerrillas|NOUN hauling|VERB two|NUM guys|NOUN from|ADP the|DET chopper|NOUN ...|. followed|VERB by|ADP men|NOUN with|ADP American|ADJ equipment|NOUN ...|.
+ What|QUESTIONTAG happened|VERB here|ADV ,|. Billy|NOUN ?|.
+ What|QUESTIONTAG about|ADP the|DET rest|NOUN of|ADP Hopper|NOUN 's|PRT men|NOUN ?|.
+ (|. to|PRT Hawkins|NOUN )|. Ready|NOUN ,|. kid|NOUN ?|.
+ grass|NOUN ,|. downward|ADJ towards|ADP the|DET edge|NOUN of|ADP the|DET camp|NOUN .|.
+ Any|DET sign|NOUN of|ADP the|DET hostages|NOUN ?|.
+ (|. nods|NOUN )|. We|PRON found|VERB 'em|PRON both|DET ,|. dead|NOUN .|.
+ What|QUESTIONTAG 's|VERB your|PRON problem|NOUN ,|. dude|NOUN ?|.
+ into|ADP his|PRON ears|NOUN and|CONJ grimaces|NOUN just|ADV as|ADP ...|.
+ Why|ADV us|PRON ?|.
+ Because|ADP I|PRON told|VERB you|PRON ,|. you|PRON 're|VERB the|DET best|ADJ .|.
+ What|QUESTIONTAG story|NOUN did|VERB you|PRON give|VERB to|PRT Davis|NOUN ?|.
+ (|. quietly|ADV ;|. in|ADP Spanish|NOUN )|. Are|VERB you|PRON all|DET right|ADV ?|.
+ Movement|NOUN ?|.
+ How|QUESTIONTAG much|ADJ time|NOUN ?|.
+ Half|DET an|DET hour|NOUN ,|. maybe|ADV less|ADV .|.
+ Yeah|X ,|. what|PRON is|VERB it|PRON ,|. Sergeant|NOUN ?|.
+ look|NOUN and|CONJ turns|VERB him|PRON by|ADP the|DET shoulders|NOUN .|.
+ What|QUESTIONTAG 's|VERB got|VERB Billy|NOUN so|ADP spooked|VERB ?|.
+ Ca|ADJ n't|ADV say|VERB ,|. Major|NOUN ...|. been|VERB squirrely|ADV all|DET mornin|NOUN '|. ...|. fuckin|NOUN '|. weird|ADJ ...|. sometimes|ADV I|PRON think|VERB that|ADP nose|NOUN of|ADP his|PRON is|VERB too|ADV good|ADJ ...|. smells|VERB things|NOUN that|DET ai|VERB n't|ADV there|ADV .|.
+ What|QUESTIONTAG is|VERB it|PRON ...|. ?|.
+ jerks|NOUN his|PRON around|ADP to|PRT face|VERB him|PRON .|.
+ Billy|ADV ...|. What|QUESTIONTAG the|DET hell|NOUN 's|PRT wrong|ADJ with|ADP you|PRON ?|.
+ (|. low|ADJ )|. Something|VERB ...|. in|ADP the|DET trees|NOUN ...|.
+ (|. whispers|NOUN )|. Can|VERB you|PRON see|VERB anything|NOUN ...|. (|. points|NOUN )|. ...|. there|ADV ?|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB ...|. ?|.
+ --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. --|. REVISED|NOUN -|. ``|. HUNTER|NOUN ''|. -|. 4/17/86|NUM 48|NUM
+ Hawkins|NOUN ?|.
+ (|. oddly|ADV )|. I|PRON ca|VERB n't|ADV tell|VERB .|.
+ (|. shocked|VERB )|. What|QUESTIONTAG in|ADP God|NOUN 's|PRT name|NOUN ...|. ?|.
+ I|PRON think|VERB it|PRON 's|VERB Hawkins|NOUN .|.
+ Where|QUESTIONTAG the|DET hell|NOUN is|VERB his|PRON body|NOUN ?|.
+ There|DET 's|VERB no|DET sign|NOUN of|ADP it|PRON .|.
+ You|PRON saw|VERB what|PRON ?|.
+ (|. still|ADV dazed|VERB )|. I|PRON saw|VERB it|PRON .|.
+ The|DET wound|NOUN all|DET fused|VERB ,|. cauterized|VERB ...|. what|PRON the|DET hell|NOUN did|VERB this|DET ?|.
+ Anna|NOUN drifts|VERB away|ADV from|ADP the|DET group|NOUN .|.
+ (|. urgent|NOUN )|. Mac|NOUN ,|. who|PRON did|VERB this|DET ?|.
+ explanation|NOUN .|.
+ (|. abruptly|ADV ;|. pushing|VERB )|. What|QUESTIONTAG ,|. Sergeant|NOUN ?|.
+ (|. returning|VERB ;|. angry|ADJ )|. Those|DET eyes|NOUN ...|. disappeared|VERB .|.
+ (|. whispering|VERB ;|. imploring|VERB )|. You|PRON know|VERB something|NOUN Billy|NOUN ,|. what|PRON is|VERB it|PRON ?|.
+ close|ADV to|PRT Ramirez|NOUN .|.
+ Where|QUESTIONTAG 's|VERB the|DET girl|NOUN ?|.
+ forth|NOUN from|ADP the|DET shadows|NOUN Anna|NOUN appears|VERB ,|. still|ADV frightened|VERB ,|. seeking|VERB the|DET security|NOUN of|ADP the|DET soldiers|NOUN .|.
+ How|QUESTIONTAG could|VERB anyone|NOUN get|VERB through|ADP this|DET ,|. carry|VERB Blain|NOUN out|ADP ,|. right|ADJ *|NOUN under|ADP our|PRON noses|NOUN without|ADP leavin|NOUN '|. *|VERB a|DET trace|NOUN ?|.
+ He|PRON knows|VERB our|PRON defenses|NOUN .|.
+ What|QUESTIONTAG 's|VERB you|PRON name|NOUN ?|.
+ What|QUESTIONTAG the|DET hell|NOUN do|VERB you|PRON think|VERB you|PRON 're|VERB doing|VERB ?|.
+ We|PRON 're|VERB going|VERB to|PRT need|VERB everyone|NOUN .|.
+ What|QUESTIONTAG is|VERB God|NOUN 's|PRT name|NOUN ...|. ?|.
+ open|ADJ mouth|NOUN as|ADP an|DET instant|NOUN later|ADV his|PRON camouflage|NOUN resumes|NOUN and|CONJ he|PRON vanishes|VERB from|ADP sight|NOUN ...|. a|DET rapid|ADJ ,|. furtive|ADJ movement|NOUN through|ADP the|DET trees|NOUN .|.
+ (|. whispering|VERB )|. Mac|NOUN ?|.
+ Dillon|NOUN gasps|NOUN as|ADP Mac|NOUN pulls|VERB him|PRON down|PRT to|PRT where|ADV he|PRON is|VERB hiding|VERB .|.
+ (|. to|PRT himself|PRON )|. Anna|VERB ...|. ?|.
+ (|. louder|NOUN )|. Anna|NOUN ...|. ?|.
+ (|. incredulous|ADJ )|. Who|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON ...|. ?|.
+ (|. electronic|ADJ ;|. filtered|VERB )|. Who|QUESTIONTAG ...|. (|. improving|VERB )|. ...|. the|DET hell|NOUN ...|. (|. nearly|ADV perfect|NOUN )|. ...|. are|VERB ...|. (|. perfect|ADJ )|. ...|. You|PRON ?|.

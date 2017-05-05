@@ -1,0 +1,52 @@
+ You|PRON mean|VERB he|PRON actually|ADV found|VERB somebody|NOUN to|PRT take|VERB the|DET job|NOUN ?|.
+ of|ADP Cobb|NOUN was|VERB finally|ADV too|ADV absurd|ADJ .|.
+ Why|ADV not|ADV ?|.
+ It|PRON 's|VERB horseshit|NOUN .|.
+ STUMP|NOUN You|PRON got|VERB a|DET stock|NOUN tip|NOUN for|ADP me|PRON ?|.
+ Yeah|NOUN ...|. buy|VERB Coca-Cola|NOUN .|.
+ It|PRON 'll|VERB pass|VERB ...|. (|. increasingly|ADV woozy|VERB )|. Stumpy|NOUN ,|. listen|VERB to|PRT me|PRON --|. you|PRON know|VERB what|PRON I|PRON need|VERB ?|.
+ What|QUESTIONTAG do|VERB you|PRON need|VERB ?|.
+ STUMP|NOUN Cobb|NOUN ?|.
+ under|ADP the|DET dash|NOUN of|ADP the|DET car|NOUN .|.
+ Then|ADV you|PRON 've|VERB read|VERB that|ADP I|PRON 'm|VERB the|DET meanest|ADJ bastard|NOUN of|ADP them|PRON all|DET ?|.
+ People|NOUN have|VERB said|VERB that|ADP ,|. yes|X ...|.
+ You|PRON queer|VERB ?|.
+ I|PRON 'm|VERB married|ADJ .|.
+ WILLIE|ADP Mr.|NOUN Cobb|NOUN 's|PRT in|ADP the|DET car|NOUN ?|.
+ Yeah|NOUN ...|.
+ COBB|NOUN Whose|NOUN truth|NOUN ?|.
+ Mine|NOUN ,|. for|ADP crissakes|NOUN ,|. I|PRON 'm|VERB the|DET writer|NOUN !|.
+ STUMP|NOUN Your|PRON mother|NOUN killed|VERB your|PRON father|NOUN ?|.
+ And|CONJ you|PRON ai|VERB n't|ADV printing|VERB it|PRON .|.
+ RAMONA|NOUN Who|QUESTIONTAG 's|PRT that|ADP ?|.
+ The|DET greatest|ADJ baseball|NOUN player|NOUN of|ADP all|DET time|NOUN .|.
+ Does|VERB it|PRON bother|VERB you|PRON ?|.
+ No|DET ,|. no|DET ...|.
+ RAMONA|NOUN (|. bored|VERB ,|. shrugging|VERB )|. You|PRON wanta|VERB go|VERB to|PRT bed|NOUN with|ADP me|PRON ,|. right|ADV ?|.
+ answer|NOUN .|.
+ Screw|NOUN or|CONJ pay|VERB ?|.
+ Whichever|NOUN .|.
+ RAMONA|NOUN So|NOUN ya|ADV do|VERB n't|ADV wanta|VERB screw|VERB ?|.
+ No|DET ,|. I|PRON do|VERB .|.
+ You|PRON being|VERB paid|VERB ?|.
+ Very|ADV well|ADV .|.
+ My|PRON girl|NOUN went|VERB for|ADP the|DET nigger|NOUN ?|.
+ I|PRON think|VERB they|PRON 're|VERB just|ADV next|ADJ to|PRT each|DET other|ADJ by|ADP accident|NOUN .|.
+ COBB|NOUN Where|QUESTIONTAG 's|PRT your|PRON tux|NOUN ?|.
+ I|PRON do|VERB n't|ADV have|VERB one|NUM .|.
+ The|DET boys|NOUN 'll|VERB get|VERB together|ADV later|ADV and|CONJ have|VERB a|DET little|ADJ party|NOUN ,|. eh|NOUN ?|.
+ Be|VERB some|DET parties|NOUN tonight|VERB ,|. Peach|NOUN ...|. (|. CONTINUED|NOUN )|.
+ Got|NOUN any|DET women|NOUN in|ADP there|DET ?|.
+ Sure|ADJ do|VERB .|.
+ Who|QUESTIONTAG 's|VERB in|ADP there|ADV ?|.
+ What|QUESTIONTAG did|VERB you|PRON see|VERB on|ADP that|DET film|NOUN tonight|NOUN ?|.
+ I|PRON saw|VERB Ty|NOUN Cobb|NOUN playing|VERB baseball|NOUN .|.
+ If|ADP you|PRON did|VERB n't|ADV like|ADP the|DET job|NOUN ,|. why|ADV did|VERB n't|ADV you|PRON quit|VERB ?|.
+ Who|QUESTIONTAG would|VERB take|VERB care|NOUN of|ADP you|PRON ?|.
+ Religious|ADJ growth|NOUN ?|.
+ We|PRON all|DET need|VERB to|PRT forgive|VERB more|ADJ ,|. Al|NOUN ...|. you|PRON oughta|VERB try|VERB it|PRON .|.
+ COBB|NOUN Either|NOUN my|PRON father|NOUN was|VERB ...|. inadequate|NOUN ...|. for|ADP my|PRON mother|NOUN ...|. he|PRON was|VERB not|ADV the|DET man|NOUN I|PRON thought|VERB he|PRON was|VERB ...|. not|ADV a|DET great|ADJ man|NOUN ...|. not|ADV even|ADV a|DET good|ADJ man|NOUN ...|. (|. beat|NOUN )|. ...|. or|CONJ my|PRON mother|NOUN was|VERB ...|. trash|NOUN ...|. a|DET common|ADJ whore|NOUN ...|. (|. beat|NOUN )|. It|PRON 's|VERB that|ADP simple|NOUN ,|. is|VERB n't|ADV it|PRON ?|.
+ COBB|NOUN As|ADP a|DET boy|NOUN I|PRON stood|VERB in|ADP court|NOUN next|ADJ to|PRT her|PRON because|ADP suddenly|ADV I|PRON was|VERB the|DET man|NOUN of|ADP the|DET house|NOUN but|CONJ as|ADP I|PRON stood|VERB there|DET steadfastly|ADV by|ADP her|PRON side|NOUN and|CONJ heard|VERB the|DET jury|NOUN say|VERB 'not|NUM guilty|ADJ '|PRT I|PRON knew|VERB she|PRON 'd|VERB been|VERB with|ADP another|DET man|NOUN the|DET night|NOUN of|ADP the|DET killing|NOUN .|.
+ (|. to|PRT the|DET Younger|NOUN Doctor|NOUN )|. Bad|NOUN ,|. ai|VERB n't|ADV it|PRON ?|.
+ Or|CONJ was|VERB he|PRON just|ADV one|NUM of|ADP the|DET guys|NOUN ?|.
+ awaiting|VERB his|PRON judgement|NOUN as|ADP if|ADP it|PRON is|VERB final|ADJ wisdom|NOUN .|.

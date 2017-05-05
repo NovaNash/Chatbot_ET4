@@ -1,0 +1,116 @@
+ ...|. My|PRON ...|. social|ADJ situation|NOUN ?|.
+ You|PRON keep|VERB too|ADV much|ADJ to|PRT yourself|VERB --|. you|PRON 're|VERB a|DET lone|ADJ wolf|NOUN .|.
+ Have|VERB you|PRON never|ADV wondered|VERB --|. and|CONJ I|PRON mention|VERB this|DET only|ADV in|ADP passing|NOUN --|. (|. as|ADP he|PRON paces|VERB past|ADJ and|CONJ Kafka|NOUN turns|VERB his|PRON head|NOUN )|. why|ADV other|ADJ clerks|NOUN have|VERB advanced|VERB to|PRT more|ADV responsible|ADJ positions|NOUN while|ADP you|PRON ,|. who|PRON have|VERB been|VERB here|ADV longer|ADV ,|. have|VERB not|ADV ?|.
+ No|DET ,|. sir|NOUN .|.
+ (|. keeps|VERB pacing|VERB )|. Oh|X ,|. I|PRON know|VERB you|PRON got|VERB along|ADV with|ADP that|DET poor|ADJ fellow|NOUN --|. what|PRON was|VERB his|PRON name|NOUN ?|.
+ --|. Eduard|NOUN --|.
+ Good|ADJ morning|NOUN --|. (|. she|PRON ignores|VERB him|PRON )|. Or|CONJ should|VERB I|PRON say|VERB good|ADJ afternoon|NOUN ?|.
+ Say|VERB what|PRON you|PRON like|VERB --|. no|DET one|NOUN pays|VERB the|DET least|ADJ attention|NOUN .|.
+ Have|VERB you|PRON worked|VERB here|ADV long|ADV ?|.
+ No|DET ,|. no|DET ,|. no|DET --|. quite|ADV a|DET long|ADJ time|NOUN ,|. yes|X .|.
+ What|QUESTIONTAG ?|.
+ That|ADP he|PRON was|VERB --|. satisfied|VERB in|ADP that|DET regard|NOUN .|.
+ What|QUESTIONTAG 's|VERB funny|NOUN ?|.
+ This|DET morning|NOUN it|PRON was|VERB suggested|VERB to|PRT me|PRON that|ADP my|PRON own|ADJ sense|NOUN of|ADP office|NOUN fellowship|NOUN could|VERB bear|VERB improving|VERB .|.
+ The|DET police|NOUN would|VERB know|VERB the|DET difference|NOUN ,|. would|VERB n't|ADV they|PRON ?|.
+ Do|VERB you|PRON think|VERB people|NOUN in|ADP the|DET New|NOUN Town|NOUN care|NOUN what|PRON happens|VERB over|ADP here|ADV ?|.
+ --|. What|QUESTIONTAG could|VERB he|PRON have|VERB done|VERB to|PRT warrant|VERB that|ADP ?|.
+ away|ADV .|.
+ Are|NOUN you|PRON free|ADJ tonight|NOUN ?|.
+ Tonight|NOUN ?|.
+ You|PRON almost|ADV married|VERB recently|ADV ,|. did|VERB n't|ADV you|PRON ?|.
+ Last|ADJ year|NOUN .|.
+ And|CONJ you|PRON ...|. ?|.
+ I|PRON 'm|VERB suspicious|ADJ of|ADP men|NOUN who|PRON want|VERB to|PRT marry|VERB .|.
+ Heralds|NOUN of|ADP a|DET new|ADJ age|NOUN --|. does|VERB that|ADP sound|VERB immodest|ADJ ?|.
+ You|PRON could|VERB say|VERB we|PRON represent|VERB the|DET unofficial|ADJ view|NOUN of|ADP a|DET well-ordered|ADJ society|NOUN .|.
+ (|. disbelieving|VERB )|. ...|. Was|NOUN Eduard|NOUN one|NUM of|ADP you|PRON ?|.
+ The|DET last|ADJ to|PRT join|VERB us|PRON ,|. the|DET first|ADJ to|PRT leave|VERB us|PRON .|.
+ ...|. Why|ADV take|VERB me|PRON into|ADP your|PRON confidence|NOUN ?|.
+ That|DET 's|VERB obvious|ADJ ,|. is|VERB n't|ADV it|PRON ?|.
+ (|. turns|NOUN )|. What|QUESTIONTAG proceedings|NOUN ?|.
+ Preliminary|ADJ investigations|NOUN may|VERB already|ADV be|VERB underway|ADV .|.
+ (|. shakes|VERB his|PRON head|NOUN )|. What|QUESTIONTAG of|ADP it|PRON ?|.
+ He|PRON was|VERB summoned|VERB to|PRT help|VERB correct|VERB a|DET minor|ADJ discrepancy|NOUN of|ADP some|DET sort|NOUN in|ADP the|DET Medical|NOUN Records|NOUN Division|NOUN .|.
+ Propaganda|NOUN of|ADP the|DET dead|ADJ ?|.
+ The|DET Castle|NOUN will|VERB deny|VERB he|PRON was|VERB there|ADV any|DET longer|ADJ than|ADP his|PRON business|NOUN required|VERB .|.
+ How|QUESTIONTAG was|VERB your|PRON evening|NOUN ?|.
+ chairs|NOUN closer|ADV to|PRT him|PRON .|.
+ (|. uncovering|VERB his|PRON typewriter|NOUN )|. What|QUESTIONTAG was|VERB the|DET matter|NOUN with|ADP it|PRON ?|.
+ (|. indicating|VERB Ludwig|NOUN )|. He|PRON ca|VERB n't|ADV sit|VERB still|ADV .|.
+ (|. looking|VERB up|PRT )|. Do|VERB you|PRON ?|.
+ We|PRON saw|VERB her|PRON naked|ADJ once|ADV --|. did|VERB n't|ADV we|PRON .|.
+ You|PRON do|VERB n't|ADV think|VERB it|PRON 's|VERB a|DET horrible|ADJ double|ADJ life|NOUN from|ADP which|DET there|DET is|VERB probably|ADV no|DET escape|NOUN but|CONJ insanity|NOUN ?|.
+ attitude|NOUN .|.
+ Are|NOUN you|PRON looking|VERB for|ADP Gabriela|NOUN Rossmann|NOUN ?|.
+ Yes|X .|.
+ (|. taking|VERB her|PRON note|NOUN from|ADP his|PRON pocket|NOUN )|. Burgel|NOUN gave|VERB me|PRON this|DET --|. what|PRON does|VERB it|PRON mean|VERB ?|.
+ (|. now|ADV looks|VERB up|PRT )|. Burgel|NOUN !|.
+ (|. going|VERB closer|ADV )|. Why|ADV were|VERB you|PRON given|VERB notice|NOUN ?|.
+ They|PRON 're|VERB not|ADV obliged|VERB to|PRT tell|VERB .|.
+ Now|ADV you|PRON 're|VERB saying|VERB Eduard|NOUN was|VERB lured|VERB there|ADV ?|.
+ (|. puts|VERB away|ADV the|DET last|ADJ few|ADJ books|NOUN )|. How|QUESTIONTAG often|ADV does|VERB one|NUM of|ADP our|PRON clerks|NOUN have|VERB business|NOUN in|ADP the|DET house|NOUN of|ADP records|NOUN ?|.
+ And|CONJ Burgel|NOUN is|VERB the|DET bringer|NOUN of|ADP messages|NOUN ,|. is|VERB n't|ADV he|PRON ?|.
+ Usually|ADV .|.
+ Now|ADV Burgel|NOUN 's|PRT one|NUM of|ADP the|DET authorities|NOUN ?|.
+ If|ADP someone|NOUN was|VERB waiting|VERB here|ADV in|ADP the|DET hallway|NOUN to|PRT spirit|VERB her|PRON away|NOUN ,|. would|VERB n't|ADV they|PRON have|VERB shut|VERB the|DET door|NOUN as|ADV quietly|ADV as|ADP possible|ADJ ?|.
+ their|PRON eyes|NOUN at|ADP each|DET other|ADJ .|.
+ Why|ADV would|VERB someone|NOUN want|VERB to|PRT kidnap|VERB this|DET woman|NOUN --|. the|DET name|NOUN is|VERB Rossmann|NOUN ?|.
+ name|NOUN .|.
+ (|. pauses|NOUN )|. What|QUESTIONTAG did|VERB she|PRON say|VERB ?|.
+ That|ADP the|DET police|NOUN may|VERB have|VERB allegiance|NOUN to|PRT something|NOUN other|ADJ than|ADP truth|NOUN .|.
+ Where|QUESTIONTAG are|VERB your|PRON friends|NOUN ?|.
+ (|. slightly|ADV mocking|VERB as|ADP ever|ADV )|. --|. In|ADP what|PRON sense|NOUN ?|.
+ couples|NOUN ,|. holding|VERB hands|NOUN ,|. kissing|VERB .|.
+ These|DET strange|ADJ stories|NOUN you|PRON write|VERB --|. they|PRON come|VERB naturally|ADV ,|. do|VERB they|PRON ?|.
+ Naturally|ADV ?|.
+ Success|NOUN or|CONJ nothing|NOUN ?|.
+ No|DET --|. not|ADV even|ADV success|NOUN .|.
+ --|. Ah|NOUN ,|. but|CONJ what|PRON if|ADP it|PRON was|VERB n't|ADV ?|.
+ --|. Small|NOUN .|.
+ --|. What|QUESTIONTAG if|ADP it|PRON was|VERB a|DET large|ADJ discrepancy|NOUN ?|.
+ (|. follows|VERB anxiously|ADV )|. What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ Why|ADV would|VERB we|PRON keep|VERB files|NOUN on|ADP dead|ADJ employees|NOUN ?|.
+ (|. dodges|VERB another|DET paper|NOUN landslide|NOUN )|. It|PRON 's|VERB gone|VERB out|PRT so|ADV quickly|ADV ?|.
+ Whenever|ADV an|DET employee|NOUN departs|NOUN ,|. shall|VERB we|PRON say|VERB ,|. it|PRON 's|VERB up|PRT to|PRT the|DET head|NOUN of|ADP his|PRON department|NOUN to|PRT requisition|VERB his|PRON file|NOUN ,|. reassign|VERB any|DET outstanding|ADJ claims|NOUN ,|. and|CONJ send|VERB it|PRON off|PRT .|.
+ Was|NOUN there|DET something|NOUN else|ADV ?|.
+ No|DET --|. I|PRON just|ADV --|. I|PRON feel|VERB a|DET sense|NOUN of|ADP obligation|NOUN .|.
+ If|ADP it|PRON was|VERB Accounts|NOUN you|PRON wanted|VERB why|ADV did|VERB you|PRON ask|VERB for|ADP Employees|NOUN ?|.
+ Orlac|NOUN is|VERB an|DET account|NOUN ?|.
+ (|. leafing|VERB through|ADP pages|NOUN )|. All|DET these|DET in|ADP the|DET last|ADJ year|NOUN ?|.
+ You|PRON must|VERB have|VERB read|VERB about|ADP it|PRON in|ADP the|DET papers|NOUN --|. there|DET was|VERB a|DET terrible|ADJ cave-in|NOUN .|.
+ (|. a|DET particular|ADJ document|NOUN )|. This|DET is|VERB the|DET cross-reference|NOUN of|ADP clerks|NOUN who|PRON 've|VERB worked|VERB on|ADP Orlac|NOUN claims|NOUN ?|.
+ (|. nods|NOUN )|. Is|VERB your|PRON friend|NOUN 's|PRT name|NOUN among|ADP them|PRON ?|.
+ Once|ADV a|DET file|NOUN 's|PRT been|VERB sent|VERB to|PRT the|DET Caste|NOUN ,|. is|VERB it|PRON possible|ADJ to|PRT recall|VERB it|PRON for|ADP review|NOUN ?|.
+ (|. going|VERB back|ADV up|ADP ladder|NOUN )|. Of|ADP course|NOUN not|ADV .|.
+ What|QUESTIONTAG good|NOUN are|VERB records|NOUN if|ADP they|PRON 're|VERB not|ADV open|ADJ for|ADP public|ADJ inspection|NOUN ?|.
+ (|. stuffing|VERB file|NOUN back|ADV in|ADP place|NOUN )|. These|DET laws|NOUN have|VERB been|VERB with|ADP us|PRON for|ADP centuries|NOUN --|. how|ADV can|VERB you|PRON doubt|VERB them|PRON ?|.
+ What|QUESTIONTAG if|ADP I|PRON petitioned|VERB one|NUM of|ADP the|DET Directors|NOUN ?|.
+ (|. coming|VERB back|ADV down|ADV )|. You|PRON do|VERB not|ADV summon|VERB them|PRON --|. they|PRON summon|VERB you|PRON --|. and|CONJ this|DET ,|. of|ADP course|NOUN ,|. hardly|ADV ever|ADV happens|VERB ,|. if|ADP at|ADP all|DET .|.
+ Where|QUESTIONTAG do|VERB our|PRON records|NOUN go|VERB to|PRT in|ADP the|DET Castle|NOUN ?|.
+ (|. starting|VERB to|PRT walk|VERB away|ADV )|. We|PRON 're|VERB a|DET medical|ADJ firm|NOUN ,|. are|VERB n't|ADV we|PRON ?|.
+ You|PRON mean|VERB you|PRON 've|VERB actually|ADV begun|VERB some|DET ?|.
+ (|. pointing|VERB at|ADP Oskar|NOUN )|. --|. Just|ADV because|ADP he|PRON 's|VERB done|VERB nothing|NOUN today|NOUN ,|. he|PRON does|VERB n't|ADV want|VERB me|PRON to|PRT show|VERB him|PRON up|PRT !|.
+ --|. How|QUESTIONTAG would|VERB you|PRON like|VERB to|PRT be|VERB in|ADP a|DET horrible|ADJ situation|NOUN like|ADP that|DET ?|.
+ Well|ADV ,|. what|PRON 're|VERB you|PRON waiting|VERB for|ADP ?|.
+ invitation|NOUN .|.
+ Did|NOUN you|PRON think|VERB you|PRON 'd|VERB be|VERB safe|ADJ back|ADV in|ADP your|PRON little|ADJ burrow|NOUN ?|.
+ (|. waits|NOUN for|ADP Kafka|NOUN )|. Are|VERB you|PRON sure|ADJ you|PRON would|VERB n't|ADV prefer|VERB going|VERB through|ADP official|ADJ channels|NOUN ?|.
+ particularly|ADV large|ADJ tombstone|NOUN ,|. crumbled|VERB in|ADP places|NOUN to|PRT give|VERB it|PRON an|DET animal-like|ADJ suggestion|NOUN .|.
+ What|QUESTIONTAG made|VERB you|PRON think|VERB I|PRON 'd|VERB be|VERB able|ADJ to|PRT get|VERB you|PRON into|ADP the|DET Castle|NOUN ?|.
+ The|DET cemetery|NOUN is|VERB nearer|ADP the|DET Castle|NOUN than|ADP anywhere|ADV else|ADV --|. was|VERB n't|ADV it|PRON part|NOUN of|ADP the|DET Castle|NOUN originally|ADV ?|.
+ (|. unclear|ADJ )|. An|DET empty|ADJ tomb|NOUN ?|.
+ A|DET cenotaph|NOUN --|. a|DET monument|NOUN to|PRT someone|NOUN whose|PRON remains|NOUN ended|VERB up|ADV elsewhere|ADV .|.
+ Will|VERB you|PRON do|VERB me|PRON a|DET favor|NOUN then|ADV ?|.
+ Another|DET one|NUM ?|.
+ Are|NOUN you|PRON lost|VERB ?|.
+ Are|NOUN you|PRON the|DET Head|NOUN of|ADP Medical|NOUN Records|NOUN ?|.
+ (|. EKMAN|NOUN )|. comes|VERB in|ADP .|.
+ May|NOUN I|PRON ask|VERB where|ADV your|PRON two|NUM warders|NOUN are|VERB ?|.
+ Lying|VERB in|ADP the|DET gutter|NOUN where|ADV they|PRON belong|VERB .|.
+ What|QUESTIONTAG have|VERB you|PRON done|VERB with|ADP Gabriela|NOUN Rossmann|NOUN ?|.
+ As|ADP a|DET matter|NOUN of|ADP fact|NOUN you|PRON 've|VERB caught|VERB us|PRON in|ADP a|DET state|NOUN of|ADP considerable|ADJ excitement|NOUN .|.
+ (|. turning|VERB from|ADP another|DET )|. Ludwig|NOUN ?|.
+ wind|NOUN and|CONJ the|DET water|NOUN ?|.
+ Gabriela|NOUN ...|. ?|.
+ Should|VERB I|PRON tell|VERB you|PRON why|ADV I|PRON joined|VERB our|PRON late|ADJ lamented|VERB nihilists|NOUN ?|.

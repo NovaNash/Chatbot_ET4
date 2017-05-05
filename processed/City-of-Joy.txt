@@ -1,0 +1,2 @@
+ HASARI|NOUN You|PRON 're|VERB a|DET doctor|NOUN ,|. how|ADV can|VERB you|PRON not|ADV help|VERB ?|.
+ The|DET moon|NOUN reflects|VERB off|ADP the|DET dark|ADJ puddles|NOUN of|ADP muddy|ADJ water|NOUN that|DET line|NOUN the|DET side|NOUN of|ADP the|DET railway|NOUN tracks|NOUN .|.

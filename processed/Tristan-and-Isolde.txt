@@ -1,0 +1,73 @@
+ TRISTAN|NOUN When|QUESTIONTAG can|VERB I|PRON have|VERB a|DET stag|NOUN ?|.
+ a|DET stag|NOUN ?|.
+ Can|VERB I|PRON ?|.
+ men|NOUN ]|VERB MAN|NOUN The|DET Angles|NOUN have|VERB arrives|NOUN my|PRON Lord|NOUN ,|. as|ADV well|ADV as|ADP the|DET Carrods|NOUN ,|. our|PRON fellow|ADJ Jutes|NOUN and|CONJ the|DET Saxons|NOUN .|.
+ How|QUESTIONTAG did|VERB they|PRON know|VERB ?|.
+ tries|NOUN to|PRT fight|VERB ]|NOUN LADY|NOUN MARKE|NOUN Tristan|NOUN !|.
+ What|QUESTIONTAG news|NOUN of|ADP the|DET treaty|NOUN ?|.
+ Whos|ADP this|DET ?|.
+ Tristan|NOUN .|.
+ Where|QUESTIONTAG does|VERB this|DET lead|NOUN ?|.
+ Youll|NOUN see|NOUN .|.
+ And|CONJ you|PRON welcome|VERB it|PRON ?|.
+ I|PRON accept|VERB it|PRON .|.
+ When|QUESTIONTAG would|VERB you|PRON strike|VERB ?|.
+ At|ADP once|ADV .|.
+ Tristan|NOUN ?|.
+ Simon|NOUN too|ADV .|.
+ is|VERB suddenly|ADV woken|VERB from|ADP sleep|ADJ and|CONJ makes|VERB her|PRON way|NOUN to|PRT the|DET beach|NOUN with|ADP Bragnae|NOUN ]|NOUN BRAGNAE|NOUN Where|QUESTIONTAG are|VERB we|PRON going|VERB ?|.
+ Away|ADV .|.
+ Where|QUESTIONTAG ?|.
+ Dead|NOUN ?|.
+ Alive|ADJ !|.
+ Isolde|NOUN ?|.
+ Help|VERB me|PRON !|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ He|PRON needs|VERB heat|NOUN .|.
+ Where|QUESTIONTAG ?|.
+ Bragnae|NOUN and|CONJ I|PRON were|VERB spying|VERB the|DET convent|NOUN of|ADP Brittes|NOUN ]|NOUN .|.
+ ISOLDE|NOUN Tomorrow|NOUN then|ADV ?|.
+ Tomorrow|NOUN .|.
+ Youre|NOUN promised|VERB ?|.
+ Yes|X .|.
+ Whats|ADP he|PRON like|ADP ?|.
+ Dark|NOUN .|.
+ Meanwhile|ADV all|DET the|DET British|ADJ Lords|NOUN receive|VERB a|DET message|NOUN from|ADP Ireland|NOUN ]|NOUN MELOT|NOUN Whats|NOUN this|DET about|ADP a|DET tournament|NOUN ?|.
+ Donnchadh|NOUN .|.
+ What|QUESTIONTAG ?|.
+ It|PRON is|VERB the|DET only|ADJ way|NOUN to|PRT keep|VERB the|DET alliance|NOUN alive|ADJ .|.
+ How|QUESTIONTAG do|VERB I|PRON look|VERB ?|.
+ How|QUESTIONTAG do|VERB you|PRON look|VERB ?|.
+ Do|VERB you|PRON think|VERB shes|NOUN got|VERB the|DET pox|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ I|PRON yield|VERB !|.
+ Tristan|NOUN ?|.
+ Might|NOUN I|PRON stay|VERB here|ADV a|DET while|NOUN ?|.
+ Why|ADV ?|.
+ Everything|NOUN I|PRON want|VERB seems|VERB misplaced|VERB .|.
+ And|CONJ after|ADP me|PRON ?|.
+ None|NOUN .|.
+ Can|VERB I|PRON speak|VERB to|PRT you|PRON ?|.
+ They|PRON hide|VERB in|ADP a|DET room|NOUN were|VERB they|PRON begin|VERB to|PRT kiss|VERB each|DET other|ADJ passionately|ADV .|.
+ is|VERB an|DET old|ADJ ruins|NOUN ,|. with|ADP paintings|NOUN of|ADP a|DET couple|NOUN on|ADP the|DET broken|ADJ walls|NOUN ]|VERB ISOLDE|NOUN What|QUESTIONTAG do|VERB you|PRON think|VERB became|VERB of|ADP them|PRON ?|.
+ They|PRON were|VERB lives|NOUN ...|. just|ADV lived|VERB .|.
+ MARKE|NOUN Where|QUESTIONTAG is|VERB Isolde|NOUN ?|.
+ I|PRON dont|VERB know|VERB for|ADP sure|ADJ ,|. she|PRON was|VERB having|VERB a|DET walk|NOUN in|ADP the|DET garden|NOUN before|ADP and|CONJ Im|NOUN afraid|VERB I|PRON got|VERB tired|VERB so|ADV I|PRON returned|VERB .|.
+ If|ADP they|PRON move|VERB they|PRON will|VERB warn|VERB us|PRON with|ADP a|DET black|ADJ flag|NOUN [|ADP The|DET King|NOUN of|ADP Ireland|NOUN arrives|NOUN and|CONJ shakes|NOUN hands|NOUN with|ADP a|DET waiting|VERB Marke|NOUN ]|NOUN MARKE|NOUN You|PRON bring|VERB an|DET entourage|NOUN ?|.
+ I|PRON can|VERB let|VERB myself|PRON be|VERB alone|ADV in|ADP my|PRON position|NOUN Lord|NOUN Marke|NOUN .|.
+ Why|ADV did|VERB you|PRON burn|VERB it|PRON ?|.
+ You|PRON know|VERB .|.
+ Is|VERB something|NOUN the|DET matter|NOUN ?|.
+ Im|NOUN just|ADV feeling|VERB a|DET little|ADJ weary|ADJ thats|NOUN all|DET .|.
+ How|QUESTIONTAG long|ADV ?|.
+ Since|ADP you|PRON thought|VERB he|PRON was|VERB dead|ADJ .|.
+ What|QUESTIONTAG ?|.
+ The|DET Roman|NOUN Tunnel|NOUN !|.
+ the|DET riverside|NOUN where|ADV Isolde|NOUN and|CONJ Bragnae|NOUN are|VERB waiting|VERB with|ADP a|DET boat|NOUN ]|NOUN TRISTAN|NOUN What|QUESTIONTAG is|VERB this|DET ?|.
+ The|DET will|VERB of|ADP the|DET King|NOUN .|.
+ What|QUESTIONTAG happened|VERB here|ADV ?|.
+ A|DET reward|NOUN for|ADP idiocy|NOUN .|.
+ Why|ADV ?|.
+ I|PRON thought|VERB someone|NOUN believed|VERB in|ADP me|PRON .|.
+ Him|NOUN too|ADV ?|.
+ No|DET ,|. hes|NOUN with|ADP us|PRON !|.

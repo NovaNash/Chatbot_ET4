@@ -1,0 +1,70 @@
+ is|VERB ?|.
+ Sal|NOUN stops|VERB on|ADP one|NUM side|NOUN of|ADP the|DET street|NOUN while|ADP Ray|NOUN continues|VERB walking|NOUN .|.
+ now|ADV can|VERB we|PRON ?|.
+ RAY|NOUN
+ get|VERB going|VERB if|ADP you|PRON want|VERB to|PRT beat|VERB the|DET traffic|NOUN ,|. do|VERB n't|ADV you|PRON think|VERB ?|.
+ Mary|NOUN Ann|NOUN ignores|VERB his|PRON comment|NOUN as|ADP she|PRON opens|VERB the|DET refrigerator|NOUN which|DET is|VERB almost|ADV empty|ADJ .|.
+ they|PRON ?|.
+ RAY|NOUN
+ mother|NOUN or|CONJ mine|NOUN ?|.
+ RACHEL|NOUN
+ me|PRON to|PRT take|VERB that|DET out|PRT for|ADP you|PRON ?|.
+ RACHEL|NOUN
+ What|QUESTIONTAG is|VERB that|DET ?|.
+ RACHEL|NOUN
+ Robbie|NOUN ?|.
+ RACHEL|NOUN
+ okay|NOUN ?|.
+ BAM|NOUN !|.
+ okay|NOUN ?|.
+ ROBBIE|NOUN
+ go|VERB ?|.
+ ROBBIE|NOUN
+ near|ADP it|PRON ?|.
+ ROBBIE|NOUN
+ dead|ADJ ?|.
+ MANNY|NOUN
+ it|PRON ...|. you|PRON got|VERB any|DET idea|NOUN what|PRON 's|VERB going|VERB on|ADP ?|.
+ RAY|NOUN
+ me|PRON ,|. okay|PRON ?|.
+ Ray|NOUN shoves|VERB cereal|NOUN boxes|NOUN aside|ADV to|PRT get|VERB to|PRT the|DET cabinet|NOUN over|ADP the|DET refrigerator|NOUN for|ADP batteries|NOUN .|.
+ Can|VERB you|PRON please|VERB answer|VERB me|PRON ?|.
+ Ray|NOUN does|VERB not|ADV respond|VERB as|ADP he|PRON looks|VERB in|ADP the|DET ignition|NOUN and|CONJ finds|VERB keys|NOUN .|.
+ I|PRON had|VERB to|PRT change|VERB the|DET sole|NOUN ...|. Ray|NOUN ?|.
+ Manny|NOUN sees|VERB Ray|NOUN has|VERB loaded|VERB his|PRON whole|ADJ family|NOUN into|ADP the|DET car|NOUN .|.
+ airplanes|NOUN ?|.
+ RAY|NOUN
+ (|. to|PRT Robbie|NOUN )|. How|QUESTIONTAG she|PRON doing|VERB ?|.
+ ROBBIE|NOUN
+ did|VERB with|ADP her|PRON ?|.
+ ROBBIE|NOUN
+ for|ADP me|PRON ,|. okay|PRON ?|.
+ RACHEL|NOUN
+ not|ADV at|ADP your|PRON place|NOUN ?|.
+ RAY|NOUN
+ You|PRON think|VERB all|DET the|DET circuits|NOUN are|VERB down|PRT ?|.
+ RAY|NOUN
+ to|PRT us|PRON ?|.
+ RAY|NOUN
+ this|DET ?|.
+ The|DET news|NOUN reporter|NOUN comes|VERB rushing|VERB out|PRT from|ADP the|DET side|NOUN of|ADP the|DET news|NOUN van|NOUN in|ADP the|DET background|NOUN .|.
+ riding|VERB the|DET lighting|NOUN into|ADP the|DET ground|NOUN into|ADP the|DET machines|NOUN right|ADV ?|.
+ A|DET vibration|NOUN noise|NOUN is|VERB heard|VERB by|ADP an|DET approaching|VERB robot|NOUN .|.
+ make|VERB the|DET big|ADJ decisions|NOUN ,|. okay|NOUN ?|.
+ Ray|NOUN shoves|VERB the|DET map|NOUN on|ADP the|DET floorboard|NOUN as|ADP he|PRON becomes|VERB more|ADJ angry|ADJ at|ADP Robbie|NOUN .|.
+ THAT|DET DIRECTION|NOUN ?|.
+ Robbie|NOUN ,|. who|PRON ignores|VERB him|PRON is|VERB still|ADV shouting|VERB for|ADP them|PRON to|PRT stop|VERB .|.
+ WHAT|PRON ARE|NOUN YOU|NOUN TRYING|NOUN TO|NOUN DO|NOUN ?|. !|. ?|.
+ Rachel|NOUN begins|VERB to|PRT cry|VERB as|ADP Robbie|NOUN looks|VERB at|ADP her|PRON in|ADP sorrow|NOUN .|.
+ mom|NOUN 's|PRT doing|VERB right|ADV this|DET minute|NOUN ?|.
+ Harland|NOUN sits|VERB down|ADV on|ADP the|DET stairs|NOUN to|PRT listen|VERB to|PRT their|PRON conversation|NOUN .|.
+ What|QUESTIONTAG ...|. What|QUESTIONTAG is|VERB this|DET ?|.
+ RACHEL|NOUN
+ you|PRON loose|VERB anybody|NOUN ?|.
+ HARLAND|NOUN
+ Are|NOUN you|PRON afraid|ADP ?|.
+ RAY|NOUN
+ us|PRON here|ADV ?|.
+ HARLAND|NOUN
+ did|VERB n't|ADV know|VERB ?|.
+ RACHEL|NOUN

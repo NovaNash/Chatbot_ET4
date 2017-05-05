@@ -1,0 +1,159 @@
+ Heading|VERB ?|.
+ (|. continuing|VERB )|. You|PRON 've|VERB received|VERB your|PRON appointment|NOUN as|ADP Enterprise|NOUN Science|NOUN Officer|NOUN ?|.
+ (|. nods|NOUN )|. Based|VERB ,|. I|PRON am|VERB told|ADV ,|. on|ADP your|PRON recommendation|NOUN ,|. Admiral|NOUN .|.
+ Why|ADV are|VERB n't|ADV you|PRON on|ADP board|NOUN ?|.
+ Captain|NOUN Decker|NOUN requested|VERB I|PRON complete|VERB final|ADJ Science|NOUN briefing|NOUN here|ADV before|ADP ...|.
+ To|PRT you|PRON ,|. sir|VERB ?|.
+ I|PRON intend|VERB to|PRT be|VERB there|ADV following|VERB that|ADP meeting|NOUN .|.
+ Why|ADV are|VERB n't|ADV the|DET Enterprise|NOUN transporters|NOUN in|ADP operation|NOUN ,|. Mister|NOUN Scott|NOUN ?|.
+ We|PRON 're|VERB hoping|VERB it|PRON 's|VERB only|ADV a|DET temporary|ADJ problem|NOUN ,|. Admiral|NOUN ...|.
+ Permission|NOUN to|PRT come|VERB aboard|ADV ,|. sir|NOUN ...|. ?|.
+ Granted|VERB ,|. sir|NOUN .|.
+ (|. to|PRT Kirk|NOUN )|. Sir|NOUN ,|. you|PRON 'll|VERB excuse|VERB me|PRON ...|. ?|.
+ Kirk|NOUN stands|VERB a|DET moment|NOUN ,|. gazing|VERB down|PRT at|ADP the|DET cargo|NOUN deck|NOUN .|.
+ You|PRON are|VERB what|PRON ...|. ?|.
+ I|PRON 'm|VERB replacing|VERB you|PRON as|ADP Captain|NOUN of|ADP the|DET Enterprise|NOUN .|.
+ (|. finding|VERB his|PRON voice|NOUN )|. --|. You|PRON ,|. personally|ADV ,|. are|VERB assuming|VERB command|NOUN ?|.
+ Yes|X .|.
+ May|NOUN I|PRON ask|VERB Why|ADV ?|.
+ (|. nods|NOUN )|. My|PRON experience|NOUN --|. five|NUM years|NOUN out|ADP there|ADV dealing|VERB with|ADP unknowns|NOUN like|ADP this|DET --|. my|PRON familiarity|NOUN with|ADP the|DET Enterprise|NOUN ,|. this|DET crew|NOUN ...|.
+ (|. into|ADP intercom|NOUN )|. Starfleet|NOUN ,|. do|VERB you|PRON have|VERB them|PRON ?|.
+ Scott|NOUN look|NOUN at|ADP each|DET other|ADJ again|ADV ,|. their|PRON pained|ADJ faces|VERB presaging|VERB the|DET answer|NOUN they|PRON already|ADV know|VERB :|.
+ Turboshaft|NOUN eight|NUM ...|. ?|.
+ Back|ADV that|DET way|NOUN ,|. sir|NOUN .|.
+ (|. eyes|VERB his|PRON rank|NOUN stripes|NOUN )|. 'Commander|VERB '|. Decker|NOUN ?|.
+ Our|PRON Exec|NOUN and|CONJ Science|NOUN Officer|NOUN ...|.
+ Yeoman|NOUN ,|. what|PRON was|VERB the|DET problem|NOUN down|ADP there|ADV ?|.
+ (|. through|ADP intercom|NOUN )|. He|PRON insisted|VERB we|PRON go|VERB first|ADV ,|. sir|NOUN .|.
+ --|. Why|ADV is|VERB any|DET object|NOUN we|PRON do|VERB n't|ADV understand|VERB called|VERB a|DET 'thing|VERB '|PRT ?|.
+ (|. continues|VERB )|. --|. headed|VERB this|DET way|NOUN .|.
+ Permission|NOUN to|PRT come|VERB aboard|ADV ,|. sir|NOUN ?|.
+ (|. elated|VERB )|. Permission|NOUN granted|VERB ,|. sir|NOUN !|.
+ Well|ADV ,|. Bones|NOUN ,|. do|VERB the|DET new|ADJ medical|ADJ facilities|NOUN meet|VERB with|ADP your|PRON approval|NOUN ?|.
+ They|PRON do|VERB not|ADV .|.
+ (|. turning|VERB to|PRT Decker|NOUN )|. Programming|VERB ready|ADJ ?|.
+ Program|NOUN set|NOUN for|ADP standard|ADJ Warp|NOUN entry|NOUN ,|. Captain|NOUN ...|.
+ (|. toward|ADP Ilia|NOUN )|. Time|NOUN to|PRT impact|VERB ...|. ?|.
+ Twelve|NOUN seconds|NOUN ...|. !|.
+ (|. to|PRT Kirk|NOUN )|. Mind|ADP if|ADP I|PRON tag|VERB along|ADV ?|.
+ elevator|NOUN .|.
+ (|. continuing|VERB ;|. gently|ADV reminding|VERB )|. Lieutenant|NOUN Ilia|NOUN ...|. ?|.
+ (|. a|DET beat|NOUN ;|. then|ADV quickly|ADV )|. Confirmed|NOUN ,|. Mr.|NOUN Sulu|NOUN .|.
+ Explanation|NOUN ,|. Mr.|NOUN Decker|NOUN :|. Why|ADV was|VERB my|PRON phaser|NOUN order|NOUN countermanded|VERB ?|.
+ (|. cool|NOUN ,|. polite|NOUN )|. Sir|NOUN ,|. the|DET Enterprise|NOUN redesign|NOUN increases|NOUN phaser|VERB power|NOUN by|ADP channeling|VERB it|PRON through|ADP the|DET main|ADJ engines|NOUN .|.
+ Permission|NOUN to|PRT speak|VERB freely|ADV ,|. sir|NOUN ?|.
+ (|. tight|NOUN )|. Granted|NOUN .|.
+ I|PRON trust|VERB you|PRON will|VERB ...|. nursemaid|VERB me|PRON through|ADP these|DET difficulties|NOUN ,|. Mister|NOUN ?|.
+ Yes|X ,|. sir|ADJ ,|. I|PRON 'll|VERB do|VERB that|DET .|.
+ Was|NOUN he|PRON difficult|ADJ ?|.
+ No|DET more|ADJ than|ADP I|PRON expected|VERB (|. hesitates|NOUN )|. Not|ADV as|ADV difficult|ADJ as|ADP this|DET .|.
+ If|ADP I|PRON 'd|VERB seen|VERB you|PRON again|ADV ,|. would|VERB you|PRON have|VERB been|VERB able|ADJ to|PRT say|VERB it|PRON ?|.
+ (|. long|ADJ hesitation|NOUN ;|. then|ADV shakes|VERB head|NOUN )|. No|X .|.
+ (|. tight|NOUN )|. I|PRON intend|VERB to|PRT keep|VERB her|PRON ,|. is|VERB that|ADP what|PRON you|PRON 're|VERB saying|VERB ,|. Doctor|NOUN ?|.
+ It|PRON 's|VERB an|DET obsession|NOUN --|. that|DET can|VERB blind|VERB you|PRON so|ADV far|ADV more|ADV immediate|ADJ --|. and|CONJ critical|ADJ responsibilities|NOUN .|.
+ For|ADP what|PRON purpose|NOUN ?|.
+ Permission|NOUN to|PRT come|VERB aboard|ADV ,|. sir|NOUN ?|.
+ Granted|VERB ,|. sir|NOUN !|.
+ Commander|NOUN ,|. if|ADP I|PRON may|VERB ...|. ?|.
+ If|ADP our|PRON Executive|NOUN Officer|NOUN has|VERB no|DET objections|NOUN ...|. ?|.
+ (|. interrupting|VERB )|. Of|ADP course|NOUN not|ADV .|.
+ (|. not|ADV in|ADP amusement|NOUN )|. And|CONJ now|ADV ,|. anger|NOUN ,|. Spock|NOUN ?|.
+ posed|VERB to|PRT almost|ADV total|ADJ blankness|NOUN .|.
+ (|. continuing|VERB )|. Linguacode|NOUN ?|.
+ Continuing|VERB friendship|ADJ messages|NOUN on|ADP all|DET frequencies|NOUN ,|. sir|NOUN .|.
+ (|. in|ADP disbelief|NOUN )|. --|. twelve|VERB power|NOUN ?|.
+ (|. urgently|ADV )|. Captain|NOUN ,|. we|PRON 've|VERB seen|VERB what|PRON their|PRON weapons|NOUN can|VERB do|VERB .|.
+ Communicated|VERB with|ADP us|PRON how|ADV ?|.
+ theorizing|VERB something|NOUN further|ADV .|.
+ (|. into|ADP intercom|NOUN )|. Engineering|NOUN ...|. what|PRON 's|VERB happening|VERB to|PRT our|PRON forcefields|NOUN ?|.
+ (|. desperately|ADV )|. Mr.|NOUN Spock|NOUN ?|.
+ Impact|NOUN in|ADP fifteen|ADJ seconds|NOUN ...|.
+ (|. to|PRT Uhura|NOUN )|. Any|VERB reply|NOUN from|ADP them|PRON ?|.
+ Negative|NOUN ,|. no|DET reply|NOUN ,|. sir|NOUN .|.
+ (|. returning|VERB to|PRT Spock|NOUN )|. Spock|NOUN ,|. have|VERB you|PRON sensed|VERB anything|NOUN else|ADV ?|.
+ shakes|NOUN head|NOUN .|.
+ Our|PRON ...|. 'insignificance|NOUN '|. ?|.
+ Spock|NOUN who|PRON nods|VERB firmly|ADV .|.
+ Mr.|NOUN Decker|NOUN ...|. ?|.
+ I|PRON advise|VERB caution|NOUN ,|. Captain|NOUN ;|. we|PRON ca|VERB n't|ADV withstand|VERB another|DET attack|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON define|VERB unwarranted|ADJ ,|. mister|NOUN ?|.
+ You|PRON asked|VERB my|PRON opinion|NOUN ,|. sir|NOUN .|.
+ Evaluation|NOUN ,|. Mister|NOUN Spock|NOUN ?|.
+ (|. shaken|VERB )|. No|DET intruder|NOUN readings|NOUN on|ADP other|ADJ decks|NOUN ,|. Captain|NOUN ...|. (|. to|PRT Spock|NOUN )|. Can|VERB that|ADP be|VERB one|NUM of|ADP their|PRON crew|NOUN ?|.
+ (|. quiet|ADJ )|. A|DET probe|NOUN from|ADP their|PRON vessel|NOUN ...|. (|. to|PRT Kirk|NOUN )|. A|DET plasma-energy|ADJ combination|NOUN ...|.
+ Have|VERB you|PRON been|VERB able|ADJ to|PRT analyze|VERB any|DET of|ADP this|DET ...|. ?|.
+ (|. voice|NOUN increasingly|ADV reverential|ADJ )|. I|PRON believe|VERB the|DET light|ADJ flares|NOUN to|PRT be|VERB energy|NOUN fields|NOUN --|. undoubtedly|ADJ part|NOUN of|ADP the|DET vessel|NOUN 's|PRT inner|ADJ mechanism|NOUN .|.
+ Who|QUESTIONTAG is|VERB ...|. 'V'ger|NOUN '|. ...|. ?|.
+ V'ger|NOUN is|VERB that|ADP which|DET programmed|VERB me|PRON .|.
+ Is|VERB V'ger|NOUN the|DET Captain|NOUN of|ADP the|DET alien|NOUN vessel|NOUN ?|.
+ ``|. Carbon-based|ADJ units|NOUN ''|. ...|. ?|.
+ (|. drily|ADV )|. Humans|NOUN ,|. Ensign|NOUN Lang|NOUN :|. us|PRON .|.
+ (|. to|PRT ``|. Ilia|NOUN ''|. )|. Why|ADV does|VERB V'ger|ADJ travel|VERB to|PRT the|DET third|ADJ planet|NOUN of|ADP the|DET solar|ADJ system|NOUN directly|ADV ahead|ADV ?|.
+ V'ger|NOUN travels|NOUN to|PRT the|DET third|ADJ planet|NOUN to|PRT find|VERB the|DET Creator|NOUN .|.
+ Who|QUESTIONTAG is|VERB the|DET Creator|NOUN ?|.
+ (|. worried|VERB )|. Mr.|NOUN Spock|NOUN ,|. be|VERB careful|ADJ .|.
+ Who|QUESTIONTAG is|VERB V'ger|NOUN ?|.
+ V'ger|NOUN is|VERB that|ADP which|DET seeks|VERB the|DET Creator|NOUN .|.
+ The|DET carbon|NOUN units|NOUN use|VERB this|DET area|NOUN for|ADP recreation|NOUN ...|. (|. carefully|ADV )|. What|QUESTIONTAG type|NOUN of|ADP recreation|NOUN does|VERB the|DET crew|NOUN aboard|ADP your|PRON vessel|NOUN enjoy|NOUN ...|. ?|.
+ Carbon|NOUN units|NOUN are|VERB not|ADV true|ADJ life|NOUN forms|NOUN ...|. Do|VERB those|DET images|NOUN repre-|VERB sent|ADJ how|ADV Enterprise|NOUN has|VERB evolved|VERB into|ADP its|PRON present|ADJ form|NOUN ?|.
+ (|. hoping|VERB he|PRON 's|VERB struck|VERB a|DET responsive|ADJ chord|NOUN )|. Yes|X .|.
+ (|. controlling|VERB surprise|NOUN )|. What|QUESTIONTAG is|VERB Enterprise|NOUN 's|PRT proper|ADJ evolvement|NOUN ?|.
+ Enterprise|NOUN should|VERB not|ADV require|VERB the|DET presence|NOUN of|ADP carbon|NOUN units|NOUN .|.
+ What|QUESTIONTAG does|VERB that|DET mean|VERB ?|.
+ (|. stopping|VERB ;|. almost|ADV pleasantly|ADV )|. When|QUESTIONTAG my|PRON examination|NOUN is|VERB complete|ADJ ,|. the|DET carbon|NOUN units|NOUN will|VERB be|VERB reduced|VERB to|PRT data|NOUN patterns|NOUN .|.
+ (|. quiet|ADJ ;|. urging|VERB )|. On|ADP Delta|NOUN ...|. remember|NOUN ...|. ?|.
+ her|PRON image|NOUN ,|. then|ADV sets|VERB the|DET headband|NOUN into|ADP its|PRON exact|ADJ proper|ADJ position|NOUN .|.
+ Why|ADV have|VERB two|NUM carbon|NOUN units|NOUN entered|VERB V'ger|NOUN ...|. ?|.
+ imperceptibly|ADV :|. he|PRON does|VERB n't|ADV know|VERB .|.
+ (|. continuing|VERB ;|. distressed|VERB ,|. to|PRT ``|. Ilia|NOUN ''|. )|. Does|NOUN V'ger|NOUN object|VERB to|PRT the|DET presence|NOUN of|ADP the|DET two|NUM carbon|NOUN units|NOUN ?|.
+ The|DET carbon|NOUN units|NOUN are|VERB of|ADP no|DET consequence|NOUN ;|. V'ger|NOUN will|VERB determine|VERB their|PRON purpose|NOUN .|.
+ (|. reacting|VERB )|. A|DET living|NOUN machine|NOUN ...|. ?|.
+ (|. to|PRT Chapel|NOUN )|. We|PRON 're|VERB living|VERB machines|NOUN ,|. too|ADV :|. protein|ADJ mechanisms|NOUN .|.
+ If|ADP it|PRON thinks|VERB our|PRON ship|NOUN is|VERB alive|ADJ what|PRON does|VERB it|PRON think|VERB we|PRON are|VERB ?|.
+ (|. dryly|NOUN )|. An|DET 'infestation|NOUN '|PRT --|. bacteria|NOUN ...|. microbes|NOUN .|.
+ (|. continuing|VERB )|. What|QUESTIONTAG should|VERB you|PRON have|VERB known|VERB ?|.
+ (|. weak|ADJ )|. No|X meaning|NOUN ...|. No|DET hope|NOUN ...|. (|. summoning|VERB strength|NOUN )|. And|CONJ ,|. Jim|NOUN ,|. no|DET answers|NOUN ...|. !|.
+ What|QUESTIONTAG answers|VERB ?|.
+ 'Is|VERB this|DET all|DET I|PRON am|VERB ?|.
+ Mr.|NOUN Chekov|NOUN ,|. Commander|NOUN Decker|NOUN 's|PRT present|ADJ location|NOUN ?|.
+ He|PRON ...|. they|PRON ...|. are|VERB in|ADP Engineering|NOUN ,|. sir|NOUN .|.
+ (|. probing|VERB )|. To|PRT join|VERB ,|. and|CONJ become|VERB One|NUM with|ADP the|DET Creator|NOUN ?|.
+ To|PRT learn|VERB all|DET that|DET is|VERB learnable|ADJ ;|. to|PRT deliver|VERB all|DET collected|VERB data|NOUN to|PRT the|DET Creator|NOUN on|ADP the|DET third|ADJ planet|NOUN .|.
+ Why|ADV ...|. ?|.
+ The|DET carbon-units|ADJ infection|NOUN will|VERB now|ADV be|VERB removed|VERB from|ADP the|DET Creator|NOUN 's|PRT planet|NOUN .|.
+ Why|ADV ?|.
+ The|DET Creator|NOUN has|VERB not|ADV answered|VERB .|.
+ (|. intrigued|VERB )|. Needing|VERB what|PRON ...|. ?|.
+ Spock|NOUN ,|. this|DET 'child|NOUN '|. is|VERB about|ADP to|PRT eliminate|VERB all|DET life|NOUN on|ADP Earth|NOUN ;|. how|ADV do|VERB we|PRON teach|VERB it|PRON that|ADP that|DET 's|VERB 'wrong|VERB '|. ?|.
+ Jim|NOUN ,|. what|PRON the|DET hell|NOUN kind|NOUN of|ADP strategy|NOUN is|VERB this|DET ...|. ?|.
+ console|NOUN ,|. checks|VERB it|PRON .|.
+ (|. almost|ADV polite|ADV )|. Kirk-unit|NOUN ,|. why|ADV do|VERB you|PRON not|ADV disclose|VERB information|NOUN ?|.
+ Because|ADP V'ger|NOUN is|VERB going|VERB to|PRT destroy|VERB all|DET the|DET carbon|NOUN units|NOUN on|ADP the|DET third|ADJ planet|NOUN .|.
+ It|PRON learns|VERB fast|ADV ,|. does|VERB n't|ADV it|PRON ...|. ?|.
+ (|. to|PRT Spock|NOUN )|. The|DET orbiting|ADJ devices|NOUN would|VERB be|VERB controlled|VERB from|ADP the|DET point|NOUN ,|. then|ADV ...|. ?|.
+ Precisely|ADV .|.
+ Captain|NOUN ,|. what|PRON 's|VERB the|DET next|ADJ move|NOUN ?|.
+ The|DET question|NOUN is|VERB ,|. Mr.|NOUN Decker|NOUN ,|. is|VERB there|ADV a|DET next|ADJ move|NOUN ...|.
+ Mr.|NOUN Chekov|NOUN ,|. when|ADV do|VERB those|DET devices|NOUN activate|VERB ?|.
+ They|PRON reach|VERB final|ADJ position|NOUN in|ADP ...|. Twenty-seven|ADJ minutes|NOUN --|. mark|NOUN .|.
+ (|. with|ADP a|DET glance|NOUN at|ADP Ross|NOUN ,|. into|ADP intercom|NOUN )|. When|QUESTIONTAG ,|. Captain|NOUN ?|.
+ On|ADP my|PRON command|NOUN .|.
+ Why|ADV has|VERB the|DET Captain|NOUN ordered|VERB self-|ADJ destruct|NOUN ,|. sir|NOUN ?|.
+ (|. a|DET beat|NOUN ;|. gently|ADV )|. I|PRON would|VERB say|VERB ,|. lass|NOUN ,|. because|ADP he|PRON thinks|VERB --|. he|PRON hopes|VERB --|. that|ADP when|ADV we|PRON go|VERB up|PRT ...|. we|PRON 'll|VERB take|VERB V'ger|NOUN with|ADP us|PRON .|.
+ Will|VERB we|PRON ?|.
+ (|. with|ADP grim|ADJ satisfaction|NOUN )|. When|QUESTIONTAG that|DET much|ADV matter|NOUN and|CONJ anti-|ADJ matter|NOUN are|VERB brought|VERB together|ADV ?|.
+ (|. quiet|ADJ ,|. feeling|VERB )|. Not|ADV for|ADP us|PRON ?|.
+ No|DET ,|. Captain|NOUN ,|. not|ADV for|ADP us|PRON ...|. for|ADP V'ger|NOUN .|.
+ (|. with|ADP empathy|NOUN )|. Spock|NOUN ,|. are|VERB you|PRON saying|VERB that|ADP you|PRON found|VERB ,|. what|PRON you|PRON needed|VERB --|. but|CONJ V'ger|NOUN has|VERB n't|ADV ?|.
+ Has|NOUN not|ADV ,|. Doctor|NOUN --|. and|CONJ now|ADV ,|. because|ADP of|ADP what|PRON we|PRON are|VERB planning|VERB ...|. will|VERB not|ADV ...|.
+ (|. gently|ADV pressing|VERB )|. Mr.|NOUN Spock|NOUN ,|. what|PRON would|VERB V'ger|VERB need|VERB to|PRT fulfill|VERB itself|PRON ?|.
+ V'ger|NOUN has|VERB begun|VERB to|PRT understand|VERB the|DET true|ADJ limits|NOUN of|ADP our|PRON universe|NOUN ,|. thereby|ADV realizing|VERB the|DET existence|NOUN of|ADP other|ADJ dimensions|NOUN .|.
+ And|CONJ when|ADV it|PRON realizes|VERB what|PRON the|DET Creator|NOUN is|VERB ...|. ?|.
+ There|DET 's|VERB no|DET way|NOUN to|PRT know|VERB .|.
+ Enterprise|NOUN ,|. are|VERB you|PRON transmitting|VERB ?|.
+ Affirmative|NOUN ,|. Captain|NOUN .|.
+ ...|. and|CONJ the|DET 'foolish|ADJ '|PRT emotions|NOUN which|DET drive|VERB us|PRON ?|.
+ (|. looks|VERB at|ADP Kirk|NOUN ;|. then|ADV )|. I|PRON prefer|VERB your|PRON poet|NOUN Dante|NOUN 's|PRT phrase|NOUN --|. 'the|CONJ divine|ADJ restlessness|NOUN of|ADP the|DET human|ADJ spirit|NOUN .|. '|.
+ Spock|NOUN ...|. you|PRON 're|VERB quoting|VERB poetry|NOUN ?|.
+ Heading|NOUN ,|. sir|NOUN ?|.
+ (|. taking|VERB center|NOUN seat|NOUN ;|. indicates|VERB generally|ADV )|. Out|ADP there|ADV .|.
