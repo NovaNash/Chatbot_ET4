@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f3374268-a94b-4e76-a31d-b10dcdde15d4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>copy_all_files.py</StartupFile>
+    <StartupFile>projet.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -1152,6 +1152,7 @@
     <Content Include="scripts\Zerophilia.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="processed\" />
     <Folder Include="Rapport\" />
     <Folder Include="scripts\" />
   </ItemGroup>
