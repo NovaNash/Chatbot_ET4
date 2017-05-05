@@ -83,14 +83,16 @@ def make_database(listData):
             if w[1] == 'QUESTIONTAG':
                 hasFoundQT = True
                 if w[0] in dicoDB:
-                    dicoDB[w[0]] = dicoDB[w[0]] + c
+                    dicoDB[w[0]].append(list(c))
                 else:
-                    w[0] = c
+                    dicoDB[w[0]] = list(list(c))
+
         if not hasFoundQT:
             if not "None" in dicoDB:
-                dicoDB["None"] = c
+                dicoDB["None"] = list(list(c))
+                print(dicoDB["None"])
             else:
-                dicoDB["None"] = dicoDB["None"] + c
+                dicoDB["None"].append(list(c))
     return dicoDB
           
 #traite la question : separe les mots et les pondere
