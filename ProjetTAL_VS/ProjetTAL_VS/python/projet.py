@@ -19,9 +19,10 @@ def read_corpus(fileName):
     listCouple = []
     with open(fileName) as f:
         listSent = f.read().split("\n")
-        for i in range(len(listSent)-1):
+        i = 0
+        while i < len(listSent):
             listCouple.append((listSent[i].strip(),listSent[i+1].strip()))
-            i=i+1
+            i=i+2
     return listCouple
 
 #separe en trois donnees
@@ -90,7 +91,6 @@ def make_database(listData):
         if not hasFoundQT:
             if not "None" in dicoDB:
                 dicoDB["None"] = list(list(c))
-                print(dicoDB["None"])
             else:
                 dicoDB["None"].append(list(c))
     return dicoDB
@@ -140,6 +140,7 @@ def answer(dataBase, question):
         return "There is no answer to this"
 
     for c in dataBase[qTag]:
+        print(c)
         value = 0
         for w in c[0]:
             for m in questionOK:
