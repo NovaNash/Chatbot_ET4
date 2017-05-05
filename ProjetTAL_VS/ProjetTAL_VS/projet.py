@@ -11,9 +11,9 @@ Created on Tue Apr 18 14:09:35 2017
 def read_corpus(fileName):
     listCouple = []
     with open(fileName) as f:
-        listSent = f.read().split("-")
+        listSent = f.read().split("\n")
         for i in range(len(listSent)-1):
-            listCouple.append(listSent[i],listSent[i+1])
+            listCouple.append((listSent[i].strip(),listSent[i+1].strip()))
             i=i+1
     return listCouple
 
@@ -31,19 +31,19 @@ def split_word(listData):
         question = c[0].split(" ")
         answer = c[1]
         
-        listCouple.append(question, answer)
+        listCouple.append((question, answer))
     return listCouple
 
 #separe le mot de la question de son etiquette de son etiquette
-def split_label(listdata):
+def split_label(listData):
     listCouple = []
     for c in listData:
         question = []
         answer = c[1]
         for w in c[0]:
-            label = w.plit("|")
+            label = w.split("|")
             question.append(label)
-        listCouple.append(question,answer)
+        listCouple.append((question,answer))
     return listCouple
 
 #pondere les mots de la question
@@ -63,6 +63,7 @@ def pound_questionDB(listData):
                 w.append(0.25)
             else:
                 w.append(0)
+
     listCouple=listData
     return listCouple
 
@@ -85,7 +86,7 @@ def split_question(question):
     label = []
     for w in word:
         word = w.split("|")
-        label.apped(word)
+        label.append(word)
     questionTag = None
     for w in label:
         if w[1] == 'QUESTIONTAG':
@@ -121,10 +122,10 @@ def answer(dataBase, question):
 
 if __name__ == "__main__":
     #Le main
-    listQA = read_corpus(corpus)
-    train, dev, test = split_data(listData)
+    listQA = read_corpus("processed/American-Pie.txt")
+    train, dev, test = split_data(listQA)
     dataBase = make_database(train)
-    question = raw_input()
+    question = input()
     answer = answer(dataBase, question)
     
     
