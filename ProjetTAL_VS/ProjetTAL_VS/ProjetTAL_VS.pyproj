@@ -30,6 +30,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Idees.txt" />
+    <Content Include="processed\American-Pie.txt" />
+    <Content Include="Rapport\whatCouldHaveBeenDone.tex" />
+    <Content Include="Rapport\difficulties.tex" />
+    <Content Include="Rapport\theme.tex" />
+    <Content Include="Rapport\strat.tex" />
+    <Content Include="Rapport\intro.tex" />
     <Content Include="Rapport\latex_template.tex" />
     <Content Include="Rapport\myimage.jpg" />
     <Content Include="README.md" />
