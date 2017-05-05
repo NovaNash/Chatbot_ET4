@@ -25,10 +25,14 @@
     <Compile Include="copy_all_files.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="projet.py" />
     <Compile Include="ProjetTAL_VS.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Idees.txt" />
+    <Content Include="Rapport\latex_template.tex" />
+    <Content Include="Rapport\myimage.jpg" />
+    <Content Include="README.md" />
     <Content Include="scripts.zip" />
     <Content Include="scripts\10-Things-I-Hate-About-You.txt" />
     <Content Include="scripts\12-and-Holding.txt" />
@@ -1148,6 +1152,7 @@
     <Content Include="scripts\Zerophilia.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Rapport\" />
     <Folder Include="scripts\" />
   </ItemGroup>
   <PropertyGroup>
