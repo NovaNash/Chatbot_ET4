@@ -172,7 +172,6 @@ if __name__ == "__main__":
     #Le main
     listQA = list()
     for x in os.listdir("processed"):
-        print(x)
         if os.path.isfile("processed/"+x):
             l = read_corpus("processed/"+x)
             listQA = listQA + l
@@ -188,4 +187,5 @@ if __name__ == "__main__":
 
         r = " ".join([x.split('|')[0] for x in response])
         print(r)
+        print( )
     
