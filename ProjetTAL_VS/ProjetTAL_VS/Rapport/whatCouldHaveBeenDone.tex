@@ -25,3 +25,7 @@ Une ultime amélioration apparente est celle de la correction orthographique des
 De même, une solution valide serait de suggérer à l'utilisateur des corrections potentielles (via une interface graphique), qu'il sélectionnerait (l'illustration est ici le correcteur grammatical de Microsoft Office Word ou LibreOffice Writer).
 
 Comment seraient suggérées ces corrections ? À l'aide d'un calcul de distance de Levenshtein, qui permet de calculer la similitude entre deux mots, en détectant les permutations, ajouts et suppressions de lettres pour arriver d'un mot à un autre. L'algorithme est relativement simple, mais s'il est appliqué à tout un dictionnaire, il risquerait d'être particulièrement gourmand en ressources. Limiter la corrections à trois ou quatre mots très proche semble raisonnable.
+
+\section{Exemple d'exécution}
+
+\includegraphics[scale=0.85]{executionCapture.PNG}
