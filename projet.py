@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Tue Apr 18 14:09:35 2017
+Created on Tue Apr 18 14:09:35 20.7
 
 @author: nova
 """
 
+import os
 import nltk
 import nltk.data
 import nltk.tag
@@ -18,19 +19,18 @@ from nltk.tokenize import word_tokenize
 def read_corpus(fileName):
     listCouple = []
     with open(fileName) as f:
-        listSent = f.read().split("\n")
-        i = 0
-        while i < len(listSent):
-            listCouple.append((listSent[i].strip(),listSent[i+1].strip()))
-            i=i+2
-    return listCouple
+        try:
+            listSent = f.read().split("\n")
+            i = 0
+            if len(listSent) % 2 == 1:
+                return []
 
-#separe en trois donnees
-def split_data(listData):
-    train = listData[0:int(0.70*len(listData))]
-    dev = listData[int(0.70*len(listData)):int(0.85*len(listData))]
-    test = listData[int(0.85*len(listData)):]
-    return train, dev, test
+            while i < len(listSent):
+                listCouple.append((listSent[i].strip(),listSent[i+1].strip()))
+                i=i+2
+        except:
+            return []
+    return listCouple
 
 #separe les mots de la question
 def split_word(listData):
@@ -105,8 +105,15 @@ def split_question(question):
     cutQ = word_tokenize(question)
     tokens = nltk.pos_tag(cutQ, tagset="universal")
 
-    question = " ".join(["|".join([w for w in word]) for word in tokens])
+    question = ""
 
+    for x in tokens:
+        if x[0] in ["Which", "What", "Who", "Where", "When", "How"]:
+            question = question + "|".join([x[0], "QUESTIONTAG"]) + " "
+        else:
+            question = question + "|".join(x) + " "
+
+    question = question[:-1]
     word = question.split(" ")
     label = []
     for w in word:
@@ -127,7 +134,7 @@ def split_question(question):
         elif w[1] == 'ADJ':
             w.append(0.25)
         else:
-            w.append(0)
+            w.append(0.05)
 
     return label, questionTag
           
@@ -145,11 +152,16 @@ def answer(dataBase, question):
     
     for c in dataBase[qTag]:
         value = 0
+        used = list()
         for w in c[0]:
-            for m in questionOK:
+            for i in range(len(questionOK)):
+                if i in used:
+                    continue
+                m = questionOK[i]
                 if m[0] == w[0]:
+                    used.append(i)
                     value = value + w[-1]
-        if value > val:
+        if value > val or (value == val and couple and len(couple[0]) > len(c[0])):
             val = value
             couple = c
     if couple:
@@ -158,9 +170,14 @@ def answer(dataBase, question):
 
 if __name__ == "__main__":
     #Le main
-    listQA = read_corpus("processed/American-Pie.txt")
-    train, dev, test = split_data(listQA)
-    dataBase = make_database(train)
+    listQA = list()
+    for x in os.listdir("processed"):
+        print(x)
+        if os.path.isfile("processed/"+x):
+            l = read_corpus("processed/"+x)
+            listQA = listQA + l
+
+    dataBase = make_database(listQA)
 
     print("Question ?")
 
@@ -169,7 +186,6 @@ if __name__ == "__main__":
         response = answer(dataBase, question)
         response = response.split(' ')
 
-        print(response)
         r = " ".join([x.split('|')[0] for x in response])
         print(r)
     
