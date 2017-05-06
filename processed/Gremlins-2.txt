@@ -1,0 +1,129 @@
+ You|PRON goin|VERB '|. a|DET '|. the|DET airport|NOUN ?|.
+ Are|VERB they|PRON going|VERB to|PRT plant|NOUN trees|NOUN 40|NUM there|ADV ?|.
+ What|QUESTIONTAG ig|NOUN this|DET ?|.
+ My|PRON home|NOUN town|NOUN .|.
+ Mister|NOUN Peltier|NOUN ,|. do|VERB you|PRON know|VERB how|ADV much|ADJ the|DET Clamp|NOUN organization|NOUN has|VERB spent|VERB to|PRT provide|VERB its|PRON employees|NOUN with|ADP art|NOUN by|ADP recognized|VERB artists|NOUN at|ADP this|DET facility|NOUN ?|.
+ He|PRON points|VERB to|PRT a|DET piece|NOUN of|ADP anonymous|ADJ ``|. bank|NOUN art|NOUN ''|. on|ADP a|DET nearby|ADJ wall|NOUN .|.
+ Where|QUESTIONTAG 's|VERB the|DET moan|NOUN ?|.
+ (|. on|ADP P.A|NOUN .|.
+ That|DET 's|VERB the|DET moan|NOUN ?|.
+ That|DET 's|VERB what|PRON we|PRON 've|VERB got|VERB ,|. Fred|NOUN .|.
+ You|PRON 've|VERB seen|VERB him|PRON ?|.
+ Well|ADV ,|. of|ADP in|ADP person|NOUN ,|. but|CONJ --|. just|ADV to|PRT this|DET building|NOUN .|.
+ What|QUESTIONTAG would|VERB do|VERB that|DET for|ADP ?|.
+ That|DET 's|VERB what|PRON th|VERB Id|NOUN 's|PRT coming|VERB to|PRT ,|. kid|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ (|. indicates|VERB meters|NOUN )|. There|DET 's|VERB not|ADV much|ADJ air|NOUN in|ADP the|DET building|NOUN ,|. sir|NOUN .|.
+ Can|VERB I|PRON help|VERB you|PRON ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP stuff|NOUN do|VERB they|PRON do-ft|VERB there|ADV ,|. anyway|ADV ?|.
+ We|PRON 're|VERB not|ADV supposed|VERB to|PRT talk|VERB about|ADP it|PRON .|.
+ What|QUESTIONTAG ?|.
+ You|PRON sat|VERB still|ADV for|ADP too|ADV long|ADV .|.
+ Where|QUESTIONTAG did|VERB you|PRON heaA-11|NOUN ;|. at|ADP ?|.
+ Huh|NOUN ?|.
+ Dah|NOUN dah|NOUN ,|. dah|NOUN dah|NOUN dah|NOUN dah|NOUN --|. is|VERB n't|ADV that|VERB by|ADP Sting|VERB ?|.
+ No|DET .|.
+ Did|NOUN you|PRON see|VERB who|PRON it|PRON was|VERB ?|.
+ Nuh-uh|NOUN ,|. it|PRON was|VERB in|ADP the|DET back|NOUN --|. Billy|NOUN takes|VERB off|PRT .|.
+ Do|VERB you|PRON know|VERB what|PRON that|ADP eans|VERB ,|. Peltzer|NOUN ?|.
+ It|PRON means|VERB ``|. men|NOUN 's|PRT bathroom|NOUN .|. ''|.
+ What|QUESTIONTAG is|VERB the|DET man|NOUN holding|VERB ?|.
+ In|ADP the|DET bathroom|NOUN ?|.
+ What|QUESTIONTAG 's|VERB in|ADP the|DET box|NOUN ,|. Peltzer|NOUN ?|.
+ Oh|X ,|. uh|ADJ --|. art|ADJ supplies|NOUN .|.
+ This|DET ?|.
+ You|PRON 've|VERB captured|VERB the|DET whole|ADJ essence|NOUN of|ADP the|DET project|NOUN here|ADV .|.
+ What|QUESTIONTAG 's|VERB with|ADP that|DET drawer|NOUN ?|.
+ It|PRON is|VERB ?|.
+ Clearly|ADV .|.
+ Ready|ADJ ?|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ Nothing|NOUN .|.
+ In|ADP the|DET middle|NOUN of|ADP the|DET night|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ It|PRON 's|VERB a|DET long|ADJ story|NOUN --|. I|PRON 'll|VERB explain|VERB it|PRON later|ADV .|.
+ Ca|NOUN n't|ADV he|PRON Just|NOUN --|. go|VERB back|ADV where|ADV you|PRON found|VERB his|PRON ?|.
+ No|DET .|.
+ Gizmo|NOUN ,|. how|ADV 'd|VERB you|PRON get|VERB up|ADP there|ADV ?|.
+ Gizmo|NOUN ,|. imprisoned|VERB in|ADP the|DET vent|NOUN ,|. SEES|NOUN Kate|NOUN mistaking|NOUN Daffy|NOUN for|ADP him|PRON .|.
+ Did|NOUN you|PRON always|ADV know|VERB you|PRON were|VERB going|VERB to|PRT be|VERB an|DET artist|NOUN ?|.
+ Well|ADV --|. I|PRON always|ADV liked|VERB to|PRT draw|VERB .|.
+ What|QUESTIONTAG does|VERB ?|.
+ Your|PRON relationship|NOUN to|PRT Mister|NOUN Clamp|NOUN .|.
+ Did|NOUN you|PRON har|VERB q|ADV good|ADJ meeting|NOUN ?|.
+ Did|NOUN you|PRON feed|VERB him|PRON ?|.
+ Yes|X --|.
+ Kate|NOUN ...|. Kate|NOUN ,|. where|ADV did|VERB you|PRON find|VERB this|DET guy|NOUN ?|.
+ In|ADP your|PRON office|NOUN --|. near|ADP that|DET drawer|NOUN ,|. where|ADV you|PRON said|VERB --|. Billy|NOUN ,|. look|VERB out|PRT !|.
+ (|. indicates|VERB Daffy|NOUN )|. What|QUESTIONTAG about|ADP --|. him|PRON ?|.
+ We|PRON 'll|VERB have|VERB to|PRT take|VERB him|PRON with|ADP us|PRON .|.
+ About|ADP what|PRON ?|.
+ When|QUESTIONTAG he|PRON came|VERB to|PRT take|VERB Gizmo|NOUN back|ADV .|.
+ Who|QUESTIONTAG could|VERB it|PRON be|VERB this|DET late|ADJ ?|.
+ Billy|ADV opens|VERB the|DET door|NOUN ,|. and|CONJ finds|VERB MURRAY|NOUN FUTTERMAN|NOUN ,|. the|DET snow|ADJ plow|NOUN driver|NOUN from|ADP Gremlins|NOUN ,|. and|CONJ his|PRON wife|NOUN SHEILA|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ It|PRON 's|VERB okay|ADJ ,|. honey|NOUN .|.
+ .so|NOUN that|DET 's|VERB a|DET Kona|NOUN praline|NOUN and|CONJ banana-berry|ADJ swirl|NOUN with|ADP kiwis|NOUN and|CONJ peanut|NOUN butter|NOUN cups|NOUN ?|.
+ Yeah|NOUN ...|. or|CONJ ,|. wait|NOUN ''|. rfre|NOUN j't|NOUN yep|NOUN peanut|NOUN butter|NOUN cups|VERB all|DET nuiï¿½|NOUN (|. ï¿½/|ADJ
+ (|. to|PRT Customer|NOUN 1|NUM )|. What|QUESTIONTAG kind|NOUN of|ADP thing|NOUN was|VERB in|ADP the|DET trail|NOUN mix|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. a|DET fa=|ADJ thing|NOUN .|.
+ (|. to|PRT Kate|NOUN )|. I|PRON 'm|VERB going|VERB to|PRT go|VERB up|PRT and|CONJ --|. (|. to|PRT newsstand|VERB lady|NOUN )|. Now|ADV much|ADV ?|.
+ Four|NUM times|NOUN nineteen|ADJ ninety-five|ADJ --|.
+ What|QUESTIONTAG the|DET hell|NOUN 's|PRT going|VERB on|ADP ?|.
+ Uh|NOUN ,|. air|NOUN --|. Forster|NOUN goes|VERB over|ADP to|PRT Technician|ADJ 4|NUM 's|PRT station|NOUN --|.
+ 0|NUM Is|VERB Billy|ADV Peltier|NOUN there|ADV ,|. please|VERB ?|.
+ HAve|NOUN you|PRON shredded|VERB my|PRON mail|NOUN from|ADP this|DET morning|NOUN ?|.
+ (|. over|ADP intercom|NOUN )|. I|PRON 'm|VERB just|ADV finishing|NOUN ,|. Mister|NOUN Clamp|NOUN .|.
+ Sir|NOUN --|. are|VERB you|PRON all|DET right|ADV ?|.
+ I|PRON think|VERB so..-.I|ADJ hate|NOUN using|VERB these|DET machines|NOUN myself|PRON .|.
+ Fred|NOUN ,|. what|PRON 's|VERB the|DET story|NOUN with|ADP those|DET --|. things|NOUN ?|.
+ Uh..|NOUN .I|NOUN do|VERB n't|ADV ...|. One|NUM of|ADP the|DET Gremlins|NOUN takes|VERB the|DET reel|NOUN of|ADP film|NOUN from|ADP Fred|NOUN ,|. unreels|VERB a|DET little|ADJ from|ADP the|DET loose|ADJ end|NOUN and|CONJ holds|VERB it|PRON up|PRT .|.
+ What|QUESTIONTAG ?|.
+ Yes|X ,|. the|DET building|NOUN is|VERB on|ADP fire|NOUN .|.
+ Murray|NOUN ,|. what|PRON is|VERB it|PRON ?|.
+ It|PRON 's|VERB them|PRON !|.
+ Murray|NOUN --|. where|ADV are|VERB you|PRON going|VERB ?|.
+ We|PRON have|VERB to|PRT tell|VERB Billy|ADV !|.
+ The|DET hell|NOUN is|VERB he|PRON talking|VERB about|ADP ?|.
+ Try|NOUN and|CONJ calm|VERB down|ADV --|. where|ADV were|VERB the|DET --|. But|CONJ as|ADP Billy|NOUN tries|VERB to|PRT understand|VERB Dr.|NOUN Catheter|NOUN --|.
+ What|QUESTIONTAG seems|VERB to|PRT be|VERB the|DET trouble|NOUN here|ADV ?|.
+ Those|DET things|NOUN !|.
+ Yes|X ?|.
+ Can|VERB you|PRON work|VERB a|DET TV|NOUN camera|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ The|DET sign-off|NOUN .|.
+ It|PRON 's|VERB beautiful|ADJ ,|. is|VERB n't|ADV it|PRON ?|.
+ What|QUESTIONTAG ?|.
+ Mister|NOUN Clamp|NOUN ,|. is|VERB it|PRON true|ADJ the|DET building|NOUN 's|PRT been|VERB evacuated|VERB ?|.
+ Sir|NOUN ,|. is|VERB the|DET building|NOUN on|ADP fire|NOUN ?|.
+ No|DET ,|. no|DET --|. (|. signals|NOUN firemen|NOUN )|. That|DET 's|VERB a|DET false|ADJ alarm|NOUN .|.
+ What|QUESTIONTAG 's|VERB this|DET thing|NOUN for|ADP ?|.
+ (|. indicates|VERB backdrop|NOUN )|. Where|QUESTIONTAG 'd|VERB you|PRON find|VERB this|DET thing|NOUN ?|.
+ It|PRON 's|VERB from|ADP a|DET musical|ADJ I|PRON was|VERB backing|VERB on|ADP Broadway|NOUN .|.
+ You|PRON okay|VERB ,|. Billy|NOUN ?|.
+ Yeah|X .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ 0|X That|DET 's|VERB Gizmo|NOUN ,|. Mister|NOUN Fu|NOUN tprtt|ADP He|PRON 's|VERB on|ADP our|PRON side|NOUN .|.
+ Billy|ADV --|. (|. indicates|VERB Gizmo|NOUN )|. What|QUESTIONTAG happened|VERB to|PRT him|PRON ?|.
+ I|PRON guess|VERB they|PRON --|. pushed|VERB him|PRON too|ADV far|ADV .|.
+ 1I|NUM is|VERB going|VERB on|ADP here|ADV ?|.
+ How|QUESTIONTAG come|VERB ?|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ I|PRON 'm|VERB sorry|ADJ ,|. it|PRON 's|VERB --|. Lincoln|NOUN 's|PRT birthday|NOUN .|.
+ You|PRON 're|VERB making|VERB me|PRON --|. ?|.
+ Murray|NOUN --|. what|PRON happened|VERB ?|.
+ What|QUESTIONTAG happened|VERB here|ADV ?|.
+ Oh|X ,|. it|PRON was|VERB a|DET complete|ADJ nightmare|NOUN disaster|NOUN .|.
+ You|PRON 're|VERB not|ADV ?|.
+ For|ADP one|NUM thing|NOUN ,|. we|PRON 're|VERB insured|VERB for|ADP the|DET damage|NOUN .|.
+ Wait|ADV a|DET minute|NOUN --|. what|PRON 's|VERB this|DET ?|.
+ You|PRON want|VERB to|PRT move|VERB there|ADV ?|.
+ I|PRON want|VERB to|PRT bu|VERB it|PRON .|.
+ on|ADP construction|NOUN terials|NOUN ?|.
+ Sir|NOUN ,|. this|DET 'll|VERB work|VERB r|NOUN k|VERB on|ADP just|ADV about|ADP anything|NOUN .|.
+ How|QUESTIONTAG about|ADP construction|NOUN crews|NOUN ?|.
+ No|DET reason|NOUN why|ADV not|ADV .|.
+ Is|VERB that|ADP right|NOUN ?|.
+ Well|ADV ,|. what|PRON did|VERB he|PRON say|VERB ?|.
+ He|PRON said|VERB he|PRON wants|VERB to|PRT go|VERB home|NOUN .|.

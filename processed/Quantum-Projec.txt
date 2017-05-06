@@ -1,0 +1,48 @@
+ Professor|NOUN Pentcho|NOUN ?|.
+ Multi-tasking|VERB again|ADV ?|.
+ ARLETTE|NOUN (|. 50|NUM 's|PRT )|. ,|. his|PRON mannish|ADJ Swiss|NOUN assistant|NOUN .|.
+ Did|NOUN you|PRON get|VERB that|ADP data|NOUN off|ADP to|PRT Braverman|NOUN at|ADP Cal|NOUN Tech|NOUN ?|.
+ Did|NOUN they|PRON recalibrate|VERB the|DET 3k|NUM turn|NOUN ?|.
+ computer|NOUN as|ADP the|DET capsule|NOUN moves|VERB LATERALLY|NOUN on|ADP a|DET track|NOUN parallel|NOUN to|PRT the|DET beam|NOUN pipe|NOUN ,|. stopping|VERB in|ADP front|NOUN of|ADP the|DET RF|NOUN CAVITY|NOUN ,|. bursting|VERB with|ADP a|DET billion|NUM dollars|NOUN worth|ADP of|ADP nanotechnology|NOUN .|.
+ WHAT|PRON DO|VERB YOU|DET WANT|NOUN ?|.
+ sounds|NOUN of|ADP a|DET nine|NUM alarm|NOUN fire|NOUN .|.
+ WHAT|PRON DO|VERB YOU|DET WANT|NOUN ,|. PAUL|NOUN ?|.
+ ``|. I|PRON 'm|VERB having|VERB a|DET psychotic|ADJ episode|NOUN .|. ''|.
+ Paul|NOUN ...|. ?|.
+ closer|NOUN .|.
+ Day|NOUN or|CONJ night|NOUN ?|.
+ Could|VERB we|PRON go|VERB somewhere|ADV ?|.
+ I|PRON 'm|VERB heading|VERB out|ADP of|ADP town|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON could|VERB go|VERB out|ADP of|ADP town|NOUN .|.
+ Could|VERB you|PRON ?|.
+ (|. nodding|VERB )|. Where|QUESTIONTAG to|PRT ?|.
+ Why|ADV am|VERB I|PRON doing|VERB this|DET ?|.
+ It|PRON 's|VERB an|DET experiment|NOUN .|.
+ And|CONJ you|PRON think|VERB this|DET is|VERB relevant|ADJ to|PRT our|PRON relationship|NOUN ?|.
+ plank|NOUN .|.
+ (|. wryly|NOUN )|. What|QUESTIONTAG universe|NOUN are|VERB you|PRON in|ADP ,|. Paul|NOUN ?|.
+ A|DET quantum|NOUN one|NUM .|.
+ How|QUESTIONTAG ?|.
+ Of|ADP what|PRON ?|.
+ What|QUESTIONTAG did|VERB it|PRON want|VERB ?|.
+ That|DET 's|VERB what|PRON it|PRON asked|VERB me|PRON .|.
+ Like|ADP now|ADV ?|.
+ Did|NOUN you|PRON know|VERB electrons|NOUN have|VERB lovers|NOUN ?|.
+ You|PRON taking|VERB any|DET medication|NOUN ?|.
+ Two|NUM :|. what|PRON if|ADP I|PRON did|VERB n't|ADV miss|VERB ?|.
+ You|PRON did|VERB .|.
+ What|QUESTIONTAG was|VERB her|PRON name|NOUN ?|.
+ Excuse|ADP me|PRON ?|. ?|.
+ Mia|NOUN ...|. ?|.
+ Yes|X ...|. .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ What|QUESTIONTAG ?|.
+ the|DET pirate|NOUN 's|PRT treasure|NOUN .|.
+ Why|ADV ?|.
+ So|ADP I|PRON can|VERB move|VERB on|ADP .|.
+ Do|VERB you|PRON want|VERB to|PRT think|VERB about|ADP it|PRON some|DET more|ADV ?|.
+ headlights|NOUN FLASH|NOUN ON|NOUN in|ADP the|DET pre-dawn|ADJ night|NOUN .|.
+ You|PRON okay|VERB ?|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ oblivious|ADJ ,|. checking|VERB his|PRON watch|NOUN .|.

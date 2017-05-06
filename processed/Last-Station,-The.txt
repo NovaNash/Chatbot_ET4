@@ -1,0 +1,222 @@
+ We|PRON ?|.
+ Enemies|NOUN ?|.
+ him|PRON .|.
+ Anything|NOUN ?|.
+ She|PRON 's|VERB very|ADV ,|. very|ADV dangerous|ADJ .|.
+ Nothing|NOUN 's|PRT working|NOUN ...|. Hand|NOUN me|PRON my|PRON other|ADJ boot|NOUN ,|. my|PRON friend|NOUN ,|. will|VERB you|PRON ?|.
+ Let|VERB me|PRON finish|VERB .|.
+ (|. smiling|VERB )|. Dushan|NOUN Petrovich|NOUN ,|. you|PRON 're|VERB scribbling|VERB again|ADV ?|.
+ Darling|NOUN ,|. where|ADV are|VERB you|PRON going|VERB ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ Like|ADP the|DET man|NOUN who|PRON looks|VERB after|ADP the|DET sheep|NOUN .|.
+ Count|NOUN Tolstoy|NOUN ,|. you|PRON 're|VERB no|DET doubt|NOUN distressed|VERB by|ADP the|DET Czar|NOUN 's|PRT treatment|NOUN of|ADP your|PRON secretary|NOUN Nikolai|NOUN Gusev|NOUN ?|.
+ These|DET people|NOUN are|VERB bandits|NOUN .|.
+ So|ADV Gusev|NOUN is|VERB innocent|ADJ ?|.
+ (|. nods|NOUN )|. Of|ADP course|NOUN ,|. I|PRON 'm|VERB the|DET guilty|ADJ one|NOUN .|.
+ Did|NOUN you|PRON ride|VERB this|DET morning|NOUN ?|.
+ embrace|NOUN ,|. kiss|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Just|ADV that|DET ...|. secrecy|NOUN does|VERB n't|ADV seem|VERB to|PRT me|PRON the|DET essence|NOUN of|ADP Tolstoy|NOUN 's|PRT thought|NOUN .|.
+ You|PRON met|VERB Sergeyenko|NOUN ?|.
+ Last|ADJ night|NOUN .|.
+ Ad|NOUN what|PRON do|VERB you|PRON think|VERB ?|.
+ He|PRON seems|VERB very|ADV sincere|ADV .|.
+ I|PRON said|VERB he|PRON seems|VERB very|ADV ...|. Why|ADV ?|.
+ Is|VERB that|ADP what|PRON you|PRON think|VERB ?|.
+ I|PRON just|ADV arrived|VERB ...|. What|QUESTIONTAG 's|VERB your|PRON name|NOUN ?|.
+ Masha|NOUN .|.
+ Give|VERB it|PRON to|PRT whom|PRON ?|.
+ It|PRON 's|VERB all|DET ridiculous|ADJ .|.
+ Valentin|NOUN Fedorovich|NOUN ,|. do|VERB you|PRON think|VERB fifty|ADJ years|NOUN from|ADP now|ADV ,|. people|NOUN will|VERB eat|VERB while|ADP grown|ADJ men|NOUN walk|VERB around|ADP and|CONJ wait|VERB on|ADP them|PRON hand|NOUN and|CONJ foot|NOUN ?|.
+ But|CONJ what|PRON ?|.
+ I|PRON believe|VERB he|PRON 's|VERB one|NUM of|ADP the|DET prophets|NOUN .|.
+ Do|VERB your|PRON parents|NOUN often|ADV speak|VERB to|PRT each|DET other|ADJ so|ADV ...|. bluntly|ADV ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ It´s|NOUN a|DET note|NOUN ,|. for|ADP him|PRON .|.
+ His|PRON ideas|NOUN are|VERB beautiful|ADJ ...|. social|ADJ justice|NOUN ...|. the|DET idea|NOUN ...|. Do|VERB n't|ADV you|PRON think|VERB ?|.
+ You|PRON 've|VERB read|VERB War|NOUN and|CONJ Peace|NOUN ?|.
+ Many|ADJ times|NOUN ...|. twice|ADV .|.
+ When|QUESTIONTAG he|PRON was|VERB writing|VERB it|PRON ,|. long|ADV before|ADV Chertkov|NOUN created|VERB that|ADP monstrosity|NOUN at|ADP Telyatinki|NOUN ,|. before|ADP all|DET this|DET ``|. new|ADJ religion|NOUN ''|. and|CONJ revolutionary|ADJ nonsense|NOUN ...|. (|. beat|NOUN )|. What|QUESTIONTAG do|VERB you|PRON think|VERB of|ADP Chertkov|NOUN ,|. by|ADP the|DET way|NOUN ?|.
+ He|PRON 's|VERB given|VERB me|PRON an|DET extraordinary|ADJ opportunity|NOUN .|.
+ More|ADV tea|NOUN ?|.
+ You|PRON 're|VERB finished|VERB for|ADP the|DET day|NOUN ?|.
+ He|PRON did|VERB n't|ADV need|VERB me|PRON this|DET afternoon|NOUN .|.
+ And|CONJ what|PRON relations|NOUN are|VERB these|DET ?|.
+ immediately|ADV the|DET log|NOUN becomes|VERB stuck|VERB to|PRT the|DET blade|NOUN of|ADP the|DET axe|NOUN .|.
+ At|ADP school|NOUN ?|.
+ In|ADP the|DET gymnasium|NOUN ,|. after|ADP the|DET girls|NOUN had|VERB gone|VERB .|.
+ Have|VERB I|PRON upset|VERB you|PRON ?|.
+ Where|QUESTIONTAG 's|VERB papa|NOUN ?|.
+ out|ADP the|DET door|NOUN
+ A|DET girl|NOUN who|PRON died|VERB ?|.
+ No|DET ,|. no|DET ...|. A|DET girl|NOUN I|PRON had|VERB sexual|ADJ intercourse|NOUN with|ADP ...|.
+ To|PRT be|VERB what|PRON ,|. a|DET good|ADJ Tolstoyan|NOUN ?|.
+ Are|NOUN you|PRON alright|ADV ?|.
+ Kalya|NOUN ,|. her|PRON name|NOUN was|VERB ...|. She|PRON 's|VERB an|DET old|ADJ woman|NOUN now|ADV ,|. white|ADJ hair|NOUN ,|. old|ADJ body|NOUN like|ADP me|PRON .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ I|PRON mean|VERB that|DET little|ADJ romance|NOUN .|.
+ Lilac|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ You|PRON send|VERB me|PRON never|ADV ending|VERB commentary|NOUN on|ADP Tolstoy|NOUN 's|PRT writing|NOUN .|.
+ You|PRON value|NOUN our|PRON work|NOUN ?|.
+ The|DET ideals|NOUN we|PRON share|NOUN ?|.
+ That|DET 's|VERB why|ADV I|PRON 'm|VERB here|ADV .|.
+ How|QUESTIONTAG so|ADV ?|.
+ I|PRON don´t|VERB think|VERB she|PRON likes|VERB you|PRON very|ADV much|ADV .|.
+ What|QUESTIONTAG does|VERB she|PRON say|VERB ?|.
+ It´s|NOUN a|DET tone|NOUN I´ve|NOUN picked|VERB up|PRT .|.
+ Hello|NOUN ...|. Hello|NOUN ?|.
+ Masha|NOUN ?|.
+ toward|ADP him|PRON .|.
+ What|QUESTIONTAG ?|.
+ Your|PRON book|NOUN .|.
+ Is|VERB it|PRON alright|ADV ?|.
+ into|ADP her|PRON and|CONJ begins|VERB to|PRT rock|VERB .|.
+ What|QUESTIONTAG ...|. what|PRON is|VERB it|PRON ?|.
+ You|PRON really|ADV are|VERB a|DET virgin|NOUN .|.
+ Why|ADV did|VERB you|PRON come|VERB to|PRT a|DET place|NOUN like|ADP this|DET ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ You|PRON don´t|VERB follow|ADJ any|DET of|ADP the|DET rules|NOUN .|.
+ You|PRON mean|VERB ,|. why|ADV does|VERB someone|NOUN who|PRON does|VERB n't|ADV follow|VERB the|DET rules|NOUN come|VERB to|PRT a|DET place|NOUN like|ADP this|DET ?|.
+ ..it|NOUN 's|PRT not|ADV about|ADP rules|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ Do|VERB you|PRON have|VERB something|NOUN to|PRT say|VERB ?|.
+ It|PRON 's|VERB absurd|ADJ .|.
+ What|QUESTIONTAG are|VERB you|PRON saying|VERB ?|.
+ I|PRON 'm|VERB sorry|ADJ but-|NOUN It|PRON 's|VERB a|DET mosquito|NOUN .|.
+ Who|QUESTIONTAG taught|VERB her|PRON to|PRT use|VERB that|DET damned|VERB machine|NOUN ?|.
+ stifles|NOUN ,|. starts|NOUN ,|. explodes|NOUN .|.
+ Sofya|NOUN ,|. are|VERB you|PRON ill|VERB ?|.
+ under|ADP the|DET sheets|NOUN .|.
+ That|DET was|VERB some|DET sort|NOUN of|ADP love|NOUN call|NOUN ?|.
+ It|PRON brought|VERB you|PRON back|ADV to|PRT me|PRON .|.
+ Do|VERB you|PRON love|VERB me|PRON ?|.
+ I|PRON do|VERB .|.
+ So|ADV ,|. I|PRON made|VERB you|PRON forget|VERB God|NOUN ?|.
+ No|DET ...|.
+ I|PRON 'm|VERB afraid|ADJ I|PRON 've|VERB hurt|VERB you|PRON ,|. haven´t|VERB I|PRON ?|.
+ No|DET .|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ About|ADP what|PRON ?|.
+ Laughing|VERB about|ADP what|PRON ?|.
+ I|PRON do|VERB n't|ADV want|VERB to|PRT ruin|VERB last|ADJ night|NOUN .|.
+ Do|VERB you|PRON love|VERB me|PRON ,|. Lyovochka|NOUN ?|.
+ Of|ADP course|NOUN ,|. I|PRON do|VERB .|.
+ Then|ADV why|ADV would|VERB you|PRON betray|VERB me|PRON ?|.
+ Why|ADV do|VERB you|PRON say|VERB that|ADP ?|.
+ Because|ADP of|ADP the|DET will|VERB ?|.
+ Does|NOUN Chertkov|NOUN have|VERB it|PRON ?|.
+ There|DET 's|VERB no|DET new|ADJ will|VERB .|.
+ Tell|VERB me|PRON where|ADV it|PRON is|VERB ?|.
+ There|DET is|VERB no|DET new|ADJ will|VERB .|.
+ How|QUESTIONTAG does|VERB she|PRON know|VERB it|PRON even|ADV exists|VERB ?|.
+ She|PRON claims|VERB Leo|NOUN Nikolayevich|NOUN told|VERB her|PRON she|PRON could|VERB examine|VERB the|DET draft|NOUN .|.
+ I|PRON beg|VERB your|PRON pardon|NOUN ?|.
+ He`s|NOUN her|PRON life|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Your|PRON moustache|NOUN is|VERB ...|.
+ A|DET young|ADJ woman|NOUN in|ADP your|PRON life|NOUN is|VERB nothing|NOUN ?|.
+ Masha|NOUN is|VERB a|DET friend|NOUN .|.
+ A|DET lover|NOUN ?|.
+ Fine|NOUN ...|. fine|NOUN ...|. Why|ADV did|VERB you|PRON ...|. ?|.
+ I|PRON came|VERB back|ADV as|ADV soon|ADV as|ADP I|PRON could|VERB .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ I|PRON think|VERB I|PRON 've|VERB confused|VERB you|PRON .|.
+ Ivan|NOUN ,|. who|PRON 's|VERB wearing|VERB that|DET awful|ADJ perfume|NOUN ?|.
+ into|ADP the|DET hall|NOUN in|ADP time|NOUN to|PRT see|VERB Tolstoy|NOUN ,|. Chertkov|NOUN ,|. Valentin|NOUN and|CONJ Sasha|NOUN disappear|VERB into|ADP the|DET library|NOUN ,|. ducks|VERB back|ADV into|ADP her|PRON room|NOUN to|PRT avoid|VERB being|VERB seen|VERB
+ Do|VERB you|PRON really|ADV think|VERB she|PRON 's|VERB fit|ADJ to|PRT control|VERB the|DET final|ADJ disposition|NOUN of|ADP the|DET will|VERB ?|.
+ respond|NOUN ,|. Sofya|NOUN charges|VERB into|ADP the|DET room|NOUN .|.
+ How|QUESTIONTAG dare|NOUN you|PRON ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ What|QUESTIONTAG are|VERB you|PRON afraid|ADP of|ADP ?|.
+ You|PRON .|.
+ Why|ADV ca|VERB n't|ADV my|PRON husband|NOUN see|VERB you|PRON for|ADP what|PRON you|PRON are|VERB ?|.
+ to|PRT the|DET door|NOUN ,|. then|ADV very|ADV deliberately|ADV .|.
+ Do|VERB you|PRON like|ADP the|DET opera|NOUN ?|.
+ I|PRON took|VERB singing|VERB lessons|NOUN for|ADP years|NOUN .|.
+ Go|VERB where|ADV ?|.
+ Dushan|NOUN says|VERB you|PRON 're|VERB killing|VERB me|PRON .|.
+ Countess|NOUN ...|. Are|VERB you|PRON alright|ADP ?|.
+ dress|NOUN .|.
+ Is|VERB she|PRON alright|ADV ?|.
+ Dushan|NOUN starts|VERB toward|ADP him|PRON but|CONJ Tolstoy|NOUN waves|VERB him|PRON in|ADP the|DET direction|NOUN of|ADP Sofya|NOUN .|.
+ Masha|NOUN ,|. what´s|VERB the|DET matter|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG ?|.
+ I|PRON 'm|VERB leaving|VERB the|DET movement|NOUN .|.
+ Why|ADV did|VERB you|PRON bring|VERB him|PRON here|ADV ?|.
+ He|PRON 's|VERB an|DET old|ADJ friend|NOUN ,|. you|PRON know|VERB ,|. from|ADP Rome|NOUN .|.
+ You|PRON 'll|VERB be|VERB alright|VERB ?|.
+ Valentin|NOUN Fedorovich|NOUN will|VERB stay|VERB with|ADP me|PRON ,|. wo|VERB n't|ADV you|PRON ,|. boy|VERB
+ Is|VERB it|PRON ?|.
+ and|CONJ place|VERB the|DET writing|VERB board|NOUN before|ADP him|PRON .|.
+ Yes|X ?|.
+ I|PRON need|VERB a|DET pen|NOUN .|.
+ What|QUESTIONTAG ?|.
+ whisper|NOUN .|.
+ Valentin|NOUN Fedorovich|NOUN ,|. do|VERB you|PRON have|VERB a|DET pen|NOUN ?|.
+ Are|NOUN you|PRON alright|ADV ?|.
+ I|PRON feel|VERB like|ADP a|DET conspirator|NOUN .|.
+ Do|VERB you|PRON love|VERB your|PRON wife|NOUN ?|.
+ ``|. Your|PRON youth|NOUN and|CONJ your|PRON desire|NOUN for|ADP happiness|NOUN reminds|NOUN me|PRON cruelly|ADV of|ADP my|PRON age|NOUN and|CONJ the|DET impossibility|NOUN of|ADP happiness|NOUN for|ADP me|PRON .|. ''|.
+ How|QUESTIONTAG can|VERB you|PRON not|ADV be|VERB pleased|VERB ?|.
+ I|PRON do|VERB n't|ADV write|VERB for|ADP publishers|NOUN .|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ Valentin|NOUN 's|PRT in|ADP the|DET library|NOUN .|.
+ Sofya|NOUN ,|. what|PRON are|VERB you|PRON doing|VERB ?|.
+ Valentin|NOUN ducks|NOUN against|ADP the|DET wall|NOUN .|.
+ How|QUESTIONTAG could|VERB you|PRON do|VERB this|DET to|PRT me|PRON ?|.
+ You|PRON 're|VERB not|ADV well|ADV .|.
+ What|QUESTIONTAG ?|.
+ He´s|NOUN leaving|VERB .|.
+ Where|QUESTIONTAG will|VERB you|PRON go|VERB ?|.
+ begins|VERB the|DET ritual|ADJ taking|NOUN of|ADP the|DET pulse|NOUN .|.
+ Papa|NOUN ...|. ?|.
+ He|PRON 's|VERB changed|VERB his|PRON mind|NOUN .|.
+ Do|VERB you|PRON want|VERB to|PRT go|VERB back|ADV ?|.
+ When|QUESTIONTAG I|PRON was|VERB a|DET boy|NOUN ,|. my|PRON brother|NOUN Nikolai|NOUN once|ADV brought|VERB me|PRON to|PRT a|DET place|NOUN when|ADV I|PRON was|VERB a|DET boy|NOUN .|.
+ Help|VERB me|PRON up|PRT ,|. will|VERB you|PRON ?|.
+ For|ADP me|PRON ?|.
+ No|DET ,|. for|ADP your|PRON father|NOUN .|.
+ Yes|X ?|.
+ He|PRON gave|VERB me|PRON this|DET as|ADV well|ADV ...|. the|DET stationmaster|NOUN .|.
+ But|CONJ that|DET 's|VERB a|DET lie|NOUN ,|. right|ADV ?|.
+ Yes|X ,|. that|DET 's|VERB a|DET lie|NOUN .|.
+ Where|QUESTIONTAG are|VERB we|PRON ?|.
+ It|PRON 's|VERB alright|ADJ .|.
+ Where|QUESTIONTAG are|VERB we|PRON ?|.
+ Let|VERB me|PRON take|VERB your|PRON temperature|NOUN .|.
+ My|PRON dear|ADJ friend|NOUN ,|. waht|PRON is|VERB all|DET of|ADP this|DET ?|.
+ I|PRON needed|VERB (|. hic|ADJ )|. to|PRT see|VERB you|PRON .|.
+ Ready|ADJ for|ADP what|PRON ?|.
+ Do|VERB you|PRON really|ADV want|VERB to|PRT do|VERB this|DET here|ADV ?|.
+ Is|VERB that|ADP true|ADJ ?|.
+ Have|VERB you|PRON told|VERB him|PRON I|PRON nearly|ADV drowned|VERB in|ADP the|DET pond|NOUN ?|.
+ We|PRON did|VERB n't|ADV have|VERB to|PRT .|.
+ What|QUESTIONTAG did|VERB he|PRON say|VERB ?|.
+ That|DET if|ADP you|PRON killed|VERB yourself|PRON ,|. he|PRON 'd|VERB be|VERB upset|VERB .|.
+ He|PRON 'd|VERB be|VERB upset|VERB ?|.
+ Horribly|ADV upset|ADJ ...|. but|CONJ he|PRON could|VERB not|ADV have|VERB acted|VERB other|ADJ than|ADP he|PRON did|VERB .|.
+ Are|NOUN you|PRON finished|VERB ?|.
+ Valentin|NOUN ,|. will|VERB you|PRON take|VERB me|PRON back|ADV ?|.
+ I|PRON 've|VERB behaved|VERB badly|ADV ,|. have|VERB n't|ADV I|PRON ?|.
+ No|DET ,|. Countess|NOUN ,|. Do|VERB n't|ADV worry|VERB .|.
+ Sasha|NOUN ...|. where|ADV 's|VERB your|PRON mother|NOUN ?|.
+ She|PRON looks|VERB from|ADP him|PRON to|PRT Chertkov|NOUN .|.
+ To|PRT what|PRON ?|.
+ Very|ADV beautiful|ADJ is|VERB n't|ADV it|PRON ?|.
+ Our|PRON home|NOUN ?|.
+ What|QUESTIONTAG exactly|ADV do|VERB you|PRON think|VERB she|PRON will|VERB bring|VERB him|PRON ?|.
+ I|PRON don´t|VERB know|ADJ ,|. they´ve|ADJ been|VERB married|VERB for|ADP 48|NUM years|NOUN .|.
+ Shall|NOUN I|PRON call|VERB her|PRON ?|.
+ This|DET is|VERB it|PRON (|. hic|ADJ )|. .|.
+ Do|VERB you|PRON want|VERB to|PRT see|VERB her|PRON ,|. papa|NOUN ?|.
+ Sasha|NOUN ,|. Sasha..|NOUN
+ Has|NOUN he|PRON asked|VERB for|ADP me|PRON ?|.
+ I|PRON want|VERB you|PRON to|PRT come|VERB .|.
+ Was|NOUN I|PRON shouting|VERB ?|.
+ You|PRON have|VERB to|PRT control|VERB yourself|PRON .|.
+ Dushan|NOUN ,|. could|VERB you|PRON tell|VERB them|PRON your|PRON great|ADJ friend|NOUN is|VERB gone|VERB ?|.
+ Yes|X .|.

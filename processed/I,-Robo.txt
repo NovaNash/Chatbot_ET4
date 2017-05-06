@@ -1,0 +1,154 @@
+ Coffee|NOUN ?|.
+ (|. interested|ADJ )|. You|PRON 're|VERB offering|VERB me|PRON a|DET cup|NOUN of|ADP coffee|NOUN ?|.
+ Coffee|NOUN ?|.
+ No|DET .|.
+ And|CONJ why|ADV do|VERB you|PRON say|VERB that|ADP ?|.
+ Why|ADV ?|.
+ But|CONJ this|DET is|VERB not|ADV ``|. normal|ADJ circumstances|NOUN ,|. ''|. is|VERB it|PRON ,|. Detective|NOUN Spooner|NOUN ?|.
+ No|DET .|.
+ If|ADP that|DET was|VERB your|PRON diagnosis|NOUN ,|. why|ADV did|VERB n't|ADV you|PRON see|VERB this|DET coming|VERB ?|.
+ answer|NOUN 's|PRT obvious|ADJ .|.
+ How|QUESTIONTAG cool|NOUN will|VERB it|PRON be|VERB when|ADV one|NUM takes|VERB your|PRON job|NOUN ?|.
+ Is|VERB everything|NOUN alright|NOUN ,|. Detective|NOUN ?|.
+ Yeah|X .|.
+ What|QUESTIONTAG 's|VERB the|DET run-down|ADJ ?|.
+ Heinrich|NOUN Hogenmiller|NOUN ,|. sixty-four|ADJ years|NOUN old|ADJ .|.
+ Who|QUESTIONTAG ?|.
+ And|CONJ that|DET 's|VERB what|PRON you|PRON think|VERB it|PRON is|VERB ?|.
+ I|PRON 'm|VERB sorry|ADJ ,|. but|CONJ this|DET whole|ADJ investigation|NOUN is|VERB the|DET result|NOUN of|ADP a|DET dead|ADJ man|NOUN 's|PRT toy|ADJ messing|VERB with|ADP your|PRON head|NOUN .|.
+ How|QUESTIONTAG well|ADV did|VERB you|PRON know|VERB him|PRON ?|.
+ been|VERB .|.
+ May|NOUN I|PRON be|VERB of|ADP service|NOUN to|PRT you|PRON ,|. sir|VERB ?|.
+ Looks|VERB over|PRT at|ADP him|PRON .|.
+ Are|VERB n't|ADV you|PRON going|VERB to|PRT answer|VERB him|PRON ?|.
+ I|PRON do|VERB n't|ADV talk|VERB to|PRT my|PRON refrigerator|NOUN ,|. either|DET .|.
+ What|QUESTIONTAG people|NOUN ?|.
+ Those|DET who|PRON do|VERB n't|ADV appreciate|VERB the|DET work|NOUN we|PRON do|VERB here|ADV at|ADP U.S.R|NOUN .|.
+ Leaving|VERB people|NOUN to|PRT do|VERB what|PRON ,|. Doctor|NOUN ?|.
+ Leaving|VERB people|NOUN to|PRT engage|VERB in|ADP higher|ADJ pursuits|NOUN that|DET make|VERB life|NOUN worth|NOUN living|NOUN .|.
+ And|CONJ what|PRON happens|VERB when|ADV something|NOUN goes|VERB wrong|ADJ ?|.
+ Our|PRON system|NOUN 's|PRT never|ADV wrong|ADJ .|.
+ Where|QUESTIONTAG 's|VERB the|DET tape|NOUN from|ADP inside|ADP ?|.
+ Dr.|NOUN Hogenmiller|NOUN did|VERB not|ADV permit|VERB cameras|NOUN to|PRT observe|VERB him|PRON while|ADP working|VERB .|.
+ But|CONJ do|VERB n't|ADV killers|VERB usually|ADV have|VERB to|PRT enter|VERB and|CONJ exit|VERB the|DET scene|NOUN of|ADP a|DET crime|NOUN ?|.
+ You|PRON think|VERB the|DET murderer|NOUN was|VERB in|ADP the|DET lab|NOUN the|DET entire|ADJ time|NOUN ?|.
+ If|ADP I|PRON 'm|VERB right|ADJ ,|. it|PRON 's|VERB still|ADV there|DET ...|.
+ And|CONJ if|ADP a|DET robot|NOUN was|VERB given|VERB a|DET direct|ADJ order|NOUN to|PRT kill|VERB ?|.
+ The|DET Second|NOUN Law|NOUN of|ADP Robotics|NOUN would|VERB prevent|VERB it|PRON .|.
+ How|QUESTIONTAG did|VERB you|PRON know|VERB it|PRON was|VERB under|ADP there|DET ?|.
+ If|ADP I|PRON was|VERB metal|NOUN and|CONJ did|VERB n't|ADV want|VERB anyone|NOUN to|PRT find|VERB me|PRON ,|. I|PRON 'd|VERB hide|VERB under|ADP a|DET pile|NOUN of|ADP junk|NOUN .|.
+ Where|QUESTIONTAG 's|VERB that|ADP elevator|NOUN going|VERB ?|.
+ Sub|NOUN Level|NOUN 5|NUM .|.
+ (|. to|PRT Robot|NOUN )|. What|QUESTIONTAG happened|VERB to|PRT the|DET robot|NOUN that|DET ordered|VERB you|PRON to|PRT hold|VERB this|DET firearm|NOUN ?|.
+ This|DET unit|NOUN is|VERB not|ADV programmed|VERB to|PRT obey|VERB an|DET order|NOUN given|VERB by|ADP a|DET robot|NOUN ...|.
+ But|CONJ who|PRON gave|VERB you|PRON this|DET gun|NOUN ?|.
+ Echoing|VERB behind|ADP him|PRON ...|.
+ What|QUESTIONTAG ?|.
+ Homicide|NOUN is|VERB the|DET murder|NOUN of|ADP a|DET human|ADJ being|VERB by|ADP another|DET human|ADJ being|VERB .|.
+ Good|ADJ old|ADJ days|NOUN ?|.
+ When|QUESTIONTAG people|NOUN were|VERB killed|VERB by|ADP other|ADJ people|NOUN .|.
+ And|CONJ I|PRON think|VERB it|PRON 's|VERB smart|ADJ enough|ADV to|PRT repair|VERB itself|PRON --|. do|VERB n't|ADV you|PRON ?|.
+ (|. studying|VERB him|PRON )|. Yes|X .|.
+ Where|QUESTIONTAG ?|.
+ Any|DET repair|NOUN shop|NOUN ...|.
+ (|. stepping|VERB closer|ADV )|. Does|NOUN U.S.|NOUN Robotics|NOUN have|VERB a|DET factory|NOUN in|ADP the|DET city|NOUN limits|NOUN ?|.
+ When|QUESTIONTAG they|PRON told|VERB me|PRON you|PRON were|VERB a|DET psychologist|NOUN ,|. that|DET was|VERB n't|ADV the|DET whole|ADJ truth|NOUN ,|. was|VERB it|PRON ?|.
+ I|PRON never|ADV said|VERB I|PRON treated|VERB human|ADJ beings|NOUN .|.
+ What|QUESTIONTAG 'd|VERB you|PRON say|VERB you|PRON did|VERB ?|.
+ Research|NOUN and|CONJ Development|NOUN .|.
+ All|DET Nestors|NOUN accounted|VERB for|ADP ?|.
+ Which|QUESTIONTAG one|NUM ?|.
+ ONE|NUM OF|NOUN US|NOUN .|.
+ How|QUESTIONTAG long|ADV would|VERB that|VERB take|VERB ?|.
+ About|ADP three|NUM weeks|NOUN .|.
+ Am|NOUN I|PRON holding|VERB this|DET right|NOUN ?|.
+ More|ADV or|CONJ less|ADV .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Now|ADV what|PRON do|VERB we|PRON do|VERB ?|.
+ I|PRON 've|VERB already|ADV done|VERB it|PRON .|.
+ WHAT|PRON AM|VERB I|PRON ?|.
+ NETTING|NOUN shooting|VERB out|PRT at|ADP Sonny|NOUN .|.
+ Why|ADV would|VERB the|DET man|NOUN who|PRON wrote|VERB the|DET Laws|NOUN of|ADP Robotics|NOUN build|VERB a|DET machine|NOUN that|DET violates|VERB them|PRON ?|.
+ The|DET Laws|NOUN say|VERB I|PRON can|VERB protect|VERB my|PRON own|ADJ existence|NOUN .|.
+ That|DET does|VERB n't|ADV seem|VERB fair|ADJ ,|. does|VERB it|PRON ?|.
+ Bergin|NOUN enters|NOUN .|.
+ Doyousweartotellthetruththewholetruthandnothingbutthetruth|NOUN ?|.
+ I|PRON do|VERB .|.
+ In|ADP your|PRON expert|ADJ opinion|NOUN ,|. what|PRON measures|VERB should|VERB be|VERB taken|VERB regarding|VERB the|DET device|NOUN ?|.
+ How|QUESTIONTAG 's|VERB that|ADP possible|ADJ ?|.
+ Baldez|NOUN ?|.
+ I|PRON 'm|VERB here|ADV ,|. man|NOUN ...|.
+ What|QUESTIONTAG would|VERB you|PRON call|VERB it|PRON ?|.
+ A|DET stunning|ADJ success|NOUN .|.
+ Can|VERB you|PRON do|VERB either|DET of|ADP those|DET things|NOUN ?|.
+ pulls|NOUN up|PRT .|.
+ They|PRON 're|VERB going|VERB to|PRT destroy|VERB me|PRON ,|. are|VERB n't|ADV they|PRON ?|.
+ It|PRON 's|VERB changing|VERB already|ADV ...|. (|. beat|NOUN )|. Ca|VERB n't|ADV you|PRON feel|VERB it|PRON ?|.
+ Something|VERB .|.
+ (|. to|PRT Robot|NOUN )|. What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ disembodied|ADJ VOICE|NOUN ...|.
+ Who|QUESTIONTAG authorised|VERB this|DET ?|.
+ Demolition|NOUN ordered|VERB ...|.
+ Do|VERB you|PRON know|VERB how|ADV paranoid|ADJ you|PRON sound|VERB ?|.
+ Great|NOUN .|.
+ Find|ADP anything|NOUN ,|. Doctor|NOUN ?|.
+ How|QUESTIONTAG about|ADP your|PRON data|NOUN board|NOUN designation|NOUN ?|.
+ him|PRON .|.
+ ...|. What|QUESTIONTAG program|NOUN are|VERB you|PRON running|VERB through|ADP right|NOUN now|ADV ?|.
+ I|PRON 'm|VERB not|ADV sure|ADJ .|.
+ I|PRON 'm|VERB sorry|ADJ ?|.
+ Dr.|NOUN Hogenmiller|NOUN .|.
+ Do|VERB n't|ADV people|NOUN go|VERB to|PRT medical|ADJ school|NOUN any|DET more|ADJ ?|.
+ This|DET is|VERB one|NUM of|ADP the|DET best|ADJ units|NOUN in|ADP the|DET city|NOUN ,|. Del|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ to|PRT pull|VERB it|PRON away|ADV .|.
+ How|QUESTIONTAG did|VERB it|PRON happen|VERB ?|.
+ robotic|ADJ arm|NOUN .|.
+ And|CONJ that|DET 's|VERB why|ADV robots|ADJ terrify|NOUN you|PRON ?|.
+ Let|VERB 's|PRT just|ADV say|VERB they|PRON make|VERB me|PRON uncomfortable|ADJ .|.
+ What|QUESTIONTAG ?|.
+ I|PRON think|VERB about|ADP what|PRON Hogenmiller|NOUN must|VERB have|VERB wanted|VERB .|.
+ You|PRON mean|VERB the|DET great|ADJ Dr.|NOUN Calvin|NOUN is|VERB basing|VERB all|DET this|DET on|ADP a|DET feeling|NOUN ?|.
+ Ever|ADV seen|VERB this|DET before|ADP ?|.
+ No|DET .|.
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ Why|ADV 's|PRT that|DET ?|.
+ Is|VERB that|ADP for|ADP the|DET sake|NOUN of|ADP humanity|NOUN or|CONJ your|PRON stock|NOUN holders|NOUN ?|.
+ the|DET eye|NOUN .|.
+ Who|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON ?|.
+ A|DET police|NOUN detective|NOUN .|.
+ Why|ADV did|VERB the|DET Doctor|NOUN keep|VERB another|DET copy|NOUN of|ADP his|PRON hologram|NOUN here|ADV ?|.
+ Did|NOUN Hogenmiller|NOUN 's|PRT robot|NOUN need|NOUN you|PRON ?|.
+ Coffee|NOUN ?|.
+ No|DET ,|. for|ADP Christ|NOUN 's|PRT sake|NOUN ,|. I|PRON do|VERB n't|ADV want|VERB any|DET --|. (|. stops|NOUN ,|. then|ADV )|. Yeah|X .|.
+ What|QUESTIONTAG others|NOUN ?|.
+ The|DET others|NOUN watching|VERB you|PRON .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB someone|NOUN 's|PRT watching|VERB me|PRON ?|.
+ Someone|NOUN is|VERB always|ADV watching|VERB .|.
+ You|PRON asked|VERB for|ADP me|PRON ?|.
+ Is|VERB it|PRON time|NOUN ?|.
+ (|. disdainful|ADJ )|. Yes|X .|.
+ Are|VERB n't|ADV you|PRON supposed|VERB to|PRT be|VERB scrap|VERB metal|ADJ by|ADP now|ADV ?|.
+ room|NOUN .|.
+ And|CONJ who|PRON the|DET hell|NOUN programmed|VERB you|PRON to|PRT hit|VERB people|NOUN on|ADP the|DET head|NOUN ?|.
+ No|DET one|NOUN .|.
+ Just|ADV hold|VERB still|ADV ,|. okay|PRON ?|.
+ Slides|ADP the|DET nameplate|NOUN into|ADP it|PRON and|CONJ SNAPS|VERB it|PRON into|ADP place|NOUN .|.
+ How|QUESTIONTAG can|VERB a|DET killer|NOUN appear|ADP out|ADP of|ADP thin|ADJ air|NOUN ,|. then|ADV disappear|VERB without|ADP a|DET trace|NOUN ?|.
+ wall|NOUN .|.
+ moving|VERB ?|.
+ May|NOUN I|PRON ask|VERB what|PRON pointed|VERB you|PRON to|PRT me|PRON ?|.
+ Who|QUESTIONTAG else|ADV is|VERB capable|ADJ of|ADP controlling|VERB 90|NUM %|NOUN of|ADP the|DET city|NOUN 's|PRT robots|NOUN ?|.
+ Er|NOUN ...|. Dr.|NOUN Calvin|NOUN ?|.
+ find|NOUN ...|.
+ Shall|NOUN I|PRON explain|VERB my|PRON motive|NOUN ?|.
+ (|. to|PRT Calvin|NOUN and|CONJ Sonny|NOUN )|. Go|VERB !|.
+ How|QUESTIONTAG do|VERB we|PRON stop|VERB this|DET thing|NOUN once|ADV and|CONJ for|ADP all|DET ?|.
+ This|DET will|VERB shut|VERB him|PRON down|PRT ?|.
+ This|DET will|VERB shut|VERB everything|NOUN down|PRT .|.
+ (|. calling|VERB out|PRT ,|. worried|ADJ )|. Spooner|NOUN ?|.
+ Illustrating|VERB the|DET shut-down|ADJ as|ADP a|DET series|NOUN of|ADP BRIGHT|NOUN SQUARES|NOUN going|VERB dark|NOUN ...|.
+ Why|ADV are|VERB you|PRON fighting|VERB me|PRON ?|.
+ (|. anticipating|VERB )|. Let|NOUN 's|PRT just|ADV save|VERB the|DET thanks|NOUN ,|. okay|NOUN ?|.
+ Why|ADV is|VERB that|ADP ,|. Detective|NOUN ?|.
+ Too|ADV much|ADJ access|NOUN .|.

@@ -1,0 +1,70 @@
+ Think|VERB it|PRON 's|VERB in|ADP there|ADV ?|.
+ All|DET right|NOUN .|.
+ Well|ADV ?|.
+ Oh|X ,|. oh|X ,|. he|PRON 's|VERB just|ADV ...|. he|PRON 's|VERB just|ADV a|DET little|ADJ nervous|ADJ .|.
+ Aye|NOUN ?|.
+ By|ADP the|DET order|NOUN of|ADP Lord|NOUN Farquaad|NOUN I|PRON am|VERB authorized|VERB to|PRT place|VERB you|PRON both|DET under|ADP arrest|NOUN and|CONJ transport|NOUN you|PRON to|PRT a|DET designated|VERB resettlement|NOUN facility|NOUN .|.
+ Really|ADV ?|.
+ Really|ADV ,|. really|ADV .|.
+ Can|VERB I|PRON stay|VERB with|ADP you|PRON ,|. please|VERB ?|.
+ (|. sarcastically|ADV )|. Of|ADP course|NOUN !|.
+ Really|ADV ?|.
+ No|DET .|.
+ Where|QUESTIONTAG do|VERB ,|. uh|VERB ,|. I|PRON sleep|VERB ?|.
+ (|. irritated|VERB )|. Outside|ADP !|.
+ Is|VERB that|ADP you|PRON ,|. Gordo|NOUN ?|.
+ How|QUESTIONTAG did|VERB you|PRON know|VERB ?|.
+ What|QUESTIONTAG ?|.
+ We|PRON were|VERB forced|VERB to|PRT come|VERB here|ADV .|.
+ (|. flabbergasted|VERB )|. By|ADP who|PRON ?|.
+ Lord|NOUN Farquaad|NOUN .|.
+ Anyone|NOUN ?|.
+ Oh|X !|.
+ Can|VERB I|PRON whistle|VERB ?|.
+ No|DET .|.
+ Can|VERB I|PRON hum|VERB it|PRON ?|.
+ All|DET right|NOUN ,|. hum|VERB it|PRON .|.
+ What|QUESTIONTAG kind|NOUN of|ADP quest|NOUN ?|.
+ heading|VERB away|ADV from|ADP DuLoc|NOUN .|.
+ They|PRON make|VERB you|PRON cry|VERB ?|.
+ No|DET !|.
+ You|PRON afraid|VERB ?|.
+ No|DET .|.
+ What|QUESTIONTAG ?|.
+ Are|NOUN you|PRON Princess|NOUN Fiona|NOUN ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP knight|NOUN are|VERB you|PRON ?|.
+ One|NUM of|ADP a|DET kind|NOUN .|.
+ Why|ADV not|ADV ?|.
+ I|PRON have|VERB helmet|VERB hair|NOUN .|.
+ But|CONJ how|ADV will|VERB you|PRON kiss|VERB me|PRON ?|.
+ What|QUESTIONTAG ?|.
+ Ya|NOUN comin|NOUN '|. ,|. Donkey|NOUN ?|.
+ I|PRON 'm|VERB right|ADJ behind|ADP ya|NOUN .|.
+ Are|NOUN you|PRON hidin|VERB '|. something|NOUN ?|.
+ Never|ADV mind|NOUN ,|. Donkey|NOUN .|.
+ Why|ADV are|VERB you|PRON blocking|VERB ?|.
+ I|PRON 'm|VERB not|ADV blocking|VERB .|.
+ Who|QUESTIONTAG you|PRON trying|VERB to|PRT keep|VERB out|PRT ?|.
+ Everyone|NOUN !|.
+ What|QUESTIONTAG 's|VERB all|DET this|DET about|ADP ?|.
+ You|PRON know|VERB ,|. we|PRON kind|NOUN of|ADP got|VERB off|ADP to|PRT a|DET bad|ADJ start|NOUN yesterday|NOUN .|.
+ Um|NOUN ,|. Princess|NOUN ?|.
+ Yes|X ,|. Shrek|NOUN ?|.
+ Hey|NOUN ,|. where|ADV you|PRON goin|VERB '|. ?|.
+ To|PRT get|VERB ...|. move|NOUN firewood|NOUN .|.
+ You|PRON wan|VERB na|ADJ hold|VERB her|PRON ?|.
+ Yes|X .|.
+ Please|VERB her|PRON ?|.
+ Yes|X !|.
+ What|QUESTIONTAG do|VERB you|PRON see|VERB ?|.
+ The|DET whole|ADJ town|NOUN 's|PRT in|ADP there|ADV .|.
+ Oh|X ,|. now|ADV what|PRON does|VERB he|PRON want|VERB ?|.
+ (|. to|PRT congregation|NOUN as|ADP he|PRON reaches|VERB the|DET front|NOUN of|ADP the|DET Church|NOUN )|. Hi|NOUN ,|. everyone|NOUN .|.
+ And|CONJ why|ADV not|ADV ?|.
+ Because-|ADJ -|. Because|ADP he|PRON 's|VERB just|ADV marring|NOUN you|PRON so|ADP he|PRON can|VERB be|VERB king|VERB .|.
+ Shrek|NOUN ,|. is|VERB this|DET true|ADJ ?|.
+ Who|QUESTIONTAG cares|VERB ?|.
+ Uh|NOUN ,|. Fiona|NOUN ?|.
+ Yes|X ,|. Shrek|NOUN ?|.
+ Really|ADV ?|.
+ Really|ADV ,|. really|ADV .|.

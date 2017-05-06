@@ -1,0 +1,193 @@
+ You|PRON want|VERB to|PRT die|VERB ?|.
+ Do|VERB you|PRON ?|.
+ American|NOUN ?|.
+ Yes|X .|.
+ (|. unperturbed|ADJ )|. Any|NOUN of|ADP your|PRON men|NOUN go|VERB on|ADP board|NOUN ?|.
+ No|DET sir|NOUN .|.
+ You|PRON work|VERB here|ADV ?|.
+ Yes|X ,|. I|PRON do|VERB .|.
+ What|QUESTIONTAG do|VERB you|PRON do|VERB ?|.
+ (|. leans|NOUN down|PRT ,|. amused|ADJ )|. I|PRON 'm|VERB an|DET Evolutionary|ADJ Biologist|NOUN .|.
+ What|QUESTIONTAG the|DET ...|. ?|.
+ Anything|VERB missin|NOUN '|. ?|.
+ Does|VERB n't|ADV look|VERB like|ADP it|PRON .|.
+ Why|ADV not|ADV ?|.
+ No|DET one|NOUN broke|VERB into|ADP this|DET room|NOUN ,|. sir|NOUN .|.
+ Margo|NOUN ,|. you|PRON have|VERB n't|ADV heard|VERB ?|.
+ What|QUESTIONTAG ?|.
+ Henry|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ All|DET employees|NOUN are|VERB to|PRT go|VERB to|PRT the|DET IMAX|NOUN room|NOUN for|ADP a|DET briefing|NOUN ,|. Dr.|NOUN Green|NOUN .|.
+ Could|NOUN you|PRON please|VERB take|VERB me|PRON to|PRT the|DET officer|NOUN in|ADP charge|NOUN ?|.
+ The|DET body|NOUN ?|.
+ What|QUESTIONTAG 's|VERB left|ADJ of|ADP it|PRON .|.
+ Mind|ADP if|ADP I|PRON have|VERB a|DET look|NOUN ?|.
+ carrying|VERB lights|NOUN ,|. a|DET donut|NOUN stuffed|NOUN in|ADP his|PRON mouth|NOUN .|.
+ Where|QUESTIONTAG 's|VERB the|DET head|NOUN ?|.
+ corner|NOUN .|.
+ Whose|ADJ footprints|NOUN ?|.
+ Night|NOUN watchman|NOUN who|PRON found|VERB the|DET body|NOUN .|.
+ (|. sensing|VERB more|ADV gossip|NOUN )|. What|QUESTIONTAG 's|VERB that|DET ?|.
+ So|ADP the|DET method|NOUN of|ADP death|NOUN is|VERB the|DET only|ADJ connection|NOUN ?|.
+ No|DET .|.
+ How|QUESTIONTAG did|VERB you|PRON get|VERB away|ADV ?|.
+ We|PRON ran|VERB and|CONJ screamed|VERB and|CONJ stuff|NOUN .|.
+ Beauregard|NOUN ?|.
+ Yeah|X .|.
+ How|QUESTIONTAG do|VERB you|PRON explain|VERB the|DET part|NOUN about|ADP Beauregard|NOUN ?|.
+ They|PRON heard|VERB the|DET victim|NOUN 's|PRT name|NOUN and|CONJ wove|VERB him|PRON into|ADP their|PRON story|NOUN .|.
+ You|PRON think|VERB what|PRON we|PRON 've|VERB got|VERB here|ADV is|VERB a|DET monster|NOUN as|ADV big|ADJ as|ADP a|DET house|NOUN that|DET smells|VERB ...|. like|ADP hamburger|NOUN ?|.
+ No|DET .|.
+ (|. she|PRON snaps|VERB her|PRON rubber|NOUN glove|NOUN )|. Shall|NOUN we|PRON get|VERB down|ADV to|PRT it|PRON ,|. then|ADV ?|.
+ drawer|NOUN .|.
+ What|QUESTIONTAG are|VERB we|PRON talking|VERB about|ADP here|ADV ?|.
+ Someone|NOUN who|PRON makes|VERB the|DET Hacksaw|NOUN Murderer|NOUN look|VERB like|ADP Mother|NOUN Teresa|NOUN .|.
+ The|DET thalamus|NOUN and|CONJ the|DET hypothalamus|NOUN ,|. perhaps|ADV ?|.
+ (|. looks|VERB up|PRT ,|. surprised|VERB )|. Yes|X .|.
+ What|QUESTIONTAG happened|VERB to|PRT them|PRON ?|.
+ If|ADP you|PRON do|VERB n't|ADV mind|VERB a|DET suggestion|NOUN ,|. you|PRON might|VERB try|VERB a|DET saliva|ADJ test|NOUN .|.
+ Dr.|NOUN Green|NOUN ?|.
+ complicated|VERB notations|NOUN .|.
+ You|PRON have|VERB a|DET warrant|NOUN to|PRT look|VERB at|ADP that|DET ?|.
+ cup|NOUN of|ADP coffee|NOUN in|ADP her|PRON hand|NOUN .|.
+ How|QUESTIONTAG does|VERB it|PRON work|VERB ?|.
+ With|ADP a|DET DNA|NOUN analysis|NOUN from|ADP a|DET fossil|NOUN you|PRON can|VERB use|VERB this|DET program|NOUN to|PRT tell|VERB the|DET species|NOUN and|CONJ sex|NOUN of|ADP the|DET animal|NOUN ,|. whether|ADP it|PRON was|VERB nocturnal|ADJ ,|. what|PRON it|PRON ate|VERB ,|. how|ADV it|PRON hunted|VERB ,|. how|ADV big|ADJ it|PRON was|VERB ...|. (|. abrupt|ADJ )|. You|PRON are|VERB n't|ADV here|ADV for|ADP a|DET lesson|NOUN in|ADP DNA|NOUN .|.
+ You|PRON have|VERB time|NOUN to|PRT talk|VERB ?|.
+ And|CONJ John|NOUN ?|.
+ Disappeared|NOUN .|.
+ How|QUESTIONTAG did|VERB you|PRON know|VERB that|DET ?|.
+ I|PRON ran|VERB an|DET internet|ADJ search|NOUN on|ADP Dr.|NOUN Whittlesley|NOUN .|.
+ You|PRON were|VERB afraid|VERB of|ADP him|PRON ,|. were|VERB n't|ADV you|PRON ?|.
+ He|PRON was|VERB afraid|ADJ of|ADP himself|PRON .|.
+ A|DET monster|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ No|DET one|NOUN knows|VERB .|.
+ Would|VERB you|PRON mind|VERB showing|VERB it|PRON to|PRT me|PRON ?|.
+ Where|QUESTIONTAG would|VERB we|PRON find|VERB it|PRON ?|.
+ I|PRON 'm|VERB not|ADV sure|ADJ .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Where|QUESTIONTAG did|VERB you|PRON see|VERB it|PRON ?|.
+ Behind|ADP me|PRON .|.
+ What|QUESTIONTAG was|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ McNitt|NOUN ?|.
+ he|PRON hears|VERB a|DET footstep|NOUN and|CONJ a|DET muffled|ADJ thump|NOUN .|.
+ Any|DET sign|NOUN of|ADP a|DET green-eyed|ADJ monster|NOUN ?|.
+ (|. chuckles|NOUN )|. Nope|NOUN .|.
+ Do|VERB they|PRON have|VERB to|PRT wear|VERB uniforms|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG do|VERB you|PRON make|VERB of|ADP it|PRON ,|. Margo|NOUN ?|.
+ It|PRON 's|VERB not|ADV mammalian|ADJ ,|. that|DET 's|VERB for|ADP sure|ADJ .|.
+ (|. looks|VERB over|PRT )|. What|QUESTIONTAG 's|VERB that|DET ?|.
+ Genetic|ADJ damage|NOUN ?|.
+ When|QUESTIONTAG DNA|NOUN is|VERB defective|ADJ ,|. it|PRON often|ADV uncontrollably|ADV replicates|VERB long|ADJ repeating|VERB sequences|NOUN of|ADP the|DET same|ADJ base|NOUN pair|NOUN .|.
+ How|QUESTIONTAG many|ADJ storage|NOUN areas|NOUN are|VERB there|ADV ?|.
+ They|PRON fill|VERB seven|NUM floors|NOUN .|.
+ (|. looks|VERB over|ADP )|. Do|VERB you|PRON mean|VERB Dr.|NOUN Whittlesley|NOUN ?|.
+ Yes|X .|.
+ (|. excited|VERB )|. May|NOUN I|PRON see|VERB that|ADP ?|.
+ Where|QUESTIONTAG is|VERB that|ADP ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ How|QUESTIONTAG big|ADJ is|VERB the|DET sub-basement|ADJ ?|.
+ Apparently|ADV it|PRON 's|VERB huge|ADJ .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ I|PRON 'm|VERB not|ADV sure|ADJ .|.
+ What|QUESTIONTAG are|VERB they|PRON ?|.
+ They|PRON 're|VERB eggs|NOUN .|.
+ Holy|NOUN mother|NOUN ,|. what|PRON is|VERB that|DET ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP egg|NOUN is|VERB it|PRON ?|.
+ It|PRON 's|VERB reptilian|ADJ .|.
+ What|QUESTIONTAG kind|NOUN of|ADP hormones|NOUN ?|.
+ Biochemistry|NOUN ,|. thumbs|VERB to|PRT a|DET page|NOUN and|CONJ reads|NOUN .|.
+ So|ADV what|PRON ?|.
+ Pendergast|NOUN told|VERB me|PRON the|DET killer|NOUN extracts|NOUN and|CONJ eats|VERB the|DET hypothalamus|NOUN and|CONJ thalamus|NOUN of|ADP the|DET victim|NOUN 's|PRT brains|NOUN !|.
+ (|. pales|NOUN )|. Eats|NOUN them|PRON ?|.
+ Yes|X .|.
+ Hey|NOUN ,|. where|ADV 'za|PRT little|ADJ boys|NOUN room|NOUN ?|.
+ Down|ADP that|DET hallway|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Dr.|NOUN Green|NOUN has|VERB to|PRT see|VERB you|PRON !|.
+ What|QUESTIONTAG happened|VERB ?|.
+ There|DET 's|VERB a|DET dead|ADJ body|NOUN in|ADP the|DET exhibit|NOUN !|.
+ What|QUESTIONTAG the|DET hell|NOUN is|VERB going|VERB on|ADP ?|.
+ What|QUESTIONTAG doors|NOUN ?|.
+ I|PRON told|VERB you|PRON !|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ Some|DET kind|NOUN of|ADP power|NOUN failure|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ It|PRON 's|VERB one|NUM of|ADP the|DET fire|NOUN doors|NOUN .|.
+ Jesus|NOUN ,|. what|PRON is|VERB this|DET ?|.
+ Another|DET storage|NOUN room|NOUN .|.
+ Wounded|VERB ?|.
+ No|DET .|.
+ Is|VERB there|DET a|DET doctor|NOUN ?|.
+ POUND|NOUN .|.
+ Where|QUESTIONTAG 's|PRT Pendergast|NOUN ?|.
+ (|. crossing|VERB ,|. breathless|NOUN )|. Five|NUM flights|NOUN down|ADV .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ What|QUESTIONTAG 's|VERB your|PRON name|NOUN ?|.
+ Frank|NOUN .|.
+ Whoa|NOUN ...|. You|PRON smell|VERB that|ADP ?|.
+ Lieutenant|NOUN !|.
+ (|. yells|NOUN )|. Where|QUESTIONTAG is|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB !|.
+ (|. a|DET string|NOUN of|ADP curses|NOUN followed|VERB by|ADP ...|. )|. Where|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON ?|.
+ I|PRON made|VERB it|PRON outside|ADJ .|.
+ Did|NOUN he|PRON say|VERB monster|NOUN ?|.
+ Panic|ADJ attack|NOUN .|.
+ Where|QUESTIONTAG 's|VERB the|DET walk-in|ADJ safe|NOUN ?|.
+ Behind|ADP you|PRON .|.
+ What|QUESTIONTAG 's|VERB the|DET combination|NOUN ?|.
+ I|PRON 'll|VERB do|VERB it|PRON .|.
+ Fifteen|NOUN ...|. what|PRON 's|VERB next|ADJ ?|.
+ Eight|NUM to|PRT the|DET right|NOUN !|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ Footsteps|NOUN !|.
+ Is|VERB there|DET another|DET way|NOUN around|ADP ?|.
+ No|DET .|.
+ The|DET sub-basement|NOUN ?|.
+ I|PRON 've|VERB been|VERB down|ADV there|ADV .|.
+ How|QUESTIONTAG much|ADJ ammo|NOUN do|VERB we|PRON have|VERB to|PRT make|VERB a|DET stand|NOUN ?|.
+ You|PRON 're|VERB asking|VERB me|PRON ?|.
+ What|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT do|VERB ?|.
+ What|QUESTIONTAG is|VERB it|PRON doing|VERB ?|.
+ (|. loud|NOUN )|. It|PRON 's|VERB scared|VERB of|ADP me|PRON .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ Its|PRON eyesight|NOUN is|VERB worse|ADJ than|ADP I|PRON thought|VERB .|.
+ Then|ADV it|PRON wo|VERB n't|ADV go|VERB after|ADP the|DET others|NOUN ?|.
+ No|DET .|.
+ For|ADP what|PRON ?|.
+ I|PRON think|VERB ...|. for|ADP the|DET pleasure|NOUN of|ADP the|DET kill|NOUN .|.
+ How|QUESTIONTAG ?|.
+ The|DET answer|NOUN 's|PRT right|NOUN in|ADP front|NOUN of|ADP us|PRON .|.
+ Who|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON ?|.
+ You|PRON first|ADV .|.
+ What|QUESTIONTAG is|VERB it|PRON ,|. boy|VERB ?|.
+ sound|NOUN of|ADP breaking|VERB glass|NOUN .|.
+ Where|QUESTIONTAG we|PRON going|VERB ?|.
+ I|PRON think|VERB we|PRON 're|VERB going|VERB home|NOUN .|.
+ Are|NOUN you|PRON hurt|VERB ?|.
+ We|PRON 're|VERB fine|ADJ .|.
+ You|PRON smell|VERB that|ADP ?|.
+ It|PRON 's|VERB coming|VERB .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ All|DET right|ADJ everybody|NOUN ,|. hold|VERB up|PRT !|.
+ What|QUESTIONTAG does|VERB it|PRON say|VERB ?|.
+ (|. looks|VERB up|PRT ,|. shocked|VERB )|. Dr.|NOUN John|NOUN Whittlesley|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET doing|VERB here|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ What|QUESTIONTAG is|VERB that|DET ?|.
+ SCREAMS|NOUN !|.
+ What|QUESTIONTAG ?|.
+ That|DET thing|NOUN is|VERB John|NOUN Whittlesley|NOUN .|.
+ No|DET time|NOUN for|ADP fishing|VERB anymore|ADV ?|.
+ How|QUESTIONTAG about|ADP lunch|NOUN ?|.
+ Not|ADV today|NOUN .|.
+ Dr.|NOUN Frock|NOUN ?|.
+ Look|NOUN who|PRON 's|VERB here|ADV ,|. Margo|NOUN .|.
+ Should|VERB n't|ADV a|DET drug|NOUN that|DET powerful|ADJ be|VERB destroyed|VERB ?|.
+ The|DET virus|NOUN itself|PRON might|VERB have|VERB positive|ADJ applications|NOUN .|.

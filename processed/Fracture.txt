@@ -1,0 +1,191 @@
+ What|QUESTIONTAG about|ADP dinner|NOUN tonight|NOUN ?|.
+ him|PRON .|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ I|PRON 'm|VERB trying|VERB to|PRT describe|VERB my|PRON feelings|NOUN .|.
+ You|PRON the|DET Negotiator|NOUN ?|.
+ Yeah|X .|.
+ Yes|X ?|.
+ Mr.|NOUN Crawford|NOUN ?|.
+ Who|QUESTIONTAG is|VERB this|DET ?|.
+ Do|VERB I|PRON call|VERB you|PRON Rob|NOUN ?|.
+ If|ADP you|PRON want|VERB .|.
+ What|QUESTIONTAG ?|.
+ Not|ADV vampires|NOUN .|.
+ I|PRON 'm|VERB sorry|ADJ ?|.
+ You|PRON can|VERB call|VERB me|PRON Tom|NOUN .|.
+ Come|NOUN on|ADP ,|. Phil|NOUN :|. I|PRON called|VERB you|PRON as|ADP a|DET courtesy|NOUN ,|. and|CONJ you|PRON start|VERB looking|VERB to|PRT take|VERB advantage|NOUN ?|.
+ We|PRON 're|VERB just|ADV going|VERB to|PRT pretend|VERB he|PRON 's|VERB not|ADV talking|VERB ,|. okay|NOUN ?|.
+ No|DET problem|NOUN .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ Wooton|NOUN Sims|NOUN buys|VERB a|DET whole|ADJ lot|NOUN of|ADP seats|NOUN to|PRT this|DET charity|NOUN opera|VERB thing|NOUN every|DET year|NOUN ,|. because|ADP Bob|NOUN Wooton|NOUN is|VERB the|DET chairman|NOUN of|ADP this|DET committee|NOUN -|.
+ ``|. Bob|NOUN ''|. Wooton|NOUN ?|.
+ (|. Enjoying|VERB ,|. mock-helpless|NOUN )|. It|PRON 's|VERB what|PRON the|DET man|NOUN told|VERB me|PRON to|PRT call|VERB him|PRON .|.
+ (|. Beat|NOUN )|. Our|PRON God|NOUN ?|.
+ Who|QUESTIONTAG art|VERB on|ADP the|DET Eleventh|NOUN Floor|NOUN .|.
+ Sir|NOUN ?|.
+ You|PRON 're|VERB going|VERB to|PRT Wooton|NOUN Sims|NOUN .|.
+ (|. Beat|NOUN )|. A|NOUN real|ADJ confession|NOUN ?|.
+ Spontaneous|ADJ and|CONJ signed|VERB .|.
+ And|CONJ do|VERB you|PRON wish|VERB to|PRT enter|VERB a|DET plea|NOUN at|ADP this|DET time|NOUN ?|.
+ Not|ADV guilty|ADJ .|.
+ Do|VERB you|PRON have|VERB a|DET problem|NOUN with|ADP your|PRON appointed|VERB counsel|NOUN ,|. Mr.|NOUN Crawford|NOUN ?|.
+ No|DET .|.
+ Is|VERB that|ADP what|PRON I|PRON 'm|VERB supposed|VERB to|PRT be|VERB ?|.
+ I|PRON asked|VERB around|ADV .|.
+ And|CONJ now|ADV you|PRON want|VERB mine|VERB ?|.
+ Are|NOUN you|PRON all|DET right|ADV ?|.
+ Are|NOUN you|PRON gon|VERB na|PRT be|VERB on|ADP this|DET ,|. or|CONJ what|PRON ?|.
+ Are|NOUN you|PRON a|DET shark|NOUN ?|.
+ Sorry|NOUN ?|.
+ You|PRON 've|VERB been|VERB circling|VERB the|DET lobby|NOUN for|ADP half-an-hour|NOUN now|ADV ,|. like|ADP if|ADP you|PRON stopped|VERB you|PRON 'd|VERB die|VERB .|.
+ You|PRON like|ADP opera|NOUN ?|.
+ Can|VERB I|PRON ask|VERB you|PRON something|NOUN personal|ADJ ?|.
+ Sure|ADV .|.
+ You|PRON gon|VERB na|PRT get|VERB that|DET ?|.
+ Everyone|NOUN I|PRON need|VERB to|PRT talk|VERB to|PRT is|VERB here|ADV .|.
+ How|QUESTIONTAG can|VERB the|DET gun|NOUN be|VERB ``|. no|DET good|ADJ ''|. ?|.
+ It|PRON 's|VERB a|DET perfectly|ADV good|ADJ weapon|NOUN .|.
+ It|PRON 's|VERB the|DET gun|NOUN from|ADP the|DET scene|NOUN ?|.
+ Is|VERB that|ADP a|DET question|NOUN ?|.
+ No|DET ,|. I|PRON mean|VERB ,|. just|ADV :|. what|PRON 's|VERB the|DET point|NOUN ?|.
+ Ya|NOUN think|VERB ?|.
+ (|. Sighs|NOUN ,|. smiles|VERB )|. Thank|NOUN you|PRON .|.
+ Where|QUESTIONTAG do|VERB you|PRON want|VERB it|PRON ?|.
+ The|DET idea|NOUN here|ADV is|VERB we|PRON 're|VERB trying|VERB to|PRT take|VERB boxes|NOUN out|PRT -|. not|ADV bring|VERB more|ADV in|ADP .|.
+ Where|QUESTIONTAG are|VERB we|PRON on|ADP this|DET gun|NOUN ?|.
+ We|PRON ca|VERB n't|ADV find|VERB it|PRON ,|. Willy|NOUN .|.
+ He|PRON went|VERB pro|ADJ se|NOUN ,|. right|ADV ?|.
+ Yeah|X .|.
+ How|QUESTIONTAG 's|PRT my|PRON wife|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ I|PRON beg|VERB your|PRON pardon|NOUN ?|.
+ I|PRON 'm|VERB not|ADV judging|VERB you|PRON .|.
+ Is|VERB this|DET some|DET form|NOUN of|ADP -|. communication|NOUN ?|.
+ You|PRON sent|VERB me|PRON a|DET box|NOUN of|ADP papers|NOUN .|.
+ Are|NOUN you|PRON out|ADP of|ADP your|PRON mind|NOUN ?|.
+ Is|VERB this|DET gon|NOUN na|ADV be|VERB about|ADP how|ADV you|PRON had|VERB a|DET rough|ADJ childhood|NOUN ?|.
+ I|PRON used|VERB to|PRT candle|VERB eggs|NOUN at|ADP his|PRON farm|NOUN .|.
+ Looking|VERB for|ADP mine|NOUN ?|.
+ No|DET ,|. I|PRON 've|VERB found|VERB yours|NOUN .|.
+ You|PRON 've|VERB got|VERB a|DET trial|NOUN Monday|NOUN ?|.
+ Yeah|NOUN :|. attempted|ADJ murder|NOUN .|.
+ When|QUESTIONTAG you|PRON arrived|VERB on|ADP the|DET scene|NOUN ,|. was|VERB there|DET a|DET crowd|NOUN ?|.
+ Oh|X yeah|NOUN .|.
+ And|CONJ from|ADP what|PRON you|PRON could|VERB ascertain|VERB ,|. no|DET one|NUM went|VERB into|ADP or|CONJ came|VERB out|ADP of|ADP the|DET house|NOUN until|ADP SWAT|NOUN and|CONJ the|DET negotiator|NOUN arrived|VERB ?|.
+ Definitely|ADV not|ADV .|.
+ What|QUESTIONTAG ?|.
+ Your|PRON witness|NOUN ,|. Mr.|NOUN Crawford|NOUN .|.
+ So|ADV this|DET bullet|NOUN inflicted|VERB serious|ADJ injury|NOUN ?|.
+ It|PRON inflicted|VERB serious|ADJ and|CONJ irreparable|ADJ injury|NOUN .|.
+ So|ADV after|ADP you|PRON put|VERB down|PRT your|PRON gun|NOUN ,|. what|PRON did|VERB Mr.|NOUN Crawford|NOUN do|VERB ?|.
+ On|ADP what|PRON grounds|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Rob|NOUN ?|.
+ Your|PRON honor|NOUN ,|. the|DET People|NOUN request|VERB a|DET -|. Nunally|ADV suddenly|ADV launches|VERB himself|PRON over|ADP the|DET witness|NOUN box|NOUN rail|NOUN to|PRT attack|VERB Crawford|NOUN -|. as|ADP the|DET Deputies|NOUN leap|VERB forward|ADV to|PRT stop|VERB him|PRON -|. all|DET of|ADP them|PRON flailing|VERB and|CONJ cursing|VERB in|ADP a|DET tangle|NOUN -|.
+ Mr.|NOUN Slocum|NOUN -|. is|VERB it|PRON true|ADJ ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Excuse|ADP me|PRON ?|.
+ My|PRON investigator|NOUN .|.
+ Do|VERB I|PRON ?|.
+ NIKKI|NOUN (|. cont|ADJ 'd|NOUN )|. Has|NOUN LoBruto|NOUN tried|VERB to|PRT take|VERB you|PRON off|PRT the|DET case|NOUN yet|ADV ?|.
+ No|DET .|.
+ I|PRON let|VERB him|PRON ?|.
+ You|PRON want|VERB to|PRT come|VERB out|PRT and|CONJ get|VERB drunk|NOUN ?|.
+ No|DET .|.
+ Are|NOUN you|PRON taking|VERB me|PRON off|PRT ?|.
+ You|PRON 're|VERB leaving|VERB anyway|ADV .|.
+ What|QUESTIONTAG is|VERB that|DET -|. some|DET kind|NOUN of|ADP Oklahoma|NOUN insult|NOUN ?|.
+ Let|VERB me|PRON do|VERB this|DET .|.
+ What|QUESTIONTAG ?|.
+ You|PRON said|VERB ``|. when|ADV .|. ''|.
+ How|QUESTIONTAG do|VERB we|PRON get|VERB the|DET confession|NOUN back|ADV in|ADP ?|.
+ We|PRON do|VERB n't|ADV .|.
+ Huh|NOUN ?|.
+ The|DET cereal|NOUN boxes|X -|. shake|NOUN 'em|PRT .|.
+ What|QUESTIONTAG did|VERB he|PRON do|VERB :|. rip|VERB open|VERB a|DET door|NOUN frame|NOUN ,|. hide|VERB the|DET gun|NOUN inside|ADP and|CONJ re-plaster|VERB the|DET wall|NOUN before|ADP SWAT|NOUN showed|VERB up|PRT ?|.
+ What|QUESTIONTAG about|ADP the|DET neighbors|NOUN '|PRT property|NOUN ?|.
+ You|PRON sure|ADV ?|.
+ I|PRON 'm|VERB sure|ADJ .|.
+ Who|QUESTIONTAG told|VERB you|PRON that|ADP ?|.
+ (|. Reluctantly|ADV )|. The|DET man|NOUN who|PRON shot|VERB her|PRON .|.
+ Is|VERB there|DET any|DET chance|NOUN ...|. she|PRON might|VERB come|VERB out|ADP of|ADP this|DET ?|.
+ Are|NOUN you|PRON a|DET member|NOUN of|ADP the|DET family|NOUN ?|.
+ How|QUESTIONTAG long|ADJ do|VERB you|PRON keep|VERB the|DET tapes|NOUN ?|.
+ A|DET month|NOUN .|.
+ Can|VERB I|PRON get|VERB a|DET copy|NOUN of|ADP October|NOUN 9th|NUM ?|.
+ I|PRON 'll|VERB have|VERB it|PRON for|ADP you|PRON Friday|NOUN .|.
+ White|NOUN or|CONJ dark|NOUN ,|. Willy|NOUN ?|.
+ Anything|NOUN is|VERB fine|ADJ ,|. your|PRON honor|NOUN .|.
+ So|ADV -|. is|VERB everyone|NOUN in|ADP this|DET family|NOUN involved|VERB in|ADP the|DET law|NOUN ?|.
+ Well|ADV ,|. Nikki|NOUN 's|PRT not|ADV .|.
+ You|PRON know|VERB of|ADP any|DET other|ADJ family|NOUN in|ADP America|NOUN where|ADV the|DET corporate|ADJ lawyer|NOUN who|PRON 's|VERB going|VERB to|PRT make|VERB partner|NOUN by|ADP thirty-|ADJ five|NUM is|VERB the|DET ``|. black|ADJ sheep|NOUN ''|. ?|.
+ Well|ADV -|. you|PRON may|VERB be|VERB lost|VERB beyond|ADP recovery|NOUN ,|. but|CONJ maybe|ADV we|PRON can|VERB still|ADV convince|VERB Willy|NOUN that|ADP defending|VERB giant|ADJ corporations|NOUN against|ADP injured|ADJ citizens|NOUN is|VERB not|ADV the|DET best|ADJ use|NOUN of|ADP his|PRON skills|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Did|NOUN it|PRON ever|ADV occur|VERB to|PRT you|PRON I|PRON might|VERB be|VERB good|ADJ enough|ADV to|PRT still|ADV win|VERB ?|.
+ Who|QUESTIONTAG cares|VERB ?|. !|.
+ Would|VERB n't|ADV it|PRON be|VERB better|ADJ than|ADP damage|NOUN control|NOUN if|ADP I|PRON actually|ADV turn|VERB it|PRON around|ADP ?|.
+ And|CONJ what|PRON if|ADP you|PRON do|VERB n't|ADV ?|.
+ What|QUESTIONTAG am|VERB I|PRON supposed|VERB to|PRT do|VERB ?|.
+ We|PRON told|VERB the|DET man|NOUN you|PRON 're|VERB getting|VERB on|ADP a|DET plane|NOUN to|PRT Chicago|NOUN ,|. Tuesday|NOUN .|.
+ What|QUESTIONTAG else|ADV have|VERB you|PRON got|VERB ?|.
+ I|PRON 'll|VERB find|VERB a|DET way|NOUN .|.
+ You|PRON okay|VERB ?|.
+ Yeah|X .|.
+ So|ADV -|. between|ADP the|DET time|NOUN you|PRON heard|VERB the|DET first|ADJ gunshot|NOUN and|CONJ called|VERB 911|NUM ,|. and|CONJ the|DET time|NOUN of|ADP Mr.|NOUN Crawford|NOUN 's|PRT arrest|ADJ -|. you|PRON had|VERB the|DET Crawford|NOUN house|NOUN in|ADP view|NOUN ?|.
+ Yes|X .|.
+ No|DET one|NOUN but|CONJ Thomas|NOUN Crawford|NOUN came|VERB in|ADP or|CONJ out|ADP ?|.
+ That|DET 's|VERB correct|ADJ .|.
+ Did|NOUN you|PRON see|VERB the|DET guy|NOUN run|VERB out|PRT the|DET back|ADJ door|NOUN ?|.
+ What|QUESTIONTAG ...|. ''|. guy|NOUN ''|. ?|.
+ On|ADP what|PRON grounds|NOUN ,|. Mr.|NOUN Crawford|NOUN ?|.
+ The|DET prosecutor|NOUN does|VERB n't|ADV have|VERB any|DET actual|ADJ evidence|NOUN .|.
+ What|QUESTIONTAG did|VERB you|PRON think|VERB -|. I|PRON was|VERB n't|ADV keeping|VERB tabs|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB what|PRON I|PRON thought|VERB .|.
+ You|PRON see|VERB ?|.
+ The|DET normal|ADJ reflex|NOUN goes|VERB downward|ADV .|.
+ No|DET ?|.
+ About|ADP ...|. ?|.
+ Talking|VERB to|PRT her|PRON .|.
+ Who|QUESTIONTAG are|VERB you|PRON here|ADV to|PRT see|VERB ?|.
+ I|PRON work|VERB here|ADV .|.
+ You|PRON let|VERB him|PRON know|VERB what|PRON happened|VERB last|ADJ night|NOUN ?|.
+ I|PRON told|VERB him|PRON .|.
+ Great|NOUN -|. who|PRON do|VERB I|PRON work|VERB with|ADP on|ADP it|PRON while|ADP you|PRON 're|VERB gone|VERB ?|.
+ You|PRON do|VERB n't|ADV work|VERB with|ADP anyone|NOUN .|.
+ What|QUESTIONTAG 's|VERB the|DET point|NOUN ,|. Willy|NOUN ?|.
+ The|DET point|NOUN ?|. !|.
+ You|PRON 're|VERB not|ADV really|ADV just|ADV gon|VERB na|PRT let|VERB this|DET happen|VERB ,|. are|VERB you|PRON ?|.
+ Oh|X I|PRON 'm|VERB supposed|VERB to|PRT lose|VERB my|PRON job|NOUN over|ADP your|PRON problems|NOUN ?|.
+ What|QUESTIONTAG do|VERB the|DET doctors|NOUN say|VERB ?|.
+ People|NOUN wake|VERB up|PRT out|ADP of|ADP these|DET things|NOUN .|.
+ What|QUESTIONTAG did|VERB the|DET doctors|NOUN say|VERB ,|. Mr.|NOUN Slocum|NOUN ?|.
+ They|PRON said|VERB ...|. there|DET 's|VERB no|DET way|NOUN to|PRT really|ADV know|VERB .|.
+ Have|VERB you|PRON been|VERB home|VERB at|ADP all|DET today|NOUN ,|. Willy|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ A|DET restraining|NOUN order|NOUN .|.
+ Has|NOUN Mrs.|NOUN Crawford|NOUN been|VERB prepared|VERB ?|.
+ Can|VERB I|PRON use|VERB your|PRON fax|NOUN machine|NOUN ?|.
+ These|DET have|VERB to|PRT be|VERB served|VERB in|ADP person|NOUN .|.
+ What|QUESTIONTAG ?|.
+ She|PRON just|ADV went|VERB on|ADP up|ADP .|.
+ How|QUESTIONTAG long|ADJ ago|ADV ...|. did|VERB she|PRON die|VERB ?|.
+ What|QUESTIONTAG ?|.
+ He|PRON 's|VERB -|. moving|VERB her|PRON by|ADP helicopter|NOUN ?|.
+ Nothing|NOUN but|CONJ the|DET best|ADJ .|.
+ Why|ADV are|VERB we|PRON going|VERB out|PRT over|ADP the|DET ocean|NOUN ?|.
+ Less|NOUN traffic|NOUN .|.
+ What|QUESTIONTAG 's|VERB happening|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB -|. I|PRON 'm|VERB -|. there|DET 's|VERB a|DET -|. malfunction|NOUN -|. -|. Willy|ADV whips|VERB around|ADP to|PRT look|VERB at|ADP Crawford|NOUN ,|. with|ADP fury|NOUN in|ADP his|PRON glare|NOUN :|. oh|X ,|. you|PRON bastard|VERB .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Check|NOUN .|.
+ Where|QUESTIONTAG are|VERB you|PRON headed|VERB ?|.
+ Have|VERB n't|ADV decided|VERB yet|ADV .|.
+ A|DET second|ADJ indictment|NOUN on|ADP the|DET same|ADJ incident|NOUN ?|.
+ A|DET man|NOUN burns|VERB down|PRT a|DET house|NOUN ;|. we|PRON charge|VERB him|PRON with|ADP arson|NOUN .|.
+ These|DET are|VERB from|ADP that|ADP thing|NOUN at|ADP the|DET courthouse|NOUN ,|. right|ADV ?|.
+ Uh-huh|NOUN .|.
+ Getting|VERB it|PRON like|ADP this|DET :|. is|VERB that|ADP going|VERB to|PRT hold|VERB up|PRT in|ADP court|NOUN ?|.
+ I|PRON do|VERB n't|ADV work|VERB for|ADP the|DET D.A|NOUN .|.
+ No|DET ?|.
+ Where|QUESTIONTAG did|VERB you|PRON even|ADV get|VERB yourself|PRON a|DET gun|NOUN ?|.
+ (|. Bitter|NOUN )|. It|PRON 's|VERB Nunally|NOUN 's|PRT .|.

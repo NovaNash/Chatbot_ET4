@@ -1,0 +1,93 @@
+ What|QUESTIONTAG about|ADP Crazy|ADJ Horse|NOUN ?|.
+ Crazy|ADJ Horse|NOUN ?|.
+ Beg|NOUN your|PRON pardon|NOUN ?|.
+ Husband|NOUN .|.
+ Going|VERB north|ADV ?|.
+ You|PRON bet|VERB your|PRON raggedy|NOUN white|ADJ ass|NOUN I|PRON am|VERB .|.
+ Are|NOUN you|PRON in|ADP show|NOUN business|NOUN ?|.
+ I|PRON was|VERB a|DET successful|ADJ model|NOUN once|ADV .|.
+ For|ADP magazines|NOUN ?|.
+ I|PRON was|VERB the|DET Yoni|NOUN Yum|NOUN feminine-hygiene|ADJ Dew|NOUN girl|NOUN from|ADP 1965|NUM to|PRT 1970|NUM ,|. but|CONJ got|VERB laid|VERB off|PRT .|.
+ So|ADV now|ADV you|PRON 're|VERB bummin|ADJ '|. around|ADP ?|.
+ Yep|NOUN .|.
+ Hitchhiking|VERB ?|.
+ I|PRON 'm|VERB the|DET best|ADJ .|.
+ You|PRON 're|VERB the|DET best|ADJ ?|.
+ When|QUESTIONTAG I|PRON was|VERB younger|ADJ ,|. I|PRON hitchhiked|VERB one|NUM hundred|NUM and|CONJ twenty-seven|ADJ hours|NOUN without|ADP stopping|VERB ,|. without|ADP food|NOUN or|CONJ sleep|NOUN ,|. crossed|VERB the|DET continent|NOUN twice|ADV in|ADP six|NUM days|NOUN ,|. cooled|VERB my|PRON thumbs|NOUN in|ADP both|DET oceans|NOUN and|CONJ caught|NOUN rides|NOUN after|ADP midnight|NOUN on|ADP unlighted|ADJ highways|NOUN .|.
+ Shit|NOUN O|NOUN goodness|NOUN ,|. I|PRON 'm|VERB all|DET out|ADP of|ADP sherry|NOUN ;|. how|ADV about|ADP some|DET Red|NOUN Ripple|NOUN ?|.
+ pulls|NOUN out|PRT some|DET pop|NOUN wine|NOUN .|.
+ Does|VERB that|ADP mean|VERB you|PRON might|VERB have|VERB an|DET assignment|NOUN for|ADP me|PRON ?|.
+ looks|NOUN on|ADP his|PRON wall|NOUN ,|. and|CONJ on|ADP a|DET poster|NOUN advertising|VERB a|DET feminine|ADJ hygene|NOUN product|NOUN ,|. Yoni|NOUN Yum|NOUN Dew|NOUN Spray|NOUN ,|. stands|VERB Sissy|NOUN Hankshaw|NOUN ,|. her|PRON thumbs|NOUN neatly|ADV hidden|VERB ,|. chopped|VERB off|PRT by|ADP the|DET borders|NOUN of|ADP the|DET photograph|NOUN .|.
+ Bonanza|NOUN Jellybean|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Your|PRON ranch|NOUN ?|.
+ Oh|X my|PRON dear|ADJ yes|X ,|. I|PRON bought|VERB a|DET little|ADJ ranch|NOUN out|ADP West|NOUN ,|. sort|NOUN of|ADP a|DET tribute|NOUN to|PRT the|DET women|NOUN of|ADP America|NOUN who|PRON have|VERB cooperated|VERB with|ADP me|PRON in|ADP eliminating|VERB their|PRON odor|NOUN by|ADP using|VERB my|PRON vaginal|ADJ products|NOUN ,|. Dew|NOUN spray|NOUN mist|NOUN and|CONJ Yoni|NOUN Yum|NOUN spray|NOUN powder|NOUN .|.
+ A|DET job|NOUN for|ADP me|PRON ?|.
+ I|PRON am|VERB once|ADV more|ADJ about|ADP to|PRT make|VERB advertising|NOUN history|NOUN .|.
+ If|ADP you|PRON do|VERB n't|ADV want|VERB me|PRON to|PRT pose|VERB for|ADP him|PRON ,|. why|ADV do|VERB you|PRON want|VERB me|PRON to|PRT meet|VERB him|PRON ?|.
+ Purely|ADV personal|ADJ .|.
+ But|CONJ here|ADV you|PRON are|VERB ,|. still|ADV a|DET virgin|NOUN --|. you|PRON are|VERB virginal|ADJ yet|ADV ,|. are|VERB n't|ADV you|PRON ?|.
+ Why|ADV ,|. yes|X ,|. technically|ADV .|.
+ (|. her|PRON brow|NOUN spaghettied|VERB )|. What|QUESTIONTAG makes|VERB you|PRON think|VERB this|DET watercolorist|NOUN and|CONJ I|PRON would|VERB develop|VERB a|DET romantic|ADJ relationship|NOUN ?|.
+ I|PRON ca|VERB n't|ADV be|VERB certain|ADJ that|ADP you|PRON would|VERB .|.
+ (|. changing|VERB the|DET subject|NOUN )|. Where|QUESTIONTAG do|VERB you|PRON live|VERB ,|. Miss|NOUN Hankshaw|NOUN ?|.
+ I|PRON 'm|VERB staying|VERB with|ADP the|DET Countess|NOUN .|.
+ I|PRON know|VERB ,|. but|CONJ where|ADV do|VERB you|PRON reside|VERB when|ADV you|PRON are|VERB n't|ADV visiting|VERB New|NOUN York|NOUN ?|.
+ I|PRON do|VERB n't|ADV .|.
+ You|PRON do|VERB n't|ADV ?|.
+ Well|ADV ,|. no|DET ,|. I|PRON do|VERB n't|ADV reside|VERB anywhere|ADV in|ADP particular|ADJ .|.
+ A|DET traveler|NOUN ,|. eh|NOUN ?|.
+ You|PRON might|VERB say|VERB that|ADP ,|. although|ADP I|PRON do|VERB n't|ADV think|VERB of|ADP it|PRON as|ADP traveling|VERB .|.
+ How|QUESTIONTAG do|VERB you|PRON think|VERB of|ADP it|PRON ?|.
+ As|ADP moving|NOUN .|.
+ Rupert|NOUN ,|. before|ADP you|PRON get|VERB too|ADV engrossed|VERB in|ADP your|PRON research|NOUN on|ADP Scotch|NOUN as|ADP a|DET cure|NOUN for|ADP aging|VERB ,|. do|VERB n't|ADV you|PRON think|VERB you|PRON 'd|VERB better|VERB phone|NOUN Elaine|NOUN 's|PRT and|CONJ cancel|VERB our|PRON dinner|NOUN reservations|NOUN ?|.
+ is|VERB full|ADJ of|ADP books|NOUN and|CONJ shelves|NOUN .|.
+ Where|QUESTIONTAG are|VERB the|DET others|NOUN ?|.
+ Oh|X ,|. Rupert|NOUN and|CONJ Carla|NOUN had|VERB a|DET little|ADJ hassle|NOUN and|CONJ went|VERB home|NOUN .|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Getting|VERB dressed|VERB .|.
+ How|QUESTIONTAG does|VERB she|PRON like|VERB what|PRON in|ADP bed|NOUN ?|.
+ Like|ADP what|PRON ?|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB ?|.
+ Well|ADV ...|. .|. er|NOUN ...|.
+ Whose|NOUN fault|NOUN was|VERB that|ADP ?|.
+ I|PRON suppose|VERB it|PRON was|VERB mine|NOUN .|.
+ What|QUESTIONTAG guy|NOUN ?|.
+ Aw|ADV ,|. he|PRON 's|VERB some|DET old|ADJ fart|ADJ holyman|NOUN who|PRON lives|VERB in|ADP the|DET hills|NOUN out|PRT West|NOUN .|.
+ Are|NOUN you|PRON a|DET pilgrim|NOUN ?|.
+ No|DET ,|. I|PRON 'm|VERB more|ADJ of|ADP an|DET Indian|ADJ The|DET trio|NOUN does|VERB n't|ADV smile|VERB .|.
+ She|PRON means|VERB are|VERB you|PRON going|VERB to|PRT see|VERB the|DET Chink|NOUN ?|.
+ Oh|X ,|. I|PRON may|VERB and|CONJ I|PRON may|VERB not|ADV .|.
+ By|ADP any|DET chance|NOUN are|VERB you|PRON Sissy|ADJ Hankshaw|NOUN ?|.
+ Yes|X I|PRON am|VERB .|.
+ Where|QUESTIONTAG are|VERB the|DET guests|NOUN ?|.
+ Take|VERB it|PRON easy|ADJ ,|. lady|NOUN .|.
+ You|PRON 're|VERB political|ADJ ,|. then|ADV ?|.
+ No|DET ,|. ma'am|NOUN .|.
+ What|QUESTIONTAG is|VERB Debbie|NOUN 's|PRT position|NOUN ?|.
+ Debbie|NOUN says|VERB that|ADP if|ADP women|NOUN are|VERB to|PRT take|VERB charge|NOUN again|ADV ,|. they|PRON must|VERB do|VERB it|PRON in|ADP the|DET feminine|ADJ way|NOUN ;|. they|PRON must|VERB n't|ADV resort|VERB to|PRT aggressive|ADJ and|CONJ violent|ADJ masculine|NOUN methods|NOUN .|.
+ You|PRON do|VERB n't|ADV agree|VERB with|ADP Debbie|NOUN ,|. then|ADV ?|.
+ I|PRON would|VERB n't|ADV say|VERB that|DET .|.
+ Well|ADV ,|. are|VERB n't|ADV you|PRON going|VERB to|PRT shake|VERB your|PRON whanger|NOUN at|ADP me|PRON ?|.
+ giggles|NOUN hysterically|ADV .|.
+ What|QUESTIONTAG was|VERB that|DET ?|.
+ Clockworks|NOUN .|.
+ Clockworks|NOUN ?|.
+ then|ADV proceeds|NOUN .|.
+ Siwash|NOUN ,|. huh|NOUN ?|.
+ He|PRON was|VERB a|DET degenerated|ADJ warlock|NOUN who|PRON could|VERB turn|VERB urine|ADJ into|ADP beer|NOUN ,|. and|CONJ the|DET honor|NOUN that|ADP he|PRON extended|VERB me|PRON gave|VERB me|PRON rights|NOUN of|ADP occupancy|NOUN in|ADP this|DET sacred|ADJ cave|NOUN on|ADP this|DET far-away|ADJ Siwash|NOUN Ridge|NOUN .|.
+ The|DET Clock|NOUN People|NOUN ?|.
+ Then|ADV if|ADP you|PRON are|VERB Japanese|ADJ ,|. then|ADV why|ADV are|VERB you|PRON called|VERB the|DET Chink|NOUN ?|.
+ The|DET Clock|NOUN People|NOUN mistook|VERB me|PRON for|ADP Chinese|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON believe|VERB in|ADP then|ADV ?|.
+ Ha|NOUN ha|NOUN ho|NOUN ho|NOUN and|CONJ hee|NOUN hee|NOUN .|.
+ And|CONJ so|ADV you|PRON are|VERB demanding|VERB at|ADP last|ADJ the|DET privileges|NOUN of|ADP thumb|NOUN that|ADP nature|NOUN has|VERB perversely|ADV denied|VERB you|PRON ?|.
+ I|PRON just|ADV want|VERB to|PRT be|VERB normal|ADJ ,|. give|VERB me|PRON that|ADP old-fashioned|ADJ normality|NOUN .|.
+ Dr.|NOUN Robbins|NOUN ?|.
+ Or|CONJ was|VERB I|PRON ?|.
+ Is|VERB everything|NOUN getting|VERB worse|ADJ ?|.
+ Yes|X ,|. everything|NOUN is|VERB getting|VERB worse|ADV .|.
+ You|PRON mean|VERB she|PRON 's|VERB dead|ADJ ?|.
+ How|QUESTIONTAG am|VERB I|PRON going|VERB to|PRT be|VERB the|DET progenitor|NOUN of|ADP a|DET tribe|NOUN when|ADV I|PRON 'm|VERB living|VERB on|ADP an|DET isolated|ADJ ridgetop|NOUN with|ADP Delores|NOUN ?|.
+ That|DET 's|VERB your|PRON problem|NOUN .|.

@@ -1,0 +1,66 @@
+ Is|VERB n't|ADV time|NOUN you|PRON were|VERB in|ADP bed|NOUN ?|.
+ YES|X ,|. Mom|NOUN !|.
+ Is|VERB it|PRON Latin|NOUN ?|.
+ Yes|X ...|.
+ (|. slowly|ADV walking|VERB out|PRT as|ADP Lucy|NOUN picks|VERB up|PRT packages|NOUN )|. Uh|NOUN ,|. CH|NOUN ...|. gk|NOUN ,|. ch|NOUN (|. random|ADJ noises|NOUN )|. LUCY|NOUN Were|NOUN you|PRON hiding|VERB from|ADP me|PRON ?|.
+ Huh|NOUN ,|. um|NOUN ,|. n..n..|ADJ no|DET ,|. I..I|NOUN ...|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB here|ADV ?|.
+ Well|ADV ,|. I|PRON came|VERB in|ADP through|ADP the|DET wardrobe|NOUN in|ADP the|DET spare|ADJ room|NOUN ,|. and-|ADJ TUMNUS|NOUN Spare|NOUN Oom|NOUN ,|. is|VERB that|ADP in|ADP Narnia|NOUN ?|.
+ LUCY|NOUN Can|VERB I|PRON help|VERB you|PRON with|ADP that|DET ?|.
+ Why|ADV thank|NOUN you|PRON !|.
+ You|PRON do|VERB ?|.
+ Yah|NOUN ,|. did|VERB n't|ADV I|PRON tell|VERB you|PRON about|ADP the|DET football|NOUN field|NOUN I|PRON found|VERB in|ADP the|DET bathroom|NOUN closet|NOUN ?|.
+ Lucy|NOUN ?|.
+ Yah|NOUN !|.
+ What|QUESTIONTAG is|VERB it|PRON Ginarrbrik|NOUN ?|.
+ He|PRON wo|VERB n't|ADV let|VERB go|VERB !|.
+ Could|VERB you|PRON make|VERB me|PRON taller|VERB ?|.
+ I|PRON can|VERB make|VERB anything|NOUN you|PRON like|ADP to|PRT eat|VERB EDMUND|NOUN Turkish|NOUN Delight|NOUN
+ Oh|X ,|. Peter|NOUN will|VERB be|VERB king|VERB too|ADV ?|.
+ No|DET !|.
+ The|DET weeping|VERB girl|NOUN ?|.
+ Yes|X sir|NOUN ,|. she|PRON 's|VERB upset|ADJ .|.
+ You|PRON ...|. .you|VERB actually|ADV believe|VERB her|PRON ?|.
+ Well|ADV do|VERB n't|ADV you|PRON ?|.
+ Are|NOUN you|PRON ready|ADJ then|ADV ?|.
+ Are|NOUN you|PRON ?|.
+ Who|QUESTIONTAG would|VERB do|VERB something|NOUN like|ADP this|DET ?|.
+ Peter|NOUN what|PRON is|VERB that|DET on|ADP the|DET wall|NOUN ?|.
+ The|DET Former|NOUN occupant|NOUN of|ADP these|DET premises|NOUN ,|. the|DET Faun|NOUN Tumnus|NOUN ,|. is|VERB under|ADP arrest|NOUN and|CONJ awaiting|VERB his|PRON trial|NOUN on|ADP a|DET charge|NOUN of|ADP High|NOUN Treason|NOUN against|ADP her|PRON imperial|ADJ Majesty|NOUN Jadis|NOUN ,|. Queen|NOUN of|ADP Narnia|NOUN ,|. Chatelaine|NOUN of|ADP Cair|NOUN Paravel|NOUN ,|. Empress|NOUN of|ADP the|DET Lone|NOUN Islands|NOUN ,|. also|ADV to|PRT comforting|VERB her|PRON said|VERB Majesty|NOUN 's|PRT enemies|NOUN ,|. harbouring|VERB spies|NOUN and|CONJ fraternizing|VERB with|ADP Humans|NOUN .|.
+ Did|NOUN that|DET bird|NOUN just|ADV 'psst|PRT '|. us|PRON ?|.
+ Lucy|NOUN Pevensie|NOUN ?|.
+ Yes|X ?|.
+ But|CONJ what|PRON about|ADP Mr.|NOUN Tumnus|NOUN ?|.
+ Sorry|NOUN Lucy|NOUN .|.
+ and|CONJ your|PRON brother|NOUN ,|. unintelligent|NOUN ?|.
+ Well|ADV I|PRON think|VERB so|ADV ,|. but|CONJ mom|NOUN says|VERB ...|.
+ What|QUESTIONTAG is|VERB she|PRON doing|VERB ?|.
+ Do|VERB n't|ADV worry|VERB ,|. you|PRON 'll|VERB thank|VERB you|PRON me|PRON later|ADV .|.
+ Do|VERB you|PRON think|VERB we|PRON should|VERB bring|VERB jam|NOUN ?|.
+ Only|ADV if|ADP the|DET Witch|NOUN has|VERB toast|VERB .|.
+ What|QUESTIONTAG happened|VERB to|PRT them|PRON ?|.
+ This|DET is|VERB what|PRON happens|VERB to|PRT the|DET enemies|NOUN of|ADP the|DET White|NOUN Witch|NOUN .|.
+ Mrs.|NOUN Beaver|NOUN is|VERB patching|VERB up|PRT the|DET Fox|NOUN ,|. as|ADP the|DET children|NOUN listen|VERB to|PRT his|PRON tale|NOUN LUCY|NOUN are|VERB you|PRON all|DET right|ADV ?|.
+ Well|ADV ,|. I|PRON wish|VERB I|PRON could|VERB say|VERB their|PRON bark|NOUN was|VERB worse|ADJ than|ADP their|PRON bite|NOUN .|.
+ What|QUESTIONTAG is|VERB He|PRON like|ADP ?|.
+ Like|ADP everything|NOUN we|PRON have|VERB ever|ADV heard|VERB .|.
+ SUSAN|NOUN What|QUESTIONTAG have|VERB you|PRON done|VERB ?|.
+ Lucy|NOUN !|.
+ Has|NOUN anyone|NOUN seen|VERB my|PRON coat|NOUN ?|.
+ Your|PRON brother|NOUN has|VERB you|PRON well|ADV looked|VERB after|ADP .|.
+ Why|ADV are|VERB they|PRON all|DET staring|VERB at|ADP us|PRON ?|.
+ Maybe|ADV they|PRON think|VERB you|PRON look|VERB funny|ADJ .|.
+ Oh|X ,|. Edmund|NOUN (|. Hugs|NOUN him|PRON and|CONJ Susan|NOUN does|VERB too|ADV )|. SUSAN|NOUN How|QUESTIONTAG are|VERB you|PRON feeling|VERB ?|.
+ I|PRON 'm|VERB feeling|VERB kinda|NOUN tired|VERB
+ Narnia|NOUN is|VERB n't|ADV going|VERB to|PRT run|VERB out|ADV of|ADP toast|NOUN Edmund|NOUN PETER|NOUN then|ADV you|PRON better|VERB pack|VERB some|DET for|ADP the|DET journey|NOUN SUSAN|NOUN So|NOUN were|VERB going|VERB home|NOUN ?|.
+ You|PRON are|VERB ,|. I|PRON promised|VERB I|PRON 'd|VERB keep|VERB you|PRON three|NUM safe|ADJ but|CONJ there|DET 's|VERB no|DET reason|NOUN I|PRON ca|VERB n't|ADV stay|VERB and|CONJ help|VERB .|.
+ Are|NOUN you|PRON with|ADP me|PRON ?|.
+ To|PRT the|DET death|NOUN !|.
+ What|QUESTIONTAG have|VERB they|PRON done|VERB ?|.
+ Where|QUESTIONTAG 's|PRT Edmund|NOUN ?|.
+ When|QUESTIONTAG ?|.
+ In|ADP time|NOUN ...|. you|PRON must|VERB n't|ADV press|VERB him|PRON ,|. He|PRON is|VERB n't|ADV a|DET tame|ADJ lion|NOUN ...|. LUCY|NOUN No|NOUN ,|. but|CONJ he|PRON 's|VERB good|ADJ ...|.
+ Not|ADV as|ADV young|ADJ as|ADP I|PRON used|VERB to|PRT be|VERB ?|.
+ Come|NOUN on|ADP Ed|NOUN .|.
+ What|QUESTIONTAG did|VERB he|PRON say|VERB ,|. Susan|NOUN ?|.
+ You|PRON girls|VERB stay|VERB at|ADP the|DET castle|NOUN ,|. I|PRON 'll|VERB go|VERB get|VERB the|DET stag|NOUN myself|PRON .|.

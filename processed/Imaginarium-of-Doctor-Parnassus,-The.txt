@@ -1,0 +1,181 @@
+ Is|VERB he|PRON insulting|VERB us|PRON ?|.
+ What|QUESTIONTAG ?|.
+ The|DET game|NOUN !|.
+ What|QUESTIONTAG g-g-game|NOUN ?|.
+ The|DET game|NOUN !|.
+ What|QUESTIONTAG ?|.
+ I|PRON 'm|VERB n-not|ADJ supposed|VERB to|PRT be|VERB here|ADV .|.
+ What|QUESTIONTAG am|VERB I|PRON going|VERB to|PRT do|VERB ?|.
+ That|DET 's|VERB the|DET p-point|NOUN .|.
+ Where|QUESTIONTAG did|VERB you|PRON say|VERB you|PRON 're|VERB from|ADP ?|.
+ What|QUESTIONTAG 's|VERB the|DET trouble|NOUN ?|.
+ Ah|NOUN ,|. the|DET fuzz|NOUN .|.
+ What|QUESTIONTAG did|VERB you|PRON say|VERB ?|.
+ (|. charmingly|ADV )|. Fuzzy|NOUN Wuzzy|NOUN was|VERB a|DET bear|ADJ ,|. Fuzzy|NOUN Wuzzy|NOUN had|VERB no|DET hair|NOUN ,|. Fuzzy|NOUN Wuzzy|NOUN was|VERB n't|ADV fuzzy|ADJ wuzzy|VERB ?|.
+ (|. sotto|VERB voce|NOUN )|. Valentina|NOUN ?|.
+ (|. irritated|VERB )|. Val|NOUN ...|. Val|NOUN .|.
+ Are|NOUN you|PRON happy|ADJ ?|.
+ (|. ironic|NOUN )|. Ecstatic|NOUN .|.
+ (|. sotto|VERB voce|NOUN )|. Anton|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Why|ADV d-do|NOUN you|PRON always|ADV have|VERB to|PRT p-|ADJ pretend|NOUN to|PRT be|VERB so|ADV b-brutal|ADJ ?|.
+ Are|NOUN you|PRON ill|ADV ?|.
+ (|. anguished|VERB )|. Valentina|NOUN ...|. my|PRON miraculous|ADJ child..|NOUN
+ Now|ADV what|PRON ?|.
+ (|. agitated|VERB )|. Why|ADV does|VERB everybody|NOUN want|VERB to|PRT live|VERB forever|ADV ?|.
+ That|DET 's|VERB normal|ADJ is|VERB n't|ADV it|PRON ?|.
+ Immortality|NOUN 's|PRT a|DET curse|NOUN !|.
+ Is|VERB this|DET going|VERB to|PRT take|VERB long|ADV ?|.
+ What|QUESTIONTAG exactly|ADV do|VERB you|PRON do|VERB here|ADV ?|.
+ We|PRON tell|VERB the|DET eternal|ADJ story|NOUN .|.
+ Oh|X ...|. .|. What|QUESTIONTAG 's|VERB that|DET ?|.
+ The|DET story|NOUN that|DET sustains|VERB the|DET universe|NOUN .|.
+ And|CONJ you|PRON believe|VERB it|PRON ?|.
+ (|. smiling|VERB )|. Yes|X ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB `at|VERB what|PRON price|NOUN '|. ?|.
+ What|QUESTIONTAG on|ADP earth|NOUN is|VERB this|DET ?|.
+ So|ADV ,|. what|PRON do|VERB you|PRON suggest|VERB ,|. we|PRON leave|VERB him|PRON on|ADP the|DET side|NOUN of|ADP the|DET road|NOUN ?|.
+ (|. croaking|VERB )|. What|QUESTIONTAG ?|.
+ (|. with|ADP difficulty|NOUN )|. Who|QUESTIONTAG are|VERB you|PRON ?|.
+ Percival|ADJ St.|NOUN Antoine|NOUN della|NOUN Touraine|NOUN et|CONJ Sansepolcro|NOUN da|NOUN Piemonte|NOUN the|DET Third|NOUN .|.
+ Where|QUESTIONTAG are|VERB we|PRON ?|.
+ Geographically|ADV ,|. in|ADP the|DET Northern|NOUN Hemisphere|NOUN .|.
+ Any|DET credit|NOUN cards|NOUN ?|.
+ What|QUESTIONTAG ?|. ..Oh..OK|NOUN ...|.
+ What|QUESTIONTAG 's|VERB your|PRON name|NOUN ?|.
+ (|. sceptical|ADJ )|. He|PRON ca|VERB n't|ADV remember|VERB .|.
+ Hanging|VERB ?|.
+ Is|VERB he|PRON okay|ADV ?|.
+ (|. to|PRT man|NOUN )|. Are|VERB you|PRON alright|ADP ?|.
+ Yes|X ...|. thank|NOUN you|PRON .|.
+ With|ADP his|PRON hands|NOUN t-tied|ADJ behind|ADP his|PRON b-|NOUN back|ADV ?|.
+ Why|ADV not|ADV ?|.
+ We|PRON d-do|VERB n't|ADV know|VERB what|PRON this|DET is|VERB about|ADV ,|. who|PRON he|PRON is|VERB ,|. what|PRON he|PRON m-might|ADV have|VERB done|VERB ...|.
+ (|. appealing|VERB to|PRT PARNASSUS|NOUN )|. Father|NOUN ?|.
+ noose|ADV ,|. takes|VERB the|DET MAN|NOUN aside|ADV ,|. looks|VERB closely|ADV ,|. trying|VERB to|PRT read|VERB the|DET strange|ADJ markings|NOUN on|ADP his|PRON forehead|NOUN .|.
+ (|. puzzled|VERB )|. Marks|NOUN ?|.
+ hand..|NOUN confused|VERB .|.
+ (|. puzzled|VERB )|. Mr|NOUN Nick|NOUN ?|.
+ (|. impassioned|VERB )|. Do|VERB n't|ADV toy|VERB with|ADP me|PRON .|.
+ What|QUESTIONTAG proposal|NOUN ?|.
+ Father|NOUN ?|.
+ (|. cautiously|ADV )|. The|DET message|NOUN ?|.
+ The|DET message|NOUN !|.
+ You|PRON 've|VERB lost|VERB your|PRON memory|NOUN ?|.
+ I|PRON just|ADV ...|. it|PRON needs|VERB time|NOUN ...|. to|PRT recover|VERB .|.
+ Hi|NOUN ,|. Anton|NOUN ...|. .|. what|PRON ?|.
+ Where|QUESTIONTAG 's|PRT George|NOUN ?|.
+ (|. looking|VERB at|ADP her|PRON watch|NOUN )|. When|QUESTIONTAG does|VERB the|DET next|ADJ show|NOUN start|NOUN ?|.
+ There|DET is|VERB n't|ADV a|DET next|ADJ show|NOUN .|.
+ When|QUESTIONTAG 's|PRT your|PRON birthday|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Tony|NOUN Shepherd|NOUN .|.
+ I|PRON just|ADV thought|VERB ...|. seeing|VERB you|PRON so|ADV upset|ADJ last|ADJ night|NOUN ...|. that|ADP you|PRON needed|VERB a|DET glimmer|NOUN of|ADP hope|NOUN ...|. maybe|ADV a|DET little|ADJ bet|NOUN ?|.
+ On|ADP Valentina|NOUN ?|.
+ No|DET ?|.
+ You|PRON bastard|VERB !|.
+ I|PRON told|VERB you|PRON did|VERB n't|ADV I|PRON ?|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG ...|. ?|.
+ Alas|NOUN ,|. this|DET technique|NOUN has|VERB its|PRON limitations|NOUN .|.
+ But|CONJ ...|. Did|NOUN you|PRON discover|VERB anything|NOUN ?|.
+ So|ADV what|PRON was|VERB he|PRON doing|VERB dangling|VERB under|ADP a|DET bridge|NOUN from|ADP his|PRON neck|NOUN ?|.
+ Percy|NOUN !|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ (|. with|ADP a|DET superior|ADJ air|NOUN )|. Mozart|NOUN 's|PRT flute|NOUN concerto|NOUN in|ADP G|NOUN .|.
+ (|. teasing|VERB )|. Are|VERB you|PRON s-sure|ADJ it|PRON 's|VERB yours|NOUN ?|.
+ Positive|NOUN .|.
+ What|QUESTIONTAG 's|VERB eating|VERB Anton|NOUN ?|.
+ He|PRON 's|VERB in|ADP love|NOUN with|ADP Valentina|NOUN ?|.
+ (|. dumbfounded|VERB )|. In|ADP love|NOUN ...|. .|. ?|.
+ Really|ADV ?|.
+ He|PRON 's|VERB ambitious|ADJ ,|. energetic|ADJ ...|. a|DET man|NOUN of|ADP destiny|NOUN .|.
+ (|. sighs|NOUN )|. You|PRON 're|VERB not|ADV wrong|ADJ ...|. Ah|NOUN ,|. Percy|NOUN ,|. what|PRON would|VERB I|PRON do|VERB without|ADP you|PRON ?|.
+ Get|VERB a|DET midget|NOUN .|.
+ Eh|NOUN ?|.
+ The|DET stronger|ADJ imagination|NOUN will|VERB overcome|VERB the|DET weaker|ADJ and|CONJ then|ADV there|DET 's|VERB n-no|ADJ knowing|VERB what|PRON might|VERB happen|VERB .|.
+ Can|VERB I|PRON help|VERB ?|.
+ Bugger|NOUN off|PRT !|.
+ What|QUESTIONTAG were|VERB you|PRON doing|VERB to|PRT that|DET girl|NOUN behind|ADP the|DET mirror|NOUN ?|.
+ (|. incensed|VERB )|. What|QUESTIONTAG are|VERB you|PRON suggesting|VERB ?|.
+ Oh|X ,|. c'mon|ADJ ...|. we|PRON all|DET heard|VERB her|PRON screaming|NOUN .|.
+ Your|PRON not|ADV trying|VERB to|PRT tell|VERB me|PRON that|ADP mind|NOUN control|NOUN stuff|NOUN is|VERB real|ADJ ?|.
+ You|PRON think|VERB it|PRON 's|VERB some|DET k-kind|NOUN of|ADP scam|NOUN ,|. d-do|ADJ n't|ADV you|PRON ?|.
+ Is|VERB n't|ADV it|PRON ?|.
+ No|DET ...|.
+ Er|NOUN ...|. one|NUM more|ADJ thing|NOUN ...|. .Does|VERB `first|ADV to|PRT five|NUM '|. mean|NOUN anything|NOUN to|PRT you|PRON ?|.
+ What|QUESTIONTAG sort|NOUN of|ADP ``|. different|ADJ ''|. way|NOUN do|VERB you|PRON suggest|VERB ?|.
+ the|DET wagon|NOUN .|.
+ What|QUESTIONTAG about|ADP the|DET filth|NOUN ?|.
+ (|. puzzled|VERB )|. What|QUESTIONTAG ?|.
+ (|. sighs|NOUN )|. Yeah|X ,|. okay|ADJ ,|. but|CONJ what|PRON exactly|ADV do|VERB we|PRON do|VERB ?|.
+ Well|ADV ...|. First|NOUN of|ADP all|DET ,|. I|PRON want|VERB you|PRON to|PRT give|VERB me|PRON your|PRON money|NOUN .|.
+ How|QUESTIONTAG much|ADJ money|NOUN have|VERB you|PRON got|VERB ?|.
+ Is|VERB that|DET child|NOUN up|PRT for|ADP adoption|NOUN ?|.
+ Who|QUESTIONTAG 's|VERB in|ADP charge|NOUN here|ADV ?|.
+ OFFICERS|NOUN arrive|VERB on|ADP the|DET scene|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Come|NOUN forward|NOUN and|CONJ enter|VERB the|DET Imaginarium|NOUN .|.
+ Why|ADV would|VERB I|PRON want|VERB to|PRT go|VERB without|ADP you|PRON darling|VERB ?|.
+ It|PRON 's|VERB one|NUM of|ADP the|DET rules|NOUN ...|. One|NUM imagination|NOUN at|ADP a|DET time|NOUN ,|. free|ADJ from|ADP the|DET influence|NOUN of|ADP another|DET .|.
+ ..how|ADV do|VERB you|PRON do|VERB this|DET ?|.
+ (|. ignoring|VERB him|PRON and|CONJ with|ADP a|DET big|ADJ theatrical|ADJ gesture|NOUN )|. Hooplah|NOUN !|.
+ Where|QUESTIONTAG did|VERB he|PRON go|VERB ?|.
+ You|PRON tell|VERB me|PRON ...|.
+ So|ADV why|ADV did|VERB he|PRON run|VERB ?|.
+ What|QUESTIONTAG ?|.
+ No|DET ?|.
+ No|DET !|.
+ Are|NOUN you|PRON going|VERB to|PRT believe|VERB them|PRON before|ADP you|PRON believe|VERB me|PRON ?|.
+ Why|ADV not|ADV ?|.
+ What|QUESTIONTAG ?|.
+ (|. answering|VERB his|PRON own|ADJ question|NOUN )|. The|DET first|ADJ time|NOUN they|PRON hung|VERB you|PRON from|ADP the|DET b-bridge|NOUN ...|.
+ Marks|NOUN ?|.
+ They|PRON scrawled|VERB something|NOUN on|ADP your|PRON forehead|NOUN .|.
+ Yes|X ,|. what|PRON 's|VERB that|DET about|ADP ?|.
+ which|DET startles|VERB everyone|NOUN .|.
+ (|. sotto|VERB voce|NOUN to|PRT the|DET DR.|NOUN PARNASSUS|NOUN )|. Who|QUESTIONTAG is|VERB it|PRON ?|.
+ (|. sotto|VERB voce|NOUN )|. It|PRON 's|VERB too|ADV late|ADJ ...|. for|ADP visitors|NOUN .|.
+ Four|NUM rotten|NOUN Russkies|NOUN ?|.
+ And|CONJ the|DET girl..from|NOUN the|DET pub|NOUN .|.
+ Father|NOUN ?|.
+ him|PRON .|.
+ Who|QUESTIONTAG was|VERB that|ADP ?|.
+ Somebody|NOUN asking|VERB the|DET way|NOUN .|.
+ The|DET truth|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON hiding|VERB ?|.
+ It|PRON 's|VERB something|NOUN to|PRT do|VERB with|ADP that|DET bloody|ADJ rambling|VERB story|NOUN you|PRON were|VERB telling|VERB me|PRON the|DET night|NOUN we|PRON found|VERB Tony|NOUN is|VERB n't|ADV it|PRON ?|.
+ What|QUESTIONTAG price|NOUN ?|.
+ (|. anguished|VERB )|. It|PRON 's|VERB too|ADV terrible|ADJ ...|.
+ What|QUESTIONTAG ?|.
+ I|PRON was|VERB mortal|ADJ again|ADV ...|. on|ADP condition|NOUN that|ADP ...|. any|DET children|NOUN I|PRON fathered|VERB ...|. would|VERB ,|. on|ADP their|PRON sixteenth|ADJ birthday|NOUN ...|. belong|ADV to|PRT him|PRON .|.
+ Why|ADV do|VERB you|PRON say|VERB these|DET things|NOUN ?|.
+ It|PRON 's|VERB true|ADJ .|.
+ What|QUESTIONTAG 's|VERB happened|VERB ?|.
+ Valentina|NOUN ...|. She|PRON 's|VERB ...|. she|PRON 's|VERB gone|VERB ...|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ (|. to|PRT himself|PRON )|. How|QUESTIONTAG about|ADP thanking|VERB me|PRON ?|.
+ What|QUESTIONTAG ?|.
+ Yes|X ?|.
+ Are|VERB n't|ADV you|PRON running|VERB the|DET risk|NOUN of|ADP entrenching|VERB the|DET need|NOUN for|ADP charity|NOUN by|ADP increasingly|ADV institutionalising|VERB it|PRON ?|.
+ Look|NOUN ,|. charity|NOUN ,|. like|ADP poor|ADJ little|ADJ Olga|NOUN ...|. (|. referring|VERB to|PRT the|DET little|ADJ girl|NOUN )|. ...|. is|VERB always|ADV with|ADP us|PRON ,|. to|PRT coin|VERB a|DET phrase|NOUN ...|.
+ And|CONJ what|PRON 's|VERB your|PRON message|NOUN to|PRT the|DET Prime|NOUN Minister|NOUN ?|.
+ (|. laughs|VERB engagingly|ADV )|. I|PRON would|VERB n't|ADV presume|VERB to|PRT have|VERB a|DET 'message|NOUN '|. for|ADP the|DET Prime|NOUN Minister|NOUN ...|. Fortunately|ADV for|ADP the|DET Foundation|NOUN ,|. I|PRON think|VERB we|PRON pretty|ADV much|ADJ see|NOUN eye|NOUN to|PRT eye|NOUN on|ADP most|ADJ things|NOUN .|.
+ Funny|NOUN how|ADV things|NOUN work|VERB out|PRT ,|. is|VERB n't|ADV it|PRON ?|.
+ How|QUESTIONTAG about|ADP it|PRON ?|.
+ You|PRON 're|VERB not|ADV amused|VERB ?|.
+ (|. desperate|NOUN )|. You|PRON 've|VERB been|VERB talking|VERB to|PRT the|DET devil|NOUN ,|. have|VERB n't|ADV you|PRON ?|.
+ Are|NOUN you|PRON sure|VERB you|PRON made|VERB the|DET right|ADJ choice|NOUN ?|.
+ Look|NOUN ...|.
+ She|PRON 's|VERB free|ADJ ...|. is|VERB n't|ADV she|PRON ?|.
+ fills|VERB the|DET screen|NOUN and|CONJ becomes|NOUN ...|.
+ Where|QUESTIONTAG have|VERB you|PRON been|VERB ?|.
+ (|. irritated|VERB )|. Here|ADV !|.
+ How|QUESTIONTAG long|ADV have|VERB you|PRON been|VERB here|ADV ?|.
+ How|QUESTIONTAG long|ADJ 's|PRT a|DET piece|NOUN of|ADP string|NOUN ?|.
+ Valentina|NOUN ...|. ?|.
+ Father|NOUN ...|. ?|.
+ Mummy|NOUN ?|.
+ Billy|ADV ,|. this|DET is|VERB your|PRON grandad|NOUN .|.
+ Does|VERB it|PRON come|VERB with|ADP a|DET happy|ADJ ending|VERB ?|.
+ I|PRON 'm|VERB afraid|ADJ we|PRON ca|VERB n't|ADV guarantee|VERB that|DET .|.

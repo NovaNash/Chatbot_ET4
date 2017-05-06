@@ -1,0 +1,130 @@
+ How|QUESTIONTAG do|VERB you|PRON do|VERB ,|. Mr.|NOUN Miller|NOUN ?|.
+ I|PRON 'm|VERB terribly|ADV sorry|NOUN .|.
+ Well..|NOUN Did|NOUN you|PRON have|VERB a|DET pleaant|ADJ flight|NOUN ?|.
+ Yes|X ,|. very|ADV pleasant|ADJ .|.
+ Well|ADV ,|. shall|VERB we|PRON go|VERB through|ADP Documentation|NOUN ?|.
+ Fine|NOUN .|.
+ Will|VERB you|PRON use|VERB number|NOUN eight|NUM ,|. please|NOUN ?|.
+ Thank|NOUN you|PRON ,|. Miss|NOUN Turner|NOUN .|.
+ THE|DET SCREEN|NOUN CHANGES|NOUN TO|NOUN AN|NOUN IMAGE|NOUN OF|ADP THE|NOUN CHILD|NOUN FLOYD|NOUN Hello|NOUN ,|. darling|VERB ,|. how|ADV are|VERB you|PRON ?|.
+ Hello|NOUN Daddy|NOUN .|.
+ Are|NOUN you|PRON coming|VERB to|PRT my|PRON party|NOUN ?|.
+ No|DET ,|. I|PRON 'm|VERB sorry|ADJ ,|. darling|VERB ,|. I|PRON told|VERB you|PRON I|PRON wo|VERB n't|ADV be|VERB home|VERB for|ADP a|DET few|ADJ days|NOUN .|.
+ When|QUESTIONTAG are|VERB you|PRON coming|VERB home|ADV ?|.
+ In|ADP three|NUM days|NOUN ,|. darling|VERB ,|. I|PRON hope|VERB .|.
+ Where|QUESTIONTAG is|VERB Mrs.|NOUN Brown|NOUN ?|.
+ She|PRON 's|VERB in|ADP the|DET bathroom|NOUN .|.
+ How|QUESTIONTAG many|ADJ days|NOUN until|ADP you|PRON come|VERB home|NOUN ?|.
+ Three|NUM ,|. darling|VERB .|.
+ Good|ADJ morning|NOUN ,|. sir|NOUN ,|. may|VERB I|PRON help|VERB you|PRON ?|.
+ Yes|X ,|. I|PRON 'd|VERB like|VERB to|PRT buy|VERB a|DET bush|NOUN baby|NOUN .|.
+ Dr.|NOUN Floyd|NOUN ,|. wo|VERB n't|ADV you|PRON join|VERB us|PRON for|ADP a|DET drink|NOUN ?|.
+ What|QUESTIONTAG would|VERB you|PRON like|ADP to|PRT drink|VERB ?|.
+ Oh|X ,|. I|PRON really|ADV do|VERB n't|ADV have|VERB time|NOUN for|ADP a|DET drink|NOUN .|.
+ Are|NOUN you|PRON quite|ADV sure|ADJ ?|.
+ Yes|X ,|. really|ADV ,|. thank|NOUN you|PRON very|ADV much|ADV .|.
+ Well|ADV ...|. How|QUESTIONTAG 's|PRT your|PRON lovely|ADJ wife|NOUN ?|.
+ And|CONJ your|PRON charming|VERB little|ADJ daughter|NOUN ?|.
+ Oh|X ,|. she|PRON 's|VERB growing|VERB up|PRT very|ADV fast|ADV .|.
+ How|QUESTIONTAG is|VERB gregor|VERB ?|.
+ He|PRON 's|VERB fine|ADJ .|.
+ Well|ADV ,|. where|ADV are|VERB all|DET of|ADP you|PRON off|VERB to|PRT ?|.
+ Are|NOUN you|PRON ,|. by|ADP any|DET chance|NOUN ,|. going|VERB up|PRT to|PRT your|PRON base|NOUN at|ADP Clavius|NOUN ?|.
+ Yes|X ,|. as|ADP a|DET matter|NOUN of|ADP fact|NOUN ,|. I|PRON am|VERB .|.
+ Is|VERB there|DET any|DET particular|ADJ reason|NOUN why|ADV you|PRON ask|VERB ?|.
+ Really|ADV ?|.
+ Yes|X .|.
+ You|PRON mean|VERB you|PRON have|VERB n't|ADV been|VERB able|ADJ to|PRT get|VERB anyone|NOUN at|ADP the|DET base|NOUN for|ADP ten|ADJ days|NOUN ?|.
+ That|DET 's|VERB right|ADJ .|.
+ How|QUESTIONTAG did|VERB they|PRON manage|VERB to|PRT do|VERB that|DET without|ADP any|DET communication|NOUN ?|.
+ Clavius|NOUN Control|NOUN came|VERB on|ADP the|DET air|NOUN just|ADV long|ADV enough|ADV to|PRT transmit|VERB their|PRON refusal|NOUN .|.
+ Dr.|NOUN Floyd|NOUN ,|. at|ADP the|DET risk|NOUN of|ADP pressing|VERB you|PRON on|ADP a|DET point|NOUN you|PRON seem|VERB reticent|ADJ to|PRT discuss|VERB ,|. may|VERB I|PRON ask|VERB you|PRON a|DET straightforward|ADJ question|NOUN ?|.
+ Certainly|ADV .|.
+ Are|NOUN you|PRON sure|VERB you|PRON wo|VERB n't|ADV change|VERB your|PRON mind|NOUN about|ADP a|DET drink|NOUN ?|.
+ No|DET ,|. thank|VERB you|PRON ...|. and|CONJ I|PRON 'm|VERB afraid|ADJ now|ADV I|PRON really|ADV must|VERB be|VERB going|VERB .|.
+ (|. sighs|NOUN )|. Well|ADV ,|. how|ADV 's|PRT it|PRON going|VERB back|ADV there|ADV ?|.
+ Fine|NOUN .|.
+ I|PRON wonder|VERB what|PRON really|ADV IS|VERB going|VERB on|ADP up|ADP there|ADV ?|.
+ Well|ADV ,|. I|PRON 've|VERB heard|VERB more|ADJ and|CONJ more|ADJ people|NOUN talk|NOUN of|ADP an|DET epidemic|ADJ .|.
+ When|QUESTIONTAG do|VERB we|PRON arrive|VERB at|ADP Clavius|NOUN ?|.
+ We|PRON 're|VERB scheduled|VERB to|PRT dock|VERB in|ADP about|ADV seven|NUM hours|NOUN .|.
+ Incidentally|ADV ,|. Dr.|NOUN Floyd|NOUN ,|. I|PRON wonder|VERB if|ADP I|PRON can|VERB have|VERB a|DET word|NOUN with|ADP you|PRON about|ADP the|DET security|NOUN arrangements|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ I|PRON take|VERB it|PRON this|DET is|VERB something|NOUN to|PRT do|VERB with|ADP the|DET trouble|NOUN they|PRON 're|VERB having|VERB up|PRT at|ADP Clavius|NOUN ?|.
+ Dr.|NOUN Floyd|NOUN ,|. how|ADV long|ADV do|VERB you|PRON think|VERB this|DET can|VERB be|VERB kept|VERB under|ADP wraps|NOUN ?|.
+ (|. pleasantly|ADV )|. I|PRON 'm|VERB afraid|ADJ it|PRON can|VERB and|CONJ it|PRON will|VERB be|VERB kept|VERB under|ADP wraps|NOUN as|ADV long|ADV as|ADP it|PRON is|VERB deemed|VERB to|PRT be|VERB necessary|ADJ by|ADP the|DET Council|NOUN .|.
+ Can|VERB we|PRON go|VERB down|PRT there|ADV closer|ADJ to|PRT it|PRON ?|.
+ Certainly|ADV .|.
+ Does|VERB your|PRON geology|NOUN on|ADP it|PRON still|ADV check|VERB out|PRT ?|.
+ Yes|X ,|. it|PRON does|VERB .|.
+ How|QUESTIONTAG can|VERB you|PRON tell|VERB it|PRON was|VERB deliberately|ADV buried|VERB ?|.
+ By|ADP the|DET deformation|NOUN between|ADP the|DET mother|NOUN rock|NOUN and|CONJ the|DET fill|NOUN .|.
+ Any|DET clue|NOUN as|ADP to|PRT what|PRON it|PRON is|VERB ?|.
+ Not|ADV really|ADV .|.
+ But|CONJ you|PRON do|VERB n't|ADV have|VERB any|DET idea|NOUN as|ADP to|PRT what|PRON it|PRON is|VERB ?|.
+ Tomb|NOUN ,|. shine|NOUN ,|. survey-marker|NOUN spare|ADJ part|NOUN ,|. take|VERB your|PRON choice|NOUN .|.
+ Was|VERB it|PRON abandoned|VERB ,|. forgotten|VERB ,|. left|VERB for|ADP a|DET purpose|NOUN ?|.
+ I|PRON suppose|VERB we|PRON 'll|VERB never|ADV know|VERB .|.
+ Any|DET ideas|NOUN about|ADP the|DET colour|NOUN ?|.
+ Well|ADV ,|. not|ADV really|ADV .|.
+ Has|VERB it|PRON been|VERB exposed|VERB to|PRT any|DET sun|NOUN before|ADP now|ADV ?|.
+ I|PRON do|VERB n't|ADV think|VERB it|PRON has|VERB ,|. but|CONJ I|PRON 'd|VERB like|VERB to|PRT check|VERB that|DET .|.
+ (|. softly|ADV )|. Hi|NOUN ...|. How|QUESTIONTAG 's|PRT it|PRON going|VERB ?|.
+ (|. absent|NOUN but|CONJ friendly|ADV )|. Great|NOUN .|.
+ Sure|ADV ,|. what|PRON is|VERB it|PRON ?|.
+ Well|ADV ,|. it|PRON 's|VERB nothing|NOUN really|ADV important|ADJ ,|. but|CONJ it|PRON 's|VERB annoying|VERB .|.
+ What|QUESTIONTAG 's|VERB up|PRT ?|.
+ It|PRON 's|VERB about|ADP my|PRON salary|ADJ cheques|NOUN .|.
+ Yes|X ?|.
+ Well|ADV I|PRON got|VERB the|DET papers|NOUN on|ADP my|PRON official|ADJ up-grading|ADJ to|PRT AGS-19|ADJ two|NUM weeks|NOUN before|ADP we|PRON left|VERB .|.
+ Did|NOUN they|PRON have|VERB any|DET explanation|NOUN for|ADP this|DET ?|.
+ Not|ADV really|ADV .|.
+ Well|ADV ,|. what|PRON do|VERB you|PRON think|VERB we|PRON ought|VERB to|PRT do|VERB about|ADP it|PRON ?|.
+ I|PRON do|VERB n't|ADV think|VERB we|PRON should|VERB make|VERB any|DET fuss|NOUN about|ADP it|PRON yet|ADV .|.
+ Oh|X ?|.
+ Yes|X .|.
+ Well|ADV ,|. what|PRON is|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ How|QUESTIONTAG ?|.
+ Just|ADV ask|VERB Hal|NOUN .|.
+ (|. sighs|NOUN )|. Well|VERB ...|. it|PRON 's|VERB silly|ADV ,|. but|CONJ ...|. if|ADP you|PRON want|VERB to|PRT ,|. why|ADV do|VERB n't|ADV you|PRON ?|.
+ HAL|NOUN 9000|NUM COMPUTER|NOUN
+ Okay|NOUN ,|. then|ADV how|ADV do|VERB we|PRON re-phrase|VERB the|DET question|NOUN ?|.
+ Still|ADV ,|. you|PRON really|ADV do|VERB n't|ADV believe|VERB it|PRON ,|. do|VERB you|PRON ?|.
+ Not|ADV really|ADV .|.
+ But|CONJ not|ADV completely|ADV inconceivable|ADJ ?|.
+ I|PRON suppose|VERB it|PRON is|VERB n't|ADV logically|ADV impossible|ADJ .|.
+ Well|ADV ,|. the|DET only|ADJ important|ADJ aspect|NOUN of|ADP the|DET mission|NOUN are|VERB :|. where|ADV are|VERB we|PRON going|VERB ,|. what|PRON will|VERB we|PRON do|VERB when|ADV we|PRON get|VERB there|ADV ,|. when|ADV are|VERB we|PRON coming|VERB back|ADV ,|. and|CONJ ...|. why|ADV are|VERB we|PRON going|VERB ?|.
+ Right|ADV .|.
+ What|QUESTIONTAG is|VERB it|PRON ,|. Hal|NOUN ?|.
+ MY|PRON F.P.C|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON read|VERB me|PRON ,|. Dave|NOUN ?|.
+ How|QUESTIONTAG do|VERB you|PRON read|VERB me|PRON ,|. Hal|NOUN ?|.
+ Five|NUM by|ADP five|NUM ,|. Frank|NOUN .|.
+ How|QUESTIONTAG 's|VERB it|PRON going|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Hello|NOUN ,|. Frank|NOUN ,|. can|VERB I|PRON have|VERB a|DET word|NOUN with|ADP you|PRON ?|.
+ COMPUTER|NOUN .|.
+ Yes|X ,|. Hal|NOUN ,|. what|PRON 's|VERB up|PRT ?|.
+ It|PRON looks|VERB like|ADP we|PRON have|VERB another|DET bad|ADJ A.O|NOUN .|.
+ Do|VERB you|PRON have|VERB any|DET idea|NOUN of|ADP what|PRON is|VERB causing|VERB this|DET fault|NOUN ?|.
+ Not|ADV really|ADV ,|. Frank|NOUN .|.
+ Are|NOUN you|PRON reasonably|ADV awake|VERB ?|.
+ Oh|X ,|. I|PRON 'm|VERB fine|ADJ ,|. I|PRON 'm|VERB wide|ADJ awake|NOUN .|.
+ (|. softly|ADV )|. What|QUESTIONTAG the|DET hell|NOUN is|VERB going|VERB on|ADP ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Hal|NOUN ?|.
+ Yes|X .|.
+ Sure|ADV ,|. Dave|NOUN ,|. what|PRON 's|VERB up|PRT ?|.
+ You|PRON know|VERB that|ADP we|PRON checked|VERB the|DET two|NUM AO-units|NOUN that|ADP you|PRON reported|VERB in|ADP imminent|ADJ failure|NOUN condition|NOUN ?|.
+ What|QUESTIONTAG 's|VERB up|PRT ?|.
+ I|PRON 'm|VERB afraid|ADJ the|DET AO-unit|NOUN has|VERB failed|VERB .|.
+ Is|VERB your|PRON confidence|NOUN in|ADP me|PRON fully|ADV restored|VERB ?|.
+ Yes|X ,|. it|PRON is|VERB ,|. Hal|NOUN .|.
+ Too|ADV bad|ADJ about|ADP Frank|NOUN ,|. is|VERB n't|ADV it|PRON ?|.
+ Yes|X ,|. it|PRON is|VERB .|.
+ I|PRON suppose|VERB you|PRON 're|VERB pretty|ADV broken|VERB up|PRT about|ADP it|PRON ?|.
+ Have|VERB you|PRON decided|VERB to|PRT revive|VERB the|DET rest|NOUN of|ADP the|DET crew|NOUN ,|. Dave|NOUN ?|.
+ Hello|NOUN ,|. Dave|NOUN ,|. have|VERB you|PRON found|VERB out|ADP the|DET trouble|NOUN ?|.
+ WAY|X TO|NOUN THE|NOUN SOLID|NOUN LOGIC|NOUN PROGRAMME|NOUN STORAGE|NOUN AREA|NOUN .|.
+ Hey|NOUN ,|. Dave|NOUN ,|. what|PRON are|VERB you|PRON doing|VERB ?|.

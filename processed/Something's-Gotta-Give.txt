@@ -1,0 +1,93 @@
+ all|DET add|VERB up|PRT to|PRT ?|.
+ breasts|NOUN look|VERB in|ADP this|DET sweater|NOUN ?|.
+ glad|NOUN we|PRON waited|VERB ?|.
+ Let|VERB 's|PRT go|VERB for|ADP a|DET swim|NOUN ,|. how|ADV long|ADV will|VERB it|PRON take|VERB you|PRON to|PRT change|VERB ?|.
+ Do|VERB you|PRON ...|. live|VERB here|ADV ?|.
+ scared|VERB now|ADV )|. You|PRON 're|VERB dating|VERB my|PRON daughter|NOUN ?|.
+ Honey|NOUN ,|. does|VERB Harry|NOUN have|VERB a|DET robe|NOUN ?|.
+ Marin|NOUN ,|. au|NOUN cas|NOUN ou|VERB nous|ADJ prende|NOUN un|ADJ desset|NOUN ou|NOUN devrions|NOUN jefaire|VERB quelgue|NOUN chose|NOUN ?|.
+ How|QUESTIONTAG we|PRON doin|VERB ?|.
+ bachelor|NOUN ?|.
+ ``|. The|DET Escape|NOUN Artist|NOUN ''|. ?|.
+ So|ADV when|ADV was|VERB this|DET engagement|NOUN ?|.
+ you|PRON say|VERB those|DET things|NOUN ?|.
+ headlights|NOUN ?|.
+ the|DET pain|NOUN ?|.
+ Where|QUESTIONTAG you|PRON having|VERB intercourse|VERB ?|.
+ know|VERB what|PRON kind|NOUN of|ADP medications|NOUN you|PRON take|VERB ?|.
+ Uh-huh|NOUN ...|. .Any|ADJ thing|NOUN else|ADV ?|.
+ So|ADV ,|. urn|NOUN ,|. do|VERB you|PRON always|ADV work|VERB nights|NOUN ?|.
+ call|NOUN Lowell|NOUN to|PRT pick|VERB me|PRON up|PRT ?|.
+ Are|ADP we|PRON discharging|VERB Hurricane|NOUN Harry|NOUN ?|.
+ Can|VERB I|PRON hug|VERB him|PRON ?|.
+ with|ADP some|DET CDs|NOUN ?|.
+ had|VERB sex|NOUN yet|ADV ,|. have|VERB we|PRON ?|.
+ not|ADV Dijon|NOUN ,|. right|ADV ?|.
+ have|VERB any|DET Tylenol|NOUN ?|.
+ proud|NOUN of|ADP that|DET ?|.
+ newspapers|NOUN )|. And|CONJ what|DET effect|NOUN do|VERB you|PRON think|VERB you|PRON 're|VERB having|VERB on|ADP me|PRON ?|.
+ Who|QUESTIONTAG you|PRON talking|VERB to|PRT at|ADP this|DET hour|NOUN ?|.
+ pass|NOUN ?|.
+ wear|NOUN ?|.
+ go|VERB ?|.
+ How|QUESTIONTAG 's|PRT Erica|NOUN treating|VERB you|PRON ?|.
+ the|DET kitchen|NOUN ?|.
+ (|. writing|VERB a|DET prescription|NOUN )|. So|ADV ,|. you|PRON date|NOUN her|PRON daughter|NOUN ?|.
+ (|. sees|VERB her|PRON disappointment|NOUN )|. It|PRON 's|VERB been|VERB tough|ADJ ,|. huh|VERB ?|.
+ Pick|NOUN you|PRON up|PRT around|ADP seven|NUM ?|.
+ thousand|NOUN websites|VERB that|ADP mention|NOUN you|PRON ?|.
+ fast|NOUN does|VERB n't|ADV it|PRON ?|.
+ ones|NOUN ?|.
+ please|NOUN ,|. what|PRON the|DET hell|NOUN does|VERB that|ADP mean|VERB ?|.
+ too|ADV young|ADJ for|ADP you|PRON ,|. huh|VERB ?|.
+ We|PRON ready..|VERB ?|.
+ many|ADJ options|NOUN would|VERB it|PRON ?|.
+ where|ADV you|PRON were|VERB headed|VERB with|ADP that|DET thing|NOUN you|PRON were|VERB just|ADV saying|VERB ,|. but|CONJ in|ADP terms|NOUN of|ADP us|PRON ,|. you|PRON just|ADV want|VERB to|PRT be|VERB friends|NOUN ,|. right|ADV ?|.
+ want|NOUN to|PRT be|VERB ?|.
+ girls|NOUN your|PRON own|ADJ age|NOUN ?|.
+ I|PRON 've|VERB taken|VERB to|PRT quite|VERB like|ADP this|DET and|CONJ when|ADV something|NOUN happens|VERB to|PRT you|PRON that|ADP 's|VERB never|ADV happened|VERB to|PRT you|PRON before|ADP ,|. do|VERB n't|ADV you|PRON have|VERB to|PRT at|ADP least|ADJ find|VERB out|PRT what|PRON it|PRON is|VERB ?|.
+ (|. heading|VERB for|ADP the|DET kitchen|NOUN )|. So|ADV ,|. what|PRON are|VERB you|PRON hungry|ADJ for|ADP ?|.
+ miss|NOUN being|VERB married|VERB at|ADP night|NOUN ?|.
+ Such|ADJ as|ADP ?|.
+ do|VERB n't|ADV expect|VERB it|PRON ,|. right|ADV ?|.
+ eight|NUM ?|.
+ (|. Erica|NOUN relaxes|NOUN )|. Is|VERB this|DET why|ADV my|PRON doctor|NOUN is|VERB falling|VERB in|ADP love|NOUN with|ADP you|PRON ?|.
+ For|ADP what|PRON ?|.
+ Let|VERB 's|PRON not|ADV brag|VERB about|ADP this|DET to|PRT our|PRON doctor|NOUN ,|. okay|NOUN ?|.
+ (|. she|PRON turns|VERB to|PRT him|PRON )|. You|PRON know|VERB I|PRON 'm|VERB not|ADV good|ADJ at|ADP being|VERB monogamous|ADJ ,|. right|ADV ?|.
+ it|PRON amazing|VERB ?|.
+ Can|VERB you|PRON see|VERB this|DET ?|.
+ hell|NOUN does|VERB that|ADP mean|VERB ?|.
+ Erica|NOUN ?|.
+ So|ADP it|PRON 's|VERB not|ADV crazy|ADJ for|ADP a|DET man|NOUN to|PRT do|VERB something|NOUN entirely|ADV out|ADP of|ADP character|NOUN after|ADP having|VERB a|DET heart|NOUN attack|NOUN ?|.
+ Like|ADP crying|VERB ?|.
+ does|VERB n't|ADV ?|.
+ with|ADP me|PRON and|CONJ Dad|NOUN and|CONJ the|DET fiance|NOUN ?|.
+ Thirsty|NOUN ?|.
+ Erica|NOUN ,|. do|VERB I|PRON like|ADP duck|NOUN ?|.
+ hours|NOUN ago|ADV ?|.
+ a|DET woman|NOUN give|VERB you|PRON chest|ADJ pain|NOUN ?|.
+ heard|NOUN ?|.
+ do|VERB for|ADP you|PRON ,|. Mr.|NOUN Langer|NOUN ?|.
+ doin|NOUN '|. ?|.
+ to|PRT eat|VERB ?|.
+ think|NOUN ?|.
+ her|PRON )|. Is|VERB it|PRON Harry|NOUN ?|.
+ say|VERB fuck|NOUN ,|. do|VERB you|PRON ?|.
+ wanted|VERB to|PRT hurt|VERB my|PRON feelings|NOUN ?|.
+ Why|ADV ca|VERB n't|ADV we|PRON all|DET stay|VERB for|ADP the|DET weekend|NOUN ?|.
+ ..not|VERB me|PRON ?|.
+ does|VERB n't|ADV seem|VERB a|DET little|ADJ harsh|NOUN ?|.
+ Erica|NOUN ,|. we|PRON 're|VERB ready|ADJ to|PRT do|VERB the|DET hospital|NOUN ,|. 'Do|. You|PRON Take|VERB Viagra|ADJ scene|NOUN ...|. Should|VERB we|PRON wait|VERB for|ADP you|PRON ?|.
+ to|PRT know|VERB ,|. when|ADV Henry|NOUN says|VERB ,|. ``|. I|PRON love|VERB ya|PRON ''|. ,|. you|PRON want|VERB that|ADP to|PRT be|VERB 'Ya|VERB '|. ,|. not|ADV 'You|NOUN '|PRT ,|. right|ADV ?|.
+ that|DET ?|.
+ shit..|NOUN .that|PRON men|NOUN and|CONJ women|NOUN can|VERB be|VERB friends|VERB once|ADV they|PRON 've|VERB had|VERB sex|NOUN ?|.
+ decade|NOUN ?|.
+ make|VERB it|PRON ,|. does|VERB he|PRON ?|.
+ would|VERB that|DET go|VERB over|ADP ?|.
+ (|. she|PRON seems|VERB to|PRT shiver|VERB )|. I|PRON 'm|VERB aware|ADJ it|PRON was|VERB a|DET bold|ADJ move|NOUN ,|. one|NUM of|ADP those|DET impulses|NOUN that|DET grabs|VERB you|PRON ,|. '|. but|CONJ ...|. so|ADV far|ADV ,|. we|PRON 're|VERB okay|ADJ ;|. right|ADV ?|.
+ something|NOUN ?|.
+ you|PRON doing|VERB over|ADP here|ADV ,|. man|NOUN ?|.
+ smoke|NOUN ?|.
+ mine|NOUN ?|.
+ for|ADP those|DET ?|.

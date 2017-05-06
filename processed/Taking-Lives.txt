@@ -1,0 +1,47 @@
+ Montreal|NOUN please|NOUN ?|.
+ face|NOUN ?|.
+ man|NOUN now|ADV ?|.
+ Oui|NOUN ?|.
+ is|VERB n't|ADV a|DET headhunter|NOUN running|VERB around|ADP the|DET wilds|NOUN of|ADP Quebec|NOUN ?|.
+ victim|NOUN identified|VERB ?|.
+ reported|VERB him|PRON missing|VERB ?|.
+ Vanderholt|NOUN ?|.
+ Laval|NOUN ?|.
+ notified|VERB ?|.
+ went|VERB ?|.
+ any|DET of|ADP his|PRON school|NOUN transcripts|NOUN ?|.
+ someone|NOUN get|VERB killed|VERB tonight|NOUN and|CONJ you|PRON 're|VERB asking|VERB me|PRON about|ADP grade|ADJ school|NOUN ?|.
+ Quantico|NOUN with|ADP me|PRON ?|.
+ by|ADP the|DET crime|NOUN scene|NOUN before|ADP we|PRON head|VERB back|ADV ?|.
+ they|PRON end|VERB up|PRT over|ADP there|ADV under|ADP that|DET car|NOUN ?|.
+ saying|VERB one|NUM thing|NOUN ,|. do|VERB we|PRON trust|VERB Costa|NOUN ?|.
+ Agent|NOUN Grace|NOUN ,|. where|ADV do|VERB you|PRON think|VERB Monsieur|NOUN Edwards|NOUN is|VERB ?|.
+ (|. a|DET beat|NOUN )|. Dinner|NOUN ?|.
+ Mr.|NOUN Ford|NOUN fighting|VERB back|ADV ?|.
+ interrupting|VERB something|NOUN ,|. you|PRON know|VERB ?|.
+ thumbprint|NOUN on|ADP the|DET orange|NOUN juice|NOUN glass|NOUN ,|. you|PRON get|VERB an|DET ID|NOUN ?|.
+ accounts|NOUN ?|.
+ and|CONJ hanging|VERB up|PRT ?|.
+ else|ADV ?|.
+ his|PRON body|NOUN ?|.
+ drown|NOUN ?|.
+ Am|NOUN I|PRON interrupting|VERB something|NOUN ?|.
+ that|DET guy|NOUN after|ADP me|PRON ?|.
+ kill|VERB Mr.|NOUN Ford|NOUN in|ADP the|DET parking|NOUN lot|NOUN ?|.
+ cop|NOUN ?|.
+ is|VERB n't|ADV he|PRON in|ADP Mexico|NOUN getting|VERB a|DET new|ADJ face|NOUN ?|.
+ What|QUESTIONTAG do|VERB I|PRON do|VERB ,|. offer|VERB him|PRON a|DET drink|NOUN ?|.
+ mingling|NOUN ?|.
+ (|. a|DET beat|NOUN )|. Can|VERB you|PRON catch|VERB him|PRON ?|.
+ taking|VERB you|PRON ?|.
+ chaser|NOUN ?|.
+ that|DET ?|.
+ blood|NOUN ?|.
+ than|ADP all|DET of|ADP you|PRON ,|. do|VERB you|PRON know|VERB that|DET ?|.
+ switched|VERB at|ADP birth|NOUN ?|.
+ Asher|ADV ?|.
+ you|PRON and|CONJ has|VERB an|DET indication|NOUN to|PRT that|DET effect|NOUN been|VERB made|VERB in|ADP your|PRON employee|NOUN record|NOUN ?|.
+ that|ADP a|DET sly|ADV grin|NOUN Asher|NOUN has|VERB ?|.
+ Montreal|NOUN Inspector|NOUN ,|. correct|NOUN ?|.
+ snapping|VERB like|ADP that|DET ?|.
+ assume|VERB this|DET woman|NOUN 's|PRT identity|NOUN and|CONJ raise|VERB my|PRON babies|NOUN with|ADP a|DET serial|ADJ killer|NOUN ?|.

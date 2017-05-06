@@ -1,0 +1,346 @@
+ Where|QUESTIONTAG is|VERB that|ADP gentleman|NOUN 's|PRT soup|NOUN ?|.
+ argue|NOUN --|. he|PRON tears|VERB off|ADP quickly|ADV (|. CAMERA|NOUN FOLLOWING|NOUN HIM|NOUN )|. to|PRT another|DET service|NOUN table|NOUN .|.
+ Where|QUESTIONTAG 's|VERB that|ADP soup|NOUN ?|.
+ into|ADP service|NOUN room|NOUN of|ADP kitchen|NOUN .|.
+ (|. to|PRT first|ADV )|. Who|QUESTIONTAG 's|VERB in|ADP number|NOUN three|NUM ?|.
+ Senf|NOUN --|. the|DET hall|NOUN porter|NOUN .|.
+ (|. to|PRT operator|VERB )|. Any|DET calls|NOUN ?|.
+ No|DET ,|. Doctor|NOUN .|.
+ Good|ADJ little|ADJ girl|NOUN --|. nice|ADJ ones|NOUN ?|.
+ Yes|X ,|. Baron|NOUN .|.
+ (|. to|PRT Clerk|NOUN --|. as|ADP telephone|NOUN bell|NOUN rings|NOUN )|. Is|VERB that|ADP for|ADP me|PRON ?|.
+ No|DET --|. Madam|NOUN Grusinskaya|NOUN 's|PRT car|NOUN is|VERB to|PRT be|VERB brought|VERB .|.
+ (|. to|PRT Senf|NOUN )|. Have|VERB you|PRON my|PRON tickets|NOUN for|ADP the|DET theatre|NOUN ?|.
+ Oh|X yes|X ,|. Baron|NOUN --|. (|. to|PRT Clerk|NOUN )|. Baron|NOUN von|NOUN Gaigern|NOUN 's|PRT seats|NOUN for|ADP Madam|NOUN Grusinskaya|NOUN .|.
+ (|. to|PRT Clerk|NOUN )|. For|ADP me|PRON ?|.
+ (|. at|ADP telephone|NOUN --|. shakes|VERB his|PRON head|NOUN )|. No|DET --|. Madam|NOUN Grusinskaya|NOUN 's|PRT car|NOUN is|VERB not|ADV to|PRT be|VERB brought|VERB .|.
+ How|QUESTIONTAG 's|VERB the|DET beautiful|ADJ lady|NOUN ?|.
+ Grusinskaya|NOUN --|. well|ADV ,|. to|PRT tell|VERB the|DET truth|NOUN ,|. Baron|NOUN --|. tonight|NOUN we|PRON are|VERB a|DET little|ADJ bit|NOUN nervous|ADJ .|.
+ Have|VERB I|PRON kept|VERB you|PRON waiting|VERB ?|.
+ Waiting|VERB --|. I|PRON 'm|VERB waiting|VERB for|ADP news|NOUN from|ADP Manchester|NOUN .|.
+ No|DET news|NOUN yet|ADV ?|.
+ No|DET .|.
+ (|. to|PRT Clerk|NOUN )|. For|ADP me|PRON ?|.
+ No|DET --|. letters|NOUN to|PRT two-eighty|NOUN .|.
+ Any|DET letters|NOUN ?|.
+ No|DET ,|. Doctor|NOUN .|.
+ Telegrams|NOUN ?|.
+ No|DET ,|. Doctor|NOUN .|.
+ Anyone|NOUN asked|VERB for|ADP me|PRON ?|.
+ Nobody|NOUN ,|. Doctor|NOUN .|.
+ (|. looking|VERB up|PRT from|ADP his|PRON letter|NOUN --|. glances|NOUN off|PRT at|ADP the|DET doctor|NOUN )|. That|DET is|VERB Doctor|NOUN Otternschlag|NOUN --|. You|PRON know|VERB him|PRON ?|.
+ Yes|X --|. He|PRON always|ADV seems|VERB to|PRT be|VERB waiting|VERB for|ADP something|NOUN --|. and|CONJ nothing|NOUN ever|ADV comes|VERB .|.
+ Has|VERB the|DET gentleman|NOUN a|DET complaint|NOUN ?|.
+ (|. to|PRT doctor|VERB )|. Is|VERB this|DET gentleman|NOUN a|DET Baron|NOUN ,|. too|ADV ?|.
+ (|. laughing|VERB )|. Unfortunately|ADV no|DET .|.
+ Again|ADV ?|.
+ Please|NOUN .|.
+ Have|VERB you|PRON a|DET minute|NOUN now|ADV ?|.
+ No|DET --|. I|PRON told|VERB you|PRON not|ADV to|PRT come|VERB in|ADP this|DET lobby|NOUN .|.
+ Like|ADP dancing|VERB ?|.
+ Not|ADV with|ADP strangers|NOUN .|.
+ (|. turning|VERB to|PRT Flaemmchen|NOUN )|. Never|NOUN ?|.
+ You|PRON 're|VERB a|DET fool|NOUN !|.
+ Who|QUESTIONTAG ?|.
+ (|. gallantly|ADV )|. Whoever|PRON is|VERB keeping|VERB you|PRON waiting|VERB .|.
+ (|. indicating|VERB Preysing|NOUN 's|PRT door|NOUN )|. Have|VERB you|PRON seen|VERB it|PRON ?|.
+ Oh|X ,|. my|PRON large|ADJ and|CONJ noisy|ADJ neighbor|NOUN --|. really|ADV ?|.
+ (|. with|ADP meaning|NOUN )|. You|PRON ?|.
+ (|. quickly|ADV )|. Oh|NOUN --|. work|NOUN !|.
+ Reducing|VERB ?|.
+ (|. she|PRON turns|VERB invitingly|ADV )|. No|DET --|. why|ADV ?|.
+ Lord|NOUN no|DET --|. charming|NOUN --|. but|CONJ why|ADV one|NUM meal|NOUN a|DET day|NOUN ?|.
+ (|. laughing|VERB in|ADP his|PRON face|NOUN )|. Money|NOUN --|. Ever|ADV heard|NOUN of|ADP it|PRON ?|.
+ (|. with|ADP invitation|NOUN )|. Are|VERB n't|ADV you|PRON ?|.
+ (|. quickly|ADV )|. What|QUESTIONTAG ?|.
+ Shall|NOUN we|PRON say|VERB five|NUM o'clock|NOUN --|. downstairs|NOUN ?|.
+ Where|QUESTIONTAG downstairs|NOUN ?|.
+ Really|ADV ?|.
+ The|DET performance|NOUN ?|.
+ It|PRON is|VERB time|NOUN .|.
+ The|DET house|NOUN is|VERB not|ADV full|ADJ --|. Is|VERB it|PRON really|ADV full|ADJ ?|.
+ Packed|VERB to|PRT the|DET ceiling|NOUN .|.
+ How|QUESTIONTAG is|VERB the|DET house|NOUN ?|.
+ Terrible|ADJ .|.
+ Oh|X ,|. can|VERB anyone|NOUN engage|VERB you|PRON for|ADP the|DET evening|NOUN ?|.
+ To|PRT take|VERB dictation|NOUN --|. a|DET Mr.|NOUN Preysing|NOUN --|. (|. to|PRT Baron|NOUN )|. Goodbye|NOUN ,|. you|PRON --|. tomorrow|NOUN at|ADP five|NUM o'clock|NOUN .|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN ,|. Mr.|NOUN Kringelein|NOUN ?|.
+ (|. to|PRT himself|PRON )|. General|NOUN Director|NOUN Preysing|VERB !|.
+ Then|ADV you|PRON know|VERB him|PRON ?|.
+ Do|VERB I|PRON know|VERB him|PRON --|. I|PRON know|VERB him|PRON through|ADP and|CONJ through|ADP .|.
+ You|PRON will|VERB stay|VERB ,|. Doctor|NOUN --|. if|ADP you|PRON have|VERB nothing|NOUN better|ADV to|PRT do|VERB ?|.
+ I|PRON have|VERB nothing|NOUN better|ADV to|PRT do|VERB ,|. Mr.|NOUN Kringelein|NOUN .|.
+ Why|ADV not|ADV ?|.
+ Take|VERB them|PRON back|ADV ,|. Suzette|NOUN .|.
+ No|DET news|NOUN from|ADP Manchester|NOUN yet|ADV --|. Do|VERB you|PRON think|VERB we|PRON ought|VERB to|PRT postpone|VERB the|DET conference|NOUN ?|.
+ Good|ADJ heavens|VERB no|DET .|.
+ Do|VERB you|PRON work|VERB in|ADP Justice|NOUN Zinnowitz|NOUN '|PRT office|NOUN ?|.
+ No|DET --|. only|ADV occasional|ADJ jobs|NOUN .|.
+ Tired|VERB ?|.
+ You|PRON pay|VERB me|PRON .|.
+ Movies|NOUN ?|.
+ Yes|X ,|. I|PRON photograph|VERB very|ADV well|ADV .|.
+ What|QUESTIONTAG is|VERB this|DET ?|.
+ I|PRON got|VERB ten|ADJ marks|NOUN for|ADP that|DET .|.
+ (|. quickly|ADV )|. What|QUESTIONTAG ?|.
+ (|. reading|VERB )|. Only|ADV in|ADP mutual|ADJ advantages|NOUN --|. moreover|ADV .|.
+ With|ADP the|DET same|ADJ friend|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ You|PRON 're|VERB a|DET little|ADJ too|ADV fast|ADV .|.
+ Ca|NOUN n't|ADV you|PRON understand|VERB me|PRON ?|.
+ I|PRON understand|VERB you|PRON perfectly|ADV .|.
+ Have|VERB you|PRON got|VERB it|PRON now|ADV ?|.
+ (|. typing|VERB )|. Cotton|NOUN Company|NOUN --|.
+ How|QUESTIONTAG nice|ADJ --|. your|PRON daughters|NOUN ?|.
+ My|PRON daughters|NOUN --|. yes|X ,|. my|PRON daughters|NOUN .|.
+ (|. very|ADV nonchalantly|ADV )|. Well|ADV ?|.
+ She|PRON 's|VERB gone|VERB to|PRT the|DET theatre|NOUN --|. do|VERB n't|ADV you|PRON know|VERB ?|.
+ (|. ready|ADJ to|PRT explode|VERB )|. And|CONJ what|PRON are|VERB you|PRON going|VERB to|PRT do|VERB ?|.
+ The|DET pearls|NOUN are|VERB in|ADP her|PRON room|NOUN .|.
+ Need|VERB any|DET help|NOUN ?|.
+ No|DET .|.
+ Have|VERB you|PRON got|VERB that|ADP skeleton|NOUN key|NOUN ?|.
+ to|PRT the|DET Baron|NOUN .|.
+ Why|ADV ?|.
+ The|DET floor|NOUN clerk|NOUN is|VERB out|PRT there|ADV in|ADP the|DET corridor|NOUN --|. she|PRON sees|VERB everything|NOUN --|. -|.
+ How|QUESTIONTAG ?|.
+ Chloroform|NOUN on|ADP a|DET handkerchief|NOUN from|ADP behind|NOUN --|. while|ADP you|PRON ...|.
+ Why|ADV ?|.
+ Poor|NOUN girl|NOUN --|. chloroform|NOUN would|VERB give|VERB her|PRON a|DET rotten|ADJ headache|NOUN ...|.
+ With|ADP the|DET pearls|NOUN ?|.
+ With|ADP the|DET pearls|NOUN --|.
+ (|. to|PRT Chambermaid|NOUN )|. You|PRON 're|VERB late|ADJ ...|. What|QUESTIONTAG have|VERB you|PRON been|VERB doing|VERB ?|.
+ (|. grumbling|VERB )|. Everyone|NOUN --|. all|DET the|DET time|NOUN says|VERB ,|. 'Come|. back|ADV -|. come|NOUN back|ADV .|. '|.
+ Have|VERB you|PRON seen|VERB Madame|NOUN ?|.
+ (|. replying|VERB )|. Is|VERB n't|ADV she|PRON at|ADP the|DET theatre|NOUN ?|.
+ Well|ADV ?|.
+ I|PRON want|VERB to|PRT be|VERB alone|ADV .|.
+ Where|QUESTIONTAG have|VERB you|PRON been|VERB ?|.
+ Should|VERB I|PRON --|. Does|VERB madame|ADJ wish|VERB ...|.
+ Western|ADJ Theatre|NOUN ?|.
+ (|. after|ADP a|DET silence|NOUN )|. What|QUESTIONTAG do|VERB you|PRON want|VERB here|ADV ?|.
+ Nothing|NOUN --|. only|ADV to|PRT be|VERB here|ADV .|.
+ Why|ADV do|VERB you|PRON hide|VERB in|ADP my|PRON room|NOUN ?|.
+ But|CONJ surely|ADV you|PRON must|VERB know|VERB --|. because|ADP I|PRON love|VERB you|PRON .|.
+ Because|ADP you|PRON love|VERB me|PRON --|. you|PRON love|VERB me|PRON ?|.
+ throws|NOUN herself|PRON upon|ADP the|DET bed|NOUN and|CONJ begins|VERB to|PRT weep|VERB more|ADJ and|CONJ more|ADV passionately|ADV .|.
+ So|ADV you|PRON feel|VERB like|ADP coming|VERB into|ADP a|DET lady|NOUN 's|PRT room|NOUN --|. and|CONJ you|PRON come|VERB ...|. What|QUESTIONTAG now|ADV ?|.
+ (|. following|VERB her|PRON )|. I|PRON 'd|VERB like|VERB to|PRT smoke|VERB a|DET cigarette|NOUN .|.
+ Why|ADV do|VERB you|PRON look|VERB at|ADP me|PRON like|ADP that|DET ?|.
+ I|PRON did|VERB not|ADV know|VERB you|PRON were|VERB so|ADV beautiful|ADJ ...|. and|CONJ --|.
+ (|. bitterly|ADV )|. And|CONJ then|ADV --|. ?|.
+ No|DET irony|NOUN .|.
+ Am|NOUN I|PRON quite|ADV strange|VERB to|PRT you|PRON ?|.
+ Not|ADV quite|ADV strange|ADJ now|ADV .|.
+ And|CONJ ...|. ?|.
+ He|PRON disappeared|VERB .|.
+ I|PRON 'm|VERB not|ADV going|VERB --|. You|PRON know|VERB I|PRON 'm|VERB not|ADV going|VERB --|. Let|VERB me|PRON stay|VERB here|ADV ?|.
+ I|PRON want|VERB to|PRT be|VERB alone|ADV .|.
+ Why|ADV do|VERB you|PRON smile|VERB ?|.
+ Because|ADP I|PRON can|VERB see|VERB something|NOUN in|ADP the|DET mirror|NOUN that|ADP you|PRON can|VERB not|ADV .|.
+ What|QUESTIONTAG can|VERB you|PRON see|VERB ?|.
+ You|PRON are|VERB beautiful|ADJ !|.
+ What|QUESTIONTAG ?|.
+ The|DET veronal|NOUN --|. you|PRON .|.
+ What|QUESTIONTAG did|VERB you|PRON say|VERB ?|.
+ I|PRON 've|VERB never|ADV been|VERB as|ADP happy|ADJ !|.
+ Very|ADV simple|ADJ --|. I|PRON 've|VERB always|ADV liked|VERB the|DET way|NOUN you|PRON dressed|VERB ,|. Preysing|NOUN --|. English|ADJ ,|. is|VERB n't|ADV it|PRON ?|.
+ (|. disturbed|VERB )|. What|QUESTIONTAG ?|.
+ (|. with|ADP a|DET wink|NOUN to|PRT Gerstenkorn|NOUN )|. Manchester|NOUN is|VERB a|DET very|ADV interesting|ADJ city|NOUN ,|. do|VERB n't|ADV you|PRON think|VERB so|ADV ,|. Preysing|VERB ?|.
+ (|. stalling|VERB )|. Manchester|NOUN --|. yes|X --|. yes|X .|.
+ I|PRON mean|VERB with|ADP the|DET Manchester|NOUN people|NOUN ?|.
+ (|. looking|VERB at|ADP Gerstenkorn|NOUN impudently|ADV )|. We|PRON are|VERB here|ADV to|PRT discuss|VERB our|PRON merger|NOUN .|.
+ Oh|X ,|. here|ADV you|PRON are|VERB ,|. Justice|NOUN Zinnowitz|NOUN --|. I|PRON 'm|VERB at|ADP cross-purposes|NOUN with|ADP these|DET gentlemen|NOUN --|. will|VERB you|PRON clear|VERB up|ADP the|DET situation|NOUN ?|.
+ But|CONJ the|DET situation|NOUN is|VERB perfectly|ADV clear|ADJ ,|. If|ADP you|PRON will|VERB allow|VERB me|PRON --|. (|. he|PRON clears|VERB his|PRON throat|NOUN )|.
+ How|QUESTIONTAG clear|ADJ is|VERB Manchester|NOUN ?|.
+ Foggy|NOUN --|. frightfully|ADV foggy|ADJ ,|. always|ADV ,|. I|PRON 'm|VERB told|ADJ .|.
+ Really|ADV ?|.
+ Really|ADV ,|. I|PRON have|VERB n't|ADV a|DET bit|NOUN of|ADP character|NOUN .|.
+ No|DET ?|.
+ When|QUESTIONTAG I|PRON was|VERB a|DET little|ADJ boy|NOUN I|PRON was|VERB taught|VERB to|PRT ride|VERB and|CONJ be|VERB a|DET gentleman|NOUN --|. at|ADP school|NOUN ,|. it|PRON was|VERB a|DET monastery|NOUN ,|. I|PRON learned|VERB to|PRT pray|VERB and|CONJ lie|VERB --|. and|CONJ --|. -|.
+ And|CONJ ?|.
+ And|CONJ then|ADV ,|. in|ADP the|DET war|NOUN ,|. to|PRT kill|VERB and|CONJ hide|VERB .|.
+ And|CONJ what|PRON do|VERB you|PRON do|VERB --|. now|ADV ?|.
+ I|PRON 'm|VERB a|DET gambler|NOUN --|. I|PRON 'm|VERB running|VERB at|ADP large|ADJ like|ADP a|DET happy|ADJ pig|NOUN ,|. devouring|VERB anything|NOUN of|ADP life|NOUN that|DET pleases|VERB me|PRON ,|. I|PRON really|ADV belong|VERB in|ADP jail|NOUN
+ What|QUESTIONTAG is|VERB the|DET matter|NOUN ?|.
+ (|. softly|ADV )|. And|CONJ now|ADV ?|.
+ I|PRON could|VERB n't|ADV go|VERB through|ADP with|ADP it|PRON .|.
+ Do|VERB you|PRON understand|VERB ?|.
+ Yes|X --|. yes|X --|. yes|X .|.
+ Madam|NOUN has|VERB slept|VERB well|ADV ?|.
+ (|. enthusiastically|ADV )|. Oh|X ,|. yes|X ,|. Suzette|NOUN .|.
+ You|PRON do|VERB believe|VERB that|ADP I|PRON really|ADV love|VERB you|PRON ?|.
+ Yes|X --|. If|ADP I|PRON did|VERB n't|ADV believe|VERB that|ADP ,|. I|PRON 'd|VERB die|VERB after|ADP last|ADJ night|NOUN .|.
+ Shall|NOUN I|PRON see|VERB you|PRON again|ADV ?|.
+ I|PRON --|.
+ When|QUESTIONTAG are|VERB you|PRON leaving|VERB Berlin|NOUN ?|.
+ Very|ADV early|ADV in|ADP the|DET morning|NOUN .|.
+ For|ADP Vienna|NOUN ?|.
+ Ca|NOUN n't|ADV --|. ca|VERB n't|ADV you|PRON --|. Could|VERB n't|ADV you|PRON come|VERB too|ADV --|. I|PRON think|VERB it|PRON would|VERB be|VERB better|ADJ --|. for|ADP us|PRON --|. for|ADP us|PRON both|DET .|.
+ Why|ADV later|ADV ?|.
+ I|PRON have|VERB no|DET money|NOUN now|ADV --|. I|PRON must|VERB get|VERB some|DET first|ADJ --|. I|PRON must|VERB get|VERB some|DET .|.
+ Did|NOUN he|PRON leave|VERB any|DET message|NOUN for|ADP me|PRON ?|.
+ No|DET ,|. he|PRON did|VERB not|ADV --|. there|DET is|VERB no|DET message|NOUN .|.
+ (|. to|PRT Senf|NOUN )|. Any|X letters|NOUN ?|.
+ No|DET ,|. doctor|NOUN .|.
+ In|ADP the|DET Yellow|NOUN Room|NOUN ,|. where|ADV the|DET music|NOUN 's|PRT playing|NOUN and|CONJ the|DET ladies|NOUN are|VERB ?|.
+ (|. amused|VERB )|. Where|QUESTIONTAG the|DET music|NOUN 's|PRT playing|NOUN and|CONJ the|DET ladies|NOUN are|VERB ...|.
+ No|DET pain|NOUN ,|. Mr.|NOUN Kringelein|NOUN ?|.
+ Pain|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ (|. to|PRT Gerstenkorn|NOUN --|. with|ADP a|DET sigh|NOUN )|. Shall|NOUN I|PRON tell|VERB them|PRON again|ADV ?|.
+ (|. nervously|ADV )|. You|PRON 've|VERB decided|VERB against|ADP the|DET merger|NOUN ?|.
+ Yes|X --|.
+ Then|ADV ,|. it|PRON 's|VERB all|DET over|ADP ?|.
+ Yes|X --|.
+ What|QUESTIONTAG ?|.
+ Oh|X no|DET --|. no|DET --|. the|DET session|NOUN is|VERB over|ADP .|.
+ (|. to|PRT Preysing|VERB )|. What|QUESTIONTAG 's|VERB the|DET matter|NOUN with|ADP you|PRON ?|.
+ (|. hysterically|ADV )|. Bluff|NOUN --|. Bluff|NOUN --|. all|DET bluff|NOUN .|.
+ What|QUESTIONTAG 's|VERB bluff|NOUN ?|.
+ (|. throwing|VERB the|DET telegram|NOUN on|ADP the|DET table|NOUN )|. That|DET .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB with|ADP her|PRON ?|.
+ I|PRON want|VERB to|PRT see|VERB her|PRON ,|. I|PRON want|VERB to|PRT do|VERB some|DET dictating|NOUN --|. report|NOUN of|ADP the|DET conference|NOUN for|ADP my|PRON father-in-law|NOUN .|.
+ Zinnowitz|NOUN ,|. would|VERB you|PRON say|VERB she|PRON was|VERB pretty|ADV ?|.
+ Pretty|ADV as|ADP a|DET picture|NOUN .|.
+ (|. to|PRT barman|VERB )|. Barman|NOUN --|. whiskey|NOUN --|. (|. to|PRT Kringelein|NOUN )|. For|ADP you|PRON ,|. Mr.|NOUN Kringelein|NOUN ?|.
+ For|ADP me|PRON ?|.
+ A|DET Louisiana|NOUN flip|NOUN ,|. sir|NOUN ?|.
+ A|DET Louisiana|NOUN flip|NOUN ,|. that|DET sounds|VERB very|ADV nice|ADJ --|. sweet|ADJ ,|. eh|VERB ?|.
+ Good|ADJ evening|NOUN ,|. Mr.|NOUN Kringelein|NOUN --|. Where|QUESTIONTAG 's|VERB the|DET Baron|NOUN ?|.
+ I|PRON 'm|VERB waiting|VERB for|ADP him|PRON here|ADV .|.
+ You|PRON like|ADP music|NOUN ?|.
+ Yes|X --|. it|PRON 's|VERB stimulating|VERB --|. a|DET man|NOUN might|VERB --|.
+ (|. mischievously|ADV )|. A|DET man|NOUN might|VERB what|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB --|. I|PRON 'd|VERB like|VERB to|PRT do|VERB anything|NOUN --|.
+ A|DET drink|NOUN ,|. Baron|NOUN --|. A|DET Louisiana|NOUN flip|NOUN ?|.
+ No|DET thanks|NOUN --|. keeping|VERB my|PRON head|NOUN clear|ADJ .|.
+ (|. to|PRT Doctor|NOUN )|. She|PRON 's|VERB beautiful|ADJ --|. is|VERB n't|ADV she|PRON ?|.
+ (|. to|PRT Kringelein|NOUN )|. Oh|NOUN --|. there|DET are|VERB plenty|NOUN of|ADP women|NOUN .|.
+ What|QUESTIONTAG have|VERB you|PRON been|VERB doing|VERB all|DET day|NOUN ?|.
+ Chasing|VERB around|ADV .|.
+ Chasing|VERB what|PRON ?|.
+ Money|NOUN .|.
+ Well|ADV ,|. Mr.|NOUN Kringelein|NOUN ,|. are|VERB you|PRON getting|VERB what|PRON you|PRON 're|VERB looking|VERB for|ADP ?|.
+ What|QUESTIONTAG ,|. Doctor|NOUN ?|.
+ Everything|NOUN ?|.
+ I|PRON was|VERB sent|VERB as|ADP a|DET military|ADJ surgeon|NOUN to|PRT South|NOUN Africa|NOUN .|.
+ Will|VERB you|PRON do|VERB me|PRON a|DET big|ADJ favor|NOUN ?|.
+ I|PRON 'll|VERB do|VERB anything|NOUN for|ADP you|PRON .|.
+ Would|VERB you|PRON like|ADP to|PRT make|VERB a|DET man|NOUN happy|ADJ ?|.
+ (|. quietly|ADV )|. Yes|X --|. I|PRON 'd|VERB love|VERB to|PRT .|.
+ Why|ADV ?|.
+ I|PRON feel|VERB sorry|ADV for|ADP him|PRON .|.
+ Really|ADV ?|.
+ For|ADP the|DET first|ADJ time|NOUN in|ADP my|PRON life|NOUN ,|. I|PRON 'm|VERB happy|ADJ .|.
+ Some|DET champagne|NOUN ,|. Miss|NOUN Flaemm|NOUN ?|.
+ You|PRON may|VERB go|VERB ,|. Mr.|NOUN Kringelein|NOUN .|.
+ Does|VERB the|DET world|NOUN belong|NOUN to|PRT you|PRON ,|. Mr.|NOUN Preysing|NOUN ?|.
+ What|QUESTIONTAG is|VERB this|DET insolence|NOUN ?|.
+ Me|NOUN ?|.
+ Yes|X you|PRON --|. shut|VERB your|PRON mouth|NOUN --|. get|VERB out|PRT --|. you|PRON 're|VERB discharged|VERB .|.
+ Better|NOUN let|VERB him|PRON stay|VERB --|. I|PRON 've|VERB sent|VERB for|ADP the|DET Baron|NOUN ...|. How|QUESTIONTAG 's|PRT your|PRON wife|NOUN coming|VERB along|ADV ?|.
+ I|PRON was|VERB at|ADP the|DET hospital|NOUN all|DET night|NOUN walking|VERB up|PRT and|CONJ down|ADP the|DET corridor|NOUN .|.
+ Did|NOUN you|PRON send|VERB that|DET page|NOUN ?|.
+ The|DET young|ADJ lady|NOUN 's|PRT there|ADV ,|. sir|NOUN .|.
+ Oh|X ,|. yes|X ,|. Mr.|NOUN Preysing|NOUN ?|.
+ Sit|NOUN here|ADV .|.
+ Well|ADV --|. you|PRON want|VERB me|PRON ?|.
+ (|. looks|VERB straight|ADV at|ADP her|PRON )|. Yes|X .|.
+ Well|ADV ?|.
+ I|PRON must|VERB go|VERB to|PRT England|NOUN --|. at|ADP once|ADV .|.
+ Well|ADV ?|.
+ You|PRON see|VERB ,|. I|PRON 'd|VERB like|VERB to|PRT take|VERB a|DET secretary|NOUN with|ADP me|PRON for|ADP my|PRON correspondence|NOUN and|CONJ --|. humm|NOUN --|. humm|NOUN --|. for|ADP company|NOUN on|ADP the|DET trip|NOUN --|. I|PRON 'm|VERB nervous|ADJ --|. I|PRON need|VERB somebody|NOUN --|. I|PRON do|VERB n't|ADV know|VERB if|ADP you|PRON quite|VERB understand|ADJ me|PRON .|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB your|PRON salary|NOUN would|VERB be|VERB --|. for|ADP such|DET a|DET trip|NOUN ?|.
+ Wait|NOUN --|. I|PRON must|VERB figure|VERB it|PRON up|PRT .|.
+ Can|VERB you|PRON pay|VERB some|DET attention|NOUN to|PRT me|PRON ?|.
+ Oh|X ,|. yes|X .|.
+ You|PRON mean|VERB Baron|NOUN von|NOUN Gaigern|NOUN ?|.
+ Baron|NOUN !|.
+ (|. watching|VERB him|PRON )|. The|DET Baron|NOUN is|VERB tired|VERB ?|.
+ No|DET ,|. Kringelein|NOUN ,|. not|ADV tired|VERB ,|. --|. just|ADV --|. (|. he|PRON shrugs|VERB his|PRON shoulders|NOUN )|. Well|NOUN --|. well|ADV --|.
+ Perhaps|ADV this|DET evening|NOUN ,|. Baron|NOUN ,|. we|PRON could|VERB go|VERB to|PRT the|DET Casino|NOUN --|. the|DET place|NOUN we|PRON passed|VERB with|ADP the|DET marvelous|ADJ bright|ADJ lights|NOUN ?|.
+ I|PRON 'd|VERB like|VERB to|PRT Kringelein|NOUN ,|. but|CONJ I|PRON ca|VERB n't|ADV --|. I|PRON am|VERB broke|ADV !|.
+ What|QUESTIONTAG about|ADP the|DET money|NOUN ?|.
+ I|PRON 'll|VERB pay|VERB you|PRON back|ADV .|.
+ How|QUESTIONTAG ?|.
+ I|PRON have|VERB an|DET idea|NOUN working|VERB in|ADP my|PRON head|NOUN ...|. (|. he|PRON glances|VERB at|ADP Kringelein|NOUN )|.
+ No|DET ?|.
+ No|DET !|.
+ Why|ADV ?|.
+ They|PRON 've|VERB brought|VERB me|PRON such|ADJ good|ADJ luck|NOUN --|. you|PRON --|.
+ On|ADP the|DET train|NOUN ?|.
+ Yes|X --|. I|PRON will|VERB be|VERB on|ADP the|DET train|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON would|VERB be|VERB awfully|ADV glad|ADJ to|PRT oblige|VERB ,|. you|PRON 've|VERB been|VERB so|ADV decent|ADJ to|PRT me|PRON .|.
+ Going|VERB ?|.
+ Yes|X --|.
+ Ready|ADJ ,|. Kringelein|NOUN ?|.
+ Ready|ADJ ,|. Baron|NOUN .|.
+ Is|VERB that|ADP too|ADV much|ADJ ,|. Baron|NOUN ?|.
+ (|. glances|NOUN down|PRT at|ADP his|PRON own|ADJ money|NOUN )|. No|DET --|. not|ADV at|ADP all|DET .|.
+ (|. to|PRT Baron|NOUN )|. What|QUESTIONTAG do|VERB I|PRON do|VERB now|ADV ?|.
+ take|VERB him|PRON to|PRT Vienna|NOUN .|.
+ (|. to|PRT Kringelein|NOUN )|. Will|NOUN you|PRON take|VERB the|DET bank|NOUN ,|. sir|NOUN ?|.
+ Yes|X --|. I|PRON 'll|VERB take|VERB everything|NOUN gentlemen|NOUN --|. please|NOUN ,|. let|VERB us|PRON drink|VERB --|. champagne|NOUN --|. -|. champagne|NOUN is|VERB expensive|ADJ and|CONJ good|ADJ .|.
+ Where|QUESTIONTAG is|VERB the|DET Baron|NOUN --|. where|ADV are|VERB you|PRON ,|. Baron|NOUN ?|.
+ his|PRON face|NOUN is|VERB white|ADJ --|. he|PRON has|VERB lost|VERB .|.
+ You|PRON 've|VERB lost|VERB everything|NOUN ?|.
+ I|PRON 've|VERB no|DET luck|NOUN .|.
+ All|DET of|ADP that|DET at|ADP once|ADV ,|. Baron|NOUN ?|.
+ understand|NOUN .|.
+ Out|ADP ,|. Baron|NOUN ?|.
+ (|. bitterly|ADV )|. For|ADP a|DET while|NOUN --|. I|PRON 'll|VERB recover|VERB --|. in|ADP ten|NOUN or|CONJ twenty|NUM years|NOUN .|.
+ He|PRON 's|VERB not|ADV used|VERB to|PRT champagne|VERB --|. why|ADV does|VERB he|PRON drink|VERB it|PRON ?|.
+ Can|VERB I|PRON help|VERB ,|. doctor|VERB ?|.
+ No|DET ,|. the|DET Baron|NOUN will|VERB stay|VERB .|.
+ What|QUESTIONTAG do|VERB you|PRON say|VERB --|. what|PRON ?|.
+ You|PRON what|PRON --|. Oh|X ,|. is|VERB n't|ADV it|PRON there|ADV ?|.
+ No|DET --|. But|CONJ no|DET I|PRON --|. Baron|NOUN ,|. I|PRON 've|VERB lost|VERB my|PRON pocketbook|NOUN .|.
+ (|. looking|VERB at|ADP Baron|NOUN )|. Fourteen|NOUN thousand|NUM marks|NOUN ...|. One|NUM can|VERB travel|VERB --|. one|NUM 's|PRT happiness|NOUN might|VERB depend|VERB on|ADP fourteen|ADJ thousand|NUM marks|NOUN --|. do|VERB n't|ADV you|PRON think|VERB so|ADV ,|. Baron|NOUN ?|.
+ (|. with|ADP a|DET shrug|NOUN )|. Quite|NOUN possibly|ADV .|.
+ You|PRON live|VERB here|ADV ?|.
+ For|ADP tonight|NOUN .|.
+ You|PRON think|VERB so|ADV ?|.
+ avoids|NOUN his|PRON kiss|NOUN .|.
+ Call|VERB me|PRON --|. do|VERB you|PRON know|VERB --|. would|VERB you|PRON --|. would|VERB you|PRON like|VERB to|PRT call|VERB me|PRON by|ADP my|PRON first|ADJ name|NOUN ?|.
+ (|. pulling|VERB away|ADV ,|. glad|NOUN of|ADP an|DET excuse|NOUN for|ADP conversation|NOUN )|. Oh|X ,|. no|DET .|.
+ Why|ADV not|ADV ?|.
+ I|PRON could|VERB n't|ADV do|VERB that|DET ,|. you|PRON 're|VERB a|DET stranger|NOUN to|PRT me|PRON .|.
+ (|. hoarse|VERB whisper|NOUN )|. Mr.|NOUN Kringelein|NOUN --|. Mr.|NOUN Kringelein|NOUN --|. where|ADV are|VERB you|PRON ?|.
+ Preysing|VERB ?|.
+ have|VERB been|VERB roughly|ADV treated|VERB by|ADP Preysing|VERB .|.
+ (|. frantically|ADV )|. I|PRON can|VERB answer|VERB for|ADP this|DET ,|. it|PRON was|VERB self-|ADJ defense|NOUN --|. I|PRON can|VERB answer|VERB for|ADP this|DET --|. but|CONJ that|ADP girl|NOUN --|. the|DET scandal|NOUN --|. my|PRON wife|NOUN --|. my|PRON daughters|NOUN ,|. you|PRON know|VERB them|PRON ?|.
+ Yes|X ,|. I|PRON know|VERB them|PRON --|.
+ I|PRON 've|VERB done|VERB my|PRON hair|NOUN differently|ADV --|. do|VERB you|PRON like|ADP that|DET ?|.
+ When|QUESTIONTAG a|DET lady|NOUN falls|VERB in|ADP love|NOUN she|PRON does|VERB her|PRON hair|NOUN differently|ADV .|.
+ And|CONJ the|DET child|NOUN is|VERB n't|ADV coming|VERB ?|.
+ No|DET --|. no|DET --|. not|ADV yet|ADV .|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ Oh|X --|. I|PRON was|VERB thinking|VERB --|. Poor|NOUN Baron|NOUN --|. Lying|VERB there|ADV ,|. his|PRON eyes|NOUN so|ADV open|ADJ .|.
+ You|PRON loved|VERB the|DET Baron|NOUN ,|. did|VERB n't|ADV you|PRON ?|.
+ Yes|X --|.
+ Then|ADV why|ADV did|VERB you|PRON have|VERB anything|NOUN to|PRT do|VERB with|ADP him|PRON ?|.
+ (|. simply|ADV )|. Money|NOUN !|.
+ You|PRON do|VERB n't|ADV understand|VERB that|DET do|VERB you|PRON ?|.
+ Of|ADP course|NOUN I|PRON do|VERB --|. I|PRON never|ADV knew|VERB what|PRON money|NOUN really|ADV meant|ADJ till|NOUN I|PRON started|VERB spending|VERB it|PRON .|.
+ What|QUESTIONTAG ?|.
+ You|PRON 'll|VERB have|VERB a|DET good|ADJ time|NOUN with|ADP me|PRON .|.
+ Later|ADV ?|.
+ When|QUESTIONTAG I|PRON --|. I|PRON 'm|VERB ill|ADJ ,|. Flaemmchen|NOUN --|. It|PRON will|VERB not|ADV be|VERB long|ADV --|. I|PRON 'll|VERB not|ADV last|ADJ long|ADV .|.
+ Do|VERB you|PRON believe|VERB that|ADP you|PRON will|VERB have|VERB a|DET better|ADJ time|NOUN with|ADP me|PRON than|ADP you|PRON would|VERB with|ADP Preysing|NOUN ?|.
+ Oh|X yes|X ,|. of|ADP course|NOUN .|.
+ (|. takes|VERB her|PRON hands|NOUN )|. Do|VERB you|PRON like|ADP me|PRON better|ADJ ?|.
+ You|PRON 're|VERB a|DET good|ADJ man|NOUN ,|. Mr.|NOUN Kringelein|NOUN --|. a|DET very|ADV good|ADJ man|NOUN .|.
+ Baron|NOUN von|NOUN Gaigern|NOUN has|VERB left|VERB ?|.
+ Have|VERB you|PRON seen|VERB Baron|NOUN von|NOUN Gaigern|NOUN ?|.
+ (|. comes|VERB over|ADP quickly|ADV )|. The|DET Baron|NOUN is|VERB not|ADV here|ADV ,|. Madam|NOUN .|.
+ He|PRON is|VERB gone|VERB ?|.
+ Yes|X ,|. Madam|NOUN .|.
+ (|. to|PRT Flaemmchen|NOUN )|. And|CONJ now|ADV we|PRON travel|VERB ,|. Flaemmchen|NOUN ...|. Glad|NOUN ?|.
+ Am|NOUN I|PRON !|.
+ (|. to|PRT Senf|NOUN )|. Is|VERB the|DET bill|NOUN ready|ADJ --|. the|DET lady|NOUN 's|PRT too|ADV ?|.
+ At|ADP once|ADV .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB there|DET is|VERB a|DET Grand|NOUN Hotel|NOUN ?|.
+ Oh|X ,|. there|DET must|VERB be|VERB one|NUM in|ADP Paris|NOUN ...|.
+ Was|NOUN that|ADP Mr.|NOUN Kringelein|NOUN leaving|VERB ?|.

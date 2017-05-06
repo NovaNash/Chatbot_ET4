@@ -1,0 +1,142 @@
+ Could|VERB it|PRON be|VERB so|ADV ?|.
+ Yes|X ,|. Your|PRON Majesty|NOUN .|.
+ Is|VERB that|ADP the|DET man|NOUN I|PRON knew|VERB ,|. Treasurer|NOUN Sanchez|NOUN ?|.
+ Yes|X ,|. Your|PRON Majesty|NOUN .|.
+ How|QUESTIONTAG did|VERB you|PRON manage|VERB it|PRON ?|.
+ (|. smiling|VERB )|. With|ADP some|DET difficulty|NOUN .|.
+ Why|ADV do|VERB you|PRON wish|VERB to|PRT sail|VERB west|NOUN ?|.
+ To|PRT open|VERB a|DET new|ADJ route|NOUN to|PRT Asia|NOUN .|.
+ How|QUESTIONTAG can|VERB you|PRON be|VERB so|ADV certain|ADJ ?|.
+ The|DET calculations|NOUN of|ADP Toscanelli|NOUN Marin|NOUN de|X Tyr|NOUN ,|. Esdras|NOUN ...|.
+ Would|VERB you|PRON like|ADP to|PRT come|VERB and|CONJ stay|VERB with|ADP us|PRON ?|.
+ answer|NOUN .|.
+ Are|ADP we|PRON going|VERB to|PRT argue|VERB ?|.
+ I|PRON 'd|VERB love|VERB to|PRT argue|VERB with|ADP you|PRON sometimes|ADV .|.
+ Fernando|NOUN ,|. do|VERB n't|ADV you|PRON think|VERB we|PRON are|VERB lucky|ADJ to|PRT live|VERB with|ADP such|ADJ a|DET beautiful|ADJ woman|NOUN ?|.
+ (|. hesitant|NOUN )|. Christopher|NOUN Columbus|NOUN ?|.
+ You|PRON say|VERB Asia|NOUN can|VERB be|VERB found|VERB by|ADP sailing|VERB west|NOUN ?|.
+ Yes|X ,|. your|PRON Eminence|NOUN .|.
+ Your|PRON Excellencies|NOUN are|VERB aware|ADJ of|ADP the|DET statements|NOUN of|ADP Marin|NOUN de|X Tyr|NOUN ?|.
+ We|PRON are|VERB .|.
+ Gentlemen|NOUN ,|. let|VERB us|PRON suppose|VERB Marin|NOUN de|X Tyr|NOUN is|VERB right|ADJ ...|. (|. the|DET laughter|NOUN subsides|NOUN )|. Are|VERB we|PRON here|ADV to|PRT examine|VERB this|DET proposal|NOUN or|CONJ not|ADV ?|.
+ (|. to|PRT Columbus|NOUN )|. In|ADP your|PRON opinion|NOUN ,|. how|ADV long|ADV would|VERB the|DET voyage|NOUN be|VERB ?|.
+ Seven|NOUN weeks|NOUN .|.
+ Therefore|ADV ,|. as|ADP a|DET modest|ADJ man|NOUN ,|. I|PRON wonder|VERB :|. who|PRON is|VERB right|ADJ ?|.
+ the|DET boldness|NOUN .|.
+ If|ADP God|NOUN intended|VERB our|PRON proximity|NOUN to|PRT Asia|NOUN ,|. do|VERB you|PRON believe|VERB he|PRON would|VERB have|VERB waited|VERB for|ADP you|PRON to|PRT show|VERB it|PRON to|PRT the|DET world|NOUN ?|.
+ Did|NOUN He|PRON not|ADV choose|VERB a|DET carpenter|NOUN 's|PRT son|NOUN to|PRT reveal|VERB Himself|PRON to|PRT the|DET world|NOUN ?|.
+ So|ADV you|PRON consider|VERB yourself|PRON the|DET chosen|NOUN one|NUM ?|.
+ Do|VERB n't|ADV you|PRON realize|VERB your|PRON words|NOUN could|VERB be|VERB considered|VERB heretical|ADJ ?|.
+ (|. calmly|NOUN )|. Blind|NOUN faith|NOUN is|VERB what|PRON I|PRON consider|VERB heresy|NOUN !|.
+ You|PRON would|VERB use|VERB your|PRON influence|NOUN to|PRT assist|VERB this|DET ...|. intriguer|NOUN ?|.
+ Father|NOUN ?|.
+ Sssshhhh|NOUN ...|. !|.
+ What|QUESTIONTAG can|VERB you|PRON do|VERB ?|.
+ Nothing|NOUN .|.
+ Senor|NOUN Colon|NOUN ?|.
+ middle-class|NOUN gentleman|NOUN .|.
+ (|. indicating|VERB the|DET monk|NOUN )|. Is|VERB he|PRON a|DET spy|NOUN ?|.
+ perplexed|NOUN .|.
+ Where|QUESTIONTAG can|VERB I|PRON meet|VERB this|DET man|NOUN ?|.
+ (|. indicating|VERB with|ADP a|DET nod|NOUN )|. Immediately|ADV .|.
+ Is|VERB this|DET a|DET good|ADJ time|NOUN to|PRT meet|VERB her|PRON ?|.
+ It|PRON could|VERB n't|ADV be|VERB better|ADJ .|.
+ The|DET ocean|NOUN is|VERB uncrossable|ADJ ?|.
+ What|QUESTIONTAG did|VERB they|PRON say|VERB about|ADP Granada|NOUN before|ADP today|NOUN ?|.
+ May|NOUN I|PRON speak|VERB freely|ADV ?|.
+ (|. with|ADP a|DET smile|NOUN )|. You|PRON show|VERB no|DET inclination|NOUN to|PRT speak|VERB otherwise|ADV !|.
+ (|. amused|VERB at|ADP his|PRON familiarity|NOUN )|. A|DET woman|NOUN ?|.
+ How|QUESTIONTAG old|ADJ are|VERB you|PRON ,|. Senor|NOUN Colon|NOUN ?|.
+ Thirty|NOUN seven|NUM ,|. Your|PRON Majesty|NOUN ...|. And|CONJ you|PRON ?|.
+ No|DET ?|.
+ NO|DET ...|. !|.
+ Why|ADV not|ADV ?|.
+ Do|VERB you|PRON swear|VERB on|ADP all|DET the|DET Holy|NOUN Saints|NOUN in|ADP heaven|NOUN ?|.
+ (|. laughing|VERB )|. Yes|X ...|.
+ What|QUESTIONTAG are|VERB you|PRON saying|VERB ?|.
+ I|PRON lied|VERB .|.
+ How|QUESTIONTAG long|ADV ?|.
+ I|PRON am|VERB not|ADV sure|ADJ ...|.
+ (|. still|ADV taking|VERB readings|NOUN )|. And|CONJ what|PRON do|VERB you|PRON think|VERB Mendez|NOUN ?|.
+ Well|ADV ,|. I|PRON surely|ADV know|VERB what|PRON a|DET quadrant|NOUN is|VERB !|.
+ What|QUESTIONTAG do|VERB you|PRON read|VERB ?|.
+ Twenty|NOUN eight|NUM .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB land|NOUN is|VERB on|ADP the|DET twenty|NOUN eighth|ADJ parallel|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON listening|VERB to|PRT ,|. chicken|VERB ass|NOUN ?|.
+ Ah|NOUN ,|. leave|VERB him|PRON alone|ADV .|.
+ To|PRT where|ADV ?|.
+ a|DET rhythm|NOUN on|ADP the|DET hull|NOUN with|ADP his|PRON fist|NOUN ,|. followed|VERB by|ADP the|DET others|NOUN .|.
+ You|PRON think|VERB I|PRON do|VERB n't|ADV know|VERB that|DET ?|.
+ We|PRON 're|VERB lost|VERB !|.
+ Who|QUESTIONTAG gave|VERB you|PRON the|DET order|NOUN to|PRT come|VERB on|ADP board|NOUN ?|.
+ stare|NOUN at|ADP one|NUM another|DET .|.
+ Cursed|VERB ?|.
+ We|PRON set|VERB sail|NOUN for|ADP greed|NOUN .|.
+ Shall|NOUN I|PRON take|VERB my|PRON turn|NOUN ?|.
+ bowl|NOUN .|.
+ Chief|NOUN says|VERB --|. how|ADV many|ADJ ?|.
+ Thousands|NOUN .|.
+ Why|ADV ?|.
+ first|ADJ time|NOUN he|PRON seems|VERB to|PRT be|VERB caught|VERB short|ADJ .|.
+ Do|VERB they|PRON have|VERB such|ADJ thoughts|NOUN ?|.
+ They|PRON come|VERB and|CONJ go|VERB as|ADV naked|VERB as|ADP the|DET day|NOUN God|NOUN created|VERB them|PRON ...|.
+ ...|. for|ADP a|DET commoner|NOUN ?|.
+ (|. disappointed|VERB )|. May|NOUN I|PRON ask|VERB by|ADP whom|PRON ?|.
+ Bartolome|NOUN and|CONJ Giacomo|NOUN Colon|NOUN .|.
+ Are|NOUN you|PRON saying|VERB you|PRON refuse|VERB to|PRT help|VERB ?|.
+ Is|VERB this|DET your|PRON new|ADJ world|NOUN ,|. Don|NOUN Colon|NOUN ?|.
+ HERNANDO|NOUN DE|NOUN GUEVARA|NOUN ,|. takes|VERB out|PRT his|PRON sword|NOUN .|.
+ Ask|NOUN the|DET Chief|NOUN what|PRON happened|VERB to|PRT my|PRON men|NOUN ?|.
+ Do|VERB you|PRON want|VERB her|PRON ?|.
+ properly|ADV .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Eat|NOUN !|.
+ How|QUESTIONTAG much|ADJ gold|NOUN have|VERB we|PRON found|VERB ?|.
+ Not|ADV enough|ADV to|PRT justify|VERB a|DET single|ADJ shipment|NOUN .|.
+ Then|ADV let|VERB 's|PRT hope|NOUN not|ADV ...|. (|. pause|NOUN )|. What|QUESTIONTAG will|VERB happen|VERB if|ADP we|PRON ca|VERB n't|ADV find|VERB enough|ADJ gold|NOUN ?|.
+ sound|NOUN .|.
+ What|QUESTIONTAG kind|NOUN of|ADP disease|NOUN is|VERB this|DET ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Will|VERB he|PRON survive|VERB ?|.
+ No|DET ,|. Your|PRON Majesty|NOUN .|.
+ (|. aggressively|ADV )|. Can|VERB you|PRON find|VERB them|PRON ?|.
+ being|VERB asked|VERB to|PRT do|VERB something|NOUN against|ADP his|PRON own|ADJ people|NOUN .|.
+ Do|VERB you|PRON know|VERB them|PRON ?|.
+ You|PRON know|VERB what|PRON they|PRON will|VERB say|VERB in|ADP Spain|NOUN about|ADP my|PRON death|NOUN --|. do|VERB n't|ADV you|PRON ?|.
+ him|PRON .|.
+ Is|VERB this|DET true|ADJ ,|. Brother|NOUN Buyl|NOUN ?|.
+ Yes|X ,|. Your|PRON Majesty|NOUN .|.
+ Then|ADV ,|. what|PRON do|VERB you|PRON suggest|VERB ,|. Don|NOUN Sanchez|NOUN ?|.
+ He|PRON must|VERB be|VERB replaced|VERB .|.
+ And|CONJ who|PRON would|VERB you|PRON think|VERB of|ADP ,|. for|ADP such|DET a|DET task|NOUN ?|.
+ Appointment|NOUN to|PRT what|PRON ?|.
+ Viceroy|NOUN of|ADP the|DET West|NOUN Indies|NOUN .|.
+ How|QUESTIONTAG far|ADV from|ADP here|ADV ?|.
+ I|PRON am|VERB not|ADV a|DET seaman|NOUN .|.
+ (|. quietly|ADV )|. Father|NOUN ?|.
+ Go|VERB back|ADV ?|.
+ over|ADP to|PRT the|DET table|NOUN .|.
+ Is|VERB he|PRON ?|.
+ Really|ADV ?|.
+ There|DET is|VERB one|NUM thing|NOUN I|PRON 'd|VERB like|VERB to|PRT understand|VERB ...|. Why|ADV do|VERB you|PRON want|VERB to|PRT go|VERB back|ADV ,|. after|ADP all|DET this|DET ?|.
+ Your|PRON Majesty|NOUN --|. some|DET men|NOUN are|VERB content|ADJ to|PRT read|VERB about|ADP things|NOUN .|.
+ Then|ADV why|ADV ?|.
+ Because|ADP he|PRON is|VERB not|ADV afraid|ADJ of|ADP me|PRON .|.
+ What|QUESTIONTAG do|VERB you|PRON see|VERB ?|.
+ Roofs|NOUN ...|. towers|NOUN ,|. palaces|NOUN ...|. spires|NOUN ...|.
+ But|CONJ as|ADP least|ADJ we|PRON have|VERB n't|ADV been|VERB bored|VERB ,|. have|VERB we|PRON ?|.
+ How|QUESTIONTAG are|VERB you|PRON feeling|ADJ ,|. Fernando|NOUN ?|.
+ (|. in|ADP a|DET strangled|ADJ voice|NOUN )|. Not|ADV bad|ADJ .|.
+ (|. almost|ADV casually|ADV )|. You|PRON know|VERB what|PRON I|PRON always|ADV used|VERB to|PRT do|VERB ?|.
+ What|QUESTIONTAG 's|VERB he|PRON doing|VERB ?|.
+ He|PRON 's|VERB drawing|VERB an|DET isthmus|NOUN ...|.
+ (|. approaching|VERB )|. What|QUESTIONTAG is|VERB ...|. ?|.
+ chewing|NOUN .|.
+ Will|VERB you|PRON ever|ADV forgive|VERB me|PRON ?|.
+ Have|VERB you|PRON ever|ADV forgiven|VERB me|PRON ?|.
+ Ca|NOUN n't|ADV you|PRON stay|VERB with|ADP us|PRON a|DET little|ADJ ?|.
+ I|PRON am|VERB busy|ADJ inside|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON listening|VERB to|PRT ?|.
+ I|PRON am|VERB not|ADV listening|VERB ,|. Father|NOUN .|.
+ What|QUESTIONTAG does|VERB he|PRON say|VERB ?|.
+ He|PRON asks|VERB when|ADV he|PRON can|VERB come|VERB to|PRT visit|VERB you|PRON .|.

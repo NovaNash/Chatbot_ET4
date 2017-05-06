@@ -1,0 +1,104 @@
+ The|DET heads|NOUN of|ADP the|DET maids|NOUN ?|.
+ Sampson|NOUN leers|VERB lecherously|ADV at|ADP the|DET girls|NOUN .|.
+ Do|VERB you|PRON bite|VERB your|PRON thumb|NOUN at|ADP us|PRON ,|. sir|VERB ?|.
+ Sampson|NOUN 's|PRT shaking|VERB hand|NOUN hovers|NOUN -|. ready|NOUN to|PRT draw|VERB .|.
+ Do|VERB you|PRON bite|VERB you|PRON thumb|VERB at|ADP us|PRON ,|. sir|VERB ?|.
+ (|. sweating|VERB ,|. murmurs|NOUN to|PRT Gregory|NOUN )|. Is|VERB the|DET law|NOUN on|ADP our|PRON side|NOUN if|ADP I|PRON say|VERB ``|. Ay|NOUN ''|. ?|.
+ Do|VERB you|PRON quarrel|VERB ,|. sir|VERB ?|.
+ CUT|NOUN TO|NOUN :|. Abra|NOUN ;|. a|DET dangerous|ADJ smile|NOUN .|.
+ No|DET better|ADJ ?|.
+ CLOSE|NOUN ON|NOUN :|. Sampson|NOUN ,|. trapped|VERB .|.
+ Is|VERB the|DET day|NOUN so|ADP young|ADJ ?|.
+ Was|NOUN that|ADP my|PRON father|NOUN that|DET went|VERB hence|ADV so|ADV fast|ADV ?|.
+ What|QUESTIONTAG sadness|NOUN lengthens|VERB Romeo|NOUN 's|PRT hours|NOUN ?|.
+ In|ADP love|NOUN ?|.
+ Of|ADP love|NOUN ?|.
+ What|QUESTIONTAG fray|NOUN was|VERB here|ADV ?|.
+ Benvolio|NOUN starts|VERB to|PRT reply|VERB .|.
+ Dost|NOUN thou|VERB not|ADV laugh|VERB ?|.
+ Benvolio|NOUN ,|. nervously|ADV eyeing|VERB the|DET bouncer|NOUN ,|. shepherds|NOUN Romeo|NOUN out|ADP of|ADP danger|NOUN .|.
+ Then|ADV she|PRON hath|VERB sworn|NOUN that|ADP she|PRON will|VERB still|ADV live|VERB chaste|NOUN ?|.
+ But|CONJ now|ADV ,|. my|PRON lord|NOUN ,|. what|PRON say|VERB you|PRON to|PRT my|PRON suit|NOUN ?|.
+ Capulet|NOUN considers|VERB the|DET framed|ADJ photograph|NOUN on|ADP his|PRON desk|NOUN .|.
+ Why|ADV ,|. Romeo|NOUN ,|. art|NOUN thou|NOUN mad|NOUN ?|.
+ Romeo|NOUN sinks|VERB the|DET other|ADJ balls|NOUN with|ADP his|PRON hands|NOUN .|.
+ I|PRON Pray|VERB you|PRON sir|VERB can|VERB you|PRON read|VERB ?|.
+ A|DET list|NOUN of|ADP names|NOUN begins|NOUN to|PRT scroll|VERB across|ADP the|DET screen|NOUN .|.
+ One|NUM fairer|NOUN than|ADP my|PRON love|NOUN ?|.
+ Crusty|NOUN returns|NOUN .|.
+ Can|VERB you|PRON like|ADP of|ADP Paris|NOUN '|PRT love|NOUN ?|.
+ Juliet|NOUN ,|. adept|VERB at|ADP negotiating|VERB her|PRON mother|NOUN 's|PRT strange|ADJ moods|NOUN ,|. chooses|VERB her|PRON words|NOUN precisely|ADV .|.
+ Why|ADV ,|. may|VERB one|NUM ask|NOUN ?|.
+ Well|ADV ,|. what|PRON was|VERB yours|VERB ?|.
+ Will|VERB you|PRON now|ADV deny|VERB to|PRT dance|VERB ?|.
+ Juliet|ADJ looks|VERB to|PRT Dave|NOUN ,|. desperately|ADV searching|VERB for|ADP a|DET reason|NOUN to|PRT decline|VERB .|.
+ Why|ADV how|ADV now|ADV kinsman|VERB ,|. wherefore|ADV storm|NOUN you|PRON so|ADV ?|.
+ Young|NOUN Romeo|NOUN is|VERB it|PRON ?|.
+ Have|NOUN not|ADV saints|NOUN lips|NOUN ,|. and|CONJ holy|ADJ palmers|NOUN too|ADV ?|.
+ (|. under|ADP his|PRON breath|NOUN )|. Is|VERB she|PRON a|DET Capulet|NOUN ?|.
+ CUT|NOUN TO|NOUN :|. Juliet|NOUN .|.
+ Come|NOUN ,|. shall|VERB we|PRON go|VERB ?|.
+ But|CONJ soft|ADJ ,|. what|PRON light|VERB through|PRT yonder|NOUN window|NOUN breaks|NOUN ?|.
+ Romeo|NOUN 's|PRT question|NOUN is|VERB answered|VERB as|ADP out|ADP onto|ADP the|DET verandah|NOUN comes|VERB Juliet|NOUN .|.
+ Shall|NOUN I|PRON hear|VERB more|ADV ,|. or|CONJ shall|VERB I|PRON speak|VERB at|ADP this|DET ?|.
+ What|QUESTIONTAG man|NOUN art|NOUN thou|NOUN that|ADP ,|. thus|ADV bescreened|VERB in|ADP night|NOUN ,|. So|NOUN stumblest|ADJ on|ADP my|PRON counsel|NOUN ?|.
+ Romeo|NOUN :|. A|DET calming|ADJ gesture|NOUN as|ADP he|PRON tries|VERB to|PRT tread|VERB water|NOUN .|.
+ Art|NOUN thou|VERB not|ADV Romeo|NOUN ,|. and|CONJ a|DET Montague|NOUN ?|.
+ What|QUESTIONTAG shall|VERB I|PRON swear|VERB by|ADP ?|.
+ O|NOUN ,|. wilt|VERB thou|NOUN leave|VERB me|PRON so|ADV unsatisfied|ADJ ?|.
+ Juliet|NOUN -|. a|DET shocked|ADJ look|NOUN .|.
+ What|QUESTIONTAG satisfaction|NOUN canst|NOUN thou|NOUN have|VERB tonight|VERB ?|.
+ CLOSE|NOUN ON|NOUN :|. Romeo|NOUN .|.
+ Romeo|NOUN will|VERB answer|VERB it|PRON ?|.
+ (|. struggling|VERB to|PRT break|VERB free|ADJ )|. Why|ADV ,|. what|PRON is|VERB Tybalt|NOUN ?|.
+ Pink|NOUN for|ADP flower|NOUN ?|.
+ The|DET boys|NOUN laugh|NOUN .|.
+ Why|ADV ,|. is|VERB not|ADV this|DET better|ADJ now|ADV than|ADP groaning|VERB for|ADP love|NOUN ?|.
+ Romeo|NOUN tries|VERB to|PRT dunk|VERB Mercutio|NOUN .|.
+ She|PRON will|VERB endite|VERB him|PRON to|PRT some|DET supper|NOUN ?|.
+ Even|ADV more|ADV strangely|ADV ,|. Romeo|NOUN gets|VERB into|ADP the|DET limousine|NOUN .|.
+ O|NOUN honey|NOUN nurse|NOUN ,|. what|PRON news|NOUN ?|.
+ The|DET Nurse|NOUN ,|. buried|VERB up|ADV to|PRT her|PRON ample|ADJ hips|NOUN inside|ADP the|DET refrigerator|NOUN ,|. does|VERB not|ADV turn|VERB around|PRT .|.
+ Your|PRON love|NOUN says|VERB like|ADP an|DET honest|NOUN gentleman|NOUN ,|. And|CONJ a|DET courteous|ADJ ,|. and|CONJ a|DET kind|NOUN ,|. and|CONJ a|DET handsome|NOUN ,|. And|CONJ I|PRON warrant|VERB a|DET virtuous|ADJ -|. Where|QUESTIONTAG is|VERB your|PRON mother|NOUN ?|.
+ Juliet|ADJ cracks|NOUN .|.
+ Have|VERB you|PRON got|VERB leave|VERB to|PRT go|VERB to|PRT confession|VERB today|NOUN ?|.
+ Could|NOUN you|PRON not|ADV take|VERB some|DET occasion|NOUN without|ADP giving|VERB ?|.
+ The|DET boys|NOUN fall|VERB about|ADV again|ADV .|.
+ Will|VERB you|PRON walk|VERB ?|.
+ Tybalt|NOUN leaps|VERB to|PRT his|PRON feet|NOUN grabbing|VERB a|DET lump|NOUN of|ADP wood|NOUN .|.
+ What|QUESTIONTAG wouldst|NOUN thou|NOUN have|VERB with|ADP me|PRON ?|.
+ He|PRON swipes|VERB at|ADP Mercutio|NOUN .|.
+ Art|NOUN thou|NOUN hurt|VERB ?|.
+ But|CONJ Mercutio|NOUN ,|. covering|VERB his|PRON wound|NOUN with|ADP his|PRON hand|NOUN ,|. laughs|VERB .|.
+ Why|ADV the|DET devil|NOUN came|VERB you|PRON between|ADP us|PRON ?|.
+ CUT|NOUN TO|NOUN :|. Patrol|NOUN cars|NOUN sliding|VERB to|PRT a|DET halt|NOUN .|.
+ Where|QUESTIONTAG are|VERB the|DET vile|ADJ beginners|NOUN of|ADP this|DET fray|NOUN ?|.
+ Benvolio|NOUN struggles|VERB forward|ADV .|.
+ Benvolio|NOUN ,|. who|PRON began|VERB this|DET bloody|NOUN fray|NOUN ?|.
+ Noble|ADJ Prince|NOUN ...|. ?|.
+ Prince|NOUN silences|VERB him|PRON .|.
+ Will|VERB you|PRON speak|VERB well|ADV of|ADP him|PRON that|DET killed|VERB your|PRON cousin|NOUN ?|.
+ Well|ADV Wednesday|NOUN is|VERB too|ADV soon|ADV -|. what|PRON say|VERB you|PRON to|PRT Thursday|NOUN ?|.
+ Gloria|NOUN looks|VERB up|PRT alarmed|ADJ ;|. Dave|NOUN is|VERB stunned|VERB .|.
+ (|. to|PRT Dave|NOUN )|. But|CONJ what|PRON say|VERB you|PRON to|PRT Thursday|NOUN ?|.
+ Dave|NOUN is|VERB trying|VERB to|PRT catch|VERB up|PRT .|.
+ O|NOUN ,|. think'st|ADJ thou|NOUN we|PRON shall|VERB ever|ADV meet|VERB again|ADV ?|.
+ Romeo|NOUN smiles|VERB up|PRT at|ADP her|PRON .|.
+ So|ADV worthy|ADJ a|DET gentleman|NOUN to|PRT be|VERB her|PRON bride|NOUN ?|.
+ Speakest|NOUN thou|NOUN from|ADP thy|ADJ heart|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Juliet|NOUN is|VERB matter|NOUN of|ADP fact|NOUN .|.
+ Come|NOUN you|PRON to|PRT make|VERB confession|NOUN ?|.
+ Juliet|ADJ forces|NOUN a|DET smile|NOUN .|.
+ Why|ADV Bride|NOUN ?|.
+ Juliet|ADJ navigates|VERB the|DET Nurse|NOUN toward|ADP the|DET door|NOUN .|.
+ Mortal|NOUN drugs|NOUN ?|.
+ How|QUESTIONTAG now|ADV ,|. Balthasar|NOUN ?|.
+ Bathlasar|NOUN can|VERB not|ADV speak|VERB .|.
+ Is|VERB it|PRON e'en|VERB so|ADV ?|.
+ Balthasar|NOUN nods|NOUN .|.
+ Who|QUESTIONTAG bore|VERB my|PRON letter|NOUN then|ADV to|PRT Romeo|NOUN ?|.
+ Oh|X Romeo|NOUN ,|. what|PRON 's|VERB here|ADV ?|.
+ Forcing|VERB herself|PRON up|PRT ,|. she|PRON cradles|VERB his|PRON head|NOUN in|ADP her|PRON arms|NOUN .|.
+ Balthasar|NOUN ?|.
+ How|QUESTIONTAG long|ADJ hath|NOUN he|PRON been|VERB there|ADV ?|.

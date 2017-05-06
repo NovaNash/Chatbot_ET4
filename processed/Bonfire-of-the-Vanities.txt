@@ -1,0 +1,47 @@
+ Where|QUESTIONTAG are|VERB all|DET the|DET white|ADJ people|NOUN ?|.
+ 52|NUM THEIR|NOUN POV|NOUN -|. PIMP|NOUN 52|NUM
+ Well|ADV ,|. I|PRON ca|VERB n't|ADV drive|VERB around|ADP it|PRON ,|. can|VERB I|PRON ?|.
+ You|PRON 're|VERB going|VERB to|PRT move|VERB it|PRON ?|.
+ Where|QUESTIONTAG you|PRON going|VERB with|ADP that|DET tire|NOUN ?|.
+ Oh|X .|.
+ The|DET police|NOUN ?|.
+ I|PRON mean|VERB we|PRON were|VERB almost|ADV robbed|VERB and|CONJ I|PRON think|VERB maybe|ADV it|PRON 's|VERB possible|ADJ you|PRON ...|. we|PRON hit|VERB one|NUM of|ADP them|PRON .|.
+ He|PRON was|VERB big|ADJ ...|. was|VERB n't|ADV he|PRON ?|.
+ You|PRON were|VERB bigger|ADJ ,|. Sherman|NOUN .|.
+ Where|QUESTIONTAG is|VERB Mister|NOUN Son-nenberg|NOUN ?|.
+ Are|NOUN you|PRON Andriutti|NOUN ?|.
+ GOLDBERG|NOUN RAY|NOUN Yeah|NOUN .|.
+ But|CONJ what|PRON 's|VERB a|DET bond|NOUN ?|.
+ (|. delighted|VERB )|. Oh|X ,|. yes|X ,|. Sherman|NOUN ,|. do|VERB explain|VERB it|PRON .|.
+ You|PRON look|VERB at|ADP the|DET Henry|NOUN Lamb|NOUN material|NOUN ?|.
+ Well|ADV ,|. yeah|X ,|. but|CONJ ...|. Look|NOUN ,|. it|PRON 's|VERB an|DET unfortunate|ADJ situation|NOUN .|.
+ (|. pauses|NOUN ;|. then|ADV )|. Well|NOUN ,|. by|ADP that|DET standard|NOUN ,|. is|VERB Henry|NOUN Lamb|NOUN an|DET honors|NOUN student|NOUN ?|.
+ Well|ADV ,|. he|PRON never|ADV pissed|VERB on|ADP me|PRON .|.
+ Where|QUESTIONTAG are|VERB all|DET the|DET people|NOUN ?|.
+ Oh|X ,|. really|ADV ?|.
+ MARTIN|NOUN Anybody|NOUN else|ADV use|VERB your|PRON car|NOUN ?|.
+ My|PRON wife|NOUN .|.
+ SHERMAN|NOUN Well|NOUN ,|. I|PRON ...|. how|ADV do|VERB you|PRON mean|VERB ?|.
+ Because|ADP ,|. if|ADP there|DET is|VERB ,|. now|ADV is|VERB the|DET time|NOUN to|PRT tell|VERB us|PRON .|.
+ Who|QUESTIONTAG ?|.
+ The|DET poet|NOUN .|.
+ What|QUESTIONTAG for|ADP ?|.
+ Excuse|ADP me|PRON ,|. do|VERB you|PRON know|VERB where|ADV I|PRON can|VERB find|VERB a|DET taxi|NOUN ?|.
+ who|PRON has|VERB just|ADV come|VERB out|PRT the|DET side|NOUN entrance|NOUN of|ADP the|DET building|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ I|PRON mean|VERB ,|. I|PRON was|VERB n't|ADV driving|VERB the|DET car|NOUN .|.
+ What|QUESTIONTAG ?|.
+ The|DET bill|NOUN ,|. monsieur|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ,|. 'my|X tape|NOUN '|. ?|.
+ Well|ADV ,|. if|ADP you|PRON were|VERB wired|VERB and|CONJ you|PRON recorded|VERB your|PRON own|ADJ conversation|NOUN that|DET would|VERB be|VERB okay|VERB .|.
+ Then|ADV what|PRON good|NOUN is|VERB it|PRON ?|.
+ An|DET idea|NOUN about|ADP what|PRON ?|.
+ An|DET idea|NOUN about|ADP what|PRON to|PRT wear|VERB when|ADV you|PRON go|VERB to|PRT this|DET funeral|ADJ .|.
+ KRAMER|NOUN Who|QUESTIONTAG ?|.
+ Sherman|NOUN McCoy|NOUN !|.
+ MR.|NOUN McCOY|NOUN What|QUESTIONTAG is|VERB it|PRON ?|.
+ Lie|NOUN .|.
+ Am|NOUN I|PRON ?|.
+ silence|NOUN in|ADP time|NOUN for|ADP everyone|NOUN to|PRT hear|VERB ...|. SHERMAN|NOUN (|. V.O|NOUN .|. )|.
+ Are|NOUN you|PRON alright|ADV ?|.
+ I|PRON 'm|VERB alright|ADJ .|.

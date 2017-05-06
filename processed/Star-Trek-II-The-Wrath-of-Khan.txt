@@ -1,0 +1,170 @@
+ Can|VERB you|PRON amplify|VERB ?|.
+ I|PRON 'm|VERB trying|VERB ...|.
+ Any|DET suggestions|NOUN ,|. Admiral|NOUN ?|.
+ Prayer|NOUN ,|. Mr.|NOUN Saavik|NOUN .|.
+ That|DET 's|VERB all|DET you|PRON have|VERB to|PRT say|VERB ?|.
+ I|PRON 'm|VERB not|ADV a|DET drama|NOUN critic|NOUN .|.
+ (|. continuing|VERB )|. Well|ADV ,|. Mr.|NOUN Saavik|NOUN ,|. are|VERB you|PRON going|VERB to|PRT stay|VERB with|ADP the|DET sinking|VERB ship|NOUN ?|.
+ Permission|NOUN to|PRT speak|VERB candidly|ADV ,|. sir|NOUN ?|.
+ And|CONJ why|ADV not|ADV ?|.
+ Because|ADP ...|. there|DET was|VERB no|DET way|NOUN to|PRT win|VERB .|.
+ How|QUESTIONTAG we|PRON deal|VERB with|ADP death|NOUN is|VERB at|ADP least|ADJ as|ADV important|ADJ as|ADP how|ADV we|PRON deal|VERB with|ADP life|NOUN ,|. would|VERB n't|ADV you|PRON say|VERB ?|.
+ (|. falters|NOUN )|. As|ADP I|PRON indicated|VERB ,|. Admiral|NOUN ,|. that|DET thought|VERB had|VERB not|ADV occurred|VERB to|PRT me|PRON .|.
+ Would|VERB n't|ADV it|PRON be|VERB easier|ADJ to|PRT put|VERB an|DET experienced|ADJ crew|NOUN back|ADV on|ADP the|DET ship|NOUN ?|.
+ They|PRON 'll|VERB learn|VERB .|.
+ (|. offended|VERB )|. What|QUESTIONTAG is|VERB that|DET supposed|VERB to|PRT mean|VERB ?|.
+ (|. dry|NOUN )|. Are|VERB n't|ADV you|PRON dead|VERB ?|.
+ (|. reads|NOUN )|. 'It|DET was|VERB the|DET best|ADJ of|ADP times|NOUN ,|. it|PRON was|VERB the|DET worst|ADJ of|ADP times|NOUN ...|. '|. Message|NOUN ,|. Spock|NOUN ?|.
+ None|NOUN of|ADP which|DET I|PRON am|VERB consciously|ADV aware|ADJ --|. except|ADP ,|. of|ADP course|NOUN ,|. happy|ADJ birthday|NOUN --|. surely|ADV the|DET best|ADJ of|ADP times|NOUN .|.
+ Hrummm|NOUN ...|. and|CONJ where|ADV are|VERB you|PRON off|ADP to|PRT ,|. now|ADV ?|.
+ The|DET Enterprise|NOUN .|.
+ Any|DET change|NOUN in|ADP surface|NOUN scan|NOUN ?|.
+ Negative|NOUN .|.
+ Does|VERB it|PRON have|VERB to|PRT be|VERB completely|ADV lifeless|ADJ ?|.
+ Par|NOUN for|ADP the|DET course|NOUN ...|. you|PRON teaming|VERB up|PRT with|ADP me|PRON for|ADP bridge|NOUN after|ADP dinner|NOUN ?|.
+ Maybe|ADV ...|.
+ (|. continuing|VERB )|. Bless|ADP me|PRON ,|. doctor|NOUN ;|. and|CONJ what|PRON beams|VERB you|PRON into|ADP this|DET neck|NOUN of|ADP the|DET woods|NOUN ?|.
+ 'Beware|NOUN Romulans|NOUN bearing|VERB gifts|NOUN .|. '|.
+ Uh|NOUN --|. what|DET are|VERB they|PRON ?|.
+ For|ADP your|PRON eyes|NOUN .|.
+ And|CONJ who|PRON am|VERB I|PRON hiding|VERB from|ADP ?|.
+ From|ADP yourself|PRON ,|. Admiral|NOUN .|.
+ Are|NOUN you|PRON sure|ADJ these|DET are|VERB the|DET coordinates|NOUN ?|.
+ Captain|NOUN ,|. this|DET is|VERB the|DET garden|ADJ spot|NOUN of|ADP Ceti|NOUN Alpha|NOUN VI|NOUN --|.
+ (|. continuing|VERB )|. What|QUESTIONTAG is|VERB it|PRON ?|.
+ (|. examines|VERB the|DET child|NOUN )|. What|QUESTIONTAG 's|VERB the|DET matter|NOUN --|. ?|.
+ Terrell|NOUN --|.
+ Chekov|NOUN ,|. who|PRON is|VERB this|DET man|NOUN ?|.
+ A|DET criminal|ADJ ,|. Captain|NOUN --|. a|DET product|NOUN of|ADP the|DET late|ADJ 20th|ADJ Century|NOUN genetic|ADJ engineering|NOUN --|.
+ (|. continuing|VERB )|. Why|ADV ?|.
+ Guests|NOUN ?|.
+ Maybe|ADV we|PRON ARE|VERB transplanting|VERB something|NOUN .|.
+ Permission|NOUN to|PRT come|VERB aboard|ADV ,|. Captain|NOUN ?|.
+ Welcome|NOUN aboard|NOUN ,|. Admiral|NOUN .|.
+ (|. continuing|VERB )|. And|CONJ who|PRON is|VERB this|DET ?|.
+ (|. breathless|NOUN )|. Midshipman|NOUN First|NOUN Class|NOUN Peter|NOUN Preston|NOUN ,|. engineers|NOUN mate|VERB ,|. SIR|NOUN .|.
+ Your|PRON first|ADJ training|NOUN voyage|NOUN ,|. Mr.|NOUN Preston|NOUN ?|.
+ Yes|X ,|. SIR|NOUN .|.
+ What|QUESTIONTAG did|VERB you|PRON expect|VERB ,|. Lieutenant|NOUN ?|.
+ (|. uncertain|NOUN )|. He|PRON 's|VERB very|ADV human|ADJ .|.
+ (|. dry|NOUN )|. What|QUESTIONTAG about|ADP the|DET rest|NOUN of|ADP the|DET inspection|NOUN ,|. Admiral|NOUN ?|.
+ The|DET inspection|NOUN will|VERB continue|VERB once|ADV we|PRON 're|VERB underway|ADJ ,|. Doctor|NOUN .|.
+ (|. continuing|VERB )|. Lieutenant|NOUN ,|. how|ADV many|ADJ times|NOUN have|VERB you|PRON piloted|VERB a|DET Starship|NOUN out|ADP of|ADP Spacedock|NOUN ?|.
+ Never|ADV ,|. sir|NOUN .|.
+ (|. sotto|ADJ voice|NOUN )|. Would|VERB you|PRON like|ADP a|DET tranquilizer|NOUN ?|.
+ Course|NOUN heading|NOUN ,|. Captain|NOUN ?|.
+ Then|ADV to|PRT whom|PRON do|VERB you|PRON report|VERB directly|ADV regarding|VERB Genesis|NOUN ?|.
+ To|PRT Doctor|NOUN Marcus|NOUN ,|. the|DET civilian|ADJ director|NOUN of|ADP the|DET experiments|NOUN on|ADP Space|NOUN Laboratory|NOUN Regula|NOUN I|PRON .|.
+ Does|VERB that|ADP about|ADV do|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV think|VERB there|DET 's|VERB another|DET piece|NOUN of|ADP information|NOUN we|PRON could|VERB squeeze|VERB into|ADP the|DET memory|NOUN banks|NOUN .|.
+ Where|QUESTIONTAG are|VERB we|PRON going|VERB ?|.
+ That|DET 's|VERB for|ADP us|PRON to|PRT know|VERB and|CONJ Reliant|NOUN to|PRT find|VERB out|PRT .|.
+ Lieutenant|NOUN ,|. are|VERB you|PRON wearing|VERB your|PRON hair|NOUN differently|ADV ?|.
+ It|PRON is|VERB still|ADV regulation|NOUN ,|. Admiral|NOUN .|.
+ (|. continuing|VERB )|. May|NOUN I|PRON speak|VERB ,|. sir|X ?|.
+ Lieutenant|ADJ ,|. self-expression|NOUN does|VERB not|ADV seem|VERB to|PRT be|VERB one|NUM of|ADP your|PRON problems|NOUN .|.
+ May|NOUN I|PRON ask|VERB how|ADV you|PRON dealt|VERB with|ADP the|DET test|NOUN ?|.
+ (|. amused|VERB )|. You|PRON may|VERB ask|VERB ,|. Lieutenant|NOUN .|.
+ (|. continuing|VERB )|. You|PRON want|VERB my|PRON advice|NOUN ?|.
+ attraction|NOUN is|VERB mutual|ADJ and|CONJ she|PRON has|VERB no|DET idea|NOUN how|ADV to|PRT handle|VERB it|PRON .|.
+ Who|QUESTIONTAG 's|VERB been|VERB holding|VERB up|PRT the|DET damn|NOUN elevator|NOUN ?|.
+ Has|NOUN she|PRON changed|VERB her|PRON hairstyle|NOUN ?|.
+ Will|VERB you|PRON accompany|VERB me|PRON to|PRT the|DET bridge|NOUN ?|.
+ I|PRON 'd|VERB best|VERB talk|NOUN with|ADP Mr.|NOUN Scott|NOUN ,|. first|ADV so|ADV that|ADP he|PRON may|VERB ,|. in|ADP his|PRON own|ADJ words|NOUN ,|. explain|VERB the|DET situation|NOUN to|PRT his|PRON cadets|NOUN .|.
+ But|CONJ no|DET longer|ADV jammed|VERB ?|.
+ No|DET ,|. sir|NOUN .|.
+ How|QUESTIONTAG far|ADV ?|.
+ Twelve|NOUN hours|NOUN and|CONJ forty-three|ADJ minutes|NOUN ,|. present|ADJ speed|NOUN .|.
+ Have|VERB they|PRON proceeded|VERB with|ADP their|PRON experiments|NOUN ?|.
+ The|DET tape|NOUN was|VERB made|VERB a|DET year|NOUN ago|ADV .|.
+ But|CONJ dear|ADJ Lord|NOUN ,|. are|VERB we|PRON intelligent|ADJ enough|ADV to|PRT --|. Suppose|NOUN ,|. this|DET thing|NOUN were|VERB used|VERB where|ADV life|NOUN already|ADV exists|VERB ?|.
+ It|PRON would|VERB destroy|VERB such|ADJ life|NOUN in|ADP favor|NOUN of|ADP its|PRON new|ADJ matrix|NOUN --|.
+ It|PRON 's|VERB new|ADJ --|. have|VERB you|PRON any|DET idea|NOUN what|PRON you|PRON 're|VERB saying|VERB ?|.
+ I|PRON was|VERB not|ADV attempting|VERB to|PRT evaluate|VERB its|PRON moral|ADJ implications|NOUN ,|. Doctor|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON make|VERB of|ADP her|PRON ?|.
+ It|PRON 's|VERB one|NUM of|ADP ours|NOUN ,|. Admiral|NOUN ...|.
+ What|QUESTIONTAG 's|VERB she|PRON doing|VERB here|ADV ?|.
+ Chekov|NOUN 's|PRT on|ADP Reliant|NOUN ,|. is|VERB n't|ADV he|PRON ?|.
+ Is|VERB it|PRON possible|ADJ their|PRON COMM|NOUN system|NOUN has|VERB failed|VERB --|. ?|.
+ It|PRON would|VERB explain|VERB a|DET great|ADJ many|ADJ things|NOUN --|.
+ Spock|NOUN ?|.
+ Scanning|VERB ...|.
+ Scotty|NOUN --|. what|PRON 's|VERB left|VERB ?|.
+ Just|ADV the|DET batteries|NOUN ,|. sir|NOUN .|.
+ Who|QUESTIONTAG the|DET hell|NOUN are|VERB they|PRON ?|.
+ Admiral|NOUN ...|.
+ Who|QUESTIONTAG ?|.
+ You|PRON still|ADV remember|VERB ,|. Admiral|NOUN .|.
+ Genesis|NOUN ,|. what|PRON 's|VERB that|DET ?|.
+ Do|VERB n't|ADV play|VERB with|ADP me|PRON ,|. Kirk|NOUN ,|. my|PRON hand|NOUN is|VERB on|ADP the|DET phaser|NOUN control|NOUN --|.
+ The|DET prefix|NOUN code|NOUN ?|.
+ It|PRON 's|VERB all|DET we|PRON 've|VERB got|VERB .|.
+ (|. continuing|VERB )|. Khan|NOUN ,|. how|ADV do|VERB I|PRON know|VERB you|PRON 'll|VERB keep|VERB your|PRON word|NOUN ?|.
+ (|. on|ADP screen|NOUN )|. I|PRON 've|VERB given|VERB you|PRON no|DET word|NOUN to|PRT keep|VERB ,|. Admiral|NOUN .|.
+ (|. faint|NOUN )|. Is|VERB the|DET word|NOUN given|VERB ?|.
+ (|. soft|ADJ )|. The|DET word|NOUN is|VERB given|VERB :|. warp|ADJ speed|NOUN .|.
+ WHY|ADV ?|.
+ (|. looks|VERB at|ADP Preston|NOUN )|. He|PRON wants|VERB to|PRT kill|VERB me|PRON for|ADP passing|VERB sentence|NOUN on|ADP him|PRON 14|NUM years|NOUN ago|ADV --|. and|CONJ he|PRON does|VERB n't|ADV care|VERB who|PRON stands|VERB between|ADP him|PRON and|CONJ his|PRON vengeance|NOUN .|.
+ Are|NOUN you|PRON all|DET right|ADV ?|.
+ Sensors|NOUN ,|. Captain|NOUN ?|.
+ Scanners|NOUN and|CONJ sensors|NOUN still|ADV inoperative|VERB .|.
+ Engine|ADJ room|NOUN ...|. Scotty|NOUN ,|. do|VERB we|PRON have|VERB enough|ADJ power|NOUN for|ADP the|DET transporters|NOUN ?|.
+ Just|ADV barely|ADV ,|. sir|NOUN .|.
+ Did|NOUN he|PRON make|VERB it|PRON down|PRT here|ADV ?|.
+ stronger|ADJ .|.
+ Anything|NOUN ?|.
+ Stage|NOUN Two|NUM of|ADP what|PRON ?|.
+ Meaning|VERB you|PRON ca|VERB n't|ADV even|ADV beam|VERB us|PRON back|PRT ?|.
+ Not|ADV at|ADP present|ADJ .|.
+ But|CONJ what|PRON if|ADP they|PRON went|VERB --|. nowhere|ADV ?|.
+ Then|ADV this|DET will|VERB be|VERB your|PRON big|ADJ chance|NOUN to|PRT get|VERB away|ADV from|ADP it|PRON all|DET .|.
+ (|. continuing|VERB )|. Why|ADV did|VERB n't|ADV you|PRON tell|VERB me|PRON ?|.
+ She|PRON 's|VERB making|VERB it|PRON up|PRT !|.
+ Your|PRON excellency|NOUN ,|. have|VERB you|PRON been|VERB listening|VERB ?|.
+ (|. filtered|VERB )|. I|PRON have|VERB indeed|ADV ,|. Captain|NOUN .|.
+ Well|ADV ?|.
+ Warp|NOUN drive|NOUN still|ADV inoperative|ADJ .|.
+ Pavel|NOUN ?|.
+ How|QUESTIONTAG can|VERB you|PRON think|VERB of|ADP food|NOUN at|ADP a|DET time|NOUN like|ADP this|DET ?|.
+ Our|PRON first|ADJ order|NOUN of|ADP business|NOUN is|VERB survival|ADJ .|.
+ Admiral|NOUN ?|.
+ As|ADP your|PRON teacher|ADP Mr.|NOUN Spock|NOUN is|VERB fond|NOUN of|ADP saying|VERB :|. I|PRON like|VERB to|PRT think|VERB there|DET always|ADV are|VERB possibilities|NOUN .|.
+ You|PRON did|VERB this|DET --|. in|ADP a|DET day|NOUN ?|.
+ The|DET matrix|NOUN formed|VERB in|ADP a|DET day|NOUN .|.
+ Where|QUESTIONTAG IS|VERB she|PRON ?|.
+ What|QUESTIONTAG are|VERB you|PRON looking|VERB at|ADP ?|.
+ The|DET Admiral|NOUN 's|PRT son|NOUN .|.
+ What|QUESTIONTAG 's|VERB on|ADP your|PRON mind|NOUN ,|. Lieutenant|NOUN ?|.
+ The|DET Kobayashi|NOUN Maru|NOUN ,|. sir|NOUN .|.
+ The|DET what|PRON ?|.
+ The|DET no-win|ADJ scenario|NOUN --|. and|CONJ with|ADP what|PRON philosophy|NOUN a|DET commander|NOUN faces|VERB defeat|NOUN .|.
+ Are|NOUN you|PRON asking|VERB me|PRON if|ADP we|PRON are|VERB playing|VERB out|PRT that|ADP scenario|NOUN now|ADV ,|. Lieutenant|NOUN ?|.
+ On|ADP the|DET test|NOUN ,|. sir|NOUN ,|. will|VERB you|PRON tell|VERB me|PRON what|PRON you|PRON did|VERB ?|.
+ How|QUESTIONTAG ?|.
+ I|PRON reprogrammed|VERB the|DET simulation|NOUN so|ADP it|PRON was|VERB possible|ADJ to|PRT rescue|VERB the|DET ship|NOUN .|.
+ WHAT|PRON ?|.
+ I|PRON changed|VERB the|DET conditions|NOUN of|ADP the|DET test|NOUN .|.
+ What|QUESTIONTAG IS|VERB working|VERB around|ADV here|ADV ?|.
+ Not|ADV much|ADV ,|. Admiral|NOUN .|.
+ That|DET 's|VERB it|PRON ?|.
+ Best|ADP we|PRON could|VERB do|VERB in|ADP two|NUM hours|NOUN .|.
+ (|. studies|NOUN his|PRON console|NOUN )|. Scotty|NOUN ,|. can|VERB we|PRON make|VERB it|PRON inside|ADP ?|.
+ The|DET energizer|NOUN 's|PRT bypassed|VERB like|ADP a|DET Christmas|NOUN tree|NOUN --|. so|ADV do|VERB n't|ADV give|VERB me|PRON too|ADV many|ADJ bumps|NOUN .|.
+ Admiral|ADJ ...|. what|PRON happens|VERB if|ADP Reliant|NOUN fails|VERB to|PRT follow|VERB us|PRON into|ADP the|DET nebula|NOUN ?|.
+ Why|ADV are|VERB we|PRON slowing|VERB ?|.
+ We|PRON dare|VERB n't|ADV follow|VERB them|PRON into|ADP the|DET nebula|NOUN ,|. sir|NOUN --|. our|PRON shields|NOUN will|VERB be|VERB useless|ADJ ...|.
+ Damage|NOUN ,|. Scotty|NOUN ?|.
+ Could|NOUN you|PRON use|VERB another|DET hand|NOUN ,|. Admiral|NOUN ?|.
+ Man|DET the|DET weapons|NOUN console|NOUN ,|. Mr.|NOUN Chekov|NOUN .|.
+ (|. continuing|VERB )|. Spock|NOUN ?|.
+ (|. to|PRT intercom|VERB )|. Mr.|NOUN Scott|NOUN ,|. can|VERB you|PRON get|VERB the|DET mains|NOUN back|ADV on|ADP line|NOUN ?|.
+ (|. breaking|VERB up|PRT slightly|ADV )|. I|PRON 'll|VERB need|VERB ten|NUM minutes|NOUN ,|. sir|NOUN ,|. 'til|. the|DET radiation|NOUN dissipates|VERB .|.
+ What|QUESTIONTAG ?|.
+ He|PRON 's|VERB on|ADP a|DET build|NOUN up|PRT to|PRT detonation|NOUN !|.
+ The|DET ship|NOUN --|. out|ADP of|ADP danger|NOUN ?|.
+ Yes|X --|.
+ Are|NOUN you|PRON running|VERB away|ADV from|ADP me|PRON ?|.
+ Is|VERB that|ADP what|PRON you|PRON came|VERB here|ADV to|PRT say|VERB ?|.
+ Mainly|ADV .|.
+ (|. soft|ADJ )|. Is|VERB that|ADP a|DET poem|NOUN ?|.
+ Something|VERB Spock|NOUN was|VERB trying|VERB to|PRT tell|VERB me|PRON .|.

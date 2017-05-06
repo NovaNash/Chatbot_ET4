@@ -1,0 +1,161 @@
+ What|QUESTIONTAG 's|VERB the|DET rehab|NOUN time|NOUN ?|.
+ BRANDON|NOUN When|QUESTIONTAG do|VERB I|PRON play|VERB again|ADV ?|.
+ Could|VERB you|PRON get|VERB him|PRON out|PRT ,|. please|VERB ?|.
+ It|PRON 's|VERB okay|ADJ ,|. we|PRON 're|VERB fine|ADJ ,|. I|PRON 'm|VERB his|PRON father|NOUN .|.
+ PSYCHIATRIST|NOUN Who|QUESTIONTAG did|VERB the|DET referee|NOUN represent|NOUN ,|. Brandon|NOUN ?|.
+ He|PRON represented|VERB the|DET nearest|ADJ guy|NOUN I|PRON could|VERB grab|VERB .|.
+ Yeah|X ?|.
+ Congratulations|NOUN !|.
+ This|DET is|VERB a|DET joke|NOUN ,|. right|ADV ?|.
+ A|DET joke|NOUN can|VERB be|VERB the|DET ultimate|ADJ intellectual|ADJ pursuit|NOUN sometimes|ADV .|.
+ How|QUESTIONTAG 'd|VERB you|PRON afford|VERB that|DET yacht|NOUN if|ADP the|DET picks|NOUN are|VERB free|ADJ ?|.
+ There|DET is|VERB no|DET yacht|NOUN .|.
+ What|QUESTIONTAG 's|VERB on|ADP the|DET second|ADJ floor|NOUN ?|.
+ That|DET 's|VERB where|ADV we|PRON print|VERB the|DET money|NOUN .|.
+ Ever|ADV have|VERB a|DET manicure|NOUN ?|.
+ Me|NOUN ?|.
+ He|PRON makes|VERB all|DET his|PRON employees|NOUN do|VERB this|DET ?|.
+ Every|DET one|NUM .|.
+ How|QUESTIONTAG often|ADV ?|.
+ Once|ADV .|.
+ You|PRON think|VERB ?|.
+ I|PRON 've|VERB never|ADV had|VERB my|PRON nails|NOUN done|VERB before|ADV .|.
+ No|DET ,|. do|VERB you|PRON drink|VERB ?|.
+ Excuse|ADP me|PRON ?|.
+ What|QUESTIONTAG about|ADP it|PRON ?|.
+ Look|NOUN ,|. I|PRON 'm|VERB sorry|ADJ ,|. I|PRON 'm|VERB pressed|VERB for|ADP time|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Brandon|NOUN ,|. Walter|NOUN and|CONJ I|PRON are|VERB married|VERB .|.
+ How|QUESTIONTAG 'd|VERB I|PRON do|VERB ?|.
+ Except|ADP for|ADP an|DET illegal|ADJ forward|NOUN pass|NOUN ,|.
+ What|QUESTIONTAG 's|VERB your|PRON sales|NOUN pitch|NOUN ?|.
+ What|QUESTIONTAG 's|VERB my|PRON sales|NOUN pitch|NOUN ?|.
+ Should|VERB I|PRON call|VERB someone|NOUN ?|.
+ Not|ADV unless|ADP they|PRON got|VERB a|DET spare|ADJ heart|NOUN .|.
+ BRANDON|NOUN What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Courage|NOUN wants|VERB to|PRT laugh|VERB .|.
+ Is|VERB your|PRON name|NOUN Brandon|NOUN ?|.
+ Oh|X ,|. they|PRON 're|VERB great|ADJ .|.
+ What|QUESTIONTAG 're|VERB they|PRON like|ADP ?|.
+ Mom|NOUN 's|PRT terrific|NOUN .|.
+ What|QUESTIONTAG 'd|VERB the|DET doctor|NOUN say|VERB ,|. Walter|NOUN ?|.
+ Oh|X yeah|NOUN ,|. I|PRON 've|VERB been|VERB meaning|VERB to|PRT tell|VERB you|PRON .|.
+ What|QUESTIONTAG the|DET hell|NOUN was|VERB that|ADP ?|.
+ I|PRON 'll|VERB send|VERB over|ADP a|DET bottle|NOUN of|ADP champagne|NOUN .|.
+ You|PRON 're|VERB telling|VERB me|PRON that|ADP all|DET this|DET is|VERB legal|ADJ ?|.
+ It|PRON better|ADV be|VERB .|.
+ What|QUESTIONTAG happened|VERB to|PRT the|DET fuck|NOUN ?|.
+ Nothing|NOUN ,|. I|PRON just|ADV do|VERB n't|ADV talk|VERB like|ADP that|DET .|.
+ What|QUESTIONTAG the|DET fuck|NOUN was|VERB that|ADP ?|.
+ ...|. What|QUESTIONTAG 'd|VERB you|PRON just|ADV say|VERB ?|.
+ So|ADV ?|.
+ That|DET was|VERB great|ADJ !|.
+ What|QUESTIONTAG 's|VERB all|DET the|DET commotion|NOUN ?|.
+ The|DET doctor|NOUN ,|. thank|NOUN God|NOUN ,|. put|VERB Walter|NOUN ,|. on|ADP an|DET exercise|NOUN program|NOUN .|.
+ Walter|NOUN ,|. do|VERB you|PRON trust|VERB him|PRON ?|.
+ With|ADP my|PRON wife|NOUN naked|VERB .|.
+ WALTER|NOUN You|PRON okay|VERB ?|.
+ I|PRON 'm|VERB scared|ADJ shitless|NOUN .|.
+ How|QUESTIONTAG ?|.
+ There|DET 's|VERB no|DET opponent|NOUN .|.
+ It|PRON sets|VERB you|PRON free|ADJ ?|.
+ That|DET 's|VERB right|ADJ ,|. but|CONJ with|ADP me|PRON it|PRON makes|VERB you|PRON M-O-N-EE|ADJ !|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Going|VERB for|ADP a|DET run|NOUN .|.
+ Did|NOUN Brandon|NOUN take|VERB the|DET call|NOUN ?|.
+ Who|QUESTIONTAG the|DET hell|NOUN 's|PRT John|NOUN ?|.
+ Brandon|NOUN ,|. we|PRON all|DET call|VERB him|PRON John|NOUN now|ADV .|.
+ You|PRON got|VERB Brandon|NOUN a|DET hooker|NOUN ?|.
+ New|NOUN city|NOUN ,|. no|DET friends|NOUN ,|. working|VERB all|DET hours|NOUN .|.
+ What|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON creating|VERB here|ADV ,|. Walter|NOUN ?|.
+ I|PRON do|VERB n't|ADV understand|VERB this|DET .|.
+ Of|ADP what|PRON ?|.
+ Gee|NOUN ,|. I|PRON do|VERB n't|ADV know|VERB --|. Brandon|NOUN screwing|VERB someone|NOUN ?|.
+ Can|VERB we|PRON play|VERB princess|ADV ,|. Daddy|NOUN ?|.
+ Course|ADP we|PRON can|VERB .|.
+ What|QUESTIONTAG ?|.
+ John|NOUN Anthony|NOUN 's|PRT leading|VERB off|PRT tonight|NOUN .|.
+ John|NOUN Anthony|NOUN 's|PRT leading|VERB ?|.
+ Somebody|NOUN tell|VERB the|DET engineer|NOUN there|DET 's|VERB an|DET echo|NOUN in|ADP here|ADV .|.
+ Have|VERB you|PRON been|VERB blocking|VERB any|DET of|ADP my|PRON calls|NOUN ?|.
+ Of|ADP course|NOUN .|.
+ How|QUESTIONTAG 's|PRT Mom|NOUN ?|.
+ Fucking|VERB freak|NOUN !|.
+ This|DET is|VERB ...|. May|NOUN I|PRON please|VERB speak|VERB to|PRT a|DET Brandon|NOUN Lang|NOUN ?|.
+ ...|.
+ Brandon|NOUN ,|. is|VERB that|ADP you|PRON ?|.
+ That|DET 's|VERB me|PRON .|.
+ BRANDON|NOUN 'S|PRT MOTHER|NOUN Are|NOUN you|PRON okay|ADP ?|.
+ Never|ADV better|ADV .|.
+ Who|QUESTIONTAG 's|VERB this|DET John|NOUN Anthony|NOUN person|NOUN ?|.
+ He|PRON 's|VERB me|PRON .|.
+ And|CONJ he|PRON talks|VERB like|ADP that|DET ?|.
+ He|PRON 's|VERB pretty|ADJ fucking|NOUN salty|NOUN --|. geez|NOUN ,|. I|PRON 'm|VERB sorry|ADJ ,|. Mom|NOUN --|. I|PRON mean|VERB yeah|X .|.
+ What|QUESTIONTAG do|VERB you|PRON know|VERB about|ADP him|PRON ?|.
+ Not|ADV much|ADV ,|. 'cept|ADP for|ADP the|DET fact|NOUN he|PRON 's|VERB a|DET world|NOUN class|NOUN prick|NOUN .|.
+ BRANDON|NOUN ...|. Walter|NOUN ?|.
+ BRANDON|NOUN Your|PRON vial|NOUN --|. where|ADV 's|PRT your|PRON pills|NOUN ,|. Walter|NOUN ?|.
+ ...|. Do|VERB you|PRON love|VERB me|PRON ?|.
+ Of|ADP course|NOUN I|PRON do|VERB .|.
+ ...|. How|QUESTIONTAG much|ADV ?|.
+ A|DET lot|NOUN !|.
+ ...|. Would|VERB you|PRON love|VERB me|PRON if|ADP this|DET was|VERB a|DET joke|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG street|NOUN did|VERB you|PRON grow|VERB up|PRT on|ADP ?|.
+ Atlantic|NOUN Avenue|NOUN .|.
+ Who|QUESTIONTAG do|VERB you|PRON like|ADP Monday|NOUN night|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ Pick|NOUN one|NUM .|.
+ ...|. Are|NOUN you|PRON gambling|VERB again|ADV ,|. Walter|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ I|PRON have|VERB a|DET 10:30|NUM tee|NOUN time|NOUN at|ADP Wingfoot|NOUN with|ADP a|DET client|NOUN ,|. that|DET Howell|NOUN guy|NOUN .|.
+ Julia|NOUN to|PRT play|VERB dates|NOUN or|CONJ keeping|VERB Walter|NOUN from|ADP losing|VERB his|PRON mind|NOUN ,|. which|DET I|PRON know|VERB is|VERB a|DET full-time|ADJ job|NOUN ,|. what|PRON do|VERB you|PRON do|VERB for|ADP you|PRON ,|. Toni|NOUN ?|.
+ I|PRON stay|VERB busy|ADJ .|.
+ You|PRON 'd|VERB bet|VERB your|PRON mother|NOUN 's|PRT house|NOUN on|ADP it|PRON ?|.
+ I|PRON do|VERB n't|ADV bet|VERB .|.
+ If|ADP you|PRON did|VERB ?|.
+ I|PRON like|VERB the|DET pick|NOUN ,|. Walter|NOUN .|.
+ On|ADP your|PRON mother|NOUN 's|PRT house|NOUN or|CONJ not|ADV ?|.
+ With|ADP my|PRON mother|NOUN in|ADP it|PRON .|.
+ You|PRON have|VERB n't|ADV seen|VERB the|DET scores|NOUN ?|.
+ Nope|NOUN .|.
+ ...|. What|QUESTIONTAG 'd|VERB I|PRON go|VERB ?|.
+ I|PRON have|VERB an|DET idea|NOUN .|.
+ What|QUESTIONTAG am|VERB I|PRON ,|. wood|NOUN ?|.
+ You|PRON got|VERB one|NUM good|ADJ weekend|NOUN under|ADP your|PRON belt|NOUN ,|. do|VERB n't|ADV push|VERB it|PRON .|.
+ What|QUESTIONTAG ?|.
+ You|PRON heard|VERB me|PRON .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB here|ADV ?|.
+ I|PRON came|VERB by|ADP to|PRT take|VERB you|PRON out|PRT for|ADP a|DET late|ADJ dinner|NOUN and|CONJ a|DET couple|NOUN of|ADP killer|NOUN bottles|NOUN of|ADP wine|NOUN .|.
+ Amir|NOUN ?|.
+ Who|QUESTIONTAG were|VERB they|PRON ?|.
+ We|PRON need|VERB a|DET bat|NOUN light|NOUN or|CONJ something|NOUN ,|. you|PRON know|VERB a|DET signal|ADJ I|PRON can|VERB shoot|VERB up|PRT at|ADP the|DET Walter|NOUN con|NOUN 'd|VERB
+ What|QUESTIONTAG happened|VERB to|PRT the|DET two|NUM mill|NOUN ,|. all|DET the|DET other|ADJ money|NOUN ?|.
+ I|PRON was|VERB carrying|VERB twice|ADV that|ADP in|ADP red|ADJ ink|NOUN before|ADP you|PRON showed|VERB up|PRT .|.
+ Blow|NOUN job|NOUN ?|.
+ Thanks|NOUN anyway|ADV .|.
+ works|NOUN out|PRT ,|. watching|VERB ESPN|NOUN --|. the|DET SALES|NOUN STAFF|NOUN sit|VERB idle|ADJ at|ADP their|PRON desks|NOUN ,|. playing|VERB cards|NOUN --|. a|DET pick|ADJ sheet|NOUN fills|NOUN FRAME|NOUN ,|. shows|VERB New|NOUN York|NOUN versus|NOUN Atlanta|NOUN ,|. Tenessee|NOUN versus|ADP Kansas|NOUN City|NOUN and|CONJ an|DET over/under|ADJ beneath|NOUN each|DET game|NOUN --|. WALTER|NOUN waits|NOUN in|ADP the|DET SALES|NOUN ROOM|NOUN ,|. edgy|NOUN ,|. pacing|VERB when|ADV BRANDON|NOUN emerges|VERB holding|VERB the|DET sheet|NOUN --|. all|DET eyes|NOUN on|ADP him|PRON --|. WALTER|NOUN approaches|NOUN --|. WALTER|ADP These|DET are|VERB the|DET winners|NOUN ?|.
+ That|DET 's|VERB who|PRON I|PRON like|VERB .|.
+ Brandon|NOUN made|VERB these|DET picks|NOUN ?|.
+ You|PRON 're|VERB looking|VERB at|ADP him|PRON .|.
+ Meaning|VERB what|PRON ?|.
+ Who|QUESTIONTAG 's|VERB side|NOUN are|VERB you|PRON on|ADP ?|.
+ What|QUESTIONTAG time|NOUN is|VERB it|PRON ?|.
+ Five|NUM in|ADP the|DET morning|NOUN .|.
+ Wan|NOUN na|ADV know|VERB about|ADP the|DET picks|NOUN ?|.
+ New|NOUN York|NOUN minus|VERB the|DET two-and-a-half|ADJ points|NOUN and|CONJ the|DET over|NOUN ,|. what|PRON should|VERB I|PRON know|VERB ?|.
+ And|CONJ you|PRON did|VERB n't|ADV you|PRON tell|VERB me|PRON ?|.
+ He|PRON asked|VERB me|PRON not|ADV to|PRT .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ,|. what|PRON do|VERB I|PRON mean|VERB ?|.
+ He|PRON said|VERB that|ADP to|PRT you|PRON ?|.
+ Yeah|X ,|. loud|ADJ and|CONJ clear|ADJ ,|. by|ADP leaving|VERB .|.
+ Do|VERB I|PRON have|VERB to|PRT ?|.
+ I|PRON know|VERB you|PRON did|VERB !|.
+ I|PRON guess|VERB you|PRON had|VERB the|DET whole|ADJ thing|NOUN planned|VERB ?|.
+ Do|VERB n't|ADV make|VERB this|DET about|ADP me|PRON !|.
+ What|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON talking|VERB about|ADP ?|.
+ Hello|NOUN ,|. Brandon|NOUN ?|.
+ Hey|NOUN ,|. hey|VERB the|DET big|ADJ winner|NOUN .|.

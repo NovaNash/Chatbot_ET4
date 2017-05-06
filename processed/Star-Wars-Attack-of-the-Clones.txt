@@ -1,0 +1,179 @@
+ Master|NOUN Yoda|NOUN ,|. do|VERB you|PRON think|VERB it|PRON will|VERB really|ADV come|VERB to|PRT war|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG do|VERB you|PRON sense|VERB ,|. Master|NOUN ?|.
+ Do|VERB you|PRON think|VERB that|DET is|VERB a|DET wise|NOUN use|NOUN of|ADP manpower|NOUN during|ADP these|DET stressful|ADJ times|NOUN ?|.
+ Chancellor|NOUN ,|. if|ADP I|PRON may|VERB comment|VERB ,|. I|PRON do|VERB not|ADV believe|VERB the|DET ...|.
+ Why|ADV ?|.
+ What|QUESTIONTAG ?|. ?|. !|.
+ Why|ADV could|VERB n't|ADV we|PRON see|VERB this|DET attack|NOUN on|ADP the|DET Senator|NOUN ?|.
+ Masking|VERB the|DET future|NOUN ,|. is|VERB this|DET disturbance|NOUN in|ADP the|DET Force|NOUN .|.
+ Do|VERB you|PRON think|VERB Obi-Wan|NOUN 's|PRT apprentice|NOUN will|VERB be|VERB able|ADJ to|PRT bring|VERB balance|NOUN to|PRT the|DET Force|NOUN ?|.
+ Only|ADV if|ADP he|PRON chooses|VERB to|PRT follow|VERB his|PRON destiny|NOUN .|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ What|QUESTIONTAG is|VERB she|PRON thinking|VERB ?|.
+ She|PRON programmed|VERB Artoo|NOUN to|PRT warn|VERB us|PRON if|ADP there|DET 's|VERB an|DET intruder|NOUN .|.
+ And|CONJ yours|NOUN are|VERB ?|.
+ Possibly|ADV .|.
+ Because|ADP of|ADP your|PRON mother|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB why|ADV I|PRON keep|VERB dreaming|VERB About|ADP her|PRON now|ADV .|.
+ What|QUESTIONTAG took|VERB you|PRON so|ADV long|ADV ?|.
+ Oh|X ,|. you|PRON know|VERB ,|. Master|NOUN ,|. I|PRON could|VERB n't|ADV find|VERB a|DET speeder|NOUN I|PRON really|ADV liked|VERB ,|. with|ADP an|DET open|ADJ cockpit|NOUN ...|. and|CONJ with|ADP the|DET right|ADJ speed|NOUN capabilities|NOUN ...|. and|CONJ then|ADV you|PRON know|VERB I|PRON had|VERB to|PRT get|VERB a|DET really|ADV gonzo|ADJ color|NOUN ...|.
+ (|. continuing|VERB )|. Yiiii|NOUN ,|. what|PRON are|VERB you|PRON doing|VERB ?|.
+ Sorry|NOUN ,|. Master|NOUN !|.
+ Why|ADV do|VERB I|PRON think|VERB you|PRON are|VERB going|VERB to|PRT be|VERB the|DET death|NOUN of|ADP me|PRON ?|.
+ Do|VERB n't|ADV say|VERB that|ADP Master|NOUN ...|. You|PRON 're|VERB the|DET closest|ADJ thing|NOUN I|PRON have|VERB to|PRT a|DET father|NOUN ...|.
+ Then|ADV why|ADV do|VERB n't|ADV you|PRON listen|VERB to|PRT me|PRON ?|.
+ I|PRON will|VERB .|.
+ Do|VERB you|PRON see|VERB him|PRON him|PRON ?|.
+ I|PRON think|VERB he|PRON 's|VERB a|DET she|PRON ...|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ,|. Master|NOUN ?|.
+ To|PRT get|VERB a|DET drink|NOUN .|.
+ Wan|NOUN na|PRT buy|VERB some|DET death|NOUN sticks|NOUN ?|.
+ Do|VERB you|PRON know|VERB who|PRON it|PRON was|VERB you|PRON were|VERB trying|VERB to|PRT kill|VERB ?|.
+ The|DET Senator|NOUN from|ADP Naboo|NOUN .|.
+ Who|QUESTIONTAG hired|VERB you|PRON ?|.
+ What|QUESTIONTAG ?|.
+ (|. coughs|NOUN ,|. recovers|NOUN )|. Oh|X ,|. pardone-ay|ADJ ,|. Senator|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Annie|NOUN ...|.
+ I|PRON 've|VERB always|ADV called|VERB you|PRON that|ADP ...|. it|PRON is|VERB your|PRON name|NOUN ,|. is|VERB n't|ADV it|PRON ?|.
+ It|PRON 's|VERB Anakin|NOUN .|.
+ Why|ADV not|ADV ?|.
+ Because|ADP I|PRON can|VERB see|VERB what|PRON you|PRON 're|VERB thinking|VERB .|.
+ (|. laughing|VERB )|. Ahh|NOUN ...|. so|ADV ,|. you|PRON have|VERB Jedi|ADJ powers|NOUN too|ADV ?|.
+ (|. continuing|VERB )|. What|QUESTIONTAG ?|.
+ You|PRON seemed|VERB to|PRT be|VERB having|VERB a|DET nightmare|NOUN .|.
+ (|. continuing|VERB )|. Are|VERB you|PRON hungry|ADJ ?|.
+ Thank|NOUN you|PRON .|.
+ (|. changing|VERB the|DET subject|NOUN )|. Were|NOUN you|PRON dreaming|VERB about|ADP you|PRON mother|VERB earlier|ADJ ,|. were|VERB n't|ADV you|PRON ?|.
+ Yes|X ...|.
+ Can|VERB I|PRON help|VERB ya|VERB ?|.
+ I|PRON 'm|VERB looking|VERB for|ADP Dexter|NOUN .|.
+ Waddya|NOUN want|VERB him|PRON for|ADP ?|.
+ He|PRON 's|VERB not|ADV in|ADP trouble|NOUN .|.
+ You|PRON want|VERB a|DET cup|NOUN of|ADP ardees|NOUN ?|.
+ Thank|NOUN you|PRON .|.
+ Do|VERB you|PRON know|VERB where|ADV it|PRON came|VERB from|ADP ?|.
+ On|ADP what|PRON ,|. Dex|NOUN ?|.
+ Well|ADV ,|. tell|VERB me|PRON ,|. did|VERB you|PRON dream|NOUN of|ADP power|NOUN and|CONJ politics|NOUN when|ADV you|PRON were|VERB a|DET little|ADJ girl|NOUN ?|.
+ (|. laughing|VERB )|. No|X !|.
+ How|QUESTIONTAG many|ADJ systems|NOUN have|VERB joined|VERB Count|NOUN Dooku|NOUN and|CONJ the|DET separatists|NOUN ?|.
+ About|ADP two|NUM hundred|NOUN .|.
+ Do|VERB you|PRON see|VERB any|DET way|NOUN ,|. through|ADP negotiations|NOUN ,|. to|PRT bring|VERB the|DET separatists|NOUN back|ADV into|ADP the|DET Republic|NOUN ?|.
+ Not|ADV if|ADP they|PRON feel|VERB threatened|VERB .|.
+ (|. to|PRT Anakin|NOUN )|. What|QUESTIONTAG is|VERB your|PRON suggestion|NOUN ,|. Master|NOUN Jedi|NOUN ?|.
+ Anakin|NOUN 's|VERB not|ADV a|DET Jedi|NOUN yet|ADV ,|. Counsellor|NOUN .|.
+ Did|NOUN you|PRON call|VERB for|ADP assistance|NOUN ?|.
+ (|. distracted|VERB in|ADP thought|NOUN )|. Yes|X ...|. yes|X ,|. I|PRON did|VERB ...|.
+ What|QUESTIONTAG happened|VERB ?|.
+ Well|ADV ,|. one|NUM might|VERB say|VERB ,|. he|PRON was|VERB always|ADV a|DET bit|NOUN out|ADP of|ADP step|NOUN with|ADP the|DET decisions|NOUN of|ADP the|DET Council|NOUN ...|. much|ADV like|ADP your|PRON old|ADJ Master|NOUN ,|. Qui-Gon|NOUN Jinn|NOUN .|.
+ (|. surprised|VERB )|. Really|ADV ?|.
+ Oh|X ,|. yes|X .|.
+ (|. continuing|VERB )|. Are|VERB you|PRON sure|ADJ you|PRON have|VERB the|DET right|ADJ co-ordinates|NOUN ?|.
+ (|. nodding|VERB )|. According|VERB to|PRT my|PRON information|NOUN ,|. it|PRON should|VERB be|VERB in|ADP this|DET quadrant|NOUN somewhere|ADV ...|. just|ADV south|NOUN of|ADP the|DET Rishi|NOUN Maze|NOUN .|.
+ Are|NOUN you|PRON sure|VERB it|PRON exists|VERB ?|.
+ Absolutely|ADV .|.
+ Would|VERB n't|ADV that|ADV be|VERB on|ADP record|NOUN ?|.
+ It|PRON ought|VERB to|PRT be|VERB .|.
+ (|. to|PRT Anakin|NOUN )|. Is|VERB she|PRON ?|.
+ ...|. Yes|NOUN ...|.
+ Padme|NOUN tells|VERB me|PRON you|PRON teach|VERB at|ADP the|DET university|NOUN ?|.
+ (|. nodding|VERB )|. Yes|X ,|. and|CONJ before|ADP that|DET ,|. I|PRON was|VERB a|DET builder|NOUN .|.
+ Why|ADV have|VERB n't|ADV you|PRON told|VERB us|PRON about|ADP him|PRON ?|.
+ What|QUESTIONTAG 's|VERB there|ADV to|PRT talk|VERB about|ADP ?|.
+ (|. continuing|VERB )|. Is|VERB this|DET you|PRON ?|.
+ What|QUESTIONTAG help|NOUN to|PRT you|PRON ,|. can|VERB I|PRON be|VERB ?|.
+ Im|NOUN looking|VERB for|ADP a|DET planet|NOUN described|VERB to|PRT me|PRON by|ADP an|DET old|ADJ friend|NOUN .|.
+ There|DET 's|VERB something|NOUN else|ADV ?|.
+ Master|NOUN ,|. he|PRON should|VERB not|ADV have|VERB been|VERB given|VERB this|DET assignment|NOUN .|.
+ Why|ADV ?|.
+ He|PRON has|VERB a|DET ...|. an|DET emotional|ADJ connection|NOUN with|ADP her|PRON .|.
+ Has|NOUN Master|NOUN Yoda|NOUN gained|VERB any|DET insight|NOUN into|ADP whether|ADP or|CONJ not|ADV this|DET war|NOUN will|VERB come|VERB about|ADP ?|.
+ Probing|VERB the|DET Dark|NOUN Side|NOUN is|VERB a|DET dangerous|ADJ process|NOUN .|.
+ You|PRON did|VERB that|ADP ?|.
+ What|QUESTIONTAG ?|.
+ May|NOUN I|PRON tell|VERB you|PRON something|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Then|ADV how|ADV can|VERB I|PRON tell|VERB you|PRON ?|.
+ Maybe|ADV you|PRON should|VERB use|VERB your|PRON Jedi|NOUN intuition|NOUN .|.
+ (|. warily|ADV )|. I|PRON 'm|VERB expected|VERB ?|.
+ Of|ADP course|NOUN !|.
+ I|PRON 'm|VERB sorry|ADJ Master|NOUN -|. ?|.
+ Jedi|NOUN Master|NOUN Sifo-Dyas|NOUN .|.
+ Are|NOUN you|PRON going|VERB to|PRT use|VERB one|NUM of|ADP your|PRON Jedi|NOUN mind|NOUN tricks|NOUN on|ADP me|PRON ?|.
+ They|PRON only|ADV work|VERB on|ADP the|DET weak-minded|ADJ .|.
+ All|DET right|NOUN ,|. I|PRON get|VERB the|DET picture|NOUN ...|. whatever|DET happened|VERB to|PRT him|PRON ?|.
+ I|PRON went|VERB on|ADP to|PRT become|VERB a|DET Queen|NOUN .|.
+ You|PRON really|ADV do|VERB n't|ADV like|VERB politicians|NOUN ,|. do|VERB you|PRON ?|.
+ I|PRON like|VERB two|NUM or|CONJ three|NUM ,|. but|CONJ I|PRON 'm|VERB not|ADV really|ADV sure|ADJ about|ADP one|NUM of|ADP them|PRON .|.
+ How|QUESTIONTAG would|VERB you|PRON have|VERB it|PRON work|VERB ?|.
+ We|PRON need|VERB a|DET system|NOUN where|ADV the|DET politicians|NOUN sit|VERB down|PRT and|CONJ discuss|VERB the|DET problems|NOUN ,|. agree|VERB what|PRON 's|VERB in|ADP the|DET best|ADJ interests|NOUN of|ADP all|DET the|DET people|NOUN ,|. and|CONJ then|ADV do|VERB it|PRON .|.
+ You|PRON ?|.
+ Of|ADP course|NOUN not|ADV me|PRON .|.
+ (|. beaming|VERB )|. Magnificent|NOUN ,|. are|VERB n't|ADV they|PRON ?|.
+ Who|QUESTIONTAG was|VERB the|DET original|ADJ host|NOUN ?|.
+ A|DET bounty|NOUN hunter|NOUN called|VERB Jango|NOUN Fett|NOUN .|.
+ Where|QUESTIONTAG is|VERB this|DET bounty|ADJ hunter|NOUN now|ADV ?|.
+ Oh|X ,|. we|PRON keep|VERB him|PRON here|ADV .|.
+ Unaltered|VERB ?|.
+ Pure|NOUN genetic|ADJ replication|NOUN .|.
+ And|CONJ these|DET ?|.
+ About|ADP five|NUM years|NOUN ago|ADV .|.
+ (|. carefully|ADV )|. Tell|NOUN me|PRON ,|. prime|ADJ minister|NOUN ,|. when|ADV my|PRON Master|NOUN Sido-dyas|NOUN first|ADV contacted|VERB you|PRON ,|. did|VERB he|PRON say|VERB the|DET order|NOUN was|VERB for|ADP ...|. himself|PRON ...|. or|CONJ ?|.
+ Himself|PRON ?|.
+ (|. astonished|VERB )|. The|DET Repubic|NOUN ?|.
+ We|PRON are|VERB also|ADV very|ADV much|ADJ agasint|NOUN this|DET Count|NOUN Dooku|NOUN and|CONJ his|PRON seccessionist|ADJ movement|NOUN .|.
+ ...|. I|PRON 've|VERB never|ADV heard|VERB of|ADP a|DET Jedi|NOUN called|VERB Sido-Dyas|NOUN ,|. have|VERB you|PRON ,|. Master|NOUN ?|.
+ No|DET .|.
+ Who|QUESTIONTAG do|VERB you|PRON think|VERB this|DET impostor|NOUN Sido-Dyas|NOUN ,|. could|VERB be|VERB ?|.
+ What|QUESTIONTAG about|ADP Master|ADJ Obi-wan|NOUN ?|.
+ I|PRON guess|VERB we|PRON wo|VERB n't|ADV tell|VERB him|PRON ,|. will|VERB we|PRON ?|.
+ ANAKIN|NOUN and|CONJ PADME|NOUN step|NOUN onto|ADP the|DET landing|VERB platform|NOUN from|ADP the|DET water|NOUN speeder|NOUN .|.
+ Boba|NOUN ,|. is|VERB your|PRON father|NOUN here|ADV ?|.
+ (|. continuing|VERB )|. May|NOUN we|PRON see|VERB him|PRON ?|.
+ Sure|ADV .|.
+ That|DET right|NOUN ?|.
+ Are|VERB n't|ADV we|PRON all|DET ?|.
+ (|. continuing|VERB )|. Ever|ADV made|VERB your|PRON way|NOUN as|ADP far|ADV into|ADP the|DET interior|NOUN as|ADP Coruscant|NOUN ?|.
+ Once|ADV or|CONJ twice|ADV .|.
+ Recently|ADV ?|.
+ (|. eyes|NOUN Obi-Wan|NOUN carefully|ADV )|. Possibly|ADV ...|.
+ Then|ADV you|PRON must|VERB know|VERB Master|NOUN Sido-|NOUN Dyas|NOUN ?|.
+ Boba|NOUN ,|. close|ADV the|DET door|NOUN .|.
+ (|. continuing|VERB )|. Master|NOUN who|PRON ?|.
+ Sido-Dyas|NOUN .|.
+ Do|VERB you|PRON like|ADP your|PRON army|NOUN ?|.
+ It|PRON seems|VERB to|PRT me|PRON it|PRON 's|VERB your|PRON army|NOUN -|. being|VERB that|ADP they|PRON are|VERB all|DET clones|NOUN of|ADP you|PRON .|.
+ What|QUESTIONTAG is|VERB it|PRON ,|. Dad|NOUN ?|.
+ The|DET Naboo|NOUN Starship|NOUN heads|VERB toward|ADP the|DET desert|NOUN planet|NOUN of|ADP Tatooine|NOUN .|.
+ (|. in|ADP Huttese|NOUN )|. What|QUESTIONTAG ?|.
+ (|. in|ADP Huttese|NOUN )|. I|PRON said|VERB excuse|ADP me|PRON .|.
+ Do|VERB you|PRON know|VERB where|ADV they|PRON are|VERB ?|.
+ Long|ADJ way|NOUN from|ADP here|ADV ...|. someplace|NOUN over|ADP on|ADP the|DET other|ADJ side|NOUN of|ADP Mos|NOUN Eisley|NOUN ,|. I|PRON think|VERB ...|.
+ Threepio|NOUN ?|.
+ Oh|X ,|. my|PRON ...|. oh|X ,|. my|PRON !|.
+ Threepio|NOUN ,|. what|PRON 's|VERB happened|VERB ?|.
+ I|PRON think|VERB we|PRON 'd|VERB better|VERB go|VERB inside|ADV .|.
+ Is|VERB my|PRON mother|NOUN here|ADV ?|.
+ No|DET ,|. she|PRON 's|VERB not|ADV .|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ To|PRT find|VERB my|PRON mother|NOUN .|.
+ You|PRON 're|VERB not|ADV happy|ADJ here|ADV ?|.
+ Oh|X ,|. I|PRON 'm|VERB not|ADV unhappy|ADJ ...|. and|CONJ my|PRON masters|NOUN here|ADV ar|VERB so|ADV kind|NOUN I|PRON would|VERB n't|ADV wish|VERB to|PRT trouuble|VERB them|PRON ,|. it|PRON 's|VERB just|ADV ...|. being|VERB like|ADP this|DET ...|. well|ADV ,|. it|PRON 's|VERB embarrassing|VERB .|.
+ Being|VERB like|ADP what|PRON ?|.
+ Naked|VERB .|.
+ Do|VERB you|PRON believe|VERB he|PRON could|VERB be|VERB the|DET mysterious|ADJ Sido-Dyas|NOUN ,|. who|PRON made|VERB the|DET deal|NOUN for|ADP the|DET clone|NOUN army|NOUN ?|.
+ Perhaps|ADV too|ADV many|ADJ pieces|NOUN are|VERB missing|VERB from|ADP this|DET puzzle|NOUN ,|. there|DET are|VERB .|.
+ Hey|NOUN ,|. where|ADV are|VERB you|PRON going|VERB ?|.
+ To|PRT find|VERB Obi-Wan|NOUN .|.
+ And|CONJ if|ADP I|PRON do|VERB n't|ADV join|VERB your|PRON rebellion|NOUN ,|. I|PRON assume|VERB this|DET Jedi|NOUN with|ADP me|PRON will|VERB also|ADV die|VERB ?|.
+ I|PRON do|VERB n't|ADV wish|VERB to|PRT make|VERB you|PRON to|PRT join|VERB our|PRON cause|NOUN against|ADP your|PRON will|VERB ,|. Senator|NOUN ,|. but|CONJ you|PRON are|VERB a|DET rational|ADJ ,|. honest|ADJ representative|NOUN of|ADP your|PRON people|NOUN and|CONJ I|PRON assume|VERB you|PRON want|VERB to|PRT do|VERB what|PRON 's|VERB in|ADP their|PRON best|ADJ interest|NOUN .|.
+ Do|VERB you|PRON have|VERB anything|NOUN to|PRT say|VERB before|ADP your|PRON sentence|NOUN is|VERB carried|VERB out|PRT ?|.
+ You|PRON are|VERB committing|VERB an|DET act|NOUN of|ADP war|NOUN ,|. Archduke|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ I|PRON love|VERB you|PRON .|.
+ What|QUESTIONTAG about|ADP Padme|NOUN ?|.
+ You|PRON okay|VERB ?|.
+ (|. nods|NOUN ,|. gasping|VERB )|. Sure|NOUN !|.
+ Where|QUESTIONTAG is|VERB your|PRON apprentice|NOUN ?|.
+ On|ADP his|PRON way|NOUN back|ADV to|PRT Naboo|NOUN .|.

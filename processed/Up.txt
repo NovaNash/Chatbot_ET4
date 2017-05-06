@@ -1,0 +1,85 @@
+ What|QUESTIONTAG was|VERB that|DET ,|. Mr.|NOUN Fredricksen|NOUN ?|.
+ (|. out|ADP of|ADP breath|NOUN )|. Where|QUESTIONTAG ...|. where|ADV are|VERB we|PRON ?|.
+ You|PRON mean|VERB assist|VERB you|PRON ?|.
+ You|PRON on|ADP the|DET porch|NOUN yet|ADV ?|.
+ Russell|NOUN is|VERB just|ADV inches|NOUN above|ADP Carl|NOUN ,|. still|ADV STRUGGLING|VERB to|PRT climb|VERB .|.
+ Hey|NOUN ,|. if|ADP I|PRON could|VERB assist|VERB you|PRON over|ADP there|ADV ,|. would|VERB you|PRON sign|VERB off|PRT on|ADP my|PRON badge|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ Walk|VERB it|PRON ?|.
+ Yeah|X ,|. after|ADP all|DET ,|. we|PRON weigh|VERB it|PRON down|PRT .|.
+ Which|QUESTIONTAG knee|NOUN ?|.
+ My|PRON elbow|NOUN hurts|NOUN and|CONJ I|PRON have|VERB to|PRT go|VERB to|PRT the|DET bathroom|NOUN .|.
+ (|. humoring|VERB him|PRON )|. Oh|X ,|. did|VERB you|PRON ?|.
+ Are|ADP they|PRON tall|DET ?|.
+ Do|VERB they|PRON have|VERB a|DET lot|NOUN of|ADP colors|NOUN ?|.
+ Do|VERB they|PRON like|VERB chocolate|NOUN ?|.
+ Oh|X ye-|ADJ Chocolate|NOUN ?|.
+ Carl|NOUN turns|VERB to|PRT look|VERB .|.
+ What|QUESTIONTAG is|VERB that|DET thing|NOUN ?|.
+ It|PRON 's|VERB a|DET snipe|NOUN !|.
+ ``|. Kevin|NOUN ''|. ?|.
+ Yeah|X ,|. that|DET 's|VERB his|PRON name|NOUN I|PRON just|ADV gave|VERB him|PRON .|.
+ Uh|NOUN ,|. hello|NOUN ?|.
+ Carl|NOUN and|CONJ Russell|NOUN look|VERB around|ADV .|.
+ What|QUESTIONTAG ?|.
+ Uh..wha|NOUN ?|.
+ Dug|NOUN wears|VERB a|DET high-tech|ADJ collar|NOUN .|.
+ Mayhaps|NOUN you|PRON desire|VERB to|PRT challenge|VERB the|DET ranking|NOUN that|ADP I|PRON have|VERB been|VERB assigned|VERB by|ADP my|PRON strength|NOUN and|CONJ cunning|NOUN ?|.
+ What|QUESTIONTAG 's|VERB Dug|NOUN doing|VERB ?|.
+ Why|ADV 's|PRT he|PRON with|ADP that|DET small|ADJ mailman|NOUN ?|.
+ Where|QUESTIONTAG are|VERB they|PRON ?|.
+ Alpha|NOUN pushes|VERB a|DET button|NOUN on|ADP Beta|NOUN 's|PRT collar|NOUN .|.
+ Why|ADV ?|.
+ What|QUESTIONTAG are|VERB we|PRON doing|VERB ?|.
+ Carl|NOUN pushes|NOUN through|ADP thick|ADJ jungle|NOUN leaves|NOUN .|.
+ Which|QUESTIONTAG one|PRON 's|VERB the|DET front|NOUN ?|.
+ Russell|NOUN struggles|VERB to|PRT set|VERB up|PRT the|DET tent|NOUN .|.
+ Yeah|X ,|. but|CONJ ...|. can|VERB I|PRON tell|VERB you|PRON a|DET secret|ADJ ?|.
+ No|DET .|.
+ You|PRON 've|VERB been|VERB camping|VERB before|ADP ,|. have|VERB n't|ADV you|PRON ?|.
+ Well|ADV ,|. why|ADV did|VERB n't|ADV you|PRON ask|VERB your|PRON Dad|NOUN how|ADV to|PRT build|VERB a|DET tent|NOUN ?|.
+ I|PRON do|VERB n't|ADV think|VERB he|PRON wants|VERB to|PRT talk|VERB about|ADP this|DET stuff|NOUN .|.
+ But|CONJ he|PRON promised|VERB he|PRON 'd|VERB come|VERB to|PRT my|PRON Explorer|NOUN ceremony|NOUN to|PRT pin|VERB on|ADP my|PRON Assisting|VERB the|DET Elderly|NOUN badge|NOUN ,|. so|ADP he|PRON can|VERB show|VERB me|PRON about|ADP tents|NOUN then|ADV ,|. right|ADV ?|.
+ Carl|NOUN studies|NOUN Russell|NOUN 's|PRT sad|ADJ optimism|NOUN .|.
+ Can|VERB Kevin|NOUN go|VERB with|ADP us|PRON ?|.
+ Promise|NOUN you|PRON wo|VERB n't|ADV leave|VERB him|PRON ?|.
+ Cross|NOUN your|PRON heart|NOUN ?|.
+ Carl|NOUN looks|VERB down|PRT at|ADP Russell|NOUN .|.
+ What|QUESTIONTAG have|VERB I|PRON got|VERB myself|PRON into|ADP ,|. Ellie|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON doing|VERB ?|.
+ Huh|NOUN ?|.
+ Kevin|NOUN ?|.
+ Beta|NOUN and|CONJ Gamma|NOUN ,|. run|VERB toward|ADP Carl|NOUN and|CONJ Russell|NOUN ,|. viciously|ADV barking|VERB and|CONJ growling|VERB .|.
+ Where|QUESTIONTAG is|VERB it|PRON ?|.
+ You|PRON came|VERB here|ADV in|ADP that|DET ?|.
+ Wait|NOUN ,|. are|VERB you|PRON Charles|NOUN Muntz|NOUN ?|.
+ The|DET Charles|NOUN Muntz|NOUN ?|.
+ Muntz|NOUN gives|VERB him|PRON the|DET ``|. thumbs|VERB up|PRT .|. ''|.
+ Who|QUESTIONTAG 's|VERB Charles|NOUN Muntz|NOUN ?|.
+ We|PRON 're|VERB not|ADV actually|ADV going|VERB inside|ADP the|DET ``|. Spirit|NOUN of|ADP Adventure|NOUN ''|. itself|PRON ?|.
+ Oh|X .|.
+ Would|VERB I|PRON ?|. !|. ?|.
+ Carl|NOUN GIGGLES|NOUN like|ADP a|DET little|ADJ boy|NOUN .|.
+ What|QUESTIONTAG do|VERB we|PRON do|VERB with|ADP Dug|NOUN ?|.
+ Chocolate|NOUN ?|.
+ Oh|X ,|. you|PRON 're|VERB not|ADV leaving|VERB ?|.
+ You|PRON lost|VERB them|PRON ?|.
+ See|VERB anything|NOUN ?|.
+ Russell|NOUN ?|.
+ Russell|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Where|QUESTIONTAG 's|VERB your|PRON elderly|ADJ friend|NOUN ?|.
+ Russell|NOUN blows|VERB the|DET leaf|NOUN blower|NOUN in|ADP Muntz|NOUN 's|PRT face|NOUN .|.
+ Where|QUESTIONTAG are|VERB you|PRON ,|. Fredricksen|NOUN ?|.
+ How|QUESTIONTAG do|VERB we|PRON get|VERB past|ADP these|DET dogs|NOUN ?|.
+ Uh|NOUN ...|. POINT|NOUN !|.
+ What|QUESTIONTAG do|VERB we|PRON do|VERB now|ADV ,|. Dug|NOUN ?|.
+ Dug|NOUN is|VERB lost|VERB in|ADP ecstacy|NOUN ,|. chomping|VERB on|ADP a|DET tennis|NOUN ball|NOUN on|ADP the|DET end|NOUN of|ADP Carl|NOUN 's|PRT cane|NOUN .|.
+ Who|QUESTIONTAG wants|VERB the|DET ball|NOUN ?|.
+ Does|NOUN anyone|NOUN know|VERB where|ADV they|PRON are|VERB ?|. !|. ?|.
+ On|ADP cue|NOUN ,|. Russell|NOUN SPLATS|NOUN into|ADP the|DET dashboard|NOUN window|NOUN of|ADP the|DET control|NOUN room|NOUN and|CONJ SQUEEGEES|NOUN across|ADP ,|. dangling|VERB from|ADP the|DET hose|NOUN .|.
+ Huh|NOUN ?|.
+ Carl|NOUN calls|VERB for|ADP help|NOUN :|. the|DET WILDERNESS|NOUN EXPLORER|NOUN CALL|NOUN .|.
+ Squirrel|NOUN ?|.
+ Where|QUESTIONTAG 's|VERB the|DET squirrel|NOUN ?|.
+ It|PRON 's|VERB red|ADJ ,|. is|VERB n't|ADV it|PRON ?|.

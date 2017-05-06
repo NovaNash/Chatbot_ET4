@@ -1,0 +1,48 @@
+ (|. sitting|VERB down|PRT )|. And|CONJ what|PRON 's|VERB wrong|ADJ with|ADP my|PRON leftovers|NOUN ?|.
+ I|PRON 'll|VERB let|VERB you|PRON know|VERB when|ADV I|PRON see|VERB some|DET .|.
+ This|DET is|VERB the|DET third|ADJ ragtop|NOUN this|DET year|NOUN ...|. say|VERB ,|. should|VERB n't|ADV you|PRON be|VERB at|ADP work|NOUN ?|.
+ Ah|NOUN ,|. well|ADV ,|. that|DET appliance|NOUN store|NOUN and|CONJ me|PRON ,|. we|PRON kinda|VERB had|VERB a|DET little|ADJ adjustment|NOUN --|.
+ Have|VERB you|PRON found|VERB another|DET school|NOUN for|ADP the|DET children|NOUN ?|.
+ We|PRON 're|VERB still|ADV shopping|VERB around|ADV .|.
+ Did|NOUN I|PRON ever|ADV ?|.
+ Flintstone|NOUN again|ADV ,|. huh|NOUN ?|.
+ You|PRON got|VERB it|PRON .|.
+ SLATE|NOUN What|QUESTIONTAG 's|VERB that|DET ?|.
+ (|. worried|VERB )|. Sounds|VERB like|ADP a|DET worker|NOUN 's|PRT comp|NOUN claim|NOUN if|ADP I|PRON ever|ADV heard|VERB one|NUM ...|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ Where|QUESTIONTAG on|ADP earth|NOUN did|VERB you|PRON get|VERB it|PRON ?|.
+ Oh|X ,|. it|PRON 's|VERB ah|ADJ ,|. just|ADV something|NOUN I|PRON whipped|VERB up|PRT in|ADP the|DET old|ADJ garage|NOUN workshop|NOUN --|. (|. quickly|ADV )|. --|. with|ADP a|DET little|ADJ help|NOUN from|ADP my|PRON buddy|NOUN Barney|NOUN ,|. right|ADV ,|. Barn|NOUN ?|.
+ Oh|X ,|. she|PRON was|VERB getting|VERB to|PRT me|PRON too|ADV with|ADP all|DET that|DET mastodon|VERB snort|NOUN about|ADP her|PRON little|ADJ nephew|ADJ ...|. and|CONJ ...|. BETTY|NOUN And|CONJ ?|.
+ And|CONJ ...|. if|ADP a|DET friend|NOUN ca|VERB n't|ADV help|VERB you|PRON do|VERB something|NOUN stupid|ADJ ,|. who|PRON can|VERB ?|.
+ BETTY|NOUN What|QUESTIONTAG do|VERB we|PRON tell|VERB the|DET boys|NOUN ?|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ with|ADP the|DET truth|NOUN ?|.
+ (|. AD|NOUN LIB|NOUN ,|. impressed|VERB )|. Hey|NOUN ,|. way|NOUN ta|NOUN go|VERB ,|. Fred|NOUN ...|. Whoa|NOUN ,|. gon|NOUN na|PRT switch|VERB from|ADP a|DET hard|ADJ hat|NOUN to|PRT a|DET top|ADJ hat|NOUN ,|. Freddy|NOUN boy|NOUN ...|. ?|.
+ (|. examining|VERB the|DET card|NOUN )|. Ah|NOUN ,|. it|PRON 's|VERB probably|ADV a|DET phony|NOUN ...|.
+ Brother|NOUN Piltdown|NOUN ...|. can|VERB we|PRON talk|VERB about|ADP this|DET ,|. antler|NOUN to|PRT antler|VERB ?|.
+ FRED|NOUN Guess|NOUN not|ADV ...|. Fred|NOUN inches|VERB down|PRT the|DET shuddering|NOUN beam|NOUN ,|. jumps|VERB off|PRT .|.
+ Barney|NOUN ,|. I|PRON do|VERB n't|ADV understand|VERB ...|. what|PRON came|VERB over|ADP you|PRON boys|NOUN ?|.
+ 'Night|NUM ,|. Barney|NOUN .|.
+ Fred|NOUN ,|. is|VERB there|ADV something|NOUN you|PRON want|VERB to|PRT tell|VERB me|PRON about|ADP the|DET lodge|NOUN meeting|NOUN ?|.
+ Tastes|NOUN ...|. different|ADJ ?|.
+ Yup|NOUN .|.
+ (|. modestly|ADV )|. How|QUESTIONTAG about|ADV ,|. 'Slate|. Needle|NOUN '|PRT ?|.
+ 'Slate|NUM Need|NOUN ...|. '|PRT (|. astonished|VERB )|. ...|. How|QUESTIONTAG do|VERB you|PRON keep|VERB coming|VERB up|PRT with|ADP these|DET ?|.
+ Can|VERB we|PRON help|VERB you|PRON ...|. sir|VERB ?|.
+ You|PRON mean|VERB beside|ADV Fred|NOUN ?|.
+ I|PRON mean|VERB including|VERB Fred|NOUN .|.
+ FRED|NOUN What|QUESTIONTAG 'd|VERB I|PRON say|VERB ?|.
+ Hangs|VERB up|PRT the|DET sea|NOUN shell|NOUN phone|NOUN ,|. runs|VERB over|ADP to|PRT Leach|NOUN .|.
+ You|PRON go|VERB on|ADP over|ADP to|PRT Slate|NOUN City|NOUN ,|. okay|NOUN ?|.
+ Fred|NOUN ,|. I|PRON want|VERB to|PRT be|VERB here|ADV with|ADP you|PRON --|. (|. CONTINUED|NOUN )|.
+ Besides|ADP ...|. (|. lowering|VERB her|PRON voice|NOUN )|. ...|. Maybe|ADV if|ADP we|PRON leave|VERB the|DET boys|NOUN alone|ADV ...|. ?|.
+ 198|NUM EXT|NOUN .|.
+ (|. disbelieving|VERB )|. B|NOUN ...|. Barney|NOUN ?|.
+ (|. moving|VERB closer|ADV )|. Hiya|NOUN ,|. Fred|NOUN .|.
+ (|. helpful|ADJ tone|NOUN )|. Fool|NOUN ?|.
+ Well|ADV --|. BARNEY|NOUN Slimeball|NOUN ?|.
+ (|. alarmed|VERB )|. Ah|NOUN ...|. Poindexter|NOUN ...|. that|DET 's|VERB enough|ADJ ...|. Poindexter|NOUN ...|. ?|.
+ Then|ADV one|NUM of|ADP the|DET tables|NOUN collapses|NOUN .|.
+ W-wilma|ADJ ...|. those|DET hoops|NOUN of|ADP bamboo|NOUN ...|. those|DET wires|NOUN ...|. do|VERB you|PRON think|VERB --|. ?|.
+ Yes|X !|.
+ Dear|NOUN ,|. do|VERB n't|ADV you|PRON think|VERB a|DET little|ADV more|ADJ than|ADP that|DET is|VERB in|ADP order|NOUN ?|.
+ Honey|NOUN ,|. you|PRON 're|VERB being|VERB hysterical|ADJ ,|. go|VERB lie|ADV down|ADV ,|. okay|PRON ?|.

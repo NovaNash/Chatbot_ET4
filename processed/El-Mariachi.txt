@@ -1,0 +1,104 @@
+ (|. into|ADP phone|NOUN )|. Moco|NOUN ...|. What|QUESTIONTAG the|DET hell|NOUN do|VERB you|PRON want|VERB after|ADP all|DET these|DET years|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB to|PRT drink|VERB ?|.
+ Refresco|NOUN .|.
+ No|DET hay|NOUN musica|NOUN ?|.
+ (|. cleaning|VERB a|DET glass|NOUN )|. Why|ADV ?|.
+ So|ADV what|PRON ?|.
+ I|PRON could|VERB add|VERB a|DET little|ADJ class|NOUN to|PRT this|DET place|NOUN .|.
+ (|. nodding|VERB )|. Tell|NOUN me|PRON ,|. why|ADV would|VERB I|PRON need|VERB one|NUM little|ADJ guitar|NOUN player|NOUN when|ADV I|PRON 've|VERB already|ADV got|VERB a|DET full|ADJ band|NOUN ?|.
+ So|ADV you|PRON know|VERB him|PRON ?|.
+ We|PRON work|VERB for|ADP him|PRON .|.
+ Pit|NOUN bull|NOUN ?|.
+ Yeah|X ,|. pit|ADJ bull|NOUN .|.
+ (|. into|ADP phone|NOUN )|. Dead|NOUN ?|.
+ Viejo|NOUN ,|. if|ADP you|PRON see|VERB anyone|NOUN new|ADJ in|ADP town|NOUN ,|. carrying|VERB a|DET guitar|NOUN case|NOUN ,|. dressed|VERB in|ADP black|ADJ ...|. you|PRON can|VERB call|VERB this|DET number|NOUN ,|. OK|NOUN ?|.
+ Is|VERB it|PRON true|ADJ ?|.
+ (|. exhausted|VERB )|. Wait|VERB a|DET minute|NOUN ...|. what|PRON 's|VERB your|PRON name|NOUN ?|.
+ Domino|NOUN .|.
+ (|. lowering|VERB the|DET gun|NOUN a|DET bit|NOUN )|. Thieves|VERB ?|.
+ (|. nodding|VERB )|. No|DET way|NOUN .|.
+ Are|NOUN you|PRON serious|ADJ ?|.
+ (|. nodding|VERB )|. Yes|X .|.
+ Are|NOUN you|PRON going|VERB to|PRT help|VERB me|PRON ,|. or|CONJ am|VERB I|PRON gon|VERB na|PRT have|VERB to|PRT die|VERB on|ADP your|PRON porch|NOUN ?|.
+ I|PRON have|VERB a|DET room|NOUN upstairs|NOUN .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ Give|VERB me|PRON the|DET phone|NOUN .|.
+ Dressed|VERB all|DET in|ADP black|ADJ ,|. carrying|VERB a|DET guitar|NOUN case|NOUN ?|.
+ No|DET .|.
+ Are|VERB n't|ADV you|PRON gon|VERB na|PRT call|VERB your|PRON boss|NOUN ?|.
+ (|. nodding|VERB )|. I|PRON have|VERB to|PRT tell|VERB Moco|NOUN that|ADP he|PRON got|VERB away|ADV again|ADV ...|.
+ Que|NOUN paso|NOUN ?|.
+ I|PRON screwed|VERB up|PRT .|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ (|. choking|VERB )|. I|PRON 'm|VERB a|DET musician|NOUN !|.
+ Are|VERB n't|ADV you|PRON going|VERB to|PRT watch|VERB ?|.
+ (|. still|ADV choking|VERB )|. W|NOUN ...|. w|NOUN ...|. what|PRON ?|.
+ This|DET fancy|ADJ place|NOUN and|CONJ you|PRON have|VERB no|DET money|NOUN ?|.
+ It|PRON 's|VERB the|DET truth|NOUN .|.
+ (|. thinking|VERB )|. Will|VERB I|PRON have|VERB to|PRT keep|VERB a|DET knife|NOUN at|ADP your|PRON balls|NOUN to|PRT get|VERB you|PRON to|PRT play|VERB like|ADP that|DET ?|.
+ (|. smiling|VERB )|. Not|ADV if|ADP you|PRON 're|VERB paying|VERB me|PRON room|NOUN and|CONJ board|NOUN .|.
+ (|. into|ADP phone|NOUN )|. What|QUESTIONTAG ?|.
+ (|. into|ADP phone|NOUN )|. I|PRON 've|VERB only|ADV killed|VERB six|NUM !|.
+ (|. looking|VERB down|PRT at|ADP his|PRON clothes|NOUN ,|. into|ADP phone|NOUN )|. What|QUESTIONTAG do|VERB you|PRON think|VERB ?|.
+ (|. into|ADP phone|NOUN )|. I|PRON think|VERB you|PRON should|VERB change|VERB clothes|NOUN .|.
+ Can|VERB I|PRON get|VERB something|NOUN to|PRT drink|VERB or|CONJ eat|VERB ?|.
+ One|NUM beer|NOUN .|.
+ (|. looking|VERB around|ADV )|. Is|VERB n't|ADV there|DET a|DET girl|NOUN that|DET works|VERB here|ADV ?|.
+ Yeah|NOUN ,|. she|PRON owns|VERB the|DET place|NOUN .|.
+ (|. to|PRT Assistant|NOUN )|. Did|VERB he|PRON say|VERB anything|NOUN ?|.
+ (|. nodding|VERB )|. No|X ,|. he|PRON just|ADV ordered|VERB a|DET drink|NOUN .|.
+ Is|VERB this|DET the|DET guy|NOUN ?|.
+ I|PRON 'm|VERB not|ADV sure|ADJ ...|.
+ What|QUESTIONTAG 's|VERB in|ADP the|DET case|NOUN ?|.
+ My|PRON guitar|NOUN .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ ...|. using|VERB this|DET ?|.
+ Where|QUESTIONTAG is|VERB this|DET mariachi|NOUN ?|.
+ He|PRON 's|VERB dead|ADJ by|ADP now|ADV ...|.
+ Are|NOUN you|PRON loyal|ADV ?|.
+ (|. after|ADP glancing|VERB at|ADP Rat|NOUN #|. 1|NUM )|. Yes|X .|.
+ (|. to|PRT Rat|NOUN #|. 1|NUM )|. Are|VERB you|PRON loyal|ADJ ?|.
+ Yes|X .|.
+ Why|ADV not|ADV ?|.
+ You|PRON said|VERB we|PRON should|VERB be|VERB as|ADP loyal|ADJ to|PRT you|PRON as|ADP we|PRON are|VERB to|PRT each|DET other|ADJ .|.
+ Where|QUESTIONTAG were|VERB you|PRON when|ADV he|PRON came|VERB into|ADP the|DET bar|NOUN ?|.
+ I|PRON was|VERB on|ADP the|DET phone|NOUN ,|. talking|VERB to|PRT a|DET friend|NOUN that|DET knows|VERB what|PRON 's|VERB going|VERB on|ADP .|.
+ Did|NOUN you|PRON mention|VERB me|PRON ?|.
+ No|DET ...|.
+ If|ADP his|PRON name|NOUN is|VERB Azul|NOUN ,|. why|ADV does|VERB n't|ADV he|PRON wear|VERB blue|ADJ ?|.
+ I|PRON do|VERB n't|ADV know|VERB ...|.
+ Are|NOUN you|PRON always|ADV closed|VERB Monday|NOUN nights|NOUN ,|. or|CONJ did|VERB you|PRON close|VERB since|ADP I|PRON ca|VERB n't|ADV play|VERB my|PRON guitar|NOUN tonight|NOUN ?|.
+ Mondays|NOUN are|VERB my|PRON day|NOUN off|ADP .|.
+ (|. into|ADP phone|NOUN )|. Hello|NOUN ?|.
+ (|. into|ADP phone|NOUN )|. Come|NOUN see|VERB me|PRON .|.
+ (|. into|ADP phone|NOUN )|. Have|VERB you|PRON ridden|VERB the|DET bike|NOUN ?|.
+ (|. into|ADP phone|NOUN )|. No|NOUN ...|.
+ From|ADP who|PRON ?|.
+ From|ADP Mauricio|NOUN .|.
+ Look|NOUN ,|. you|PRON now|ADV how|ADV if|ADP you|PRON want|VERB to|PRT impress|VERB a|DET girl|NOUN ,|. you|PRON send|VERB her|PRON flowers|NOUN ,|. candy|NOUN ,|. jewelry|NOUN until|ADP you|PRON win|VERB her|PRON love|NOUN ?|.
+ Yes|X .|.
+ If|ADP one|NUM present|NOUN does|VERB n't|ADV work|VERB ,|. you|PRON keep|VERB sending|VERB bigger|ADJ and|CONJ better|ADJ things|NOUN until|ADP you|PRON win|VERB her|PRON or|CONJ you|PRON 're|VERB broke|VERB ?|.
+ Correct|NOUN ...|.
+ He|PRON 's|VERB still|ADV giving|VERB you|PRON things|NOUN ?|.
+ He|PRON 'll|VERB never|ADV run|VERB out|ADP of|ADP money|NOUN .|.
+ Is|VERB he|PRON ?|.
+ (|. pause|NOUN )|. He|PRON was|VERB .|.
+ (|. into|ADP walkie-talkie|NOUN )|. Where|QUESTIONTAG did|VERB he|PRON go|VERB ,|. Loco|NOUN ?|.
+ (|. laughs|X ,|. into|ADP walkie-talkie|NOUN )|. He|PRON got|VERB in|ADP my|PRON truck|NOUN .|.
+ Where|QUESTIONTAG 's|PRT my|PRON case|NOUN ?|.
+ We|PRON could|VERB n't|ADV find|VERB it|PRON .|.
+ What|QUESTIONTAG can|VERB I|PRON get|VERB you|PRON ?|.
+ One|NUM beer|NOUN .|.
+ Anything|VERB else|ADV ?|.
+ (|. nodding|VERB )|. My|PRON guitar|NOUN case|NOUN .|.
+ Where|QUESTIONTAG 's|PRT Mariachi|NOUN ?|.
+ Where|QUESTIONTAG 's|PRT my|PRON case|NOUN ?|.
+ Why|ADV will|VERB you|PRON help|VERB me|PRON ?|.
+ Because|ADP you|PRON know|VERB where|ADV Moco|NOUN 's|PRT ranch|NOUN is|VERB ...|.
+ What|QUESTIONTAG have|VERB you|PRON done|VERB with|ADP Mariachi|NOUN ?|.
+ Who|QUESTIONTAG ?|.
+ After|ADP all|DET I|PRON 've|VERB done|VERB for|ADP you|PRON ,|. this|DET is|VERB how|ADV you|PRON treat|VERB me|PRON ?|.
+ I|PRON never|ADV asked|VERB you|PRON for|ADP anything|NOUN until|ADP now|ADV .|.
+ Where|QUESTIONTAG is|VERB she|PRON ?|.
+ Looking|VERB for|ADP you|PRON .|.
+ I|PRON bet|VERB you|PRON play|VERB the|DET guitarra|NOUN real|ADJ well|ADV ,|. huh|NOUN ?|.

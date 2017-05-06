@@ -1,0 +1,302 @@
+ SHUNA|NOUN :|. Will|NOUN you|PRON not|ADV come|VERB ?|.
+ Now|ADV the|DET last|ADJ of|ADP the|DET creatures|NOUN ,|. the|DET Drummer|NOUN ,|. takes|VERB her|PRON by|ADP the|DET arm|NOUN ,|. snatching|VERB her|PRON away|ADV through|ADP the|DET gates|NOUN .|.
+ LORI|NOUN :|. You|PRON want|VERB something|NOUN to|PRT eat|VERB ?|.
+ BOONE|NOUN :|. Sure|NOUN .|.
+ BOONE|NOUN :|. Thought|NOUN you|PRON 'd|VERB worn|VERB me|PRON out|PRT ,|. huh|NOUN ?|.
+ Lori|NOUN smiles|NOUN ,|. and|CONJ kisses|VERB him|PRON ,|. then|ADV crosses|VERB the|DET room|NOUN to|PRT the|DET kitchen|NOUN area|NOUN ,|. picks|VERB up|PRT some|DET fruit|NOUN ,|. and|CONJ a|DET knife|NOUN ,|. carrying|VERB both|DET back|ADV to|PRT where|ADV Boone|NOUN is|VERB lying|VERB on|ADP the|DET bed|NOUN .|.
+ Lori|NOUN :|. You|PRON know|VERB what|PRON ?|.
+ BOONE|NOUN :|. What|QUESTIONTAG ?|.
+ BOONE|NOUN :|. Anywhere|NOUN special|ADJ ?|.
+ LORI|NOUN :|. Somewhere|ADV we|PRON can|VERB be|VERB alone|ADV together|ADV .|.
+ BOONE|NOUN :|. More|ADJ alone|ADV than|ADP this|DET ?|.
+ LORI|NOUN :|. Yeah|NOUN .|.
+ BOONE|NOUN :|. How|QUESTIONTAG did|VERB you|PRON know|VERB ?|.
+ LORI|NOUN :|. I|PRON know|VERB .|.
+ LORI|NOUN :|. When|QUESTIONTAG ?|.
+ BOONE|NOUN :|. All|DET last|ADJ week|NOUN .|.
+ LORI|NOUN :|. What|QUESTIONTAG does|VERB he|PRON want|VERB ?|.
+ BOONE|ADP :|. I|PRON do|VERB n't|ADV know|VERB .|.
+ LORI|NOUN :|. Will|VERB you|PRON see|VERB Decker|NOUN ?|.
+ BOONE|NOUN :|. You|PRON think|VERB I|PRON should|VERB ?|.
+ LORI|NOUN :|. How|QUESTIONTAG about|ADP before|ADP we|PRON met|VERB ?|.
+ BOONE|NOUN :|. Even|ADV then|ADV .|.
+ MELISSA|NOUN :|. Okay|NOUN ,|. you|PRON want|VERB ham|ADJ ,|. cheese|ADJ ,|. pickle|ADJ ,|. mustard|ADV ?|.
+ LOU|NOUN :|. All|DET of|ADP the|DET above|NOUN and|CONJ a|DET brewski|NOUN ,|. thank|NOUN you|PRON .|.
+ MELISSA|NOUN :|. What|QUESTIONTAG did|VERB you|PRON hear|VERB ?|.
+ LOU|ADJ TWO|NOUN :|. Bad|NOUN man|NOUN .|.
+ LOU|NOUN :|. Melissa|NOUN ?|.
+ At|ADP the|DET top|NOUN of|ADP the|DET stairs|NOUN ,|. Lou|NOUN Two|NUM watches|NOUN wide-eyed|ADJ .|.
+ JOYCE|NOUN :|. Same|NOUN profile|NOUN ?|.
+ BURTON|NOUN :|. Unmistakable|ADJ .|.
+ JOYCE|NOUN [|NOUN to|PRT Burton|NOUN ]|NOUN :|. If|ADP we|PRON ca|VERB n't|ADV protect|VERB the|DET kids|NOUN ,|. what|PRON the|DET hell|NOUN use|NOUN are|VERB we|PRON ?|.
+ BOONE|NOUN :|. Why|ADV ?|.
+ DECKER|NOUN :|. Most|ADJ of|ADP my|PRON colleagues|NOUN would|VERB have|VERB walked|VERB away|ADV from|ADP a|DET case|NOUN like|ADP yours|NOUN .|.
+ DECKER|NOUN :|. When|QUESTIONTAG you|PRON imagined|VERB yourself|PRON being|VERB taken|VERB off|PRT to|PRT this|DET invented|ADJ city|NOUN ,|. to|PRT Midian|NOUN ,|. what|PRON crimes|NOUN were|VERB you|PRON going|VERB to|PRT be|VERB forgiven|VERB ?|.
+ Boone|NOUN 's|PRT looking|VERB uneasy|ADJ now|ADV .|.
+ DECKER|NOUN :|. Did|VERB n't|ADV what|PRON ?|.
+ BOONE|NOUN :|. They|PRON were|VERB bad|ADJ dreams|NOUN .|.
+ DECKER|NOUN :|. You|PRON want|VERB to|PRT hear|VERB ?|.
+ BOONE|NOUN :|. No|DET !|.
+ BOONE|NOUN [|NOUN fury|NOUN ]|NOUN :|. Do|VERB you|PRON think|VERB I|PRON did|VERB this|DET ?|.
+ DECKER|NOUN :|. I|PRON hope|VERB to|PRT God|NOUN you|PRON did|VERB n't|ADV ,|. for|ADP both|DET our|PRON sakes|NOUN .|.
+ BOONE|NOUN :|. What|QUESTIONTAG was|VERB I|PRON taking|VERB ?|.
+ DOCTOR|NOUN [|NOUN patronizing|VERB ]|NOUN :|. Easy|NOUN .|.
+ BOONE|NOUN :|. What|QUESTIONTAG did|VERB you|PRON say|VERB ?|.
+ NARCISSE|NOUN :|. I|PRON said|VERB shut|VERB up|PRT ,|. you|PRON want|VERB to|PRT ruin|VERB everything|NOUN ?|.
+ BOONE|NOUN :|. What|QUESTIONTAG did|VERB you|PRON say|VERB ,|. just|ADV now|ADV ?|.
+ NARCISSE|NOUN [|NOUN suddenly|ADV friendly|ADV ]|VERB :|. What|QUESTIONTAG did|VERB you|PRON say|VERB ,|. just|ADV now|ADV ?|.
+ BOONE|NOUN [|NOUN hurting|VERB him|PRON -|. desperate|NOUN ]|NOUN :|. What|QUESTIONTAG do|VERB you|PRON know|VERB about|ADP it|PRON ?|.
+ NARCISSE|NOUN :|. It|PRON 's|VERB where|ADV the|DET monsters|NOUN go|VERB .|.
+ BOONE|NOUN :|. Show|VERB me|PRON what|PRON ?|.
+ NARCISSE|NOUN :|. My|PRON true|ADJ face|NOUN .|.
+ Nurse|NOUN [|NOUN over|ADP -|. to|PRT Boone|VERB ]|VERB What|QUESTIONTAG the|DET hell|NOUN have|VERB you|PRON done|VERB ?|.
+ Boone|NOUN :|. Nothing|NOUN !|.
+ DECKER|NOUN :|. What|QUESTIONTAG 's|VERB he|PRON saying|VERB ?|.
+ JOYCE|NOUN :|. He|PRON 's|VERB talking|VERB but|CONJ he|PRON 's|VERB not|ADV making|VERB any|DET sense|NOUN .|.
+ VOICE|NOUN [|PRON from|ADP the|DET darkness|NOUN ]|NOUN :|. You|PRON got|VERB him|PRON ?|.
+ KINSKI|NOUN :|. I|PRON got|VERB him|PRON .|.
+ PELOQUIN|NOUN :|. Who|QUESTIONTAG told|VERB you|PRON that|ADP ?|.
+ BOONE|NOUN :|. What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ BOONE|NOUN :|. You|PRON ...|. you|PRON believe|VERB me|PRON ?|.
+ DECKER|NOUN :|. You|PRON would|VERB n't|ADV hurt|VERB a|DET fly|NOUN .|.
+ BOONE|NOUN [|NOUN taking|VERB a|DET tentative|ADJ step|NOUN forward|ADV ]|VERB :|. What|QUESTIONTAG ,|. what|PRON about|ADP the|DET pills|NOUN ?|.
+ DECKER|NOUN [|NOUN pause|NOUN ;|. whispers|NOUN ]|VERB :|. What|QUESTIONTAG about|ADP them|PRON ,|. Boone|NOUN ?|.
+ JOYCE|NOUN [|NOUN starting|VERB at|ADP the|DET beginning|VERB ]|NOUN :|. What|QUESTIONTAG was|VERB your|PRON relationship|NOUN with|ADP Aaron|NOUN Boone|NOUN ?|.
+ LORI|NOUN [|NOUN pause|NOUN ]|NOUN :|. We|PRON were|VERB lovers|NOUN .|.
+ JOYCE|NOUN :|. How|QUESTIONTAG long|ADV had|VERB you|PRON known|VERB Aaron|NOUN Boone|NOUN ?|.
+ LORI|NOUN :|. Two|NUM months|NOUN .|.
+ LORI|NOUN :|. Boone|NOUN ?|.
+ She|PRON runs|VERB towards|ADP the|DET sound|NOUN ,|. Decker|NOUN follows|VERB .|.
+ ATTENDANT|NOUN [|VERB looking|VERB around|ADV ]|NOUN :|. Where|QUESTIONTAG 's|VERB his|PRON coat|NOUN ?|.
+ BARTENDER|NOUN :|. What|QUESTIONTAG 'll|VERB it|PRON be|VERB ,|. darlin|VERB '|PRT ?|.
+ LORI|NOUN :|. A|DET draft|NOUN and|CONJ some|DET information|NOUN please|NOUN .|.
+ LORI|NOUN :|. No|DET ?|.
+ BARTENDER|NOUN :|. Had|VERB a|DET bunch|NOUN of|ADP TV|NOUN news|NOUN folks|NOUN passin|NOUN '|. through|ADP ,|. since|ADP they|PRON nailed|VERB that|ADP baby-slasher|NOUN up|ADP there|ADV .|.
+ LORI|NOUN :|. Baby-slasher|NOUN ?|.
+ BARTENDER|NOUN :|. Yeah|X ,|. hell|NOUN of|ADP a|DET week|NOUN for|ADP us|PRON .|.
+ LORI|NOUN :|. Where|QUESTIONTAG 's|VERB the|DET bathroom|NOUN ?|.
+ BARTENDER|NOUN :|. Right|ADV around|ADP the|DET corner|NOUN there|ADV ,|. darlin|NOUN '|PRT .|.
+ LORI|NOUN :|. Ca|VERB n't|ADV argue|VERB with|ADP that|DET ,|. [|ADJ likes|VERB her|PRON ,|. feeling|VERB lonely|ADV ]|ADJ Can|VERB I|PRON buy|VERB you|PRON a|DET drink|NOUN ?|.
+ SHERYL|NOUN :|. Hell|NOUN ,|. yes|ADV you|PRON can|VERB .|.
+ SHERYL|NOUN :|. So|ADV you|PRON want|VERB to|PRT go|VERB check|VERB out|PRT the|DET place|NOUN in|ADP which|DET he|PRON checked|VERB out|PRT ?|.
+ LORI|NOUN :|. Yeah|NOUN .|.
+ SHERYL|NOUN :|. Tell|NOUN you|PRON what|PRON ,|. Lori|NOUN ,|. why|ADV do|VERB n't|ADV I|PRON drive|VERB up|ADV there|ADV to|PRT this|DET Medium|NOUN place|NOUN with|ADP you|PRON tomorrow|NOUN and|CONJ keep|VERB you|PRON company|NOUN ?|.
+ LORI|NOUN :|. You|PRON do|VERB n't|ADV have|VERB to|PRT do|VERB that|DET .|.
+ SHERYL|NOUN [|NOUN low|ADJ ,|. to|PRT the|DET bartender|NOUN ]|NOUN :|. Is|VERB n't|ADV he|PRON just|ADV the|DET picture|NOUN of|ADP sophistication|NOUN though|ADP ?|.
+ BOONE|NOUN [|NOUN to|PRT Narcisse|NOUN in|ADP a|DET whisper|ADJ ]|NOUN :|. Who|QUESTIONTAG is|VERB she|PRON ?|.
+ NARCISSE|NOUN :|. Shuna|NOUN Sassi|NOUN .|.
+ LYLESBURG|NOUN :|. Who|QUESTIONTAG is|VERB your|PRON advocate|NOUN ?|.
+ NARCISSE|NOUN :|. I|PRON am|VERB .|.
+ LYLESBURG|NOUN :|. Have|VERB you|PRON tutored|VERB him|PRON in|ADP the|DET Law|NOUN ?|.
+ BOONE|NOUN :|. Yes|NOUN he|PRON has|VERB .|.
+ LORI|NOUN :|. How|QUESTIONTAG 's|PRT your|PRON head|NOUN ?|.
+ SHERYL|NOUN :|. My|PRON momma|NOUN always|ADV used|VERB to|PRT say|VERB ,|. 'Sheryl|X Ann|NOUN ,|. there|DET 's|VERB a|DET man|NOUN out|PRT walking|VERB around|ADP with|ADP your|PRON name|NOUN on|ADP his|PRON mind|NOUN ,|. all|DET you|PRON got|VERB to|PRT do|VERB is|VERB run|VERB into|ADP him|PRON .|. '|.
+ LORI|NOUN :|. Sheryl|NOUN ,|. you|PRON sure|VERB you|PRON want|VERB to|PRT come|VERB along|ADV ?|.
+ SHERYL|NOUN :|. Would|VERB n't|ADV miss|VERB it|PRON .|.
+ SHERYL|NOUN :|. Curtis|NOUN ...|. what|PRON are|VERB you|PRON doing|VERB here|ADV ?|.
+ It|PRON 's|VERB Decker|NOUN ,|. looking|VERB like|ADP a|DET commuter|NOUN ,|. hair|NOUN slicked|VERB back|ADV ,|. wearing|VERB an|DET overcoat|NOUN ,|. carrying|VERB his|PRON briefcase|NOUN .|.
+ LORI|NOUN :|. What|QUESTIONTAG 's|VERB happening|VERB ?|.
+ RACHEL|NOUN :|. Do|VERB n't|ADV look|VERB !|.
+ LORI|NOUN :|. What|QUESTIONTAG ...|. what|PRON ...|. what|PRON the|DET ...|. ?|.
+ RACHEL|NOUN :|. She|PRON likes|VERB to|PRT play|VERB outside|ADV .|.
+ LORI|NOUN :|. You|PRON do|VERB ?|.
+ RACHEL|NOUN :|. You|PRON must|VERB go|VERB ,|. this|DET place|NOUN is|VERB not|ADV for|ADP you|PRON .|.
+ LORI|NOUN [|NOUN her|PRON spunk|NOUN surfacing|VERB ]|NOUN :|. Look|NOUN ,|. I|PRON saved|VERB the|DET child|NOUN 's|PRT life|NOUN ,|. do|VERB n't|ADV I|PRON deserve|VERB something|NOUN for|ADP that|DET ?|.
+ LYLESBURG|NOUN :|. The|DET child|NOUN has|VERB no|DET life|NOUN to|PRT save|VERB ,|. [|VERB he|PRON looks|VERB at|ADP her|PRON -|. sizes|NOUN her|PRON up|ADJ ]|NOUN But|CONJ what|PRON she|PRON has|VERB is|VERB yours|VERB ,|. if|ADP you|PRON want|VERB it|PRON .|.
+ LORI|NOUN [|NOUN to|PRT herself|VERB ]|NOUN :|. How|QUESTIONTAG deep|ADV does|VERB this|DET go|VERB ?|.
+ She|PRON heads|VERB on|ADP down|PRT ,|. turning|VERB a|DET corner|NOUN .|.
+ PELOQUIN|NOUN [|NOUN calls|VERB after|ADP her|PRON ]|NOUN :|. Come|NOUN back|ADV soon|ADV ,|. y'hear|PRON ?|.
+ DECKER|NOUN :|. Let|VERB 's|PRT get|VERB it|PRON over|ADP with|ADP ,|. shall|VERB we|PRON ?|.
+ LORI|NOUN [|NOUN mind|NOUN racing|NOUN ,|. a|DET survivor|NOUN ]|NOUN :|. Take|VERB it|PRON easy|ADJ ,|. let|VERB 's|PRT talk|VERB about|ADP this|DET .|.
+ LORI|NOUN :|. How|QUESTIONTAG do|VERB you|PRON know|VERB my|PRON name|NOUN ?|.
+ DECKER|NOUN :|. Good|ADJ question|NOUN .|.
+ BOONE|NOUN :|. Is|VERB n't|ADV this|DET where|ADV the|DET dead|ADJ are|VERB supposed|VERB to|PRT go|VERB ?|.
+ DECKER|NOUN :|. You|PRON 're|VERB not|ADV dead|ADJ .|.
+ BOONE|NOUN :|. Who|QUESTIONTAG made|VERB this|DET Law|NOUN ?|.
+ LYLESBURG|NOUN :|. Baphomet|NOUN .|.
+ BOONE|NOUN :|. What|QUESTIONTAG are|VERB you|PRON afraid|ADP of|ADP ?|.
+ LYLESBURG|NOUN :|. What|QUESTIONTAG Baphomet|NOUN made|VERB he|PRON has|VERB the|DET power|NOUN to|PRT unmake|VERB .|.
+ LORI|NOUN :|. Boone|NOUN ...|. ?|.
+ Her|PRON head|NOUN aches|NOUN .|.
+ RACHEL|NOUN :|. You|PRON still|ADV do|VERB n't|ADV understand|VERB ,|. do|VERB you|PRON ?|.
+ LORI|NOUN :|. Wait|VERB a|DET second|ADJ ,|. back|ADV up|ADP ...|.
+ LORI|NOUN :|. So|ADV you|PRON 're|VERB not|ADV immortal|ADJ ?|.
+ RACHEL|NOUN :|. Far|NOUN from|ADP it|PRON .|.
+ LORI|NOUN :|. And|CONJ ...|. and|CONJ you|PRON 're|VERB saying|VERB ...|. Boone|NOUN 's|PRT like|ADP you|PRON ?|.
+ RACHEL|NOUN :|. He|PRON is|VERB Nightbreed|NOUN .|.
+ LORI|NOUN :|. Who|QUESTIONTAG ?|.
+ RACHEL|NOUN :|. The|DET Baptiser|NOUN .|.
+ JOYCE|NOUN :|. Someone|NOUN brought|VERB the|DET corpse|NOUN down|ADV here|ADV ?|.
+ DECKER|NOUN :|. He|PRON 's|VERB not|ADV dead|ADJ .|.
+ JOYCE|NOUN :|. In|ADP Shere|NOUN Neck|NOUN ?|.
+ DECKER|NOUN :|. No|X ,|. out|ADV at|ADP Midian|NOUN .|.
+ JOYCE|NOUN :|. Why|ADV 'd|VERB he|PRON go|VERB back|ADV there|ADV ?|.
+ Eigerman|NOUN enters|NOUN .|.
+ EIGERMAN|NOUN :|. What|QUESTIONTAG are|VERB you|PRON doing|VERB in|ADP my|PRON office|NOUN ?|.
+ KANE|NOUN :|. This|DET is|VERB Inspector|NOUN Joyce|NOUN .|.
+ JOYCE|NOUN :|. What|QUESTIONTAG ?|.
+ EIGERMAN|NOUN :|. Yeah|NOUN .|.
+ JOYCE|NOUN :|. Talk|NOUN about|ADP what|PRON ?|.
+ DECKER|NOUN :|. Midian|NOUN 's|VERB not|ADV empty|ADJ .|.
+ JOYCE|NOUN [|NOUN to|PRT Decker|NOUN ]|NOUN :|. Do|VERB you|PRON believe|VERB that|ADP ?|.
+ DECKER|NOUN :|. Yes|NOUN I|PRON do|VERB .|.
+ LORI|NOUN :|. Boone|NOUN ?|.
+ Lori|ADJ enters|NOUN through|ADP the|DET door|NOUN .|.
+ LORI|NOUN :|. Boone|NOUN ?|.
+ The|DET figure|NOUN turns|VERB .|.
+ NARCISSE|NOUN :|. Up|ADV and|CONJ about|ADP already|ADV ?|.
+ LORI|NOUN :|. Keep|VERB away|ADV from|ADP me|PRON .|.
+ LORI|NOUN :|. Why|ADV not|ADV ?|.
+ NARCISSE|NOUN [|NOUN instant|ADJ change|NOUN of|ADP subject|ADJ ]|NOUN :|. Do|VERB n't|ADV you|PRON just|ADV love|VERB this|DET place|NOUN ?|.
+ LORI|NOUN :|. What|QUESTIONTAG 's|VERB that|DET smell|NOUN ?|.
+ NARCISSE|NOUN [|NOUN sniffs|VERB his|PRON armpits|NOUN ]|NOUN :|. Not|ADV me|PRON .|.
+ LORI|NOUN :|. Boone|NUM went|VERB this|DET way|NOUN ,|. right|ADV ?|.
+ NARCISSE|NOUN :|. And|CONJ wo|VERB n't|ADV be|VERB coming|VERB back|ADV .|.
+ NARCISSE|NOUN :|. You|PRON think|VERB love|VERB can|VERB raise|VERB the|DET dead|ADJ ?|.
+ LORI|NOUN :|. He|PRON 's|VERB not|ADV dead|ADJ .|.
+ LORI|NOUN :|. Where|QUESTIONTAG 's|PRT Boone|NOUN ?|.
+ OHNAKA|NOUN :|. This|DET way|NOUN !|.
+ PELOQUIN|NOUN :|. So|NOUN why|ADV 's|PRT he|PRON leaving|VERB ?|.
+ SHUNA|NOUN SASSI|NOUN :|. Everything|NOUN has|VERB its|PRON purpose|NOUN .|.
+ PELOQUIN|NOUN :|. Why|ADV die|VERB waiting|VERB ?|.
+ LORI|NOUN [|NOUN whispers|NOUN ]|VERB :|. What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ BOONE|NOUN :|. Why|ADV is|VERB it|PRON so|ADV empty|ADJ ?|.
+ LORI|NOUN :|. What|QUESTIONTAG ?|.
+ BOONE|NOUN :|. So|ADV much|ADJ blood|NOUN ...|.
+ LORI|NOUN :|. Boone|NOUN ?|.
+ Boone|NUM appears|VERB at|ADP the|DET door|NOUN .|.
+ LORI|NOUN :|. Boone|NOUN ,|. what|PRON is|VERB it|PRON ?|.
+ BOONE|ADP :|. I|PRON do|VERB n't|ADV want|VERB you|PRON to|PRT see|VERB ...|.
+ LORI|NOUN :|. See|VERB what|PRON ?|.
+ BOONE|NOUN :|. Get|VERB out|PRT !|.
+ EIGERMAN|NOUN :|. You|PRON still|ADV here|ADV ?|.
+ DECKER|NOUN :|. I|PRON 'm|VERB going|VERB back|ADV to|PRT Midian|NOUN with|ADP you|PRON .|.
+ EIGERMAN|NOUN :|. So|ADV ?|.
+ JOYCE|NOUN :|. So|ADV maybe|ADV there|DET are|VERB more|ADJ of|ADP them|PRON ...|.
+ EIGERMAN|NOUN :|. Monsters|NOUN ?|.
+ JOYCE|NOUN :|. Killers|NOUN .|.
+ EIGERMAN|NOUN :|. You|PRON want|VERB to|PRT take|VERB some|DET of|ADP the|DET boys|NOUN ,|. take|VERB 'em|PRON Pettine|NOUN ?|.
+ PETTINE|NOUN :|. Yes|X ,|. Sir|NOUN -|.
+ LABOWITZ|NOUN :|. What|QUESTIONTAG 's|VERB that|DET ?|.
+ DR|NOUN ROSE|NOUN :|. No|DET ...|. pulse|ADV .|.
+ 1ST|NUM REPORTER|NOUN :|. Local|ADJ source|NOUN ,|. Captain|NOUN ?|.
+ EIGERMAN|NOUN [|VERB a|DET glance|NOUN at|ADP Decker|NOUN in|ADP the|DET crowd|NOUN ]|NOUN :|. Not|ADV so|ADV 's|PRT you|PRON 'd|VERB notice|VERB .|.
+ 2ND|NUM REPORTER|NOUN :|. Has|NOUN Boone|NOUN made|VERB a|DET confession|NOUN ?|.
+ EIGERMAN|NOUN :|. We|PRON found|VERB him|PRON with|ADP a|DET piece|NOUN of|ADP human|ADJ flesh|NOUN in|ADP his|PRON mouth|NOUN .|.
+ EIGERMAN|NOUN :|. Just|ADV exactly|ADV how|ADV many|ADJ bullets|NOUN did|VERB they|PRON put|VERB into|ADP this|DET geek|NOUN up|ADV at|ADP Midian|NOUN ?|.
+ DECKER|NOUN :|. Why|ADV ?|.
+ DECKER|NOUN :|. When|QUESTIONTAG ?|.
+ EIGERMAN|NOUN :|. Not|ADV lying|VERB down|PRT dead|ADJ ,|. friend|NOUN .|.
+ LORI|NOUN [|NOUN frightened|VERB ]|NOUN :|. Where|QUESTIONTAG are|VERB you|PRON ?|.
+ BABETTE|NOUN [|NOUN V.O|NOUN .|.
+ RACHEL|NOUN :|. What|QUESTIONTAG is|VERB it|PRON ,|. child|VERB ?|.
+ TOMMY|NOUN :|. What|QUESTIONTAG egg-zactly|ADV are|VERB we|PRON lookin|VERB '|. for|ADP ,|. Sarge|NOUN ?|.
+ TOMMY|NOUN [|NOUN spits|VERB some|DET tobacco|NOUN juice|NOUN on|ADP a|DET tomb|NOUN ]|NOUN :|. We|PRON 're|VERB here|ADV to|PRT kick|VERB some|DET major-league|ADJ butt|NOUN .|.
+ PETTINE|NOUN :|. Want|VERB we|PRON should|VERB interrogate|VERB it|PRON ,|. Lieutenant|NOUN ?|.
+ JOYCE|NOUN [|NOUN amazed|VERB ]|NOUN :|. Give|VERB it|PRON some|DET room|NOUN .|.
+ GIBBS|NOUN :|. What|QUESTIONTAG the|DET hell|NOUN for|ADP ?|.
+ JOYCE|NOUN :|. God|NOUN damn|VERB it|PRON !|.
+ PETTINE|NOUN :|. What|QUESTIONTAG the|DET fuck|NOUN is|VERB this|DET ?|.
+ Gibbs|NOUN ,|. unfazed|ADJ ,|. steps|VERB up|PRT to|PRT Ohnaka|NOUN and|CONJ kicks|VERB the|DET creature|NOUN over|ADP .|.
+ PETTINE|NOUN :|. Jesus|NOUN ...|. d'you|NOUN see|VERB that|ADP fucker|NOUN 's|PRT face|NOUN ?|.
+ JOYCE|NOUN :|. It|PRON was|VERB the|DET sun|NOUN .|.
+ JOYCE|NOUN :|. Who|QUESTIONTAG did|VERB it|PRON ,|. did|VERB you|PRON see|VERB anyone|NOUN ?|.
+ Tommy|NOUN shakes|VERB his|PRON head|NOUN .|.
+ EIGERMAN|NOUN :|. If|ADP you|PRON 're|VERB gon|VERB na|PRT make|VERB an|DET omelette|NOUN you|PRON have|VERB to|PRT break|VERB eggs|NOUN ,|. is|VERB n't|ADV that|ADV right|ADJ ,|. Professor|NOUN ?|.
+ DECKER|NOUN [|NOUN does|VERB n't|ADV follow|VERB ]|NOUN :|. Sorry|NOUN ?|.
+ DECKER|NOUN [|NOUN over|ADP Kane|NOUN ]|NOUN :|. Captain|NOUN ,|. have|VERB you|PRON considered|VERB the|DET possibility|NOUN that|DET knives|VERB and|CONJ bullets|NOUN wo|VERB n't|ADV be|VERB adequate|ADJ to|PRT the|DET task|NOUN ?|.
+ EIGERMAN|NOUN :|. Show|NOUN him|PRON ,|. Kane|NOUN .|.
+ EIGERMAN|NOUN :|. He|PRON is|VERB ;|. lost|VERB his|PRON way|NOUN ,|. poor|ADJ bastard|NOUN ,|. [|NOUN hauling|VERB Ashberry|NOUN to|PRT his|PRON feet|NOUN ]|ADP You|PRON would|VERB n't|ADV wan|VERB na|PRT miss|VERB the|DET Day|NOUN of|ADP Judgment|NOUN ,|. now|ADV would|VERB you|PRON ?|.
+ ASHBERRY|NOUN [|NOUN seems|VERB he|PRON 's|VERB been|VERB waiting|VERB for|ADP this|DET ]|NOUN :|. The|DET Apocalypse|NOUN ?|.
+ NARCISSE|NOUN :|. Hey|NOUN ,|. chickie|NOUN ,|. want|VERB a|DET ride|NOUN ?|.
+ LORI|NOUN :|. No|DET ...|.
+ LORI|NOUN :|. What|QUESTIONTAG could|VERB he|PRON do|VERB ?|.
+ RACHEL|NOUN :|. He|PRON went|VERB into|ADP Baphomet|NOUN 's|PRT chamber|NOUN .|.
+ NARCISSE|NOUN :|. Where|QUESTIONTAG they|PRON keeping|VERB him|PRON ?|.
+ LORI|NOUN :|. Inside|NOUN somewhere|ADV .|.
+ LORI|NOUN :|. Tell|VERB me|PRON about|ADP it|PRON ;|. what|PRON 's|VERB happened|VERB to|PRT him|PRON ?|.
+ NARCISSE|NOUN :|. He|PRON was|VERB bitten|VERB by|ADP a|DET Nightbreed|NOUN ,|. see|NOUN ,|. the|DET taint|NOUN 's|PRT in|ADP his|PRON system|NOUN ...|.
+ EIGERMAN|NOUN :|. Ever|ADV performed|VERB an|DET exorcism|NOUN ,|. Father|NOUN ?|.
+ ASHBERRY|NOUN :|. No|DET .|.
+ EIGERMAN|NOUN :|. Ever|ADV seen|VERB one|NUM ?|.
+ ASHBERRY|NOUN :|. No|DET .|.
+ CORMACK|NOUN :|. Little|ADJ Irish|ADJ in|ADP your|PRON joe|NOUN ,|. Constable|NOUN Labowitz|NOUN ?|.
+ LABOWITZ|NOUN [|VERB a|DET bad|ADJ brogue|NOUN ]|NOUN :|. Do|VERB n't|ADV mind|VERB if|ADP I|PRON do|VERB ,|. Constable|NOUN Cormack|NOUN .|.
+ CORMACK|NOUN :|. Who|QUESTIONTAG 's|VERB there|ADV ?|.
+ RACHEL|NOUN [|NOUN O.S|NOUN .|.
+ CORMACK|NOUN :|. What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ RACHEL|NOUN [|NOUN O.S|NOUN .|.
+ CORMACK|NOUN :|. What|QUESTIONTAG 's|VERB the|DET problem|NOUN ,|. lady|NOUN ?|.
+ She|PRON drops|VERB the|DET veil|NOUN .|.
+ LORI|NOUN [|NOUN nervous|ADJ ]|NOUN :|. Boone|NUM ?|.
+ BOONE|NOUN [|NOUN wakes|VERB ]|NOUN :|. Stay|VERB away|ADV from|ADP me|PRON .|.
+ NARCISSE|NOUN :|. What|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON doing|VERB in|ADP there|DET ?|.
+ RACHEL|NOUN :|. Are|VERB we|PRON going|VERB ?|.
+ NARCISSE|NOUN :|. About|ADP time|NOUN .|.
+ JOYCE|NOUN :|. How|QUESTIONTAG long|ADV until|ADP dark|NOUN ?|.
+ PETTINE|NOUN :|. Two|NUM hours|NOUN .|.
+ PETTINE|NOUN :|. Is|VERB n't|ADV that|ADP enough|ADJ reason|NOUN ?|.
+ Joyce|NOUN stares|NOUN at|ADP him|PRON .|.
+ BOONE|NOUN :|. How|QUESTIONTAG much|ADV further|ADV ?|.
+ NARCISSE|NOUN :|. A|DET mile|NOUN ,|. maybe|ADV two|NUM ...|.
+ EIGERMAN|NOUN :|. How|QUESTIONTAG much|ADV longer|ADJ ?|.
+ KANE|NOUN :|. Five|NUM minutes|NOUN .|.
+ LEROY|NOUN :|. You|PRON hear|VERB what|PRON he|PRON said|VERB ?|.
+ LUDE|NOUN :|. What|QUESTIONTAG chance|NOUN have|VERB we|PRON got|VERB ?|.
+ JOYCE|NOUN :|. Monsters|NOUN ,|. you|PRON mean|VERB ?|.
+ DECKER|NOUN :|. Unnatural|ADJ ,|. misbegotten|ADJ creatures|NOUN .|.
+ EIGERMAN|NOUN :|. That|DET sound|NOUN like|ADP a|DET heavenly|ADV choir|NOUN to|PRT you|PRON ,|. Padre|NOUN ?|.
+ ASHBERRY|NOUN :|. I|PRON have|VERB to|PRT see|VERB !|.
+ PETTINE|NOUN :|. Chief|NOUN ?|.
+ EIGERMAN|NOUN :|. We|PRON 're|VERB moving|VERB in|ADP .|.
+ DECKER|NOUN :|. What|QUESTIONTAG about|ADP Boone|NOUN ?|.
+ THE|DET MASK|NOUN [|NOUN V.O|NOUN .|.
+ BOONE|NOUN :|. How|QUESTIONTAG do|VERB you|PRON know|VERB ?|.
+ LYLESBURG|NOUN :|. Look|NOUN for|ADP yourself|PRON .|.
+ BOONE|NOUN :|. It|PRON 's|VERB going|VERB to|PRT blow|VERB ?|.
+ LYLESBURG|NOUN :|. Yes|X .|.
+ BOONE|NOUN :|. He|PRON 'll|VERB destroy|VERB his|PRON own|ADJ people|NOUN ?|.
+ LYLESBURG|NOUN :|. Better|ADV it|PRON ends|VERB quickly|ADV .|.
+ BOONE|NOUN :|. What|QUESTIONTAG about|ADP the|DET Berserkers|NOUN ?|.
+ LYLESBURG|NOUN :|. They|PRON 're|VERB uncontrollable|ADJ .|.
+ We|PRON 're|VERB the|DET tribes|NOUN of|ADP the|DET moon|NOUN ,|. remember|VERB ?|.
+ Doubt|NOUN and|CONJ fear|NOUN mingle|NOUN in|ADP Lylesburg|NOUN 's|PRT look|NOUN ,|. but|CONJ he|PRON finally|ADV nods|VERB his|PRON head|NOUN .|.
+ NARCISSE|NOUN :|. What|QUESTIONTAG way|NOUN 's|PRT safe|ADJ ?|.
+ BOONE|NOUN :|. The|DET west|ADJ wall|NOUN !|.
+ LUDE|NOUN :|. What|QUESTIONTAG 's|VERB the|DET plan|NOUN ?|.
+ LEROY|NOUN :|. The|DET usual|ADJ .|.
+ KANE|NOUN :|. What|QUESTIONTAG ?|.
+ 1st|NUM cop|NOUN pulls|VERB a|DET quill|NOUN from|ADP the|DET back|NOUN of|ADP his|PRON neck|NOUN .|.
+ 1ST|NUM COP|NOUN :|. Where|QUESTIONTAG the|DET fuck|NOUN did|VERB that|ADP come|NOUN from|ADP ?|.
+ Kane|NOUN puts|VERB his|PRON spectacles|NOUN back|ADV on|ADP ,|. and|CONJ sees|VERB Shuna|NOUN Sassi|NOUN in|ADP one|NUM of|ADP the|DET mausoleums|NOUN .|.
+ 2ND|NUM COP|NOUN :|. Kane|NOUN ?|.
+ As|ADP he|PRON reaches|VERB the|DET threshold|NOUN ,|. Kane|NOUN staggers|VERB out|PRT ,|. his|PRON body|NOUN and|CONJ face|NOUN pierced|VERB in|ADP dozens|NOUN of|ADP places|NOUN with|ADP Shuna|NOUN 's|PRT spines|NOUN .|.
+ EIGERMAN|NOUN :|. Gibbs|NOUN ?|.
+ GIBBS|NOUN :|. Sir|NOUN ?|.
+ BOONE|NOUN :|. Where|QUESTIONTAG ?|.
+ Babette|NOUN points|NOUN outside|ADV .|.
+ LORI|NOUN :|. What|QUESTIONTAG prophesies|NOUN ?|.
+ Peloquin|NOUN takes|VERB her|PRON arm|NOUN .|.
+ PELOQUIN|NOUN :|. You|PRON want|VERB to|PRT see|VERB ?|.
+ PELOQUIN|NOUN :|. See|VERB ?|.
+ We|PRON track|VERB towards|ADP the|DET mural|NOUN .|.
+ LORI|NOUN :|. Made|VERB him|PRON ?|.
+ PELOQUIN|NOUN :|. The|DET bite|NOUN was|VERB mine|NOUN .|.
+ BOONE|NOUN :|. Why|ADV not|ADV ?|.
+ BABETTE|NOUN [|NOUN looking|VERB down|PRT into|ADP the|DET hole|NOUN ]|NOUN :|. Baphomet|NOUN .|.
+ BOONE|NOUN :|. Want|VERB to|PRT dance|VERB ?|.
+ He|PRON snatches|VERB the|DET mask|NOUN off|ADP Decker|NOUN 's|PRT face|NOUN and|CONJ draws|VERB him|PRON close|ADV ,|. impaling|VERB Decker|NOUN on|ADP his|PRON own|ADJ blade|NOUN .|.
+ BOONE|NOUN :|. Where|QUESTIONTAG ?|.
+ RACHEL/BAPHOMET|NOUN :|. That|ADP you|PRON must|VERB find|VERB yourself|PRON .|.
+ LORI|NOUN :|. Where|QUESTIONTAG are|VERB they|PRON going|VERB ?|.
+ NARCISSE|NOUN :|. Any|DET hiding|VERB place|NOUN they|PRON can|VERB find|VERB .|.
+ BOONE|NOUN :|. When|QUESTIONTAG I|PRON need|VERB you|PRON where|ADV will|VERB I|PRON find|VERB you|PRON ?|.
+ NARCISSE|NOUN :|. You|PRON 'll|VERB find|VERB me|PRON .|.
+ EIGERMAN|NOUN :|. What|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON talking|VERB about|ADP ?|.
+ ASHBERRY|NOUN :|. I|PRON can|VERB still|ADV smell|VERB him|PRON .|.
+ EIGERMAN|NOUN :|. You|PRON mean|VERB you|PRON can|VERB find|VERB them|PRON ?|.
+ ASHBERRY|NOUN :|. Oh|X yes|X .|.
+ BABETTE|NOUN :|. ...|. who|PRON will|VERB come|VERB for|ADP us|PRON ?|.
+ KINSKI|NOUN :|. His|PRON name|NOUN is|VERB Cabal|NOUN .|.
+ BABETTE|NOUN :|. How|QUESTIONTAG soon|ADV ?|.
+ RACHEL|NOUN :|. On|ADP the|DET next|ADJ wind|NOUN .|.

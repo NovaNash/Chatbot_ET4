@@ -1,0 +1,5 @@
+ you|PRON ?|.
+ street|NOUN rat|NOUN ?|.
+ here|ADV and|CONJ block|VERB the|DET exit|NOUN .|.
+ ALADDIN|NOUN :|. Abu|NOUN ,|. will|VERB ya|VERB knock|VERB it|PRON off|PRT ?|.
+ jumps|NOUN to|PRT the|DET other|ADJ side|NOUN .|.

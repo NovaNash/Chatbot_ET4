@@ -1,0 +1,26 @@
+ Never|ADV were|VERB ?|.
+ No|DET .|.
+ Temple|NOUN ?|.
+ Drew|NOUN is|VERB not|ADV really|ADV amused|VERB ,|. however|ADV ,|. he|PRON is|VERB frustrated|VERB and|CONJ tired|VERB .|.
+ gain|NOUN ?|.
+ on|ADP .|.
+ Temple|NOUN ?|.
+ anyway|ADV ?|.
+ Ca|NOUN n't|ADV I|PRON just|ADV wear|VERB a|DET patch|NOUN ?|.
+ The|DET barber|NOUN starts|VERB on|ADP Drew|NOUN 's|PRT head|NOUN ,|. big|ADJ clumps|NOUN of|ADP hair|NOUN falling|VERB down|PRT to|PRT the|DET floor|NOUN .|.
+ MU|NOUN Huh|NOUN ?|.
+ We|PRON have|VERB to|PRT stand|VERB up|PRT for|ADP our|PRON rights|NOUN !|.
+ And|CONJ if|ADP it|PRON was|VERB always|ADV like|ADP this|DET ?|.
+ Again|ADV ,|. deformed|VERB .|.
+ no|DET to|PRT a|DET party|NOUN ...|. Where|QUESTIONTAG 's|PRT your|PRON sense|NOUN of|ADP adventure|NOUN ?|.
+ get|VERB away|PRT with|ADP it|PRON ?|.
+ GAO|NOUN Why|ADV only|ADV you|PRON ?|.
+ LI|NOUN The|DET D.S|NOUN .|.
+ Are|NOUN you|PRON staying|VERB ?|.
+ DREW|NOUN Yeah|NOUN ,|. I|PRON 'm|VERB staying|VERB .|.
+ Why|ADV not|ADV ?|.
+ I|PRON 'm|VERB a|DET monk|NOUN .|.
+ Do|VERB they|PRON have|VERB a|DET gift|NOUN shop|NOUN ?|.
+ Guide|NOUN !|.
+ DREW|NOUN (|. CONT|NOUN 'D|NOUN )|. What|QUESTIONTAG is|VERB the|DET meaning|NOUN of|ADP life|NOUN ?|.
+ on|ADP his|PRON head|NOUN and|CONJ stands|VERB up|PRT .|.

@@ -1,0 +1,264 @@
+ Wait|NOUN ,|. so|ADP how|ADV old|ADJ ?|.
+ Have|VERB you|PRON lost|VERB any|DET men|NOUN today|NOUN ,|. Captain|NOUN ?|.
+ But|CONJ he|PRON 's|VERB never|ADV gon|VERB na|ADV be|VERB able|ADJ to|PRT remember|VERB what|PRON happened|VERB ?|.
+ Can|VERB I|PRON have|VERB one|NUM of|ADP those|DET ?|.
+ You|PRON two|NUM ok|NOUN ?|.
+ STARKS|NOUN [|NOUN Looking|NOUN at|ADP JEAN|NOUN ]|NOUN What|QUESTIONTAG 's|VERB your|PRON mom|NOUN 's|PRT name|NOUN ?|.
+ JACKIE|NOUN [|NOUN Cautiously|NOUN ]|NOUN Jean|NOUN .|.
+ Your|PRON mom|NOUN take|VERB anything|NOUN before|ADP this|DET happened|VERB ?|.
+ [|ADJ Beat|NOUN ]|NOUN What|QUESTIONTAG 's|VERB your|PRON name|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB of|ADP all|DET this|DET snow|NOUN ?|.
+ JACKIE|NOUN looks|VERB at|ADP him|PRON curiously|ADV .|.
+ Hey|NOUN ,|. can|VERB you|PRON reach|VERB the|DET gas|NOUN pedal|NOUN ?|.
+ You|PRON 're|VERB just|ADV gon|VERB na|PRT walk|VERB ?|.
+ What|QUESTIONTAG 're|VERB those|DET ?|.
+ What|QUESTIONTAG for|ADP ?|.
+ ``|. Jackie|NOUN ''|. and|CONJ ``|. Jean|ADJ ''|. are|VERB the|DET only|ADJ ...|. things|NOUN you|PRON know|VERB for|ADP certain|ADJ about|ADP that|DET day|NOUN ?|.
+ STARKS|NOUN nods|NOUN .|.
+ How|QUESTIONTAG 'd|VERB he|PRON dodge|VERB a|DET conviction|NOUN ?|.
+ [|ADJ Beat|NOUN ]|NOUN So|NOUN why|ADV is|VERB n't|ADV he|PRON just|ADV in|ADP the|DET psych|ADJ ward|NOUN of|ADP the|DET county|NOUN jail|NOUN ?|.
+ Apparently|ADV ,|. he|PRON 's|VERB a|DET decorated|ADJ vet|NOUN .|.
+ [|ADJ Beat|NOUN ]|NOUN You|PRON do|VERB n't|ADV believe|VERB me|PRON ,|. do|VERB you|PRON ?|.
+ That|DET 's|VERB not|ADV enough|ADJ ,|. is|VERB it|PRON ?|.
+ BECKER|NOUN looks|VERB at|ADP STARKS|NOUN '|PRT battered|VERB body|NOUN .|.
+ STARKS|NOUN [|NOUN Relenting|NOUN ]|VERB What|QUESTIONTAG are|VERB you|PRON in|ADP here|ADV for|ADP ?|.
+ Do|VERB n't|ADV you|PRON go|VERB to|PRT jail|VERB for|ADP that|DET ?|.
+ And|CONJ you|PRON ,|. Mr.|NOUN Starks|NOUN ?|.
+ STARKS|NOUN [|NOUN Already|NOUN on|ADP the|DET defense|NOUN ]|NOUN I|PRON 'm|VERB fine|ADJ .|.
+ Mr.|NOUN MacKenzie|NOUN ,|. do|VERB you|PRON think|VERB I|PRON could|VERB talk|VERB to|PRT Mr.|NOUN Starks|NOUN privately|ADV ?|.
+ So|ADV you|PRON 're|VERB ok|ADJ ?|.
+ STARKS|NOUN [|NOUN Still|ADV distracted|VERB ]|NOUN What|QUESTIONTAG ?|.
+ You|PRON done|VERB with|ADP your|PRON small|ADJ talk|NOUN ?|.
+ You|PRON gon|VERB na|PRT get|VERB the|DET fuck|NOUN up|PRT ?|.
+ Wait|NOUN ...|. Dr.|NOUN Becker|NOUN ,|. how|ADV long|ADV do|VERB you|PRON want|VERB us|PRON to|PRT leave|VERB him|PRON in|ADP for|ADP ?|.
+ BECKER|NOUN does|VERB n't|ADV answer|VERB .|.
+ You|PRON ok|VERB ?|.
+ But|CONJ ...|. what|PRON about|ADP Starks|NOUN ?|.
+ What|QUESTIONTAG about|ADP Starks|NOUN ?|.
+ You|PRON got|VERB any|DET booze|NOUN ?|.
+ HARDING|NOUN takes|VERB out|PRT a|DET FLASK|NOUN from|ADP her|PRON BACKPACK|NOUN .|.
+ Where|QUESTIONTAG do|VERB you|PRON think|VERB you|PRON 're|VERB going|VERB ?|.
+ STARKS|NOUN looks|VERB at|ADP her|PRON .|.
+ You|PRON gon|VERB na|PRT answer|VERB me|PRON ?|.
+ STARKS|NOUN just|ADV stares|NOUN .|.
+ [|ADJ Beat|NOUN ]|NOUN You|PRON got|VERB somewhere|ADV you|PRON need|VERB to|PRT go|VERB ,|. Mister|NOUN ?|.
+ STARKS|NOUN [|NOUN Nodding|NOUN slowly|ADV ]|NOUN Yeah|NOUN ,|. I|PRON do|VERB .|.
+ So|ADV ,|. where|ADV do|VERB you|PRON want|VERB me|PRON to|PRT drop|VERB you|PRON ?|.
+ STARKS|NOUN rubs|VERB his|PRON hand|NOUN over|ADP his|PRON chin|NOUN and|CONJ cheek|NOUN as|ADP he|PRON thinks|VERB it|PRON over|PRT .|.
+ You|PRON do|VERB n't|ADV have|VERB anywhere|ADV to|PRT stay|VERB ?|.
+ I|PRON do|VERB n't|ADV think|VERB so|ADV .|.
+ Well|ADV ,|. where|ADV are|VERB you|PRON from|ADP ?|.
+ Why|ADV ``|. of|ADP course|NOUN ''|. ?|.
+ Well|ADV ,|. you|PRON got|VERB a|DET coat|NOUN or|CONJ something|NOUN ?|.
+ STARKS|NOUN [|NOUN Looking|VERB down|PRT at|ADP his|PRON clothes|NOUN ]|VERB No|DET .|.
+ Well|ADV ,|. how|ADV 'd|VERB you|PRON get|VERB here|ADV ?|.
+ WAITRESS|NOUN [|VERB Noticing|NOUN he|PRON 's|VERB shaken|ADJ ]|NOUN Hey|NOUN ,|. you|PRON ok|VERB ?|.
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ You|PRON want|VERB a|DET drink|NOUN ?|.
+ Sure|ADV .|.
+ You|PRON like|ADP it|PRON ?|.
+ [|ADJ Beat|NOUN ]|NOUN I|PRON do|VERB it|PRON .|.
+ Have|VERB you|PRON always|ADV been|VERB a|DET waitress|NOUN ?|.
+ WAITRESS|NOUN [|NOUN Remembering|NOUN sadly|ADV ]|VERB No|DET .|.
+ [|ADJ Beat|NOUN ]|NOUN Why|ADV 'd|VERB you|PRON stop|VERB ?|.
+ [|ADJ Beat|NOUN ]|NOUN Why|ADV ?|.
+ You|PRON do|VERB n't|ADV think|VERB that|DET 's|VERB crazy|ADJ ?|.
+ You|PRON remember|VERB it|PRON ?|.
+ STARKS|NOUN [|NOUN Nodding|NOUN slowly|ADV ]|VERB It|PRON 's|VERB like|ADP I|PRON feel|VERB like|ADP ...|. I|PRON know|VERB who|PRON I|PRON am|VERB .|.
+ WAITRESS|NOUN [|NOUN re|NOUN :|. the|DET lights|NOUN ]|NOUN Why|ADV do|VERB n't|ADV I|PRON try|VERB to|PRT get|VERB them|PRON to|PRT stop|VERB blinking|NOUN ?|.
+ So|ADV you|PRON never|ADV knew|VERB your|PRON mother|NOUN ?|.
+ How|QUESTIONTAG ?|.
+ That|DET when|ADV you|PRON stopped|VERB being|VERB a|DET nurse|NOUN ?|.
+ She|PRON is|VERB surprised|ADJ that|ADP he|PRON gleaned|VERB the|DET connection|NOUN --|. and|CONJ that|ADP he|PRON 'd|VERB been|VERB listening|VERB so|ADV closely|ADV .|.
+ William|NOUN ,|. can|VERB you|PRON hear|VERB me|PRON ?|.
+ His|PRON VOICE|NOUN echoes|NOUN in|ADP the|DET morgue|NOUN ,|. sounding|VERB to|PRT Starks|NOUN ,|. as|ADP it|PRON does|VERB to|PRT us|PRON ,|. faint|NOUN and|CONJ distant|NOUN .|.
+ JACKIE|NOUN [|NOUN In|ADP a|DET drunken|ADJ slumber|NOUN ]|VERB What|QUESTIONTAG ?|.
+ What|QUESTIONTAG year|NOUN is|VERB it|PRON ?|.
+ JACKIE|NOUN [|NOUN Barely|NOUN opening|VERB her|PRON eyes|NOUN ]|NOUN
+ JACKIE|NOUN [|NOUN Desperately|NOUN ]|NOUN Who|QUESTIONTAG are|VERB you|PRON ?|.
+ STARKS|NOUN lets|VERB his|PRON GRIP|NOUN loosen|NOUN .|.
+ [|ADJ Beat|NOUN ]|VERB What|QUESTIONTAG ?|.
+ [|ADJ Beat|NOUN ]|VERB What|QUESTIONTAG ?|.
+ How|QUESTIONTAG ?|.
+ Then|ADV he|PRON remembers|VERB --|. understanding|VERB with|ADP a|DET chill|NOUN that|ADP what|PRON she|PRON is|VERB saying|VERB could|VERB entirely|ADV be|VERB true|ADJ .|.
+ How|QUESTIONTAG 'd|VERB he|PRON die|VERB ?|.
+ You|PRON left|VERB him|PRON in|ADP all|DET night|NOUN ?|.
+ Well|ADV ,|. what|PRON are|VERB we|PRON gon|VERB na|PRT do|VERB about|ADP it|PRON now|ADV ?|.
+ Nothing|NOUN is|VERB Gries|NOUN '|PRT answer|NOUN .|.
+ LORENSON|NOUN [|VERB Out|NOUN of|ADP breath|NOUN ]|NOUN Where|QUESTIONTAG 's|PRT William|NOUN Starks|NOUN ?|.
+ He|PRON 's|VERB recovering|VERB on|ADP the|DET third|ADJ floor|NOUN .|.
+ And|CONJ you|PRON know|VERB that|ADP from|ADP what|PRON ,|. a|DET couple|ADJ two-minute|ADJ stares|NOUN across|ADP a|DET room|NOUN ?|.
+ LORENSON|NOUN [|NOUN Firmly|NOUN ]|NOUN He|PRON did|VERB n't|ADV need|VERB anti-psychotics|NOUN ,|. if|ADP that|DET 's|VERB even|ADV all|DET you|PRON 're|VERB giving|VERB him|PRON ...|. ?|.
+ [|ADJ Beat|NOUN ]|NOUN You|PRON sure|VERB he|PRON was|VERB n't|ADV provoked|VERB ?|.
+ CLAIRE|NOUN [|VERB Not|ADV looking|VERB up|PRT ]|ADJ How|QUESTIONTAG can|VERB I|PRON help|VERB you|PRON ?|.
+ What|QUESTIONTAG the|DET hell|NOUN kind|NOUN of|ADP drugs|NOUN are|VERB you|PRON people|NOUN giving|VERB me|PRON ?|.
+ STARKS|NOUN [|NOUN Swallowing|NOUN nervously|ADV ]|VERB Did|NOUN you|PRON say|VERB something|NOUN ?|.
+ The|DET NURSE|NOUN shakes|VERB her|PRON head|NOUN lightly|ADV and|CONJ just|ADV then|ADV BECKER|NOUN steps|VERB out|ADP of|ADP the|DET LIGHT|NOUN .|.
+ It|PRON 's|VERB December|NOUN 26th|NUM ?|.
+ STARKS|NOUN examines|VERB himself|PRON --|. looking|VERB at|ADP his|PRON arms|NOUN ,|. spotting|VERB the|DET BRUISES|NOUN on|ADP them|PRON .|.
+ In|ADP where|ADV ?|.
+ STARKS|NOUN [|NOUN Provokingly|NOUN ]|VERB What|QUESTIONTAG happened|VERB to|PRT your|PRON cheek|NOUN ,|. Dr.|NOUN Becker|NOUN ?|.
+ How|QUESTIONTAG 'd|VERB he|PRON die|VERB ?|.
+ STARKS|NOUN [|NOUN Turning|NOUN around|PRT sharply|ADV ]|VERB What|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT do|VERB to|PRT me|PRON ?|.
+ And|CONJ if|ADP I|PRON did|VERB n't|ADV want|VERB to|PRT come|VERB ?|.
+ Since|ADP when|ADV do|VERB people|NOUN around|ADP here|ADV have|VERB to|PRT ask|VERB permission|NOUN to|PRT do|VERB anything|NOUN ?|.
+ LORENSON|NOUN [|NOUN Suspiciously|NOUN ]|NOUN How|QUESTIONTAG 's|PRT your|PRON treatment|NOUN progressing|VERB with|ADP Dr.|NOUN Becker|NOUN ?|.
+ Why|ADV ,|. what|PRON would|VERB you|PRON do|VERB ?|.
+ LORENSON|NOUN [|NOUN Casually|NOUN ]|NOUN You|PRON comin|VERB '|. ?|.
+ STARKS|NOUN looks|VERB towards|ADP the|DET FENCES|NOUN locking|VERB him|PRON in|ADP from|ADP every|DET direction|NOUN .|.
+ What|QUESTIONTAG were|VERB you|PRON talking|VERB about|ADP the|DET other|ADJ day|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON know|VERB about|ADP the|DET Jacket|NOUN ?|.
+ MACKENZIE|NOUN 's|PRT eyes|NOUN start|VERB to|PRT twitch|VERB nervously|ADV .|.
+ [|ADJ Beat|NOUN ]|NOUN How|QUESTIONTAG do|VERB you|PRON know|VERB ?|.
+ What|QUESTIONTAG are|VERB you|PRON two|NUM yappin|NOUN '|PRT about|ADP ?|.
+ STARKS|NOUN tenses|VERB up|PRT as|ADP he|PRON sees|VERB only|ADV the|DET ROD|NOUN ,|. which|DET could|VERB inflict|VERB a|DET GASH|NOUN if|ADP hit|VERB across|ADP a|DET man|NOUN 's|PRT head|NOUN the|DET right|ADJ way|NOUN .|.
+ Why|ADV ?|.
+ MACKENZIE|NOUN 's|PRT body|NOUN betrays|VERB his|PRON discomfort|NOUN talking|VERB about|ADP it|PRON in|ADP its|PRON sudden|ADJ jerks|NOUN accompanying|VERB every|DET word|NOUN .|.
+ So|ADV what|PRON am|VERB I|PRON supposed|VERB to|PRT do|VERB ?|.
+ What|QUESTIONTAG should|VERB they|PRON be|VERB looking|VERB for|ADP ?|.
+ STARKS|NOUN [|NOUN To|PRT Sally|NOUN ]|NOUN You|PRON ok|VERB ?|.
+ As|ADP she|PRON NODS|NOUN ,|. her|PRON EYES|NOUN dart|NOUN above|ADP to|PRT the|DET HAND|NOUN about|ADP to|PRT strike|VERB him|PRON .|.
+ Are|NOUN you|PRON ok|ADP ?|.
+ Where|QUESTIONTAG are|VERB the|DET other|ADJ orderlies|NOUN ?|.
+ BECKER|NOUN [|NOUN Calm|NOUN as|ADP ever|ADV ]|NOUN And|CONJ what|DET have|VERB they|PRON approached|VERB you|PRON about|ADP ,|. Mr.|NOUN Jensen|NOUN ?|.
+ The|DET Organization|NOUN ...|. for|ADP the|DET Organized|NOUN ?|.
+ BECKER|NOUN [|NOUN Wearily|NOUN ]|NOUN What|QUESTIONTAG do|VERB the|DET rest|NOUN of|ADP you|PRON think|VERB ?|.
+ The|DET GROUP|NOUN stares|VERB at|ADP one|NUM another|DET silently|ADV .|.
+ And|CONJ how|ADV is|VERB that|ADP ?|.
+ STARKS|NOUN looks|VERB at|ADP JENSEN|NOUN ,|. who|PRON looks|VERB back|ADV avidly|ADV .|.
+ They|PRON 're|VERB always|ADV ordering|VERB us|PRON to|PRT stay|VERB calm|ADJ ,|. but|CONJ how|ADV can|VERB we|PRON be|VERB calm|VERB ?|.
+ STARKS|NOUN suddenly|ADV turns|VERB right|ADJ at|ADP Becker|NOUN ,|. wrapping|VERB his|PRON message|NOUN to|PRT him|PRON in|ADP the|DET seemingly|ADV crazed|ADJ theatrics|NOUN of|ADP a|DET nut|NOUN .|.
+ You|PRON ever|ADV been|VERB to|PRT jail|VERB ?|.
+ STARKS|NOUN [|NOUN Finally|NOUN spotting|VERB Harrison|NOUN ]|NOUN What|QUESTIONTAG 's|VERB he|PRON pulling|VERB us|PRON over|ADP for|ADP ?|.
+ TENNY|NOUN [|NOUN Still|ADV preparing|VERB himself|PRON ]|ADJ Recreation|NOUN .|.
+ Why|ADV ?|.
+ Jesus|NOUN Christ|NOUN ,|. what|PRON 'd|VERB you|PRON do|VERB that|DET for|ADP ?|.
+ TENNY|NOUN looks|VERB around|ADP ,|. still|ADV holding|VERB the|DET GUN|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Do|VERB you|PRON really|ADV believe|VERB me|PRON ?|.
+ His|PRON body|NOUN was|VERB found|VERB on|ADP January|NOUN 1|NUM ,|. 1993|NUM ,|. but|CONJ do|VERB you|PRON know|VERB if|ADP that|DET was|VERB long|ADV after|ADP he|PRON had|VERB died|VERB ?|.
+ What|QUESTIONTAG about|ADP Dr.|NOUN Becker|NOUN and|CONJ Mr.|NOUN Gries|NOUN ?|.
+ Do|VERB you|PRON have|VERB any|DET kind|NOUN of|ADP forwarding|VERB address|NOUN for|ADP Dr.|NOUN Becker|NOUN ?|.
+ And|CONJ you|PRON are|VERB ...|. ?|.
+ JACKIE|NOUN looks|VERB back|ADV uncomfortably|ADV .|.
+ Why|ADV ?|.
+ LORENSON|ADJ considers|NOUN her|PRON answer|NOUN .|.
+ You|PRON thought|VERB my|PRON father|NOUN was|VERB crazy|ADJ ?|.
+ What|QUESTIONTAG case|NOUN ?|.
+ Who|QUESTIONTAG was|VERB Eugene|NOUN ?|.
+ LORENSON|NOUN [|NOUN Peaked|VERB ]|ADP He|PRON was|VERB a|DET friend|NOUN 's|PRT son|NOUN .|.
+ How|QUESTIONTAG ?|.
+ Do|VERB you|PRON know|VERB how|ADV my|PRON father|NOUN died|VERB ?|.
+ LORENSON|NOUN [|NOUN Unconvincingly|NOUN ]|NOUN I|PRON do|VERB n't|ADV know|VERB how|ADV much|ADJ I|PRON remember|VERB but|CONJ I|PRON seem|VERB to|PRT think|VERB it|PRON was|VERB from|ADP a|DET ...|. cut|NOUN or|CONJ blow|NOUN of|ADP some|DET sort|NOUN or|CONJ another|DET .|.
+ How|QUESTIONTAG 'd|VERB he|PRON get|VERB it|PRON ?|.
+ Well|ADV ,|. do|VERB you|PRON think|VERB Dr.|NOUN Becker|NOUN would|VERB have|VERB any|DET idea|NOUN ?|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB about|ADP Dr.|NOUN Becker|NOUN ?|.
+ Why|ADV would|VERB we|PRON do|VERB that|DET ?|.
+ STARKS|NOUN just|ADV stares|VERB at|ADP LORENSON|NOUN ,|. not|ADV knowing|VERB if|ADP he|PRON died|VERB by|ADP this|DET man|NOUN 's|PRT hands|NOUN or|CONJ not|ADV ,|. not|ADV knowing|VERB who|PRON he|PRON can|VERB trust|VERB ...|.
+ It|PRON 's|VERB important|ADJ for|ADP you|PRON to|PRT know|VERB who|PRON your|PRON father|NOUN was|VERB ,|. is|VERB n't|ADV it|PRON ?|.
+ You|PRON think|VERB Lorenson|NOUN kills|NOUN you|PRON ?|.
+ Why|ADV ?|.
+ Do|VERB I|PRON know|VERB you|PRON from|ADP somewhere|ADV ?|.
+ Did|NOUN you|PRON know|VERB my|PRON father|NOUN ?|.
+ You|PRON would|VERB n't|ADV happen|VERB to|PRT know|VERB how|ADV he|PRON died|VERB ,|. would|VERB you|PRON ?|.
+ DAMON|NOUN [|NOUN Slightly|NOUN apprehensive|ADJ ]|NOUN No|NOUN ,|. I|PRON do|VERB n't|ADV .|.
+ You|PRON do|VERB n't|ADV know|VERB any|DET more|ADJ ,|. Damon|NOUN ?|.
+ DAMON|NOUN [|NOUN Shocked|NOUN ]|NOUN How|QUESTIONTAG 'd|VERB you|PRON know|VERB my|PRON name|NOUN ?|.
+ Oh|X yeah|NOUN ,|. what|PRON 'd|VERB he|PRON say|VERB ?|.
+ Damon|NOUN 's|PRT eyes|NOUN betray|ADP his|PRON unease|NOUN .|.
+ How|QUESTIONTAG long|ADJ do|VERB we|PRON have|VERB ?|.
+ How|QUESTIONTAG far|ADV away|ADV is|VERB that|ADP ?|.
+ JACKIE|NOUN [|NOUN Frustrated|NOUN ]|NOUN Well|NOUN ,|. does|VERB n't|ADV what|PRON he|PRON did|VERB to|PRT you|PRON make|VERB you|PRON mad|VERB ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ [|ADJ Beat|NOUN ]|NOUN Where|QUESTIONTAG is|VERB that|ADP from|ADP ?|.
+ It|PRON 's|VERB as|ADP though|ADP STARKS|NOUN hears|VERB his|PRON words|NOUN for|ADP the|DET first|ADJ time|NOUN .|.
+ Well|ADV ,|. what|PRON time|NOUN is|VERB it|PRON ?|.
+ The|DET future|NOUN does|VERB n't|ADV look|VERB different|ADJ ?|.
+ What|QUESTIONTAG about|ADP the|DET world|NOUN ?|.
+ LORENSON|NOUN [|NOUN Matter-of-factly|NOUN ]|NOUN Did|NOUN he|PRON tell|VERB you|PRON he|PRON tried|VERB to|PRT kill|VERB his|PRON wife|NOUN ?|.
+ STARKS|NOUN nods|NOUN .|.
+ Why|ADV do|VERB n't|ADV you|PRON help|VERB me|PRON ?|.
+ Why|ADV not|ADV ?|.
+ And|CONJ how|ADV do|VERB you|PRON know|VERB that|DET ?|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB about|ADP Eugene|NOUN ?|.
+ Geez|NOUN ,|. how|ADV 's|PRT that|DET for|ADP a|DET fucking|NOUN ``|. thank|NOUN you|PRON ''|. ?|.
+ Is|VERB it|PRON true|ADJ ?|.
+ MacKenzie|NOUN ,|. [|NOUN beat|NOUN ]|VERB what|PRON if|ADP we|PRON are|VERB crazy|ADJ ?|.
+ They|PRON make|VERB it|PRON hard|ADJ for|ADP you|PRON to|PRT get|VERB away|PRT with|ADP your|PRON business|NOUN ,|. huh|NOUN ?|.
+ And|CONJ what|PRON 's|VERB that|DET ?|.
+ My|PRON business|NOUN ?|.
+ You|PRON killed|VERB him|PRON ?|.
+ STARKS|NOUN simply|ADV delivers|VERB one|NUM slow|ADJ nod|NOUN .|.
+ You|PRON sure|VERB you|PRON know|VERB where|ADV to|PRT find|VERB one|NUM ?|.
+ And|CONJ what|PRON does|VERB that|DET mean|VERB ?|.
+ Becker|NOUN ,|. how|ADV do|VERB you|PRON sleep|VERB at|ADP night|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Have|VERB you|PRON told|VERB anyone|NOUN about|ADP my|PRON sessions|NOUN with|ADP Eugene|NOUN ?|.
+ TALIA|NOUN [|NOUN With|ADP an|DET accent|ADJ ]|NOUN Of|ADP course|NOUN not|ADV .|.
+ Has|NOUN anyone|NOUN been|VERB asking|VERB about|ADP him|PRON ?|.
+ You|PRON 're|VERB sure|ADJ ?|.
+ How|QUESTIONTAG much|ADJ time|NOUN do|VERB we|PRON have|VERB ?|.
+ STARKS|NOUN [|NOUN Distracted|NOUN ]|NOUN I|PRON do|VERB n't|ADV know|VERB .|.
+ Then|ADV why|ADV is|VERB n't|ADV there|DET anyone|NOUN around|ADP ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ STARKS|NOUN does|VERB n't|ADV answer|VERB .|.
+ So|ADV ?|.
+ STARKS|NOUN looks|VERB ecstatic|ADJ with|ADP hope|NOUN .|.
+ Grandpa|NOUN ?|.
+ BECKER|NOUN [|NOUN Still|ADV looking|VERB at|ADP Starks|NOUN ]|NOUN Sean|NOUN ,|. why|ADV do|VERB n't|ADV you|PRON wait|VERB for|ADP me|PRON by|ADP the|DET car|NOUN ?|.
+ BECKER|NOUN [|NOUN To|PRT Starks|NOUN ]|NOUN Can|VERB I|PRON help|VERB you|PRON ?|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ [|ADJ Beat|NOUN ]|NOUN You|PRON 're|VERB his|PRON son|NOUN ?|.
+ How|QUESTIONTAG ...|. how|ADV are|VERB you|PRON here|ADV ?|.
+ STARKS|NOUN looks|VERB at|ADP Becker|NOUN --|. each|DET a|DET terrifying|ADJ reminder|NOUN of|ADP the|DET other|ADJ 's|PRT past|NOUN .|.
+ How|QUESTIONTAG ?|.
+ So|ADV ,|. what|PRON ,|. you|PRON guinea|VERB pig|ADJ sick|ADJ people|NOUN to|PRT find|VERB out|PRT ?|.
+ Who|QUESTIONTAG were|VERB the|DET others|NOUN ?|.
+ BECKER|NOUN remembers|NOUN with|ADP a|DET hint|NOUN of|ADP remorse|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ STARKS|NOUN just|ADV stares|VERB at|ADP Becker|NOUN ,|. waiting|VERB for|ADP the|DET realization|NOUN to|PRT hit|VERB him|PRON ,|. too|ADV .|.
+ How|QUESTIONTAG did|VERB you|PRON come|VERB to|PRT know|VERB their|PRON names|NOUN ?|.
+ Where|QUESTIONTAG are|VERB we|PRON going|VERB ?|.
+ Jesus|NOUN ,|. what|PRON 's|VERB happened|VERB to|PRT him|PRON ?|.
+ JACKIE|NOUN [|NOUN In|ADP a|DET panic|ADJ ]|NOUN He|PRON 's|VERB not|ADV ...|. ?|.
+ Hey|NOUN ,|. Mister|NOUN ,|. you|PRON need|VERB a|DET ride|NOUN ?|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ Can|VERB you|PRON drive|VERB ?|.
+ Can|VERB you|PRON hear|VERB me|PRON ?|.
+ STARKS|NOUN nods|NOUN ;|. JACKIE|NOUN tries|VERB to|PRT continue|VERB without|ADP choking|VERB up|PRT .|.
+ Jackie|NOUN ?|.
+ JACKIE|NOUN stirs|VERB her|PRON eyes|NOUN to|PRT look|VERB at|ADP him|PRON .|.
+ STARKS|NOUN [|NOUN Somewhat|NOUN urgently|ADV ]|VERB Where|QUESTIONTAG do|VERB you|PRON live|VERB ?|.
+ What|QUESTIONTAG ?|.
+ Then|ADV ,|. where|ADV are|VERB you|PRON going|VERB ?|.
+ How|QUESTIONTAG ...|. how|ADV do|VERB you|PRON know|VERB ?|.
+ I|PRON did|VERB ?|.
+ Who|QUESTIONTAG ...|. who|PRON kills|VERB me|PRON ?|.
+ Would|VERB you|PRON like|ADP anything|NOUN ,|. Dr.|NOUN Lorenson|NOUN ?|.
+ Is|VERB he|PRON gon|VERB na|PRT be|VERB ok|VERB ?|.
+ What|QUESTIONTAG for|ADP ?|.
+ STARKS|NOUN [|NOUN Solemnly|NOUN ]|NOUN I|PRON 'm|VERB starting|VERB to|PRT think|VERB I|PRON 'm|VERB really|ADV gon|VERB na|PRT die|VERB soon|ADV .|.
+ You|PRON still|ADV do|VERB n't|ADV believe|VERB me|PRON ,|. do|VERB you|PRON ?|.
+ Who|QUESTIONTAG told|VERB you|PRON this|DET ?|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ LORENSON|NOUN [|NOUN Finding|VERB it|PRON hard|ADJ to|PRT explain|VERB ]|ADJ Nothing|NOUN .|.
+ LORENSON|NOUN [|NOUN Softly|NOUN ]|VERB What|QUESTIONTAG 's|VERB happening|VERB to|PRT you|PRON ?|.
+ LORENSON|NOUN checks|NOUN Eugene|NOUN 's|PRT pulse|NOUN and|CONJ leans|NOUN in|ADP close|ADV to|PRT the|DET boy|NOUN 's|PRT unconscious|ADJ face|NOUN like|ADP the|DET answer|NOUN is|VERB there|ADV if|ADP she|PRON just|ADV looks|VERB hard|ADJ enough|ADV .|.
+ You|PRON ok|VERB ,|. Eugene|NOUN ?|.
+ EUGENE|NOUN holds|VERB Lorenson|NOUN 's|PRT gaze|NOUN steadily|ADV for|ADP a|DET few|ADJ moments|NOUN .|.
+ What|QUESTIONTAG 's|VERB happening|VERB ?|.
+ LORENSON|NOUN [|NOUN Putting|VERB the|DET pieces|NOUN together|ADV ]|ADP He|PRON got|VERB a|DET little|ADJ shock|NOUN .|.
+ It|PRON worked|VERB ,|. did|VERB n't|ADV it|PRON ?|.
+ LORENSON|NOUN nods|NOUN .|.
+ This|DET is|VERB really|ADV happening|ADJ ,|. is|VERB n't|ADV it|PRON ?|.
+ [|ADJ Beat|NOUN ]|NOUN What|QUESTIONTAG do|VERB you|PRON need|VERB me|PRON to|PRT do|VERB ?|.
+ You|PRON know|VERB how|ADV to|PRT get|VERB there|ADV ?|.
+ You|PRON want|VERB me|PRON to|PRT come|VERB with|ADP you|PRON ?|.
+ Jackie|NOUN ,|. how|ADV have|VERB you|PRON been|VERB ?|.
+ Can|VERB I|PRON help|VERB you|PRON ?|.
+ There|DET something|NOUN you|PRON need|VERB ?|.
+ Why|ADV ?|.
+ You|PRON work|VERB there|ADV ?|.
+ JACKIE|NOUN [|NOUN Gesturing|VERB to|PRT her|PRON uniform|ADJ ]|NOUN Yeah|NOUN ,|. I|PRON 'm|VERB a|DET nurse|NOUN .|.
+ How|QUESTIONTAG you|PRON doin|VERB '|. ?|.

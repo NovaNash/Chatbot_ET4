@@ -1,0 +1,143 @@
+ Got|NOUN time|NOUN for|ADP pancakes|NOUN ?|.
+ Nope|NOUN .|.
+ So|ADV what|PRON 've|VERB we|PRON got|VERB today|NOUN ?|.
+ Today|NOUN ,|. for|ADP your|PRON information|NOUN ,|. is|VERB Pulaski|NOUN Day|NOUN .|.
+ Who|QUESTIONTAG else|ADV you|PRON got|VERB ?|.
+ There|DET 's|VERB Richardson|NOUN .|.
+ Got|NOUN the|DET touch|NOUN ?|.
+ Yeah|X .|.
+ How|QUESTIONTAG 's|PRT my|PRON favorite|ADJ President|NOUN ?|.
+ Busy|NOUN .|.
+ What|QUESTIONTAG 's|VERB it|PRON about|ADP ?|.
+ Cuba|NOUN .|.
+ Still|ADV think|VERB Cuba|NOUN is|VERB n't|ADV important|ADJ ?|.
+ Not|ADV as|ADV far|ADV as|ADP the|DET election|NOUN goes|VERB .|.
+ Where|QUESTIONTAG 's|VERB Bobby|NOUN ?|.
+ Where|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON ?|.
+ tension|NOUN goes|VERB out|ADP of|ADP them|PRON instantly|ADV .|.
+ How|QUESTIONTAG long|ADV until|ADP they|PRON 're|VERB operational|ADJ ?|.
+ General|NOUN Taylor|NOUN can|VERB answer|VERB that|DET question|NOUN better|ADJ than|ADP I|PRON can|VERB .|.
+ Is|VERB there|DET any|DET indication|NOUN -|. anything|NOUN at|ADP all|DET -|. that|DET suggests|VERB they|PRON intend|VERB to|PRT use|VERB these|DET missiles|NOUN in|ADP some|DET sort|NOUN of|ADP first|ADJ strike|NOUN ?|.
+ Not|ADV at|ADP present|ADJ ,|. sir|NOUN .|.
+ Do|VERB we|PRON have|VERB any|DET sort|NOUN of|ADP intelligence|NOUN from|ADP CIA|NOUN on|ADP what|PRON Khruschev|NOUN is|VERB thinking|VERB ?|.
+ No|DET ,|. Mr.|NOUN President|NOUN .|.
+ Bob|NOUN ?|.
+ We|PRON 've|VERB worked|VERB up|PRT several|ADJ military|ADJ scenarios|NOUN .|.
+ Sir|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ slips|NOUN .|.
+ Is|VERB this|DET the|DET Chiefs|NOUN '|PRT recommendation|NOUN ?|.
+ Yes|X ,|. sir|NOUN .|.
+ Dean|NOUN ,|. how|ADV does|VERB this|DET play|VERB out|PRT ?|.
+ Your|PRON first|ADJ step|NOUN ,|. sir|NOUN ,|. will|VERB be|VERB to|PRT demand|VERB that|ADP the|DET Soviet|NOUN withdraw|VERB the|DET missiles|NOUN within|ADP 12|NUM to|PRT 24|NUM hours|NOUN .|.
+ Does|VERB n't|ADV anybody|VERB in|ADP Connecticut|NOUN have|VERB to|PRT work|VERB today|NOUN ?|.
+ impatient|NOUN to|PRT be|VERB done|VERB with|ADP the|DET necessary|ADJ diversion|NOUN .|.
+ How|QUESTIONTAG long|ADV until|ADP the|DET army|NOUN is|VERB ready|ADJ ?|.
+ We|PRON 've|VERB just|ADV begun|VERB the|DET mobilization|NOUN under|ADP cover|NOUN of|ADP a|DET pre-arranged|ADJ exercise|NOUN ,|. sir|NOUN .|.
+ General|NOUN LeMay|NOUN ,|. do|VERB you|PRON truly|VERB believe|VERB that|DET 's|VERB our|PRON best|ADJ course|NOUN of|ADP action|NOUN ?|.
+ Mr.|NOUN President|NOUN ,|. I|PRON believe|VERB it|PRON is|VERB the|DET only|ADJ course|NOUN of|ADP action|NOUN .|.
+ General|NOUN ,|. what|PRON will|VERB the|DET Soviets|NOUN do|VERB when|ADV we|PRON attack|VERB ?|.
+ Nothing|NOUN .|.
+ Nothing|NOUN ?|.
+ Nothing|NOUN .|.
+ Are|VERB they|PRON going|VERB to|PRT discuss|VERB the|DET military|ADJ exercises|NOUN going|VERB on|ADP in|ADP Florida|NOUN ?|.
+ hiding|VERB his|PRON reaction|NOUN .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ Oval|NOUN Office|NOUN .|.
+ What|QUESTIONTAG if|ADP I|PRON ca|VERB n't|ADV ?|.
+ We|PRON go|VERB into|ADP this|DET split|NOUN ,|. the|DET Russians|NOUN will|VERB know|VERB it|PRON .|.
+ Have|VERB you|PRON cancelled|VERB Chicago|NOUN and|CONJ the|DET rest|NOUN of|ADP the|DET weekend|NOUN yet|ADV ?|.
+ You|PRON do|VERB n't|ADV show|VERB for|ADP Chicago|NOUN ,|. everyone|NOUN 'll|VERB know|VERB there|DET 's|VERB something|NOUN going|VERB on|ADP .|.
+ Then|ADV you|PRON 'll|VERB call|VERB ,|. right|ADV ?|.
+ What|QUESTIONTAG are|VERB you|PRON telling|VERB them|PRON ?|.
+ The|DET truth|NOUN :|. I|PRON do|VERB n't|ADV know|VERB .|.
+ Cam|NOUN ,|. can|VERB you|PRON guarantee|VERB me|PRON you|PRON 'll|VERB get|VERB all|DET the|DET missiles|NOUN ?|.
+ him|PRON to|PRT say|VERB ,|. very|ADV simply|ADV ,|. ``|. yes|X .|. ''|.
+ Admiral|NOUN Anderson|NOUN ,|. if|ADP the|DET ships|NOUN do|VERB not|ADV stop|VERB ,|. what|PRON exactly|ADV are|VERB our|PRON rules|NOUN of|ADP engagement|NOUN ?|.
+ an|DET overhead|NOUN projector|NOUN which|DET SMASH|NOUN CUTS|NOUN TO|NOUN :|.
+ What|QUESTIONTAG happens|VERB if|ADP the|DET ship|NOUN does|VERB n't|ADV stop|VERB for|ADP inspection|NOUN or|CONJ want|VERB to|PRT be|VERB towed|VERB ?|.
+ A|DET warning|NOUN shot|NOUN will|VERB be|VERB fired|VERB across|ADP its|PRON bow|NOUN .|.
+ And|CONJ what|PRON happens|VERB if|ADP the|DET ship|NOUN ignores|VERB the|DET warning|NOUN shot|NOUN ?|.
+ Then|ADV we|PRON fire|VERB at|ADP its|PRON rudder|NOUN ,|. disable|ADJ it|PRON ,|. and|CONJ carry|VERB out|PRT the|DET inspection|NOUN .|.
+ General|NOUN ,|. have|VERB we|PRON developed|VERB any|DET more|ADJ information|NOUN on|ADP the|DET missiles|NOUN ?|.
+ They|PRON are|VERB continuing|VERB to|PRT proceed|VERB with|ADP the|DET development|NOUN .|.
+ How|QUESTIONTAG does|VERB a|DET man|NOUN get|NOUN to|PRT a|DET place|NOUN where|ADV he|PRON can|VERB say|VERB ,|. 'throw|X those|DET lives|NOUN away|ADV ,|. '|. so|ADP easily|ADV ?|.
+ Maybe|ADV it|PRON 's|VERB harder|ADJ for|ADP them|PRON to|PRT say|VERB it|PRON than|ADP they|PRON let|VERB on|ADP .|.
+ Ma'am|NOUN ,|. would|VERB you|PRON mind|VERB helping|VERB me|PRON out|ADP with|ADP a|DET few|ADJ special|ADJ calls|NOUN ?|.
+ Excuse|ADP me|PRON ,|. sir|ADV ,|. what|PRON 's|VERB going|VERB on|ADP here|ADV ?|.
+ Get|VERB that|DET fuel|NOUN assayed|VERB ?|.
+ Yeah|X .|.
+ Was|NOUN them|PRON 20|NUM or|CONJ 40|NUM million|NUM sparrows|NOUN ?|.
+ Yeah|X ?|.
+ Hello|NOUN ?|.
+ When|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT be|VERB home|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. Helen|NOUN .|.
+ What|QUESTIONTAG 's|VERB happened|VERB ?|.
+ Nothing|NOUN .|.
+ How|QUESTIONTAG long|ADV will|VERB it|PRON take|VERB to|PRT get|VERB someone|NOUN up|ADV ?|.
+ Fifteen|NOUN minutes|NOUN ,|. maybe|ADV .|.
+ Hey|NOUN ,|. guys|NOUN ,|. can|VERB you|PRON hear|VERB me|PRON ?|.
+ Bob|NOUN ,|. is|VERB there|ADV any|DET way|NOUN we|PRON can|VERB avoid|VERB stopping|VERB a|DET submarine|NOUN first|ADV ?|.
+ I|PRON 'm|VERB afraid|ADJ not|ADV ,|. Mr.|NOUN President|NOUN .|.
+ Mr.|NOUN President|NOUN ?|.
+ Captain|NOUN ,|. can|VERB you|PRON force|VERB that|DET submarine|NOUN to|PRT the|DET surface|NOUN for|ADP inspection|NOUN without|ADP damaging|VERB it|PRON yourself|PRON ?|.
+ Will|VERB somebody|VERB find|VERB out|PRT what|PRON 's|VERB going|VERB on|ADP ?|.
+ Kenny|NOUN ,|. tense|NOUN .|.
+ Are|ADP they|PRON stopping|VERB ?|.
+ Mr.|NOUN President|NOUN ?|.
+ Captain|NOUN ,|. have|VERB the|DET ships|NOUN you|PRON 're|VERB observing|VERB changed|VERB course|NOUN ?|.
+ No|DET ,|. Mr.|NOUN President|NOUN .|.
+ What|QUESTIONTAG happened|VERB to|PRT speak|VERB when|ADV spoken|VERB to|PRT ?|.
+ Give|VERB it|PRON a|DET rest|NOUN .|.
+ Anybody|NOUN ever|ADV tell|VERB you|PRON you|PRON 're|VERB an|DET egomaniac|NOUN and|CONJ a|DET prick|NOUN ,|. O'Donnell|NOUN ?|.
+ What|QUESTIONTAG did|VERB you|PRON think|VERB of|ADP Lippman|NOUN 's|PRT column|NOUN this|DET morning|NOUN ?|.
+ I|PRON think|VERB it|PRON 's|VERB a|DET bad|ADJ idea|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ Oh|X ,|. just|ADV a|DET bunch|NOUN of|ADP crap|NOUN about|ADP withdrawing|VERB our|PRON Jupiter|NOUN missiles|NOUN in|ADP Turkey|NOUN if|ADP the|DET Soviets|NOUN 'll|VERB do|VERB the|DET same|ADJ in|ADP Cuba|NOUN .|.
+ What|QUESTIONTAG 's|VERB gotten|VERB into|ADP you|PRON ?|.
+ Yes|X ?|.
+ Well|ADV then|ADV ,|. ladies|NOUN and|CONJ gentlemen|NOUN ,|. since|ADP it|PRON appears|VERB we|PRON might|VERB be|VERB here|ADV for|ADP a|DET while|NOUN ,|. shall|VERB we|PRON have|VERB a|DET look|NOUN at|ADP what|PRON the|DET Soviets|NOUN are|VERB doing|VERB in|ADP Cuba|NOUN ?|.
+ approach|NOUN Adlai|NOUN .|.
+ What|QUESTIONTAG was|VERB that|DET ,|. Admiral|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Carrying|VERB out|PRT our|PRON mission|NOUN ,|. Mr.|NOUN Secretary|NOUN .|.
+ Well|ADV ,|. it|PRON seems|VERB the|DET question|NOUN of|ADP the|DET day|NOUN is|VERB --|. is|VERB the|DET offer|NOUN legitimate|NOUN ?|.
+ How|QUESTIONTAG do|VERB you|PRON become|VERB the|DET KGB|NOUN top|ADJ spy|NOUN in|ADP the|DET United|NOUN States|NOUN ?|.
+ Got|NOUN ta|NOUN know|VERB someone|NOUN .|.
+ Hello|NOUN ?|.
+ I|PRON 've|VERB got|VERB to|PRT move|VERB .|.
+ This|DET is|VERB from|ADP the|DET Highest|NOUN Authority|NOUN ?|.
+ Yes|X .|.
+ And|CONJ the|DET second|ADJ condition|NOUN ?|.
+ Time|NOUN is|VERB of|ADP the|DET essence|NOUN .|.
+ A|DET thing|NOUN like|ADP this|DET ...|. who|PRON could|VERB even|ADV think|VERB of|ADP winning|VERB ?|.
+ What|QUESTIONTAG does|VERB the|DET letter|NOUN say|VERB ?|.
+ They|PRON want|VERB us|PRON to|PRT take|VERB our|PRON missiles|NOUN out|ADP of|ADP Turkey|NOUN along|ADP with|ADP the|DET no|DET invasion|NOUN pledge|NOUN .|.
+ Dean|NOUN ?|.
+ It|PRON does|VERB n't|ADV necessarily|ADV mean|VERB there|DET 's|VERB been|VERB a|DET coup|NOUN .|.
+ Does|VERB this|DET attack|NOUN on|ADP our|PRON plane|NOUN represent|VERB a|DET definitive|ADJ ,|. intentional|ADJ escalation|NOUN on|ADP the|DET part|NOUN of|ADP the|DET Soviets|NOUN ?|.
+ The|DET Soviets|NOUN are|VERB in|ADP control|NOUN of|ADP the|DET SAMs|NOUN .|.
+ Is|VERB everything|NOUN going|VERB to|PRT be|VERB okay|ADJ ,|. Dad|NOUN ?|.
+ And|CONJ ?|.
+ And|CONJ Jack|NOUN wants|VERB to|PRT trade|VERB the|DET missiles|NOUN in|ADP Turkey|NOUN .|.
+ And|CONJ if|ADP there|DET has|VERB been|VERB a|DET coup|NOUN and|CONJ there|DET is|VERB no|DET acceptable|ADJ political|ADJ solution|NOUN ?|.
+ That|DET 's|VERB all|DET well|ADV and|CONJ good|ADJ ,|. but|CONJ what|PRON do|VERB we|PRON say|VERB to|PRT 'em|VERB ?|.
+ It|PRON depends|VERB on|ADP if|ADP we|PRON really|ADV believe|VERB there|DET 's|VERB been|VERB a|DET coup|NOUN .|.
+ The|DET second|ADJ letter|NOUN is|VERB an|DET accident|NOUN ?|.
+ No|DET .|.
+ You|PRON sure|ADV ?|.
+ hops|NOUN out|PRT ,|. and|CONJ Kenny|NOUN gets|VERB in|ADP .|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ This|DET private|ADJ assurance|NOUN represents|VERB the|DET word|NOUN of|ADP the|DET Highest|NOUN Authority|NOUN ?|.
+ Yes|X .|.
+ How|QUESTIONTAG does|VERB a|DET guy|NOUN get|VERB a|DET rep|NOUN like|ADP that|DET ?|.
+ Does|VERB n't|ADV matter|VERB to|PRT me|PRON .|.
+ How|QUESTIONTAG long|ADJ do|VERB we|PRON have|VERB ?|.
+ Yeah|X ?|.
+ Kenny|NOUN .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ,|. O'Donnell|NOUN ?|.
+ finally|ADV manages|NOUN :|.
+ Do|VERB n't|ADV you|PRON understand|VERB ?|.
+ Understand|VERB what|PRON ?|.
+ begin|NOUN to|PRT feel|VERB uncomfortable|ADJ .|.
+ Says|VERB what|PRON ,|. Kenny|NOUN ?|.

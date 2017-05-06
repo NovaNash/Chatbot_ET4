@@ -1,0 +1,77 @@
+ What|QUESTIONTAG about|ADP Moon|NOUN Base|NOUN 2|NUM ?|.
+ Jazz|NOUN to|PRT Moon|NOUN Base|NOUN 2|NUM .|.
+ You|PRON were|VERB saying|VERB ?|.
+ That|DET was|VERB n't|ADV an|DET asteroid|NOUN .|.
+ Why|ADV settle|VERB for|ADP a|DET peek|NOUN when|ADV you|PRON can|VERB see|VERB everything|NOUN from|ADP Lookout|NOUN Mountain|NOUN ?|.
+ (|. Chewing|VERB on|ADP jamb|NOUN of|ADP doorway|NOUN near|ADP bridge|NOUN )|. Delicious|NOUN ,|. eh|VERB Shrapnel|NOUN ?|.
+ You|PRON think|VERB you|PRON got|VERB through|ADP to|PRT Prime|NOUN ?|.
+ Let|VERB 's|PRT hope|NOUN so|ADV !|.
+ Why|ADV throw|VERB away|PRT your|PRON life|NOUN so|ADV recklessly|ADV ?|.
+ So|ADV I|PRON hear|VERB a|DET second|ADJ on|ADP that|DET ?|.
+ And|CONJ against|ADP ?|.
+ Wan|NOUN na|PRT bet|VERB ?|.
+ (|. looking|VERB around|ADV )|. Who|QUESTIONTAG said|VERB that|ADP ?|.
+ I|PRON am|VERB Unicron|NOUN .|.
+ Who|QUESTIONTAG disrupts|VERB my|PRON coronation|NOUN ?|.
+ Coronation|NOUN ?|.
+ Megatron|NOUN ,|. is|VERB that|ADP you|PRON ?|.
+ Here|ADV 's|VERB a|DET clue|NOUN !|.
+ Will|VERB anyone|NOUN else|ADV attempt|NOUN to|PRT fill|VERB his|PRON shoes|NOUN ?|.
+ Where|QUESTIONTAG 'd|VERB that|DET come|VERB from|ADP ?|.
+ Who|QUESTIONTAG cares|VERB ?|.
+ What|QUESTIONTAG do|VERB you|PRON know|VERB about|ADP it|PRON lad|VERB ?|.
+ It|PRON 's|VERB just|ADV a|DET feeling|NOUN .|.
+ You|PRON want|VERB me|PRON to|PRT gut|VERB Ultra|NOUN Magnus|NOUN for|ADP you|PRON ?|.
+ There|DET are|VERB plenty|NOUN of|ADP Autobots|NOUN for|ADP you|PRON .|.
+ No|DET time|NOUN to|PRT preheat|VERB ...|. .Can|PRON this|DET ship|ADJ take|VERB it|PRON ?|.
+ With|ADP an|DET accelerated|ADJ ignition|NOUN procedure|NOUN the|DET ceramic|ADJ housings|NOUN might|VERB create|VERB a|DET magnetic|ADJ flux|NOUN .|.
+ (|. baffled|VERB )|. What|QUESTIONTAG ?|.
+ (|. ENTERING|NOUN SHOT|NOUN ,|. reaches|VERB in|ADP and|CONJ pushes|NOUN joystick|VERB forward|ADV )|. He|PRON says|VERB ``|. go|VERB for|ADP it|PRON !|. ''|.
+ (|. using|VERB intercom|NOUN )|. Ultra|NOUN Magnus|NOUN ...|. what|PRON next|ADP ?|.
+ Do|VERB n't|ADV you|PRON think|VERB we|PRON have|VERB better|ADJ things|NOUN to|PRT do|VERB now|ADV than|ADP tell|VERB stories|NOUN Kup|NOUN ?|.
+ Like|ADP what|PRON ?|.
+ Yeah|X ,|. how|ADV 'd|VERB you|PRON beat|VERB them|PRON ?|.
+ I|PRON 'm|VERB trying|VERB to|PRT remember|VERB ...|. there|DET were|VERB an|DET awful|ADJ lot|NOUN of|ADP casualties|NOUN that|ADP day|NOUN ...|.
+ Did|NOUN we|PRON have|VERB to|PRT detonate|VERB three-|ADJ quarters|NOUN of|ADP the|DET ship|NOUN ?|.
+ Seeing|VERB how|ADV they|PRON would|VERB have|VERB detonated|VERB four|NUM quarters|NOUN ,|. I|PRON think|VERB it|PRON was|VERB a|DET good|ADJ choice|NOUN .|.
+ Perceptor|NOUN ...|. .can|ADJ you|PRON still|ADV locate|VERB the|DET Junk|NOUN Planet|NOUN ?|.
+ Gamma|NOUN waves|VERB in|ADP this|DET sector|NOUN of|ADP space|NOUN create|VERB marginal|ADJ navigation|NOUN probabilities|NOUN ,|. however|ADV ...|. ..|NOUN (|. looks|VERB at|ADP Ultra|NOUN Magnus|NOUN )|.
+ (|. brightening|VERB )|. Really|ADV ?|.
+ (|. rotates|NOUN arm|VERB rapidly|ADV )|. Yeah|X ,|. you|PRON even|ADV got|VERB rid|ADJ of|ADP a|DET nasty|ADJ burr|NOUN on|ADP my|PRON rotator|NOUN !|.
+ (|. looking|VERB around|ADV )|. We|PRON got|VERB to|PRT get|VERB a|DET new|ADJ travel|NOUN agent|NOUN ...|. .|. What|QUESTIONTAG is|VERB this|DET place|NOUN ?|.
+ But|CONJ what|PRON if|ADP they|PRON 're|VERB innocent|ADJ ?|.
+ Guilty|NOUN or|CONJ innocent|NOUN ,|. the|DET sentence|NOUN is|VERB always|ADV the|DET same|ADJ -|. death|NOUN !|.
+ Jury|NOUN ,|. have|VERB you|PRON reached|VERB a|DET verdict|NOUN ?|.
+ We|PRON have|VERB your|PRON honor|NOUN .|.
+ Where|QUESTIONTAG are|VERB we|PRON ,|. Springer|NOUN ?|.
+ The|DET place|NOUN where|ADV everything|NOUN ends|VERB up|PRT after|ADP you|PRON throw|VERB it|PRON out|PRT .|.
+ (|. baffled|VERB )|. How|QUESTIONTAG 's|VERB that|DET ?|.
+ (|. opening|VERB hull|NOUN door|NOUN with|ADP a|DET RIPPING|NOUN OF|NOUN METAL|NOUN )|. He|PRON says|VERB the|DET planet|NOUN 's|PRT made|NOUN of|ADP junk|NOUN .|.
+ Can|VERB I|PRON help|VERB ,|. too|ADV ?|.
+ It|PRON 's|VERB rough|ADJ out|ADP there|ADV ,|. kid|NOUN .|.
+ And|CONJ who|PRON might|VERB they|PRON be|VERB ?|.
+ Autobots|NOUN .|.
+ Why|ADV do|VERB you|PRON torture|VERB me|PRON ?|.
+ Then|ADV where|ADV is|VERB the|DET matrix|NOUN ?|.
+ Destroyed|NOUN ,|. with|ADP him|PRON .|.
+ (|. furious|ADJ )|. Who|QUESTIONTAG say|VERB that|ADP ?|.
+ Before|ADP we|PRON deliver|VERB your|PRON verdict|NOUN ,|. would|VERB you|PRON like|ADP to|PRT beg|VERB for|ADP your|PRON lives|NOUN ?|.
+ Remember|NOUN when|ADV you|PRON put|VERB me|PRON together|ADV today|NOUN ?|.
+ (|. sarcastic|ADJ )|. Sure|NOUN ,|. that|DET 's|VERB all|DET I|PRON got|VERB to|PRT think|VERB about|ADP .|.
+ That|DET 's|VERB a|DET ship|NOUN ?|.
+ What|QUESTIONTAG do|VERB I|PRON do|VERB ?|.
+ Transform|NOUN !|.
+ (|. sotto|NOUN )|. What|QUESTIONTAG was|VERB the|DET Universal|NOUN greeting|VERB again|ADV ?|.
+ growls|NOUN and|CONJ slips|VERB a|DET SNIPPER|NOUN ,|. BLOW|NOUN TORCH|NOUN CUTTING|NOUN TOOL|NOUN out|ADP of|ADP a|DET holster|NOUN and|CONJ starts|VERB toward|ADP Hot|NOUN Rod|NOUN with|ADP it|PRON
+ HOT|NOUN ROD|NOUN (|. big|ADJ smile|NOUN )|. Bah|NOUN weep|ADJ graaaagnah|NOUN wheep|NOUN ni|NOUN ni|NOUN bong|NOUN ?|.
+ Bah|NOUN weep|ADJ graaaagnah|NOUN wheep|NOUN ni|NOUN ni|NOUN bong|NOUN ?|.
+ (|. nodding|NOUN ,|. smiling|VERB )|. Bah|NOUN weep|ADJ graaaagnah|NOUN wheep|NOUN ni|NOUN ni|NOUN bong|NOUN ?|.
+ Where|QUESTIONTAG did|VERB you|PRON learn|VERB to|PRT talk|VERB like|ADP that|DET ?|.
+ You|PRON have|VERB ships|NOUN here|ADV ?|.
+ New|NOUN ,|. improved|VERB Junkion|NOUN planet|NOUN ,|. is|VERB sleek|ADJ sexy|ADJ import|NOUN with|ADP turbo|ADJ handling|NOUN .|.
+ What|QUESTIONTAG 's|VERB he|PRON talking|VERB about|ADP ?|.
+ Are|VERB n't|ADV we|PRON getting|VERB pompous|ADJ ?|.
+ I|PRON now|ADV possess|VERB that|ADP which|DET you|PRON most|ADV fear|VERB .|.
+ Does|VERB n't|ADV it|PRON remind|VERB you|PRON of|ADP something|NOUN ,|. Kup|NOUN ?|.
+ Where|QUESTIONTAG 's|PRT Hot|NOUN Rod|NOUN ?|.
+ Sees|NOUN something|NOUN in|ADP the|DET distance|NOUN .|.

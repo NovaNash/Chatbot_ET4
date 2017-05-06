@@ -1,0 +1,106 @@
+ What|QUESTIONTAG 's|VERB hap|NOUN ...|. what|PRON 's|VERB happening|VERB ...|. .|. ?|.
+ LONNER|NOUN ,|. WHERE|NOUN 'S|VERB THE|NOUN GODDAMNED|NOUN WATER|NOUN ?|.
+ Better|ADV ?|.
+ Much|ADJ better|ADJ .|.
+ You|PRON want|VERB to|PRT talk|VERB about|ADP it|PRON ?|.
+ Could|VERB we|PRON change|VERB the|DET subject|NOUN ?|.
+ That|DET record|NOUN company.in|NOUN Nashville|NOUN wants|VERB to|PRT hear|VERB my|PRON demo|NOUN tape|NOUN .|.
+ You|PRON think|VERB I|PRON 'm|VERB too|ADV ...|. ethnic|ADJ for|ADP country|NOUN music|NOUN ?|.
+ Carla|NOUN Pestalozzi|NOUN ?|.
+ Is|VERB it|PRON really|ADV true|ADJ no|DET one|NOUN escaped|VERB ?|.
+ Do|VERB n't|ADV want|VERB to|PRT be|VERB locked|VERB up|PRT ,|. fellahs|NOUN ?|.
+ Not|ADV today|NOUN .|.
+ (|. re|NOUN :|. Womack|NOUN 's|PRT tux|NOUN )|. In|ADP that|DET ?|.
+ Christ|NOUN ,|. the|DET concert|NOUN 's|PRT for|ADP the|DET Prince|NOUN of|ADP Wales|NOUN or|CONJ somebody|NOUN ...|.
+ Would|VERB the|DET General|NOUN like|ADP a|DET recitation|NOUN of|ADP our|PRON service|NOUN records|NOUN ?|.
+ (|. stunned|VERB )|. Is|VERB this|DET true|ADJ ?|.
+ What|QUESTIONTAG 's|VERB the|DET potential|ADJ casualty|NOUN rate|NOUN of|ADP a|DET single|ADJ rocket|NOUN armed|VERB with|ADP V.X.|NOUN ,|. General|NOUN Peterson|NOUN ?|.
+ What|QUESTIONTAG did|VERB Hummel|NOUN mean|NOUN by|ADP ``|. ,|. standard|ADJ countermeasure|NOUN ,|. ''|. General|NOUN ?|.
+ Napalm|NOUN .|.
+ The|DET former|ADJ warden|NOUN ?|.
+ Can|VERB we|PRON risk|VERB letting.him|PRON out|PRT ?|.
+ The|DET question|NOUN is|VERB :|. can|VERB we|PRON not|ADV ?|.
+ at|ADP least|ADJ once|ADV was|VERB ,|. imprisoned|VERB without|ADP trial|NOUN for|ADP 33|NUM years|NOUN on|ADP U.S.|NOUN soil|NOUN .|.
+ You|PRON want|VERB him|PRON conscious|ADJ or|CONJ unconscious|ADJ afterward|NOUN ?|.
+ Why|ADV 's|PRT he|PRON going|VERB to|PRT help|VERB us|PRON now|ADV ?|.
+ Are|NOUN you|PRON capable|ADJ of|ADP reading|NOUN ,|. Sanchez|NOUN ?|.
+ Who|QUESTIONTAG the|DET fuck|NOUN are|VERB you|PRON ,|. Mother|NOUN Theresa|NOUN ?|.
+ You|PRON suppose|VERB ?|.
+ Yes|X .|.
+ What|QUESTIONTAG 's|VERB happening|VERB on|ADP Alcatraz|NOUN ,|. Goodspeed|NOUN ?|.
+ SANCHEZ|NOUN Why|ADV did|VERB n't|ADV you|PRON throw|VERB in|ADP a|DET trip|NOUN to|PRT Fiji|NOUN ?|.
+ MASON|NOUN You|PRON learn|VERB that|DET line|NOUN in|ADP Cub|NOUN Scouts|NOUN ,|. Goodspeed|NOUN ?|.
+ ENTRANCE|NOUN .|.
+ You|PRON going|VERB to|PRT stand|VERB there|ADV and|CONJ watch|VERB ?|.
+ How|QUESTIONTAG would|VERB you|PRON like|ADP it|PRON sir|VERB ?|.
+ whatever|DET 's|PRT in|ADP style|NOUN .|.
+ So|ADV how|ADV long|ADJ have|VERB you|PRON been|VERB out|PRT ?|.
+ A|DET while|NOUN .|.
+ I|PRON 'm|VERB here|ADV with|ADP you|PRON ,|. are|VERB n't|ADV I|PRON ?|.
+ Why|ADV now|ADV ?|.
+ How|QUESTIONTAG about|ADP explaining|VERB now|ADV ?|.
+ He|PRON is|VERB ?|.
+ Hows|NOUN your|PRON jaw|NOUN ?|.
+ (|. innocently|ADV )|. It|PRON 's|VERB not|ADV ?|.
+ (|. pause|NOUN ;|. he|PRON thinks|VERB )|. What|QUESTIONTAG if|ADP he|PRON went|VERB with|ADP you|PRON ?|.
+ Have|VERB you|PRON ever|ADV actually|ADV seen|VERB one|NUM of|ADP these|DET devices|NOUN ?|.
+ No|DET sir|NOUN ,|. but|CONJ I|PRON 've|VERB studied|VERB them|PRON ...|. .|.
+ Sir|NOUN ?|.
+ Who|QUESTIONTAG 's|VERB Dave|NOUN Ridgeway|NOUN ,|. Frank|NOUN ?|.
+ What|QUESTIONTAG 's|VERB the|DET word|NOUN from|ADP Mojave|NOUN ?|.
+ Motor|NOUN oil|NOUN ?|.
+ For|ADP cottonmouth|NOUN .|.
+ Would|VERB you|PRON please|VERB tell|VERB me|PRON what|PRON is|VERB going|VERB on|ADP ?|.
+ You|PRON know|VERB what|PRON you|PRON 're|VERB doing|VERB ?|.
+ Decoy|NOUN ?|.
+ Skipper|NOUN ,|. blow|VERB it|PRON or|CONJ burn|VERB it|PRON ?|.
+ Who|QUESTIONTAG is|VERB this|DET guy|NOUN ...|. ?|.
+ a|DET series|NOUN of|ADP concrete|ADJ drainage|NOUN pipes|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ...|. what|PRON the|DET hell|NOUN is|VERB that|ADP ?|.
+ Now|ADV what|PRON ?|.
+ Removes|VERB a|DET brick|NOUN .|.
+ The|DET morgue|NOUN ?|.
+ What|QUESTIONTAG ...|. exactly|ADV does|VERB this|DET do|VERB to|PRT you|PRON ?|.
+ Limp|NOUN dick|NOUN ?|.
+ It|PRON 's|VERB all|DET I|PRON could|VERB think|VERB of|ADP .|.
+ What|QUESTIONTAG 's|VERB the|DET word|NOUN from|ADP Mojave|NOUN ,|. General|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON saying|VERB ?|.
+ What|QUESTIONTAG ,|. vou|NOUN ?|.
+ I|PRON 'm|VERB not|ADV the|DET chemical|NOUN weapons|NOUN expert|VERB .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Now|ADV they|PRON only|ADV have|VERB three|NUM rockets|NOUN left|VERB .|.
+ What|QUESTIONTAG about|ADP Mr.|NOUN Henderson|NOUN ?|.
+ How|QUESTIONTAG 's|VERB that|DET ?|.
+ You|PRON would|VERB n't|ADV believe|VERB me|PRON if|ADP I|PRON told|VERB you|PRON .|.
+ Do|VERB you|PRON have|VERB some|DET unique|ADJ knowledge|NOUN of|ADP this|DET prison|NOUN facility|NOUN ,|. Commander|NOUN Mason|NOUN ?|.
+ How|QUESTIONTAG 's|VERB that|DET ?|.
+ have|VERB shot|VERB him|PRON ?|.
+ You|PRON seem|VERB like|ADP a|DET bright|ADJ man|NOUN ,|. Commander|NOUN .|.
+ Do|VERB you|PRON ,|. Commander|NOUN Mason|NOUN ?|.
+ Where|QUESTIONTAG are|VERB you|PRON ?|.
+ How|QUESTIONTAG ?|.
+ Captain|NOUN Giler|NOUN ?|.
+ We|PRON jerry-rigged|VERB a|DET release|NOUN lever|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Knots|NOUN the|DET caster|NOUN onto|ADP one|NUM end|NOUN of|ADP the|DET braided|VERB rope|NOUN .|.
+ You|PRON went|VERB down|ADP the|DET shower|NOUN drain|NOUN ,|. through|ADP the|DET tunnels|NOUN to|PRT the|DET power|NOUN plant|NOUN ,|. under|ADP the|DET steam|NOUN engine|NOUN and|CONJ out|ADP through|ADP the|DET intake|NOUN pipe|NOUN -|. that|ADP much|ADJ I|PRON 've|VERB got|VERB '|. But|CONJ ...|. howld|NOUN you|PRON get|VERB out|ADP of|ADP your|PRON cell|NOUN ?|.
+ When|QUESTIONTAG was|VERB the|DET last|ADJ communication|NOUN from|ADP our|PRON men|NOUN on|ADP Alcatraz|NOUN ?|.
+ Atom|NOUN ?|.
+ I|PRON '|. ...|. I|PRON do|VERB n't|ADV know|VERB Frank|NOUN .|.
+ That|DET change|NOUN things|NOUN ?|.
+ Partners|NOUN ?|.
+ Partners|NOUN .|.
+ Sir|NOUN ,|. it|PRON 's|VERB heading.|NOUN ,|. .into|ADP the|DET bay|NOUN ?|.
+ What|QUESTIONTAG the|DET hell|NOUN ...|. .|. ?|.
+ at|ADP 500|NUM ft.|ADJ altitude|NOUN it|PRON DETONATES|NOUN .|.
+ Major|NOUN ?|.
+ Tom|NOUN ?|.
+ You|PRON know|VERB how|ADV this|DET shit|NOUN works|VERB ?|.
+ You|PRON know|VERB the|DET Elton|NOUN John|NOUN son|NOUN ,|. ``|. Rocket|NOUN Man|NOUN ''|. ?|.
+ What|QUESTIONTAG about|ADP Mason|NOUN ?|.
+ Womack|NOUN ripped|VERB it|PRON up|PRT ,|. right|ADV ?|.
+ You|PRON knew|VERB ?|.
+ Where|QUESTIONTAG 's|VERB Mason|NOUN ?|.
+ Vaporized|VERB ,|. sir|NOUN .|.
+ Would|VERB you|PRON please|VERB tell|VERB me|PRON what|PRON this|DET is|VERB all|DET about|ADP ...|. ?|.
+ You|PRON want|VERB to|PRT know|VERB who|PRON really|ADV killed|VERB President|NOUN Kennedy|NOUN ,|. honey|NOUN ...|. ?|.

@@ -1,0 +1,74 @@
+ Boys|NOUN and|CONJ girls|NOUN of|ADP every|DET age|NOUN Would|VERB n't|ADV you|PRON like|VERB to|PRT see|VERB something|NOUN strange|ADJ ?|.
+ Come|VERB with|ADP us|PRON and|CONJ you|PRON will|VERB see|VERB This|DET ,|. our|PRON town|NOUN of|ADP Halloween|NOUN
+ Are|VERB n't|ADV you|PRON scared|VERB ?|.
+ Well|ADV ,|. that|DET 's|VERB just|ADV fine|ADJ Say|NOUN it|PRON once|ADV ,|. say|VERB it|PRON twice|ADV Take|VERB the|DET chance|NOUN and|CONJ roll|VERB the|DET dice|NOUN Ride|NOUN with|ADP the|DET moon|NOUN in|ADP the|DET dead|NOUN of|ADP night|NOUN
+ Do|VERB n't|ADV we|PRON love|VERB it|PRON now|ADV ?|.
+ Everyone|NOUN 's|PRT waiting|VERB for|ADP the|DET next|ADJ surprise|NOUN
+ Was|VERB n't|ADV it|PRON terrifying|VERB ?|.
+ What|QUESTIONTAG a|DET night|NOUN !|.
+ For|ADP this|DET ?|.
+ Jack|NOUN ,|. you|PRON home|VERB ?|.
+ back|ADV to|PRT happy|ADJ face|NOUN ]|NOUN
+ Where|QUESTIONTAG is|VERB he|PRON ?|.
+ He|PRON has|VERB n't|ADV been|VERB home|VERB all|DET night|NOUN .|.
+ What|QUESTIONTAG is|VERB this|DET ?|.
+ In|ADP here|ADV they|PRON 've|VERB got|VERB a|DET little|ADJ tree|NOUN ,|. how|ADV queer|NOUN And|CONJ who|PRON would|VERB ever|ADV think|VERB And|CONJ why|ADV ?|.
+ They|PRON 've|VERB got|VERB electric|ADJ lights|NOUN on|ADP strings|NOUN And|CONJ there|DET 's|VERB a|DET smile|NOUN on|ADP everyone|NOUN So|NOUN ,|. now|ADV ,|. correct|VERB me|PRON if|ADP I|PRON 'm|VERB wrong|ADJ This|DET looks|VERB like|ADP fun|NOUN This|DET looks|VERB like|ADP fun|NOUN Oh|NOUN ,|. could|VERB it|PRON be|VERB I|PRON got|VERB my|PRON wish|NOUN ?|.
+ The|DET children|NOUN are|VERB asleep|ADJ But|CONJ look|NOUN ,|. there|DET 's|VERB nothing|NOUN underneath|ADJ No|NOUN ghouls|NOUN ,|. no|DET witches|NOUN here|ADV to|PRT scream|VERB and|CONJ scare|VERB them|PRON Or|CONJ ensnare|VERB them|PRON ,|. only|ADV little|ADJ cozy|ADJ things|NOUN Secure|NOUN inside|ADP their|PRON dreamland|NOUN What|QUESTIONTAG 's|VERB this|DET ?|.
+ And|CONJ the|DET nightmares|NOUN ca|VERB n't|ADV be|VERB found|VERB And|CONJ in|ADP their|PRON place|NOUN there|ADV seems|VERB to|PRT be|VERB Good|ADJ feeling|VERB all|DET around|ADP
+ Is|VERB there|ADV anywhere|ADV we|PRON 've|VERB forgotten|VERB to|PRT check|VERB ?|.
+ I|PRON looked|VERB in|ADP every|DET mausoleum|NOUN .|.
+ Sally|ADV ,|. that|ADP soup|VERB ready|ADJ yet|ADV ?|.
+ Coming|VERB ...|. .lunch|NOUN
+ Did|NOUN anyone|NOUN think|NOUN to|PRT dredge|VERB the|DET lake|NOUN ?|.
+ Ah|NOUN ,|. this|DET morning|NOUN !|.
+ Hear|ADP that|DET ?|.
+ What|QUESTIONTAG ?|.
+ Where|QUESTIONTAG have|VERB you|PRON been|VERB ?|.
+ Call|VERB a|DET town|NOUN meeting|NOUN and|CONJ I|PRON 'll|VERB tell|VERB everyone|NOUN all|DET about|ADP it|PRON .|.
+ When|QUESTIONTAG ?|.
+ Immediately|ADV !|.
+ Are|NOUN there|DET locks|NOUN ?|.
+ Is|VERB it|PRON filled|VERB with|ADP a|DET pox|NOUN ?|.
+ It|PRON 's|VERB a|DET bat|NOUN Will|VERB it|PRON bend|VERB ?|.
+ It|PRON 's|VERB a|DET rat|NOUN Will|VERB it|PRON break|VERB ?|.
+ Is|VERB it|PRON rotted|VERB and|CONJ covered|VERB with|ADP gook|NOUN ?|.
+ Um|NOUN ,|. let|VERB me|PRON explain|VERB There|DET 's|VERB no|DET foot|NOUN inside|ADV ,|. but|CONJ there|DET 's|VERB candy|NOUN Or|CONJ sometimes|VERB it|PRON 's|VERB filled|VERB with|ADP small|ADJ toys|NOUN
+ Do|VERB they|PRON bite|VERB ?|.
+ Do|VERB they|PRON snap|VERB ?|.
+ Or|CONJ explode|NOUN in|ADP a|DET sack|NOUN ?|.
+ Or|CONJ perhaps|ADV they|PRON just|ADV spring|VERB out|PRT And|CONJ scare|ADJ girls|NOUN and|CONJ boys|NOUN
+ Is|VERB that|DET so|ADV ,|. whatever|NOUN for|ADP ?|.
+ I|PRON 'm|VERB conducting|VERB a|DET series|NOUN of|ADP experiments|NOUN .|.
+ Interesting|ADJ reaction|NOUN ...|. .but|VERB what|PRON does|VERB it|PRON mean|VERB ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP a|DET noise|NOUN is|VERB that|ADP for|ADP a|DET baby|NOUN to|PRT make|VERB ?|.
+ Perhaps|ADV it|PRON can|VERB be|VERB improved|VERB ?|.
+ It|PRON is|VERB n't|ADV ?|.
+ Who|QUESTIONTAG is|VERB it|PRON ?|.
+ Now|ADV who|PRON could|VERB that|ADP be|VERB ?|.
+ Trick|NOUN or|CONJ treat|NOUN !|.
+ Huh|NOUN ?|.
+ Where|QUESTIONTAG am|VERB I|PRON ?|.
+ Surprised|VERB are|VERB n't|ADV you|PRON ?|.
+ What|QUESTIONTAG ?|.
+ Consider|VERB this|DET a|DET vacation|NOUN Sandy|NOUN ,|. a|DET reward|NOUN .|.
+ Where|QUESTIONTAG are|VERB we|PRON taking|VERB him|PRON ?|.
+ Where|QUESTIONTAG ?|.
+ Have|VERB n't|ADV you|PRON heard|VERB of|ADP peace|NOUN on|ADP earth|NOUN and|CONJ good|ADJ will|VERB toward|ADP men|NOUN ?|.
+ No|DET !|.
+ What|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT do|VERB ?|.
+ I|PRON 'm|VERB gon|VERB na|PRT do|VERB the|DET best|ADJ I|PRON can|VERB
+ And|CONJ what|PRON did|VERB Santa|NOUN bring|VERB you|PRON honey|VERB ?|.
+ Mmmm..|NOUN my|PRON ,|. my|PRON ...|. .what|DET have|VERB we|PRON here|ADV ?|.
+ What|QUESTIONTAG 's|VERB that|ADP you|PRON were|VERB saying|VERB about|ADP luck|NOUN ,|. rag|VERB doll|NOUN ?|.
+ Help|NOUN ,|. help|NOUN ,|. help|NOUN ,|. help|VERB
+ How|QUESTIONTAG did|VERB you|PRON get|VERB down|PRT here|ADV Sally|ADV ?|.
+ Oh|X ,|. I|PRON was|VERB trying|VERB to|PRT ,|. well|ADV ,|. I|PRON wanted|VERB to|PRT ,|. to|PRT --|.
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ Why|ADV it|PRON 's|VERB completely|ADV new|ADJ
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ Must|ADV be|VERB a|DET Christmas|NOUN thing|NOUN
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ It|PRON 's|VERB really|ADV very|ADV strange|ADJ

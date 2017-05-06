@@ -1,0 +1,4 @@
+ VIKING|NOUN BOB|NOUN Ben|NOUN ?|.
+ is|VERB Dixie|NOUN ,|. the|DET Inupiat|NOUN hooker|NOUN .|.
+ VIKING|NOUN BOB|NOUN (|. OS|NOUN )|. Ben|NOUN ?|.
+ Corbett|NOUN not|ADV to|PRT answer|VERB .|.

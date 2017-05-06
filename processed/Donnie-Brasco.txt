@@ -1,0 +1,12 @@
+ You|PRON 're|VERB kidding1|VERB You|PRON got|VERB transferred|VERB ?|.
+ Th|NOUN e|NOUN kids|NOUN can|VERB see|VERB their|PRON grandparents|NOUN .|.
+ What|QUESTIONTAG are|VERB n't|ADV you|PRON telling|VERB me|PRON ?|.
+ Nothing|NOUN .|.
+ What|QUESTIONTAG does|VERB that|DET mean|NOUN ,|. undercover|ADV ?|.
+ Undercover|NOUN .|.
+ Will|VERB you|PRON come|VERB home|NOUN at|ADP night|NOUN ?|.
+ It|PRON 's|VERB a|DET good|ADJ opportunit|NOUN y|NOUN .|.
+ Undercover|ADV in|ADP what|PRON ?|.
+ An|DET FBI|NOUN wife|NOUN does|VERB n't|ADV ask|VERB ,|. Maggie|NOUN .|.
+ Will|VERB you|PRON be|VERB home|VERB on|ADP the|DET we|PRON ekends|NOUN ?|.
+ It|PRON 's|VERB just|ADV six|NUM months|NOUN .|.

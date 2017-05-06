@@ -1,0 +1,136 @@
+ Sherlock|NOUN Holmes|NOUN ?|.
+ MAN|NOUN ,|. hauls|VERB him|PRON to|PRT his|PRON feet|NOUN and|CONJ hands|NOUN back|PRT his|PRON broken|NOUN umbrella|NOUN .|.
+ What|QUESTIONTAG 's|VERB goin|NOUN '|. on|ADP ,|. John|NOUN ?|.
+ we|PRON saw|VERB Holmes|NOUN hide|NOUN .|.
+ Des|NOUN ?|.
+ (|. vis|X Blackwood|NOUN )|. Is|VERB that|DET --|. ?|.
+ It|PRON is|VERB .|.
+ What|QUESTIONTAG do|VERB you|PRON make|VERB of|ADP that|DET ?|.
+ Some|DET kind|NOUN of|ADP ceremony|NOUN .|.
+ May|NOUN I|PRON join|VERB you|PRON in|ADP the|DET armory|NOUN ?|.
+ Please|VERB ...|. Watson|NOUN ,|. I|PRON 've|VERB been|VERB working|VERB on|ADP a|DET device|NOUN which|DET will|VERB suppress|VERB the|DET sound|NOUN of|ADP a|DET gunshot|NOUN .|.
+ Paper|NOUN ?|.
+ Is|VERB it|PRON poisoned|VERB ,|. nanny|X ?|.
+ There|DET 's|VERB enough|NOUN of|ADP that|DET in|ADP you|PRON already|ADV .|.
+ What|QUESTIONTAG have|VERB you|PRON done|VERB to|PRT Gladstone|VERB this|DET time|NOUN ?|.
+ I|PRON was|VERB simply|ADV testing|VERB a|DET new|ADJ anesthetic|ADJ .|.
+ Have|VERB you|PRON proposed|VERB yet|ADV ?|.
+ I|PRON 'm|VERB still|ADV looking|VERB for|ADP the|DET right|ADJ ring|NOUN .|.
+ Is|VERB there|DET ink|NOUN on|ADP my|PRON face|NOUN ?|.
+ Charlie|NOUN ,|. what|PRON the|DET hell|NOUN 's|PRT going|VERB on|ADP down|ADP here|ADV ?|.
+ All|DET right|NOUN ,|. Blackwood|NOUN ,|. what|PRON 's|VERB this|DET all|DET about|ADP ?|.
+ I|PRON 've|VERB a|DET request|NOUN .|.
+ WATSON|NOUN You|PRON know|VERB this|DET is|VERB for|ADP eye|NOUN surgery|NOUN ?|.
+ I|PRON find|VERB that|ADP it|PRON lifts|VERB my|PRON spirits|NOUN .|.
+ So|ADP that|DET 's|VERB a|DET `no|NOUN '|. to|PRT the|DET opera|NOUN then|ADV ?|.
+ Where|QUESTIONTAG are|VERB all|DET the|DET other|ADJ prisoners|NOUN ?|.
+ We|PRON had|VERB to|PRT move|VERB `em|NOUN ,|. sir|NOUN ,|. otherwise|ADV we|PRON were|VERB going|VERB to|PRT have|VERB a|DET riot|NOUN on|ADP our|PRON hands|NOUN .|.
+ How|QUESTIONTAG can|VERB I|PRON help|VERB ?|.
+ I|PRON 'd|VERB already|ADV followed|VERB the|DET murders|NOUN with|ADP some|DET interest|NOUN and|CONJ while|ADP my|PRON heart|NOUN went|VERB out|ADP to|PRT the|DET families|NOUN of|ADP the|DET victims|NOUN ,|. I|PRON could|VERB n't|ADV but|CONJ notice|VERB a|DET criminal|ADJ mastery|NOUN in|ADP the|DET stroke|NOUN of|ADP your|PRON brush|NOUN --|.
+ What|QUESTIONTAG did|VERB he|PRON want|VERB ?|.
+ Nothing|NOUN .|.
+ Why|ADV are|VERB you|PRON so|ADV suspicious|ADJ ?|.
+ Should|VERB I|PRON answer|VERB chronologically|ADV or|CONJ alphabetically|ADV ?|.
+ Who|QUESTIONTAG are|VERB you|PRON working|VERB for|ADP ?|.
+ her|PRON eyes|NOUN .|.
+ I|PRON assume|VERB he|PRON 'll|VERB do|VERB it|PRON ?|.
+ Not|ADV for|ADP money|NOUN ,|. but|CONJ for|ADP me|PRON .|.
+ So|ADV you|PRON agree|VERB ?|.
+ No|DET ,|. I|PRON do|VERB n't|ADV agree|VERB .|.
+ Mister|NOUN Holmes|NOUN ,|. sir|NOUN ...|. ?|.
+ Breathless|NOUN ,|. pale|NOUN ,|. scared|VERB .|.
+ Are|NOUN you|PRON taking|VERB this|DET seriously|ADV ?|.
+ Like|ADP it|PRON or|CONJ not|ADV ,|. it|PRON 's|VERB a|DET matter|NOUN of|ADP professional|ADJ integrity|NOUN .|.
+ And|CONJ the|DET coffin|NOUN ?|.
+ We|PRON 're|VERB digging|VERB it|PRON up|PRT now|ADV .|.
+ Inspector|NOUN ,|. may|VERB I|PRON see|VERB your|PRON pen|NOUN ?|.
+ Holmes|NOUN takes|VERB the|DET pen|NOUN and|CONJ pries|NOUN open|VERB the|DET corpse|NOUN 's|PRT mouth|NOUN ,|. revealing|VERB :|. two|NUM missing|VERB teeth|NOUN in|ADP the|DET man|NOUN 's|PRT jaw|NOUN .|.
+ Hmm|NOUN ...|. scratches|VERB around|ADP the|DET keyhole|NOUN ,|. what|PRON does|VERB that|DET tell|VERB you|PRON ?|.
+ The|DET owner|NOUN was|VERB most|ADV likely|ADJ a|DET drunk|NOUN .|.
+ Reckon|NOUN your|PRON future|NOUN ,|. sir|NOUN ?|.
+ Perhaps|ADV we|PRON do|VERB need|VERB a|DET little|ADJ help|NOUN from|ADP the|DET beyond|ADP .|.
+ You|PRON think|VERB you|PRON are|VERB clever|ADJ do|VERB n't|ADV you|PRON ?|.
+ (|. to|PRT Watson|NOUN )|. Do|VERB you|PRON have|VERB any|DET changes|NOUN ?|.
+ Do|VERB you|PRON still|ADV have|VERB my|PRON cut|NOUN from|ADP the|DET fight|NOUN ?|.
+ Not|ADV bad|ADJ ,|. eh|VERB ?|.
+ the|DET pawnshop|NOUN :|. an|DET ADDRESS|NOUN .|.
+ Has|NOUN he|PRON any|DET hydrochloric|ADJ acid|NOUN ?|.
+ Why|ADV would|VERB she|PRON hire|VERB you|PRON to|PRT find|VERB him|PRON ,|. if|ADP she|PRON planned|VERB to|PRT do|VERB the|DET job|NOUN herself|PRON ?|.
+ Maybe|ADV it|PRON 's|VERB not|ADV the|DET man|NOUN she|PRON 's|VERB after|ADP ,|. but|CONJ something|NOUN else|ADV .|.
+ 67|NUM CONTINUED|NOUN :|. 67|NUM WATSON|NOUN (|. CONT|NOUN 'D|NOUN )|. Why|ADV else|ADV would|VERB I|PRON continually|ADV allow|VERB myself|PRON to|PRT be|VERB led|VERB into|ADP situations|NOUN where|ADV you|PRON 're|VERB deliberately|ADV withholding|VERB your|PRON intentions|NOUN from|ADP me|PRON ?|.
+ You|PRON 've|VERB never|ADV complained|VERB about|ADP my|PRON methods|NOUN before|ADP .|.
+ Who|QUESTIONTAG 's|VERB this|DET ?|.
+ Try|VERB to|PRT behave|VERB yourself|PRON .|.
+ I|PRON suppose|VERB you|PRON already|ADV have|VERB some|DET notion|NOUN as|ADP to|PRT the|DET --|. practices|NOUN of|ADP our|PRON Order|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ If|ADP the|DET rest|NOUN of|ADP his|PRON family|NOUN 's|PRT dead|ADJ ,|. why|ADV are|VERB you|PRON still|ADV alive|VERB ?|.
+ 73|NUM 73|NUM OMITTED|NOUN
+ So|ADP what|PRON 's|VERB it|PRON to|PRT be|VERB ?|.
+ Do|VERB we|PRON really|ADV have|VERB to|PRT decide|VERB now|ADV ?|.
+ Where|QUESTIONTAG 's|PRT Watson|NOUN when|ADV you|PRON need|VERB him|PRON ?|.
+ OMITTED|NOUN
+ Do|VERB n't|ADV take|VERB this|DET the|DET wrong|ADJ way|NOUN ,|. but|CONJ might|VERB I|PRON borrow|VERB your|PRON hand|NOUN ?|.
+ 78C|NUM CONTINUED|NOUN :|. 78C|NUM HOLMES|NOUN Why|ADV did|VERB you|PRON drain|VERB the|DET water|NOUN ?|.
+ Out|ADP of|ADP common|ADJ decency|NOUN .|.
+ What|QUESTIONTAG is|VERB that|DET ?|.
+ (|. smelling|VERB )|. Uhhhh|NOUN ...|. jasmine|NOUN ?|.
+ Since|ADP this|DET room|NOUN is|VERB no|DET longer|ADV in|ADP use|NOUN ,|. do|VERB you|PRON mind|VERB if|ADP I|PRON employ|VERB it|PRON ?|.
+ Be|VERB my|PRON guest|NOUN .|.
+ 80|NUM CONTINUED|ADJ :|. (|. 2|NUM )|. 80|NUM WATSON|NOUN Who|QUESTIONTAG was|VERB he|PRON ?|.
+ My|PRON new|ADJ roommate|NOUN .|.
+ Everything|VERB all|DET right|NOUN ,|. Captain|NOUN Tanner|NOUN ?|.
+ Sherlock|NOUN ?|.
+ himself|PRON on|ADP the|DET belt|NOUN ,|. swings|NOUN the|DET cleaver|NOUN with|ADP all|DET his|PRON might|VERB --|.
+ From|ADP Lord|NOUN Coward|NOUN ?|.
+ Yes|X ,|. sir|ADJ ,|. so|ADV make|VERB it|PRON look|VERB good|ADJ .|.
+ What|QUESTIONTAG are|VERB you|PRON administering|VERB ?|.
+ Morphia|NOUN .|.
+ Are|ADP they|PRON subcutaneous|ADJ ,|. or|CONJ deeper|ADJ ?|.
+ They|PRON 're|VERB near|ADP the|DET carotid|NOUN artery|NOUN .|.
+ You|PRON have|VERB nothing|NOUN more|ADJ to|PRT say|VERB to|PRT me|PRON ?|.
+ Um|NOUN ...|.
+ Holmes|NOUN ,|. or|CONJ is|VERB he|PRON hallucinating|VERB ,|. caught|VERB in|ADP the|DET spell|NOUN he|PRON conjured|VERB ?|.
+ (|. confused|VERB )|. Watson|NOUN ...|. ?|.
+ He|PRON gestures|VERB towards|ADP the|DET diagram|NOUN on|ADP the|DET floor|NOUN .|.
+ What|QUESTIONTAG about|ADP the|DET shrapnel|NOUN in|ADP your|PRON arm|NOUN ?|.
+ (|. quietly|ADV ,|. between|ADP them|PRON )|. She|PRON brought|VERB you|PRON here|ADV ?|.
+ Yes|X ,|. oddly|ADV ,|. it|PRON seems|VERB she|PRON might|VERB understand|VERB the|DET power|NOUN of|ADP partnership|NOUN .|.
+ What|QUESTIONTAG time|NOUN is|VERB it|PRON ?|.
+ It|PRON 's|VERB half|ADJ past|ADJ nine|NUM .|.
+ What|QUESTIONTAG is|VERB the|DET meaning|NOUN of|ADP this|DET circle|NOUN ?|.
+ point|NOUN at|ADP which|DET the|DET other|ADJ four|NUM come|VERB together|ADV .|.
+ Lestrade|VERB ?|.
+ Begging|VERB your|PRON pardon|NOUN ,|. m'lord|NOUN ,|. I|PRON know|VERB it|PRON 's|VERB unorthodox|ADJ ,|. but|CONJ Mr.|NOUN Holmes|NOUN has|VERB been|VERB making|VERB serious|ADJ accusations|NOUN about|ADP you|PRON and|CONJ the|DET order|NOUN ,|. sir|NOUN .|.
+ Well|ADV there|DET 's|VERB no|DET time|NOUN to|PRT waste|VERB then|ADV ,|. is|VERB there|ADV ?|.
+ Holmes|NOUN runs|VERB towards|ADP the|DET open|ADJ window|NOUN as|ADP Coward|NOUN fires|VERB another|DET shot|NOUN .|.
+ How|QUESTIONTAG was|VERB Lestrade|VERB ?|.
+ Performed|VERB his|PRON role|NOUN perfectly|ADV .|.
+ Where|QUESTIONTAG to|PRT ,|. Sherlock|NOUN ?|.
+ Watson|NOUN ,|. did|VERB you|PRON bring|VERB my|PRON clothes|NOUN ?|.
+ Holmes|NOUN opens|VERB the|DET drum|NOUN ,|. checks|VERB the|DET load|NOUN ,|. grimaces|NOUN ,|. pockets|NOUN it|PRON .|.
+ Starting|VERB early|ADJ ,|. are|VERB n't|ADV we|PRON ?|.
+ What|QUESTIONTAG are|VERB we|PRON doing|VERB in|ADP the|DET sewers|NOUN ?|.
+ Patience|NOUN ,|. Doctor|NOUN .|.
+ You|PRON can|VERB tell|VERB that|ADP from|ADP here|ADV ?|.
+ No|DET .|.
+ Where|QUESTIONTAG 's|VERB Irene|NOUN ?|.
+ Irene|NOUN .|.
+ What|QUESTIONTAG 's|VERB in|ADP all|DET those|DET notebooks|NOUN ?|.
+ Nothing|NOUN really|ADV ...|. Just|ADV a|DET few|ADJ scribbles|NOUN ...|. cases|NOUN we|PRON 've|VERB worked|VERB on|ADP over|ADP the|DET years|NOUN .|.
+ Do|VERB you|PRON think|VERB he|PRON 's|VERB finally|ADV come|VERB to|PRT terms|NOUN with|ADP you|PRON leaving|VERB ?|.
+ Of|ADP course|NOUN .|.
+ Should|VERB n't|ADV you|PRON help|VERB him|PRON ,|. John|NOUN ?|.
+ I|PRON hate|VERB to|PRT stop|VERB when|ADV he|PRON 's|VERB on|ADP a|DET roll|NOUN .|.
+ How|QUESTIONTAG did|VERB you|PRON manage|VERB it|PRON ,|. Holmes|NOUN ?|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ with|ADP Gladstone|NOUN ?|.
+ --|. mad|NOUN honey|NOUN disease|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON this|DET time|NOUN ,|. Clarky|NOUN ?|.
+ It|PRON 's|VERB one|NUM of|ADP our|PRON sergeants|NOUN ,|. sir|NOUN .|.
+ Were|ADV there|DET powder|NOUN burns|NOUN on|ADP his|PRON eyebrows|NOUN ?|.
+ Where|QUESTIONTAG is|VERB Blackwood|NOUN 's|PRT device|NOUN now|ADV ?|.
+ Oi|NOUN ,|. what|PRON you|PRON doing|VERB ?|.
+ means|NOUN of|ADP the|DET same|ADJ device|NOUN we|PRON saw|VERB in|ADP the|DET carriage|NOUN scene|NOUN with|ADP Irene|NOUN .|.
+ Were|ADV there|DET powder|NOUN burns|NOUN on|ADP his|PRON eyebrows|NOUN ?|.
+ Where|QUESTIONTAG is|VERB Blackwood|NOUN 's|PRT device|NOUN now|ADV ?|.
+ The|DET secret|ADJ service|NOUN has|VERB it|PRON ,|. sir|VERB .|.

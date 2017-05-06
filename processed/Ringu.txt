@@ -1,0 +1,169 @@
+ What|QUESTIONTAG is|VERB it|PRON ,|. Tomoko|NOUN ?|.
+ friend|NOUN .|.
+ Who|QUESTIONTAG did|VERB you|PRON hear|VERB that|ADP story|NOUN from|ADP ?|.
+ Who|QUESTIONTAG ?|.
+ Youko|NOUN told|VERB you|PRON ?|.
+ No|DET ,|. it|PRON wasnt|VERB Youko|NOUN ...|.
+ Whats|NOUN up|PRT with|ADP you|PRON ?|.
+ Busted|VERB ,|. huh|VERB ?|.
+ (|. thinking|VERB )|. But|CONJ hang|NOUN on|ADP ...|. you|PRON really|ADV stayed|VERB the|DET night|NOUN with|ADP Youko|NOUN and|CONJ Iwata|NOUN ,|. right|ADV ?|.
+ cheeks|NOUN and|CONJ grinning|VERB wildly|ADV .|.
+ So|ADV ,|. how|ADV far|ADV did|VERB you|PRON and|CONJ he|PRON get|VERB ?|.
+ Oh|X ...|.
+ You|PRON cant|VERB remember|VERB ,|. huh|VERB ?|.
+ the|DET trick|NOUN her|PRON friend|NOUN played|VERB on|ADP her|PRON .|.
+ (|. softly|ADV )|. Was|VERB it|PRON true|ADJ ?|.
+ forcibly|ADV disengage|NOUN herself|PRON in|ADP order|NOUN to|PRT stand|VERB .|.
+ (|. softly|ADV )|. Yes|X ?|.
+ Have|VERB you|PRON heard|VERB what|PRON kind|NOUN of|ADP video|NOUN it|PRON might|VERB be|VERB ?|.
+ Uh-huh|NOUN .|.
+ ASAKAWA|NOUN Have|VERB you|PRON heard|VERB what|PRON kind|NOUN of|ADP video|NOUN it|PRON might|VERB be|VERB ?|.
+ What|QUESTIONTAG I|PRON heard|VERB was|VERB ,|. all|DET of|ADP a|DET sudden|ADJ this|DET scaaarry|NOUN lady|NOUN comes|VERB on|ADP the|DET screen|NOUN and|CONJ says|VERB ,|. In|NOUN one|NUM week|NOUN ,|. you|PRON will|VERB die.|VERB
+ Watching|VERB TV|NOUN late|ADV at|ADP night|NOUN ...|. do|VERB you|PRON know|VERB what|PRON station|NOUN ?|.
+ Mmmm|NOUN ...|.
+ Izu|NOUN ?|.
+ Mmm-hmm|NOUN .|.
+ And|CONJ ,|. do|VERB you|PRON know|VERB if|ADP anyones|ADJ really|ADV died|VERB from|ADP watching|VERB it|PRON ?|.
+ Well|ADV ,|. no|DET one|NOUN that|ADP we|PRON know|VERB ,|. right|ADV ?|.
+ mouth|NOUN as|ADP if|ADP deciding|VERB whether|ADP to|PRT say|VERB something|NOUN or|CONJ not|ADV .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ They|PRON were|VERB in|ADP a|DET wreck|NOUN ?|.
+ No|DET ,|. their|PRON car|NOUN was|VERB parked|VERB ,|. but|CONJ they|PRON were|VERB both|DET dead|ADJ inside|NOUN .|.
+ Do|VERB you|PRON know|VERB the|DET name|NOUN of|ADP the|DET high|ADJ school|NOUN this|DET girl|NOUN went|VERB to|PRT ?|.
+ No|DET ...|.
+ Mrs.|NOUN Asakawa|NOUN ?|.
+ Hm|NOUN ?|.
+ A|DET big|ADJ accident|NOUN ?|.
+ Mmm-hmm|NOUN .|.
+ Dyou|NOUN think|VERB something|NOUN like|ADP that|DET happened|VERB out|PRT at|ADP Izu|NOUN ?|.
+ Maybe|ADV .|.
+ Okazaki|NOUN ,|. can|VERB I|PRON ask|VERB you|PRON a|DET favor|NOUN ?|.
+ Sure|ADV .|.
+ Did|NOUN grandpa|VERB call|NOUN ?|.
+ Nope|NOUN .|.
+ Will|VERB you|PRON do|VERB me|PRON up|PRT ?|.
+ You|PRON can|VERB die|VERB even|ADV if|ADP youre|VERB young|ADJ ?|.
+ If|ADP its|ADJ something|NOUN serious|ADJ ...|. well|ADV ,|. yes|X .|.
+ As|ADV hard|ADV as|ADP it|PRON is|VERB for|ADP us|PRON ,|. what|PRON your|PRON auntie|NOUN and|CONJ uncle|NOUN are|VERB going|VERB through|ADP right|NOUN now|ADV is|VERB even|ADV harder|ADV ,|. so|ADV lets|ADJ not|ADV talk|VERB about|ADP this|DET over|ADP there|ADV ,|. OK|NOUN ?|.
+ (|. remembering|VERB )|. You|PRON and|CONJ her|PRON used|VERB to|PRT play|VERB a|DET lot|NOUN together|ADV ,|. didnt|VERB you|PRON ?|.
+ How|QUESTIONTAG is|VERB sis|ADV holding|VERB up|PRT ?|.
+ Shes|NOUN resting|VERB inside|ADV right|ADV now|ADV .|.
+ Have|VERB you|PRON heard|VERB anything|NOUN more|ADJ about|ADP Tomo-chans|NOUN death|NOUN ?|.
+ No|DET ,|. I|PRON ...|.
+ Yoichi|NOUN ?|.
+ You|PRON go|VERB on|ADP downstairs|NOUN ,|. OK|NOUN ?|.
+ OK|X .|.
+ Hello|NOUN ?|.
+ Uh|NOUN ...|. this|DET is|VERB Okazaki|NOUN .|.
+ Video|NOUN ?|.
+ Thats|NOUN what|PRON Youko|NOUN said|VERB .|.
+ Cause|NOUN of|ADP death|NOUN ?|.
+ Couldnt|NOUN say|VERB ,|. aside|ADV from|ADP sudden|ADJ heart|NOUN failure|NOUN .|.
+ Drugs|NOUN ?|.
+ The|DET autopsy|NOUN came|VERB up|ADV negative|ADJ .|.
+ Do|VERB -you-|PRON get|VERB it|PRON ?|.
+ Look|NOUN ,|. Im|NOUN probably|ADV going|VERB to|PRT be|VERB late|ADJ coming|VERB home|NOUN tonight|NOUN ,|. so|ADV just|ADV stick|VERB your|PRON dinner|NOUN in|ADP the|DET microwave|NOUN when|ADV youre|NOUN ready|ADJ to|PRT eat|VERB ,|. OK|NOUN ?|.
+ K|NOUN ...|.
+ Hmm|NOUN ?|.
+ Tomo-chan|NOUN watched|VERB some|DET cursed|ADJ video|NOUN !|.
+ Room|NOUN for|ADP one|NUM ?|.
+ Um|NOUN ,|. actually|ADV Im|NOUN here|ADV on|ADP business|NOUN .|.
+ Hmm|NOUN ?|.
+ Yoichis|NOUN in|ADP elementary|ADJ school|NOUN already|ADV ,|. is|VERB he|PRON ?|.
+ His|PRON first|ADJ year|NOUN .|.
+ And|CONJ money|NOUN is|VERB ...|. ?|.
+ Im|NOUN teaching|NOUN at|ADP university|NOUN .|.
+ (|. flippant|NOUN )|. Well|NOUN ,|. why|ADV dont|NOUN you|PRON try|VERB calling|VERB an|DET exorcist|NOUN ?|.
+ from|ADP the|DET bookshelf|NOUN behind|ADP her|PRON --|. a|DET POLAROID|NOUN CAMERA|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON gon|VERB na|PRT do|VERB with|ADP this|DET ?|.
+ Uh|NOUN ...|. sorry|NOUN ,|. Im|NOUN working|VERB on|ADP something|NOUN personal|ADJ .|.
+ What|QUESTIONTAG happened|VERB to|PRT you|PRON ?|.
+ (|. gruffly|NOUN )|. Nothing|NOUN .|.
+ So|ADV ,|. whatd|ADP you|PRON come|VERB up|PRT with|ADP ?|.
+ I|PRON dont|VERB think|VERB any|DET of|ADP the|DET guests|NOUN on|ADP the|DET list|NOUN brought|VERB the|DET tape|NOUN with|ADP them|PRON .|.
+ Have|VERB you|PRON ever|ADV seen|VERB this|DET woman|NOUN ?|.
+ So|ADV ,|. what|PRON does|VERB that|DET mean|VERB ?|.
+ (|. reading|VERB )|. Volcanic|NOUN eruption|NOUN ...|. Eruption|NOUN where|ADV ?|.
+ This|DET is|VERB gon|VERB na|ADV be|VERB impossible|ADJ to|PRT figure|VERB out|PRT on|ADP just|ADV a|DET regular|ADJ TV|NOUN screen|NOUN ,|. dont|NOUN you|PRON think|VERB ?|.
+ the|DET SOUND|NOUN of|ADP someone|NOUN opening|VERB the|DET front|NOUN door|NOUN .|.
+ (|. brusquely|ADV )|. Whatre|ADP they|PRON talkin|VERB to|PRT you|PRON about|ADP it|PRON for|ADP ?|.
+ Because|ADP they|PRON can|VERB never|ADV get|VERB a|DET hold|NOUN of|ADP you|PRON .|.
+ Is|VERB Yoichi|NOUN gon|NOUN na|PRT be|VERB all|DET right|NOUN ?|.
+ (|. sadly|ADV )|. Hes|NOUN used|VERB to|PRT it|PRON ...|.
+ What|QUESTIONTAG does|VERB that|DET mean|VERB ?|.
+ it|PRON into|ADP his|PRON shirt|NOUN pocket|NOUN .|.
+ Hello|NOUN ?|.
+ Ive|NOUN got|VERB it|PRON .|.
+ But|CONJ ,|. dialect|VERB from|ADP where|ADV ?|.
+ Oshima|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Has|NOUN your|PRON newspaper|NOUN got|VERB someone|NOUN out|ADP there|ADV at|ADP Oshima|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB youre|NUM --|. ?|.
+ (|. angrily|ADV )|. Youve|VERB only|ADV got|VERB four|NUM days|NOUN left|VERB ,|. Asakawa|NOUN !|.
+ Is|VERB that|DET so|ADV ?|.
+ Well|ADV ,|. whaddya|NOUN say|VERB we|PRON try|VERB again|ADV ?|.
+ tow|NOUN .|.
+ (|. sleepily|ADV )|. How|QUESTIONTAG was|VERB work|NOUN ,|. mommy|VERB ?|.
+ Hello|NOUN ?|.
+ Yeah|X .|.
+ Have|VERB you|PRON got|VERB anything|NOUN else|ADV ?|.
+ Im|NOUN gon|NOUN na|NOUN have|VERB to|PRT check|VERB it|PRON for|ADP myself|PRON .|.
+ Whats|NOUN happened|VERB ?|.
+ Auntie|NOUN ?|.
+ the|DET futon|NOUN next|ADP to|PRT hers|NOUN .|.
+ Yoichi|NOUN ?|.
+ black|ADJ .|.
+ Yoichi|NOUN ...|. he|PRON can|VERB see|VERB them|PRON too|ADV ,|. cant|NOUN he|PRON ?|.
+ How|QUESTIONTAG did|VERB the|DET rumors|NOUN about|ADP the|DET video|NOUN even|ADV start|VERB in|ADP the|DET first|ADJ place|NOUN ?|.
+ (|. to|PRT Ryuji|NOUN )|. Why|ADV did|VERB Yamamura|NOUN Shizuko|NOUN commit|NOUN suicide|NOUN ?|.
+ She|PRON was|VERB taking|VERB a|DET real|ADJ beating|NOUN in|ADP the|DET press|NOUN ,|. being|VERB called|VERB a|DET fraud|NOUN and|CONJ all|DET sorts|NOUN of|ADP names|NOUN .|.
+ He|PRON was|VERB driven|VERB out|ADP of|ADP the|DET university|NOUN ,|. wasnt|NOUN he|PRON ?|.
+ But|CONJ ,|. why|ADV even|ADV try|VERB looking|VERB for|ADP him|PRON ?|.
+ Because|ADP hes|NOUN supposed|VERB to|PRT have|VERB had|VERB a|DET child|NOUN with|ADP Shizuko|NOUN .|.
+ Hello|NOUN ?|.
+ KIMONO|NOUN ,|. comes|VERB shuffling|VERB up|PRT .|.
+ And|CONJ for|ADP your|PRON rooms|NOUN ,|. how|ADV shall|VERB we|PRON ...|. ?|.
+ Separate|NOUN ,|. please|NOUN .|.
+ She|PRON did|VERB have|VERB a|DET daughter|NOUN ,|. didnt|VERB she|PRON ?|.
+ Arent|NOUN you|PRON gon|VERB na|PRT eat|VERB ?|.
+ Umm|NOUN ...|.
+ Hm|NOUN ?|.
+ Youll|PRON stay|NOUN with|ADP me|PRON wont|VERB you|PRON ?|.
+ (|. angrily|ADV )|. Why|ADV ,|. because|ADP Im|NOUN already|ADV not|ADV right|ADV in|ADP the|DET head|NOUN ?|.
+ slams|VERB his|PRON chopsticks|NOUN down|PRT angrily|ADV .|.
+ Excuse|ADP me|PRON ?|.
+ Come|NOUN in|ADP .|.
+ Is|VERB this|DET Professor|NOUN Ikuma|NOUN ?|.
+ herself|NOUN .|.
+ What|QUESTIONTAG kind|NOUN of|ADP a|DET child|NOUN was|VERB Shizuko|NOUN ?|.
+ Shizuko|NOUN was|VERB ...|. different|ADJ .|.
+ Whatre|NOUN you|PRON --|. ?|.
+ You|PRON thought|VERB youd|ADV be|VERB able|ADJ to|PRT make|VERB some|DET money|NOUN off|ADP her|PRON .|.
+ What|QUESTIONTAG are|VERB you|PRON trying|VERB to|PRT pull|VERB ,|. woman|NOUN ?|.
+ Whats|NOUN happened|VERB ?|.
+ Hes|NOUN dead|ADJ !|.
+ Sadako|NOUN ?|.
+ character|NOUN SADA|NOUN reflected|VERB in|ADP reverse|NOUN .|.
+ Hello|NOUN ?|.
+ Mrs.|NOUN Asakawa|NOUN ?|.
+ Hello|NOUN ?|.
+ (|. softly|ADV )|. Thank|NOUN you|PRON ...|.
+ So|ADV ,|. Sadako|NOUN was|VERB Professor|NOUN Ikumas|NOUN daughter|NOUN ?|.
+ (|. nodding|VERB )|. Ikuma|NOUN smuggled|VERB her|PRON out|PRT in|ADP secret|NOUN .|.
+ Hello|NOUN ?|.
+ Yoichi|NOUN ?|.
+ Whats|NOUN wrong|ADJ ?|.
+ What|QUESTIONTAG time|NOUN was|VERB it|PRON when|ADV you|PRON first|ADV watched|VERB the|DET video|NOUN ?|.
+ Who|QUESTIONTAG do|VERB you|PRON expect|VERB to|PRT pull|VERB up|PRT these|DET buckets|NOUN ,|. then|ADV ?|.
+ But|CONJ ,|. we|PRON dont|VERB even|ADV know|VERB if|ADP its|ADJ doing|VERB any|DET good|ADJ ...|.
+ What|QUESTIONTAG ?|.
+ Maybe|ADV her|PRON father|NOUN ...|. wasnt|ADV even|ADV human|ADJ .|.
+ (|. almost|ADV frantic|ADJ )|. Why|ADV ?|.
+ in|ADP his|PRON throat|NOUN .|.
+ Are|NOUN you|PRON a|DET resident|NOUN here|ADV ,|. maam|NOUN ?|.
+ Im|NOUN Takayama|NOUN Ryujis|NOUN wife|NOUN !|.
+ What|QUESTIONTAG happened|VERB ?|.
+ Ryuji|NOUN ?|.
+ The|DET figure|NOUN had|VERB been|VERB pointing|VERB towards|ADP her|PRON BAG|NOUN .|.
+ But|CONJ what|PRON about|ADP the|DET person|NOUN you|PRON show|VERB it|PRON to|PRT ?|.
+ Well|ADV ,|. then|ADV they|PRON make|VERB a|DET copy|NOUN and|CONJ show|VERB it|PRON to|PRT somebody|NOUN else|ADV .|.

@@ -1,0 +1,4 @@
+ RUNE|NOUN :|. Where|QUESTIONTAG are|VERB those|DET destroyer|ADJ droids|NOUN ?|.
+ JAR|NOUN JAR|NOUN :|. Say|VERB what|PRON ?|.
+ JAR|NOUN JAR|NOUN :|. Wesa|NOUN goen|NOUN underwater|NOUN ,|. okeyday|NOUN ?|.
+ turn|NOUN into|ADP breathing|VERB masks|NOUN .|.

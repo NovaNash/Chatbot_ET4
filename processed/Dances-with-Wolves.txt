@@ -1,0 +1,191 @@
+ Lieutenant|NOUN ...|. izat|NOUN you|PRON ?|.
+ the|DET sergeant|NOUN .|.
+ What|QUESTIONTAG 're|VERB you|PRON doing|VERB here|ADV lieutenant|VERB ?|.
+ This|DET is|VERB where|ADV I|PRON belong|VERB ...|. this|DET is|VERB my|PRON outfit|NOUN .|.
+ You|PRON went|VERB to|PRT hospital|VERB ?|.
+ It|PRON was|VERB no|DET good|ADJ ...|. what|PRON 's|VERB going|VERB on|ADP here|ADV ?|.
+ What|QUESTIONTAG is|VERB it|PRON sir|ADV ?|.
+ back|ADV down|ADV at|ADP the|DET field|NOUN .|.
+ Sir|NOUN ?|.
+ Bring|NOUN up|PRT my|PRON ambulance|NOUN .|.
+ Where|QUESTIONTAG can|VERB I|PRON find|VERB Major|ADJ ...|. Fambrough|NOUN ?|.
+ Turn|VERB right|ADJ ...|. all|DET the|DET way|NOUN to|PRT the|DET end|NOUN of|ADP the|DET hall|NOUN .|.
+ Sir|NOUN ?|.
+ there|ADV .|.
+ Yes|X sir|NOUN ?|.
+ Indian|ADJ fighter|NOUN ,|. huh|NOUN ?|.
+ Excuse|ADP me|PRON ?|.
+ (|. indicating|VERB paper|NOUN )|. Your|PRON orders|NOUN say|VERB you|PRON are|VERB to|PRT be|VERB posted|VERB on|ADP the|DET frontier|NOUN .|.
+ And|CONJ they|PRON sent|VERB you|PRON out|PRT here|ADV to|PRT be|VERB posted|VERB ?|.
+ Actually|ADV sir|ADJ ,|. I|PRON 'm|VERB here|ADV at|ADP my|PRON own|ADJ request|NOUN ...|.
+ You|PRON want|VERB to|PRT see|VERB the|DET frontier|ADJ ?|.
+ Yes|X sir|NOUN ...|. before|ADP it|PRON 's|VERB gone|VERB .|.
+ I|PRON 'm|VERB wondering|VERB sir|NOUN ,|. how|ADV will|VERB I|PRON be|VERB getting|VERB there|ADV ?|.
+ You|PRON think|VERB I|PRON do|VERB n't|ADV know|VERB ?|.
+ How|QUESTIONTAG far|ADV do|VERB you|PRON make|VERB the|DET fort|NOUN ?|.
+ Far|NOUN .|.
+ How|QUESTIONTAG far|ADV ?|.
+ Forty|NOUN or|CONJ fifty|ADJ miles|NOUN ,|. maybe|ADV ...|. what|PRON 's|VERB the|DET big|ADJ hurry|NOUN on|ADP Sedgewick|NOUN ?|.
+ How|QUESTIONTAG come|VERB we|PRON have|VERB n't|ADV seen|VERB any|DET buffalo|NOUN ?|.
+ Ca|NOUN n't|ADV figger|VERB the|DET stinkin|NOUN '|PRT buffalo|NOUN .|.
+ What|QUESTIONTAG about|ADP Indians|NOUN ?|.
+ Goddamn|NOUN Indians|NOUN you|PRON 'd|VERB jus|VERB '|PRT as|ADP soon|ADV not|ADV see|VERB ,|. lessen|VERB the|DET bastards|NOUN 're|VERB dead|ADJ .|.
+ What|QUESTIONTAG ,|. and|CONJ leave|VERB it|PRON all|DET here|ADV ?|.
+ I|PRON 'm|VERB staying|VERB too|ADV ...|. we|PRON do|VERB n't|ADV know|VERB what|PRON 's|VERB happened|VERB .|.
+ This|DET is|VERB my|PRON ...|. are|VERB you|PRON crazy|ADJ boy|NOUN ?|.
+ of|ADP his|PRON hand|NOUN is|VERB dropping|VERB lightly|ADV on|ADP the|DET butt|NOUN of|ADP a|DET long|ADJ revolver|NOUN at|ADP his|PRON hip|NOUN .|.
+ What|QUESTIONTAG does|VERB his|PRON wife|NOUN say|VERB ?|.
+ He|PRON is|VERB keeping|VERB to|PRT himself|PRON .|.
+ May|NOUN I|PRON come|VERB in|ADP ?|.
+ makes|VERB a|DET move|NOUN to|PRT pull|VERB him|PRON back|ADV ,|. but|CONJ Ten|NOUN Bears|NOUN indicates|VERB the|DET boy|NOUN should|VERB stay|VERB .|.
+ Oh|X ?|.
+ I|PRON saw|VERB a|DET man|NOUN ,|. a|DET white|ADJ man|NOUN .|.
+ Just|ADV one|NUM ?|.
+ Just|ADV one|NUM .|.
+ Are|NOUN you|PRON sure|VERB it|PRON was|VERB a|DET man|NOUN ?|.
+ I|PRON saw|VERB his|PRON sex|NOUN .|.
+ Did|NOUN you|PRON speak|VERB to|PRT him|PRON ?|.
+ No|DET .|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN now|ADV ?|.
+ Otter|NOUN does|VERB n't|ADV want|VERB to|PRT go|VERB .|.
+ Who|QUESTIONTAG gets|VERB the|DET white|ADJ god|NOUN horse|NOUN ?|.
+ I|PRON do|VERB ...|. but|CONJ we|PRON share|NOUN ...|. you|PRON and|CONJ Worm|VERB can|VERB ride|VERB him|PRON too|ADV .|.
+ What|QUESTIONTAG happened|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ (|. to|PRT Kicking|NOUN Bird|NOUN )|. Do|VERB you|PRON want|VERB some|DET ?|.
+ reaches|NOUN over|ADP and|CONJ dumps|VERB a|DET good|ADJ amount|NOUN in|ADP Kicking|NOUN Bird|NOUN 's|PRT cup|NOUN ,|. adding|VERB some|DET more|ADV to|PRT his|PRON own|ADJ for|ADP good|ADJ measure|NOUN .|.
+ (|. incorrectly|ADV in|ADP Sioux|NOUN )|. Buffalo|NOUN ?|.
+ (|. slowly|ADV )|. Buffalo|NOUN .|.
+ Have|VERB you|PRON seen|VERB any|DET buffalo|NOUN ?|.
+ Your|PRON wounds|NOUN are|VERB healing|VERB well|ADV ?|.
+ Yes|X .|.
+ You|PRON are|VERB happy|ADJ here|ADV ,|. with|ADP my|PRON family|NOUN ?|.
+ I|PRON am|VERB glad|ADJ to|PRT be|VERB here|ADV .|.
+ Will|VERB she|PRON make|VERB the|DET white|ADJ words|NOUN ?|.
+ Perhaps|ADV I|PRON am|VERB asking|VERB too|ADV much|ADJ .|.
+ Christine|NOUN ...|. where|ADV are|VERB you|PRON ?|.
+ of|ADP the|DET roof|NOUN to|PRT see|VERB her|PRON mother|NOUN holding|VERB yet|ADV another|DET child|NOUN .|.
+ Why|ADV ?|.
+ Just|ADV do|VERB what|PRON I|PRON ...|. oh|PRON God|NOUN !|.
+ Who|QUESTIONTAG is|VERB it|PRON Willie|NOUN ?|.
+ loading|VERB rifle|NOUN is|VERB by|ADP his|PRON side|NOUN .|.
+ Why|ADV ?|.
+ Just|ADV run|VERB !|.
+ Buffalo|NOUN ?|.
+ Yes|X .|.
+ Where|QUESTIONTAG is|VERB loo|ADJ ten|NOUN tant|NOUN ?|.
+ I|PRON ate|VERB him|PRON .|.
+ Does|VERB it|PRON scratch|VERB the|DET skin|NOUN ?|.
+ A|DET little|ADJ .|.
+ Wait|NOUN ...|. what|PRON is|VERB your|PRON name|NOUN ?|.
+ Our|PRON ...|. names|ADV ?|.
+ What|QUESTIONTAG does|VERB he|PRON say|VERB ?|.
+ He|PRON wants|VERB to|PRT know|VERB how|ADV we|PRON are|VERB called|VERB .|.
+ Kick|NOUN ?|.
+ More|ADV .|.
+ Kicking|VERB ?|.
+ Kicking|VERB ...|. yes|NOUN ...|.
+ (|. to|PRT Kicking|NOUN Bird|NOUN )|. Kicking|NOUN Bird|NOUN ...|. (|. to|PRT Stands|NOUN With|ADP A|NOUN Fist|NOUN )|. What|QUESTIONTAG does|VERB he|PRON ...|. is|VERB he|PRON a|DET chief|NOUN ?|.
+ to|PRT make|VERB it|PRON come|VERB out|ADP of|ADP her|PRON mouth|NOUN .|.
+ Fist|NOUN ?|.
+ Who|QUESTIONTAG is|VERB Dances|NOUN With|ADP Wolves|NOUN ?|.
+ It|PRON is|VERB the|DET name|NOUN which|DET everyone|NOUN is|VERB calling|VERB you|PRON now|ADV .|.
+ Dances|NOUN With|ADP Wolves|NOUN ?|.
+ I|PRON 'm|VERB here|ADV .|.
+ A|DET bone|NOUN ...|. right|ADV ?|.
+ and|CONJ forth|NOUN on|ADP the|DET floor|NOUN of|ADP the|DET arbor|NOUN ,|. laughing|VERB so|ADV hard|ADJ that|ADP her|PRON eyes|NOUN are|VERB tearing|VERB .|.
+ What|QUESTIONTAG is|VERB the|DET word|NOUN for|ADP beautiful|NOUN ?|.
+ A|DET little|ADJ boy|NOUN pokes|VERB his|PRON head|NOUN in|ADP .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB here|ADV ?|.
+ respond|NOUN .|.
+ How|QUESTIONTAG is|VERB Dances|NOUN With|ADP Wolves|NOUN ?|.
+ wondering|VERB the|DET same|ADJ thing|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ How|QUESTIONTAG is|VERB he|PRON learning|VERB ?|.
+ You|PRON go|VERB for|ADP water|NOUN ?|.
+ How|QUESTIONTAG did|VERB you|PRON get|VERB your|PRON name|NOUN ?|.
+ last|ADJ of|ADP the|DET bags|NOUN .|.
+ Why|ADV are|VERB you|PRON not|ADV married|VERB ?|.
+ her|PRON fiddling|NOUN .|.
+ You|PRON are|VERB not|ADV talking|VERB today|NOUN ?|.
+ No|DET ,|. I|PRON 'm|VERB not|ADV .|.
+ What|QUESTIONTAG is|VERB your|PRON question|NOUN ?|.
+ There|DET is|VERB no|DET man|NOUN with|ADP her|PRON .|.
+ Crying|VERB for|ADP who|PRON ?|.
+ It|PRON is|VERB not|ADV polite|ADJ to|PRT speak|VERB of|ADP the|DET dead|ADJ ...|.
+ How|QUESTIONTAG long|ADV will|VERB she|PRON cry|VERB ?|.
+ It|PRON is|VERB Kicking|VERB Bird|NOUN 's|PRT place|NOUN to|PRT say|VERB when|ADV she|PRON is|VERB finished|VERB .|.
+ What|QUESTIONTAG are|VERB they|PRON saying|VERB ?|.
+ They|PRON are|VERB proud|ADJ of|ADP the|DET medicine|NOUN you|PRON are|VERB making|VERB with|ADP Dances|NOUN With|ADP Wolves|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ holding|VERB a|DET sack|NOUN .|.
+ How|QUESTIONTAG long|ADV will|VERB Stands|VERB With|ADP A|DET Fist|NOUN mourn|NOUN ?|.
+ With|ADP who|PRON ?|.
+ Dances|NOUN With|ADP Wolves|NOUN .|.
+ Are|NOUN you|PRON certain|ADJ of|ADP this|DET ?|.
+ When|QUESTIONTAG you|PRON see|VERB them|PRON together|ADV you|PRON will|VERB know|VERB .|.
+ To|PRT who|PRON ?|.
+ That|DET 's|VERB the|DET one|NOUN is|VERB n't|ADV it|PRON ?|.
+ She|PRON 's|VERB in|ADP mourning|NOUN .|.
+ He|PRON did|VERB ?|.
+ the|DET lodge|NOUN curiously|ADV .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Kicking|VERB Bird|NOUN told|VERB me|PRON to|PRT wait|VERB .|.
+ What|QUESTIONTAG do|VERB I|PRON do|VERB ?|.
+ (|. to|PRT Smiles|VERB A|NOUN Lot|NOUN )|. Do|VERB you|PRON think|VERB the|DET buckskin|NOUN is|VERB too|ADV much|ADJ medicine|NOUN ?|.
+ Hair|NOUN ,|. but|CONJ no|DET luck|NOUN --|. he|PRON 's|VERB on|ADP his|PRON own|ADJ .|.
+ Have|VERB you|PRON heard|VERB all|DET that|ADP I|PRON have|VERB said|VERB ?|.
+ Yes|X .|.
+ Dances|NOUN With|ADP Wolves|NOUN ,|. are|VERB you|PRON in|ADP there|DET ?|.
+ outside|NOUN .|.
+ No|DET waiting|VERB ?|.
+ No|DET waiting|NOUN .|.
+ You|PRON have|VERB everything|NOUN from|ADP the|DET soldier|ADJ fort|NOUN ?|.
+ No|DET ,|. there|DET is|VERB nothing|NOUN for|ADP me|PRON there|ADV .|.
+ Got|NOUN yourself|PRON a|DET helluva|NOUN shiner|NOUN ,|. did|VERB n't|ADV ya|VERB ?|.
+ and|CONJ so|ADV is|VERB his|PRON spirit|NOUN .|.
+ Does|VERB he|PRON speak|VERB english|ADJ ?|.
+ Do|VERB n't|ADV know|VERB sir|VERB ...|. you|PRON speak|VERB english|VERB ?|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ Lieutenant|NOUN John|NOUN .|.
+ Why|ADV are|VERB you|PRON dressed|VERB like|ADP this|DET ?|.
+ I|PRON came|VERB out|PRT from|ADP Fort|NOUN Hays|NOUN last|ADJ April|NOUN .|.
+ You|PRON have|VERB proof|VERB of|ADP that|DET ?|.
+ My|PRON journal|NOUN is|VERB on|ADP the|DET bunk|NOUN in|ADP my|PRON quarters|NOUN .|.
+ Where|QUESTIONTAG 's|VERB Edwards|NOUN ?|.
+ He|PRON 's|VERB outside|ADJ .|.
+ You|PRON turned|VERB Injun|NOUN ,|. din'cha|NOUN ?|.
+ Din'cha|NOUN ?|.
+ What|QUESTIONTAG is|VERB your|PRON name|NOUN ?|.
+ Dunbar|NOUN ...|. D.U.N.B.A.R|NOUN ...|. John|NOUN .|.
+ You|PRON say|VERB you|PRON are|VERB an|DET officer|NOUN ?|.
+ Did|NOUN you|PRON read|VERB my|PRON orders|NOUN ?|.
+ Why|ADV are|VERB you|PRON out|ADP of|ADP uniform|NOUN ?|.
+ Why|ADV are|VERB you|PRON out|ADP of|ADP uniform|NOUN ?|.
+ What|QUESTIONTAG is|VERB the|DET army|NOUN doing|VERB out|PRT here|ADV ?|.
+ What|QUESTIONTAG conduct|NOUN ?|.
+ Your|PRON status|NOUN as|ADP a|DET traitor|NOUN might|VERB improve|VERB should|VERB you|PRON choose|VERB to|PRT cooperate|VERB with|ADP the|DET United|NOUN States|NOUN Army|NOUN .|.
+ Are|NOUN you|PRON willing|ADJ to|PRT cooperate|VERB or|CONJ not|ADV ?|.
+ Well|ADV ,|. speak|VERB up|PRT ...|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ (|. loudly|ADV in|ADP Sioux|NOUN )|. I|PRON am|VERB Dances|NOUN With|ADP Wolves|NOUN ...|.
+ You|PRON got|VERB paper|NOUN over|ADP there|DET Spivey|NOUN ?|.
+ What|QUESTIONTAG 's|VERB it|PRON to|PRT you|PRON ?|.
+ Can|VERB you|PRON read|VERB ?|.
+ Naw|NOUN ,|. I|PRON ca|VERB n't|ADV read|VERB .|.
+ (|. to|PRT Wind|VERB In|ADP His|PRON Hair|NOUN )|. We|PRON go|VERB South|ADV ?|.
+ We|PRON will|VERB ride|VERB South|NOUN for|ADP two|NUM days|NOUN ...|. then|ADV turn|VERB East|NOUN .|.
+ You|PRON have|VERB nothing|NOUN to|PRT say|VERB ?|.
+ What|QUESTIONTAG can|VERB I|PRON tell|VERB you|PRON ?|.
+ Is|VERB his|PRON heart|NOUN bad|ADJ ?|.
+ Dances|NOUN With|ADP Wolves|NOUN ?|.
+ old|ADJ chief|NOUN .|.
+ But|CONJ you|PRON are|VERB leaving|VERB anyway|ADV ?|.
+ I|PRON have|VERB talked|VERB with|ADP Stands|NOUN With|ADP a|DET Fist|NOUN and|CONJ we|PRON will|VERB go|VERB together|ADV .|.
+ You|PRON are|VERB making|VERB a|DET pipe|NOUN ?|.
+ Yes|X ?|.
+ This|DET might|VERB be|VERB a|DET pretty|ADV good|ADJ pipe|NOUN ...|. how|ADV does|VERB it|PRON smoke|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. I|PRON have|VERB n't|ADV tried|VERB it|PRON yet|ADV .|.
+ Can|VERB you|PRON not|ADV see|VERB that|ADP I|PRON am|VERB your|PRON friend|NOUN ?|.
+ Can|VERB you|PRON not|ADV see|VERB that|ADP you|PRON will|VERB always|ADV be|VERB my|PRON friend|NOUN ?|.
+ away|ADV before|ADP he|PRON starts|VERB his|PRON pony|NOUN again|ADV .|.

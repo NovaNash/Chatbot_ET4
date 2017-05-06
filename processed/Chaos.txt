@@ -1,0 +1,133 @@
+ Somebody|NOUN going|VERB on|ADP a|DET trip|NOUN ?|.
+ Looks|NOUN like|ADP it|PRON ,|. do|VERB n't|ADV it|PRON ?|.
+ Can|VERB we|PRON get|VERB back|ADV to|PRT work|VERB ?|.
+ We|PRON got|VERB passports|NOUN ,|. sun|ADJ tan|NOUN lotion|NOUN ,|. Bermuda|NOUN shorts|VERB ,|. thong|ADJ bikini|NOUN ,|. hopefully|ADV hers|NOUN and|CONJ this|DET ...|.
+ You|PRON 'd|VERB think|VERB ,|. right|ADV ?|.
+ It|PRON 's|VERB not|ADV ?|.
+ (|. smells|VERB the|DET bills|NOUN ;|. grimaces|NOUN )|. What|QUESTIONTAG is|VERB it|PRON ?|.
+ When|QUESTIONTAG evidence|NOUN is|VERB taken|VERB in|ADP ,|. any|DET physical|ADJ contact|NOUN might|VERB affect|VERB the|DET ability|NOUN to|PRT lift|VERB prints|NOUN ,|. so|ADV ,|. to|PRT mark|VERB it|PRON ,|. we|PRON now|ADV spray|VERB a|DET scented|ADJ solution|NOUN directly|ADV on|ADP the|DET bill|NOUN .|.
+ Is|VERB that|ADP new|ADJ ?|.
+ Wave|NOUN of|ADP the|DET future|NOUN .|.
+ Do|VERB you|PRON remember|VERB who|PRON headed|VERB up|PRT the|DET Pacific|NOUN Savings|NOUN case|NOUN ?|.
+ I|PRON think|VERB it|PRON was|VERB Callo|NOUN .|.
+ So|ADV ,|. where|ADV were|VERB you|PRON going|VERB ?|.
+ Vacation|NOUN .|.
+ You|PRON sure|VERB that|DET 's|VERB what|PRON you|PRON want|VERB ?|.
+ Yeah|X .|.
+ What|QUESTIONTAG ?|.
+ lonely|ADV girl|NOUN .|.
+ You|PRON believe|VERB her|PRON ?|.
+ I|PRON think|VERB for|ADP the|DET first|ADJ time|NOUN in|ADP that|DET girl|NOUN 's|PRT life|NOUN she|PRON 's|VERB telling|VERB the|DET truth|NOUN .|.
+ You|PRON do|VERB n't|ADV remember|VERB ?|.
+ You|PRON know|VERB how|ADV many|ADJ times|NOUN someone|NOUN signs|NOUN shit|VERB in|ADP and|CONJ out|ADP ?|.
+ How|QUESTIONTAG much|ADJ ?|.
+ $|. 433,000|NUM .|.
+ Well|ADV ,|. that|DET 's|VERB it|PRON ,|. right|ADV ?|.
+ around|ADV .|.
+ (|. from|ADP the|DET machine|NOUN )|. Detective|NOUN Conners|NOUN ...|. Are|VERB you|PRON there|ADV ?|.
+ Piss|NOUN anyone|NOUN off|ADP lately|ADV ?|.
+ Me|NOUN ?|.
+ Say|NOUN that|DET again|ADV ,|. Detective|NOUN ?|.
+ We|PRON go|VERB back|ADV to|PRT where|ADV this|DET all|DET started|VERB .|.
+ See|VERB what|PRON ?|.
+ Go|NOUN back|PRT a|DET little|ADJ .|.
+ What|QUESTIONTAG ?|.
+ Notice|NOUN the|DET camera|NOUN angles|VERB ,|. they|PRON 're|VERB all|DET fixed|VERB .|.
+ Where|QUESTIONTAG 'd|VERB he|PRON go|VERB ?|.
+ FROM|ADP THE|NOUN CUSTOMER|NOUN SERVICE|NOUN SECTION|NOUN ,|. TOWARDS|NOUN THE|NOUN LOBBY|NOUN .|.
+ What|QUESTIONTAG 's|VERB in|ADP that|DET corner|NOUN they|PRON did|VERB n't|ADV want|VERB us|PRON to|PRT see|VERB ?|.
+ FREEZES|NOUN FRAME|NOUN ON|NOUN :|. a|DET lone|NOUN COMPUTER|NOUN TERMINAL|NOUN in|ADP the|DET corner|NOUN .|.
+ Are|NOUN you|PRON at|ADP all|DET concerned|VERB that|ADP there|DET 's|VERB some|DET whacko|NOUN out|ADP there|ADV looking|VERB to|PRT get|VERB you|PRON ?|.
+ If|ADP I|PRON worried|VERB about|ADP every|DET threat|NOUN made|VERB against|ADP me|PRON ,|. I|PRON 'd|VERB never|ADV leave|VERB the|DET house|NOUN .|.
+ Dax|NOUN ,|. can|VERB you|PRON hack|VERB in|ADP there|ADV and|CONJ find|VERB out|PRT what|PRON they|PRON were|VERB doing|VERB on|ADP this|DET machine|NOUN ?|.
+ Hack|NOUN into|ADP a|DET nationwide|ADJ bank|NOUN 's|PRT central|ADJ computer|NOUN system|NOUN ?|.
+ What|QUESTIONTAG do|VERB we|PRON do|VERB in|ADP the|DET meantime|NOUN ?|.
+ You|PRON like|ADP Italian|ADJ ?|.
+ (|. confused|VERB )|. He|PRON 's|VERB your|PRON brother|NOUN ?|.
+ No|DET .|.
+ (|. insulted|VERB )|. No|DET wine|NOUN ?|.
+ A|DET little|ADJ wine|NOUN .|.
+ Shane|NOUN ,|. what|PRON was|VERB that|ADP thing|NOUN you|PRON said|VERB back|ADV at|ADP the|DET house|NOUN about|ADP ``|. returning|VERB to|PRT the|DET beginning|VERB path|NOUN ''|. or|CONJ something|NOUN ?|.
+ It|PRON 's|VERB a|DET Buddhist|NOUN story|NOUN .|.
+ He|PRON can|VERB talk|VERB to|PRT an|DET elephant|NOUN ?|.
+ He|PRON 's|VERB the|DET Buddha|NOUN .|.
+ Rocks|NOUN ?|.
+ You|PRON asked|VERB .|.
+ You|PRON 're|VERB a|DET Buddhist|NOUN ?|.
+ No|DET .|.
+ But|CONJ you|PRON 're|VERB religious|ADJ ?|.
+ Not|ADV particularly|ADV .|.
+ What|QUESTIONTAG was|VERB the|DET Buddha|NOUN looking|VERB for|ADP ?|.
+ The|DET divine|NOUN in|ADP himself|PRON .|.
+ How|QUESTIONTAG long|ADV does|VERB it|PRON usually|ADV take|VERB to|PRT for|ADP fingerprints|NOUN to|PRT be|VERB ID|NOUN 'd|VERB ?|.
+ Hours|NOUN ,|. maybe|ADV days|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ I|PRON realized|VERB something|NOUN today|NOUN .|.
+ You|PRON got|VERB a|DET name|NOUN ?|.
+ Chris|NOUN Lei|NOUN .|.
+ Was|ADP it|PRON true|ADJ ?|.
+ The|DET guy|NOUN was|VERB guilty|ADJ .|.
+ That|DET gives|VERB you|PRON the|DET right|NOUN to|PRT break|VERB the|DET rules|NOUN ?|.
+ You|PRON okay|VERB ?|.
+ Yeah|X .|.
+ (|. taps|ADJ Conners|NOUN )|. May|NOUN I|PRON ?|.
+ So|ADV why|ADV become|VERB a|DET cop|NOUN ?|.
+ Finish|VERB what|PRON he|PRON started|VERB .|.
+ What|QUESTIONTAG ?|.
+ I|PRON 'm|VERB out|ADP of|ADP gum|NOUN .|.
+ aiming|VERB or|CONJ surrendering|VERB ?|.
+ Drop|NOUN it|PRON now|ADV .|.
+ Where|QUESTIONTAG 's|VERB Conners|NOUN ?|.
+ Jealous|NOUN ?|.
+ It|PRON 's|VERB because|ADP he|PRON was|VERB n't|ADV only|ADV a|DET better|ADJ cop|NOUN ...|.
+ You|PRON have|VERB something|NOUN you|PRON want|VERB to|PRT say|VERB ?|.
+ Detective|NOUN Galloway|NOUN ,|. could|VERB you|PRON give|VERB us|PRON a|DET comment|NOUN ?|.
+ That|DET 's|VERB when|ADV DEKKER|NOUN grabs|VERB the|DET camera|NOUN ,|. PUSHES|VERB it|PRON out|ADP of|ADP her|PRON face|NOUN .|.
+ Detective|NOUN ?|.
+ Meaning|VERB ?|.
+ We|PRON 've|VERB just|ADV witnessed|VERB the|DET largest|ADJ heist|NOUN in|ADP history|NOUN .|.
+ Come|NOUN again|ADV ?|.
+ It|PRON 's|VERB a|DET computer|NOUN virus|NOUN .|.
+ Where|QUESTIONTAG 's|VERB the|DET money|NOUN now|ADV ?|.
+ I|PRON tried|VERB following|VERB one|NUM of|ADP the|DET transactions|NOUN .|.
+ How|QUESTIONTAG is|VERB that|ADP possible|ADJ ?|.
+ The|DET virus|NOUN created|VERB a|DET host|NOUN of|ADP phantom|NOUN accounts|NOUN where|ADV the|DET money|NOUN goes|VERB (|. MORE|NOUN )|.
+ It|PRON 's|VERB still|ADV moving|VERB the|DET money|NOUN around|ADP ?|.
+ Yeah|X .|.
+ A|DET billion|NUM dollars|NOUN is|VERB missing|VERB and|CONJ we|PRON 're|VERB only|ADV discovering|VERB this|DET now|ADV ?|.
+ Ironically|ADV ,|. when|ADV the|DET power|NOUN went|VERB out|PRT ,|. it|PRON helped|VERB hide|VERB the|DET virus|NOUN and|CONJ bought|VERB it|PRON time|NOUN to|PRT work|VERB .|.
+ You|PRON 're|VERB still|ADV here|ADV ?|.
+ (|. in|ADP complete|ADJ work|NOUN mode|NOUN )|. Callo|NOUN 's|PRT insignificant|NOUN .|.
+ What|QUESTIONTAG ?|.
+ That|DET 's|VERB what|PRON he|PRON said|VERB ,|. Callo|NOUN 's|PRT insignificant|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ Lorenz|NOUN ...|. Curtis|NOUN ...|. Called|VERB me|PRON .|.
+ He|PRON called|VERB you|PRON ?|.
+ He|PRON said|VERB he|PRON did|VERB n't|ADV kill|VERB anyone|NOUN who|PRON did|VERB n't|ADV deserve|VERB it|PRON .|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ All|DET day|NOUN long|ADP we|PRON thought|VERB Callo|NOUN was|VERB the|DET dirty|ADJ cop|NOUN .|.
+ Can|VERB they|PRON get|VERB a|DET location|NOUN on|ADP him|PRON ?|.
+ That|DET particular|ADJ phone|NOUN he|PRON 's|VERB using|VERB is|VERB equipped|VERB with|ADP the|DET latest|ADJ GPS|NOUN technology|NOUN .|.
+ Which|QUESTIONTAG way|NOUN did|VERB he|PRON go|VERB ?|.
+ That|DET way|NOUN .|.
+ But|CONJ I|PRON 'll|VERB give|VERB you|PRON credit|NOUN ...|. You|PRON turned|VERB out|PRT to|PRT be|VERB quite|ADV the|DET little|ADJ thorn|ADJ ,|. did|VERB n't|ADV you|PRON ?|.
+ How|QUESTIONTAG much|ADJ ?|.
+ Do|VERB you|PRON think|VERB I|PRON 'm|VERB going|VERB to|PRT charge|VERB you|PRON after|ADP all|DET that|DET ?|.
+ Do|VERB you|PRON smell|VERB that|ADP ?|.
+ (|. smells|VERB the|DET bills|NOUN ;|. grimaces|NOUN )|. What|QUESTIONTAG is|VERB it|PRON ?|.
+ in|ADP his|PRON wallet|NOUN ?|.
+ Anything|NOUN else|ADV ,|. officers|NOUN ?|.
+ Conners|NOUN ?|.
+ the|DET faces|VERB AGAIN|NOUN ,|. but|CONJ still|ADV nothing|NOUN .|.
+ Was|ADP it|PRON Harry|NOUN that|DET gave|VERB him|PRON up|PRT ?|.
+ Harry|NOUN and|CONJ the|DET phone|NOUN call|NOUN .|.
+ So|ADP the|DET corpse|NOUN in|ADP the|DET morgue|NOUN with|ADP your|PRON name|NOUN on|ADP its|PRON toe|NOUN ...|. ?|.
+ Scott|NOUN Curtis|NOUN wo|VERB n't|ADV be|VERB bothering|VERB anyone|NOUN again|ADV .|.
+ You|PRON said|VERB they|PRON were|VERB all|DET hoods|NOUN ...|. what|PRON about|ADP ,|. Callo|NOUN ?|.
+ Callo|NOUN deserved|VERB his|PRON fate|NOUN .|.
+ This|DET is|VERB Callo|NOUN 's|PRT fault|NOUN ?|.
+ If|ADP it|PRON were|VERB n't|ADV for|ADP him|PRON ,|. York|NOUN and|CONJ I|PRON would|VERB 've|VERB never|ADV done|VERB this|DET .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ You|PRON do|VERB n't|ADV always|ADV win|VERB .|.
+ Will|VERB there|ADV be|VERB anything|NOUN else|ADV ?|.
+ No|DET thank|NOUN you|PRON .|.

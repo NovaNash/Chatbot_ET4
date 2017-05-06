@@ -1,0 +1,191 @@
+ Nebu|NOUN ?|.
+ (|. Understand|VERB the|DET Turkish|ADJ expression|NOUN ,|. ``|. What|QUESTIONTAG 's|VERB this|DET ?|. ''|. )|.
+ Nebu|NOUN ?|.
+ A|DET Frisbee|NOUN .|.
+ Are|NOUN you|PRON all|DET right|ADV ?|.
+ could|VERB tell|VERB her|PRON .|.
+ Billy|ADV ,|. what|PRON 's|VERB the|DET matter|NOUN ?|.
+ My|PRON passport|NOUN !|.
+ ...|. Billy|ADV ...|. ?|.
+ Name|NOUN ?|.
+ William|NOUN Hayes|NOUN .|.
+ 'Merican|NUM ?|.
+ (|. nods|NOUN )|. New|NOUN York|NOUN .|.
+ Name|NOUN ?|.
+ William|NOUN Hayes|NOUN .|.
+ Vil|NOUN ...|. Vilyum|NOUN ...|. ?|.
+ Hayes|NOUN ...|.
+ (|. thickly|ADV accented|VERB English|NOUN ,|. sympathetic|ADJ )|. Are|VERB you|PRON afraid|ADJ ,|. Vilyum|NOUN ?|.
+ buckling|VERB his|PRON belt|NOUN -|. afraid|NOUN .|.
+ (|. softly|ADV ,|. hoping|VERB )|. Yes|X ...|. ?|.
+ Good|ADJ .|.
+ Would|VERB you|PRON recognize|VERB him|PRON again|ADV ?|.
+ Yes|X .|.
+ Just|ADV what|PRON ?|.
+ I|PRON just|ADV needed|VERB some|DET extra|ADJ money|NOUN .|.
+ ...|. are|VERB you|PRON with|ADP the|DET Consulate|NOUN ?|.
+ (|. not|ADV looking|VERB at|ADP him|PRON )|. Something|VERB like|ADP that|DET .|.
+ How|QUESTIONTAG much|ADJ you|PRON pay|VERB this|DET joker|NOUN ...|. this|DET cab|NOUN driver|NOUN ?|.
+ Two|NUM hundred|NUM dollars|NOUN .|.
+ How|QUESTIONTAG much|ADV did|VERB you|PRON figure|NOUN to|PRT make|VERB ?|.
+ grateful|ADJ to|PRT volunteer|VERB any|DET information|NOUN ...|. anything|NOUN .|.
+ Got|NOUN a|DET family|NOUN back|ADV there|ADV ?|.
+ (|. inhales|NOUN deeply|ADV )|. Yeah|X .|.
+ What|QUESTIONTAG 's|VERB your|PRON father|NOUN do|VERB ?|.
+ He|PRON sells|VERB insurance|NOUN for|ADP Metropolitan|NOUN Life|NOUN .|.
+ Girlfriend|VERB ?|.
+ ...|. She|PRON was|VERB on|ADP the|DET plane|NOUN .|.
+ (|. to|PRT one|NUM of|ADP the|DET guards|NOUN )|. Name|NOUN ?|.
+ (|. checking|VERB a|DET clipboard|NOUN )|. Vilyum|NOUN Hi-yes|NOUN
+ Okay|NOUN ?|.
+ BILLY|NOUN adjusting|VERB to|PRT the|DET sensation|NOUN of|ADP standing|VERB .|.
+ How|QUESTIONTAG 's|VERB it|PRON feel|VERB ?|.
+ (|. dizzy|NOUN )|. About|ADP as|ADV good|ADJ as|ADP it|PRON looks|VERB .|.
+ Getchmis|NOUN ...|. ?|.
+ Olsun|NOUN -|. ``|. May|NOUN it|PRON pass|VERB quickly|ADV .|. ''|.
+ (|. watching|VERB Billy|NOUN limp|NOUN )|. Feeling|VERB all|DET right|NOUN ?|.
+ (|. still|ADV groggy|VERB )|. Yeah|X .|.
+ Where|QUESTIONTAG ?|.
+ The|DET airport|NOUN .|.
+ (|. tensing|VERB )|. Twenty|NUM months|NOUN ?|.
+ Twenty|NUM fucking|VERB YEARS|NOUN ,|. man|NOUN -|. YEARS|NOUN !|.
+ (|. soft|ADJ )|. Years|NOUN ?|.
+ Yeah|X ,|. what|PRON do|VERB you|PRON think|VERB this|DET is|VERB ,|. the|DET good|ADJ USA|NOUN ?|.
+ (|. lifeless|NOUN )|. What|QUESTIONTAG did|VERB he|PRON do|VERB ?|.
+ He|PRON was|VERB caught|VERB steeling|VERB from|ADP a|DET Mosque|NOUN .|.
+ Thirty|NUM years|NOUN ?|.
+ Jimmy|NOUN has|VERB more|ADJ balls|NOUN than|ADP brains|NOUN .|.
+ And|CONJ you|PRON ?|.
+ Hashish|NOUN .|.
+ What|QUESTIONTAG they|PRON give|VERB you|PRON ?|.
+ (|. passive|NOUN )|. Twelve|NUM years|NOUN .|.
+ How|QUESTIONTAG much|ADV did|VERB you|PRON have|VERB ?|.
+ A|DET hundred|ADJ grams|NOUN .|.
+ He|PRON was|VERB n't|ADV even|ADV in|ADP the|DET car|NOUN ?|.
+ (|. shakes|VERB his|PRON head|NOUN )|. Aslan|NOUN ,|. there|DET ...|. (|. points|NOUN )|.
+ How|QUESTIONTAG long|ADV ?|.
+ Seven|NUM years|NOUN ...|.
+ Lawyers|NOUN ?|.
+ Yeah|NOUN ...|. there|DET 's|VERB no|DET straight|ADJ lawyers|NOUN in|ADP Turkey|NOUN ...|.
+ His|PRON name|NOUN ?|.
+ Who|QUESTIONTAG ?|.
+ The|DET lawyer|NOUN ?|.
+ What|QUESTIONTAG lawyer|NOUN ?|.
+ Who|QUESTIONTAG got|VERB the|DET Frenchman|NOUN out|PRT ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ Get|VERB the|DET ...|. midnight|NOUN ...|. express|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ drops|NOUN forward|ADV onto|ADP his|PRON knees|NOUN ,|. nodding|VERB off|PRT .|.
+ (|. trying|VERB to|PRT concentrate|VERB )|. If|ADP I|PRON get|VERB bail|ADJ ,|. Mister|NOUN Yesil|NOUN ,|. they|PRON say|VERB it|PRON 's|VERB easy|ADJ to|PRT cross|VERB the|DET border|NOUN into|ADP Greece|NOUN ?|.
+ (|. pacing|VERB up|PRT ,|. hungry|ADJ )|. Right|ADV !|.
+ Where|QUESTIONTAG 'd|VERB you|PRON get|VERB that|ADP limp|NOUN ?|.
+ (|. not|ADV wanting|VERB to|PRT alarm|VERB him|PRON )|. Nothing|NOUN .|.
+ Where|QUESTIONTAG you|PRON staying|VERB ,|. Dad|NOUN ?|.
+ (|. pulls|VERB up|PRT a|DET seat|NOUN next|ADJ to|PRT Billy|NOUN )|. The|DET Hilton|NOUN .|.
+ You|PRON mean|VERB you|PRON got|VERB toilets|NOUN ?|.
+ Why|ADV 'd|VERB you|PRON do|VERB it|PRON ,|. Billy|NOUN ?|.
+ For|ADP the|DET money|NOUN ...|. (|. Looks|NOUN away|ADV )|. )|.
+ What|QUESTIONTAG 'd|VERB the|DET Prosecutor|NOUN say|VERB ?|.
+ (|. hurried|VERB )|. It|PRON 's|VERB not|ADV important|ADJ ,|. just|ADV technical|ADJ things|NOUN .|.
+ (|. pressing|VERB )|. Did|NOUN you|PRON ask|VERB for|ADP bail|NOUN ?|.
+ off|ADV .|.
+ (|. irritated|VERB )|. What|QUESTIONTAG is|VERB it|PRON with|ADP you|PRON man|NOUN ,|. what|PRON the|DET hell|NOUN is|VERB it|PRON ?|.
+ Cat|NOUN ,|. ah|NOUN !|.
+ (|. glares|NOUN at|ADP him|PRON ,|. then|ADV lets|VERB it|PRON go|VERB )|. Look|NOUN ,|. you|PRON do|VERB n't|ADV fuck|VERB with|ADP me|PRON ,|. I|PRON do|VERB n't|ADV fuck|VERB with|ADP you|PRON ,|. right|ADV ?|.
+ But|CONJ you|PRON fuck|VERB with|ADP me|PRON .|.
+ Know|VERB what|PRON ?|.
+ Was..|NOUN (|. makes|VERB gesture|NOUN with|ADP his|PRON fingers|NOUN )|. ...|. seven|NUM years|NOUN old|ADJ .|.
+ Learn|VERB what|PRON ?|.
+ To|PRT what|PRON ?|.
+ The|DET prison|NOUN ,|. man|NOUN .|.
+ Tunnel|NOUN ?|.
+ (|. grins|NOUN )|. It|PRON 's|VERB already|ADV built|VERB !|.
+ (|. trying|VERB to|PRT be|VERB serious|ADJ )|. But|CONJ how|ADV would|VERB you|PRON get|VERB into|ADP the|DET shaft|NOUN ,|. Jimmy|NOUN ?|.
+ I|PRON suppose|VERB you|PRON knock|VERB three|NUM times|NOUN and|CONJ ask|NOUN for|ADP St.|NOUN Peter|NOUN .|.
+ (|. a|DET resigned|VERB look|NOUN on|ADP his|PRON face|NOUN )|. We|PRON go|VERB through|ADP the|DET wall|NOUN ?|.
+ (|. quite|ADJ sure|NOUN Bell|NOUN is|VERB out|ADP of|ADP his|PRON skull|NOUN )|. We|PRON go|VERB through|ADP the|DET wall|NOUN .|.
+ And|CONJ what|PRON do|VERB you|PRON do|VERB when|ADV you|PRON in|ADP the|DET catacombs|NOUN ?|.
+ The|DET catacoombs|NOUN ?|.
+ Section|NOUN 13|NUM ?|.
+ (|. looking|VERB at|ADP Bell|NOUN )|. Yeah|X ,|. for|ADP the|DET criminally|ADV insane|NOUN .|.
+ Where|QUESTIONTAG is|VERB it|PRON ?|.
+ I|PRON don|VERB '|. t|NOUN know|VERB .|.
+ Billy|ADV ?|.
+ ...|. The|DET roof|NOUN sounds|VERB better|ADV to|PRT me|PRON than|ADP digging|VERB through|ADP a|DET wall|NOUN .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ Sit|NOUN down|PRT a|DET moment|NOUN ,|. Billy|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ The|DET Prosecutor|NOUN objected|VERB to|PRT your|PRON sentence|NOUN for|ADP possession|NOUN ;|. he|PRON wanted|VERB a|DET smuggling|VERB conviction|NOUN and|CONJ the|DET High|ADJ Court|NOUN in|ADP Ankara|NOUN reviewed|VERB it|PRON .|.
+ And|CONJ ?|.
+ We|PRON 've|VERB been|VERB notified|VERB that|ADP they|PRON rejected|VERB the|DET sentence|NOUN ...|.
+ Would|VERB Your|VERB honor|NOUN like|ADP me|PRON to|PRT translate|VERB ?|.
+ head|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Listen|NOUN !|.
+ Want|VERB me|PRON to|PRT take|VERB over|PRT ?|.
+ You|PRON want|VERB to|PRT split|VERB your|PRON hernia|NOUN again|ADV ?|.
+ You|PRON got|VERB your|PRON stuff|NOUN ?|.
+ Yeah|X .|.
+ (|. persistent|NOUN )|. Haps|NOUN ,|. railroad|NOUN ,|. bus|NOUN timetables|NOUN ?|.
+ (|. business-like|NOUN )|. Everything|NOUN .|.
+ Okay|NOUN ?|.
+ Yeah|X !|.
+ Jimmy|NOUN ?|.
+ (|. struggling|VERB .|. )|.
+ How|QUESTIONTAG 's|PRT your|PRON hernia|NOUN ?|.
+ Do|VERB n't|ADV make|VERB me|PRON laugh|ADP .|.
+ Anybody|NOUN bitten|VERB ?|.
+ (|. desperate|NOUN )|. The|DET fuck|NOUN are|VERB we|PRON ?|.
+ What|QUESTIONTAG time|NOUN is|VERB it|PRON ?|.
+ Two|NUM thirty|NOUN .|.
+ What|QUESTIONTAG the|DET fuck|NOUN we|PRON gon|VERB na|PRT do|VERB ?|.
+ Yeah|X ,|. what|PRON if|ADP got|VERB caught|VERB ?|.
+ Who|QUESTIONTAG ?|.
+ Ziat|NOUN !|.
+ What|QUESTIONTAG ?|.
+ After|ADP we|PRON 're|VERB outside|ADP the|DET kogus|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ (|. crazily|ADV )|. Cut|NOUN his|PRON fucking|VERB throat|NOUN .|.
+ Whose|NOUN ?|.
+ ZIAT|NOUN ...|. What|QUESTIONTAG do|VERB I|PRON got|VERB to|PRT lose|VERB huh|NOUN !|.
+ (|. head|NOUN bobbing|NOUN now|ADV ,|. murmurs|NOUN )|. You|PRON know|VERB where|ADV it|PRON is|VERB ?|.
+ What|QUESTIONTAG ?|.
+ His|PRON money|NOUN ?|.
+ Newton|NOUN as|ADP Long|NOUN John|NOUN Silver|NOUN .|.
+ Max|NOUN -|. where|ADV ?|.
+ (|. his|PRON mouth|NOUN hanging|VERB open|ADJ ,|. eyes|NOUN closed|VERB )|. His|PRON radio|NOUN Back|NOUN of|ADP his|PRON open|ADJ ,|. radio|NOUN ...|.
+ What|QUESTIONTAG ?|.
+ Bad|NOUN .|.
+ Why|ADV the|DET suit|NOUN ?|.
+ Maybe|ADV he|PRON 's|VERB changing|VERB jobs|NOUN .|.
+ (|. opening|VERB the|DET matchbox|NOUN )|. Nebu|NOUN ?|.
+ Nebu|NOUN ?|.
+ Where|QUESTIONTAG did|VERB you|PRON get|VERB this|DET hash|NOUN ?|.
+ What|QUESTIONTAG 's|VERB happening|VERB with|ADP this|DET hash|NOUN ?|.
+ You|PRON 're|VERB an|DET American|ADJ ?|.
+ AHMET|NOUN does|VERB n't|ADV wait|VERB for|ADP an|DET answer|NOUN .|.
+ S|NOUN ...|. .|. Susan|NOUN ?|.
+ Yes|X ,|. Billy|NOUN ?|.
+ emotional|ADJ one|NUM .|.
+ How|QUESTIONTAG about|ADP a|DET shoe|NOUN shine|NOUN ,|. friend|NOUN ?|.
+ spins|NOUN .|.
+ Edirne|NOUN to|PRT Uzun|NOUN Kopru|NOUN ?|.
+ What|QUESTIONTAG 's|VERB the|DET matter|NOUN ?|.
+ No|DET train|NOUN ?|.
+ No|DET more|ADJ train|NOUN .|.
+ You|PRON know|VERB where|ADV they|PRON are|VERB ?|.
+ (|. anxious|ADJ to|PRT get|VERB in|ADP the|DET cab|NOUN )|. Sure|NOUN .|.
+ How|QUESTIONTAG far|ADV ?|.
+ (|. impatient|NOUN )|. About|ADP ten|ADJ kilometers|NOUN .|.
+ Sixty|NOUN Lira|NOUN ?|.
+ (|. surprised|VERB )|. Sixty|NUM ?|.
+ How|QUESTIONTAG come|VERB you|PRON speak|VERB Turkish|ADJ so|ADV good|ADJ ?|.
+ How|QUESTIONTAG much|ADJ ?|.
+ takes|VERB it|PRON ,|. muttering|VERB under|ADP his|PRON breath|NOUN ,|. jams|VERB the|DET cab|NOUN into|ADP gear|NOUN .|.
+ Where|QUESTIONTAG are|VERB the|DET minefields|NOUN ?|.
+ All|DET over|ADP .|.
+ Seen|NOUN any|DET Swedish|ADJ foreigners|NOUN in|ADP a|DET camper-bus|NOUN ?|.
+ WINDOW|NOUN bringing|VERB BILLY|NOUN into|ADP foreground|NOUN .|.
+ Noldu|NOUN ?|.
+ Seen|NOUN any|DET foreigners|NOUN in|ADP a|DET camper|NOUN bus|NOUN ?|.
+ Huh|NOUN ?|.

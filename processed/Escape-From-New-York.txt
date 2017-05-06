@@ -1,0 +1,147 @@
+ Where|QUESTIONTAG is|VERB it|PRON ?|.
+ Seven|NOUN miles|NOUN out|ADV and|CONJ closing|NOUN .|.
+ Who|QUESTIONTAG is|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ You|PRON have|VERB the|DET code|NOUN ?|.
+ There|DET 's|VERB no|DET David|NOUN 14|NUM on|ADP the|DET computer|NOUN .|.
+ Unlisted|VERB ?|.
+ Unregistered|VERB code|NOUN .|.
+ What|QUESTIONTAG better|ADJ revolutionary|ADJ example|NOUN than|ADP to|PRT let|VERB the|DET president|NOUN perish|NOUN in|ADP the|DET inhuman|ADJ dungeon|NOUN of|ADP his|PRON own|ADJ imperialist|NOUN prison|NOUN ?|.
+ Ca|NOUN n't|ADV you|PRON shoot|VERB off|PRT the|DET lock|NOUN ?|.
+ No|DET ,|. sir|NOUN ,|. she|PRON 's|VERB pressurized|VERB the|DET cabin|NOUN .|.
+ How|QUESTIONTAG about|ADP lifting|VERB the|DET door|NOUN off|ADP of|ADP the|DET hinges|NOUN ?|.
+ No|DET ,|. sir|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ Seventeen|NOUN .|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ Hauk|NOUN .|.
+ Why|ADV are|VERB we|PRON talking|VERB ?|.
+ I|PRON have|VERB a|DET deal|NOUN for|ADP you|PRON .|.
+ (|. re-establishing|ADJ control|NOUN over|ADP the|DET conversation|NOUN )|. President|NOUN of|ADP what|PRON ?|.
+ That|DET 's|VERB not|ADV funny|ADJ ,|. Plissken|NOUN .|.
+ Twenty-four|ADJ hours|NOUN ,|. huh|NOUN ?|.
+ I|PRON 'm|VERB making|VERB you|PRON an|DET offer|NOUN .|.
+ Is|VERB that|ADP your|PRON answer|NOUN ?|.
+ I|PRON 'm|VERB thinking|VERB about|ADP it|PRON .|.
+ Why|ADV me|PRON ?|.
+ You|PRON flew|VERB the|DET Gullfire|NOUN over|ADP Leningrad|NOUN .|.
+ Where|QUESTIONTAG am|VERB I|PRON landing|VERB ?|.
+ Top|NOUN of|ADP the|DET world|NOUN trade|NOUN center|NOUN .|.
+ What|QUESTIONTAG 's|VERB on|ADP it|PRON ?|.
+ You|PRON know|VERB anything|NOUN about|ADP nuclear|ADJ fusion|NOUN ?|.
+ Tell|VERB me|PRON what|PRON ?|.
+ What|QUESTIONTAG did|VERB you|PRON do|VERB to|PRT me|PRON ,|. asshole|VERB ?|.
+ My|PRON idea|NOUN ,|. Plissken|NOUN .|.
+ What|QUESTIONTAG if|ADP I|PRON 'm|VERB a|DET little|ADJ late|ADJ ?|.
+ No|DET more|ADV Hartford|NOUN Summit|NOUN .|.
+ Oh|X ,|. you|PRON mean|VERB I|PRON ca|VERB n't|ADV count|VERB on|ADP you|PRON ?|.
+ No|DET .|.
+ Are|NOUN you|PRON picking|VERB up|PRT the|DET target|NOUN blip|NOUN ?|.
+ How|QUESTIONTAG 's|PRT your|PRON altitude|NOUN ?|.
+ Is|VERB the|DET glider|NOUN intact|NOUN ?|.
+ Snake|NOUN stands|VERB with|ADP his|PRON walkie-talkie|NOUN in|ADP the|DET middle|NOUN of|ADP the|DET graffiti-|ADJ covered|ADJ building|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ Nothin|NOUN '|PRT .|.
+ Where|QUESTIONTAG did|VERB you|PRON get|VERB it|PRON ?|.
+ I|PRON woke|VERB up|ADV ,|. and|CONJ there|DET it|PRON was|VERB ,|. just|ADV like|ADP a|DET miracle|NOUN .|.
+ Hauk|NOUN ?|.
+ You|PRON a|DET cop|NOUN ?|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP out|ADP there|ADV ?|.
+ Crazies|NOUN .|.
+ Do|VERB you|PRON live|VERB here|ADV ?|.
+ Skulls|NOUN ?|.
+ Who|QUESTIONTAG ?|.
+ The|DET President|NOUN .|.
+ When|QUESTIONTAG you|PRON find|VERB him|PRON ,|. are|VERB you|PRON gon|ADJ na|PRT take|VERB him|PRON out|PRT ?|.
+ Mm-hm|NOUN .|.
+ Why|ADV ?|.
+ I|PRON can|VERB think|VERB of|ADP lots|NOUN of|ADP reasons|NOUN why|ADV .|.
+ Where|QUESTIONTAG you|PRON goin|VERB '|. ,|. buddy|VERB ?|.
+ cab|NOUN .|.
+ Hey|NOUN ,|. what|PRON were|VERB you|PRON doing|VERB back|ADV there|ADV ,|. Snake|NOUN ?|.
+ Looking|VERB for|ADP somebody|NOUN .|.
+ Who|QUESTIONTAG 's|VERB the|DET Duke|NOUN ?|.
+ The|DET DUKE|NOUN !|.
+ They|PRON ?|.
+ Who|QUESTIONTAG is|VERB it|PRON ?|.
+ It|PRON 's|VERB me|PRON !|.
+ Who|QUESTIONTAG 's|VERB me|PRON ?|.
+ Cabbie|NOUN !|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ Somebody|NOUN wants|VERB to|PRT see|VERB Brain|NOUN ,|. it|PRON 's|VERB important|ADJ --|.
+ YOU|NOUN 'RE|PRT Plissken|NOUN ?|.
+ He|PRON wants|VERB to|PRT see|VERB Brain|NOUN .|.
+ Why|ADV ?|.
+ I|PRON want|VERB to|PRT meet|VERB the|DET Duke|NOUN .|.
+ (|. gesturing|VERB at|ADP Maggie|NOUN )|. Who|QUESTIONTAG 's|VERB that|DET ?|.
+ That|DET 's|VERB Maggie|NOUN .|.
+ Snake|NOUN ?|.
+ ``|. Harold|NOUN ''|. ?|.
+ Why|ADV do|VERB you|PRON want|VERB to|PRT know|VERB ?|.
+ I|PRON want|VERB him|PRON .|.
+ Working|VERB for|ADP the|DET man|NOUN now|ADV ,|. huh|NOUN ?|.
+ Then|ADV I|PRON 'll|VERB just|ADV beat|VERB it|PRON out|ADP of|ADP your|PRON squeeze|NOUN --|.
+ So|ADV you|PRON work|VERB for|ADP this|DET Duke|NOUN ,|. huh|NOUN ?|.
+ Yeah|X .|.
+ Like|ADP what|PRON ?|.
+ (|. showing|VERB off|PRT )|. Like|ADP how|ADV to|PRT get|VERB across|ADP the|DET 69th|NUM street|NOUN bridge|NOUN --|. it|PRON 's|VERB mined|VERB ,|. but|CONJ I|PRON know|VERB where|ADV they|PRON 're|VERB planted|VERB .|.
+ What|QUESTIONTAG does|VERB he|PRON want|VERB ?|.
+ He|PRON wants|VERB my|PRON diagram|NOUN of|ADP the|DET bridge|NOUN .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ with|ADP Broadway|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ,|. Brain|NOUN ?|.
+ Duke|NOUN told|VERB us|PRON to|PRT wait|VERB inside|ADV .|.
+ Why|ADV do|VERB n't|ADV we|PRON wait|VERB outside|ADP here|ADV for|ADP him|PRON ?|.
+ Why|ADV do|VERB n't|ADV we|PRON wait|VERB inside|ADP for|ADP him|PRON ?|.
+ What|QUESTIONTAG are|VERB your|PRON specific|ADJ orders|NOUN ,|. by|ADP the|DET way|NOUN ?|.
+ Specific|ADJ orders|NOUN ,|. Brain|NOUN ,|. was|VERB for|ADP me|PRON not|ADV to|PRT let|VERB no|DET one|NUM go|NOUN inside|ADV .|.
+ What|QUESTIONTAG are|VERB you|PRON looking|VERB at|ADP ?|.
+ but|CONJ not|ADV fast|ADV enough|ADV .|.
+ Are|VERB you|PRON from|ADP the|DET outside|NOUN ?|.
+ Stop|NOUN shaking|NOUN .|.
+ Friend|NOUN of|ADP yours|NOUN ,|. Brain|NOUN ?|.
+ He|PRON had|VERB a|DET gun|NOUN on|ADP me|PRON ,|. Duke|NOUN ,|. there|DET was|VERB nothing|NOUN I|PRON could|VERB do|VERB .|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ leg|NOUN and|CONJ pulls|NOUN on|ADP it|PRON .|.
+ I|PRON said|VERB who|PRON are|VERB you|PRON ?|.
+ Snake|NOUN Plissken|NOUN ,|. Duke|NOUN .|.
+ What|QUESTIONTAG time|NOUN limit|NOUN ?|.
+ (|. gesturing|VERB at|ADP President|NOUN )|. On|ADP him|PRON .|.
+ Where|QUESTIONTAG 's|VERB the|DET tape|NOUN ?|.
+ Not|ADV here|ADV .|.
+ So|ADV much|ADJ for|ADP your|PRON man|NOUN ,|. Hauk|NOUN ?|.
+ Plissken|NOUN ?|.
+ Where|QUESTIONTAG 'd|VERB you|PRON get|VERB the|DET hat|NOUN ?|.
+ Got|VERB it|PRON from|ADP Cabbie|NOUN .|.
+ Yeah|X ?|.
+ Traded|VERB him|PRON .|.
+ For|ADP what|PRON ?|.
+ What|QUESTIONTAG are|VERB you|PRON so|ADV nervous|ADJ about|ADP ?|.
+ Who|QUESTIONTAG says|VERB ?|.
+ The|DET Duke|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON 'll|VERB show|VERB you|PRON .|.
+ Cyanide|NOUN ?|.
+ Yeah|X .|.
+ The|DET tape|NOUN ?|.
+ Gone|NOUN ...|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ Dead|NOUN ,|. Harold|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Car|NOUN trouble|NOUN ?|.
+ Brain|NOUN steps|NOUN out|PRT .|.
+ Where|QUESTIONTAG 's|VERB the|DET tape|NOUN ,|. Brain|NOUN ?|.
+ What|QUESTIONTAG tape|NOUN ?|.
+ Where|QUESTIONTAG is|VERB it|PRON ?|.
+ Tape|NOUN ...|.
+ How|QUESTIONTAG 'd|VERB you|PRON know|VERB ?|.
+ See|VERB ,|. see|VERB !|.
+ You|PRON think|VERB ?|.
+ The|DET Duke|NOUN continues|VERB in|ADP pursuit|NOUN .|.
+ Is|VERB it|PRON Plissken|NOUN ?|.
+ Taxicab|NOUN and|CONJ a|DET Cadillac|NOUN .|.
+ Yes|X ?|.
+ We|PRON did|VERB get|VERB you|PRON out|PRT .|.
+ Look|NOUN ,|. uh|X ,|. I|PRON 'm|VERB on|ADP the|DET air|NOUN in|ADP ...|. (|. questioning|VERB his|PRON aide|NOUN )|. Two|NUM and|CONJ a|DET half|NOUN minutes|NOUN ?|.
+ Yes|X ,|. sir|NOUN .|.
+ You|PRON going|VERB to|PRT kill|VERB me|PRON now|ADV ,|. Snake|NOUN ?|.
+ I|PRON 'm|VERB too|ADV tired|VERB .|.

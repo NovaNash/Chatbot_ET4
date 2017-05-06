@@ -1,0 +1,101 @@
+ What|QUESTIONTAG 'd|VERB the|DET doctor|NOUN say|VERB ?|.
+ Nothing|NOUN .|.
+ Should|VERB we|PRON take|VERB the|DET short|ADJ cut|NOUN or|CONJ the|DET scenic|ADJ route|NOUN ?|.
+ Let|VERB 's|PRT take|VERB the|DET short|ADJ cut|NOUN .|.
+ What|QUESTIONTAG is|VERB a|DET squab|NOUN ?|.
+ You|PRON know|VERB what|PRON a|DET squab|NOUN is|VERB .|.
+ Should|VERB we|PRON go|VERB through|ADP the|DET hole|NOUN under|ADP the|DET horse|NOUN fence|NOUN or|CONJ climb|VERB the|DET rail|NOUN over|ADP the|DET bridle|ADJ path|NOUN ?|.
+ Well|ADV ,|. I|PRON guess|VERB the|DET horse|NOUN fence|NOUN would|VERB be|VERB a|DET little|ADJ safer|NOUN .|.
+ Where|QUESTIONTAG 's|VERB he|PRON going|VERB to|PRT sleep|VERB ?|.
+ We|PRON 're|VERB going|VERB to|PRT make|VERB a|DET bed|NOUN for|ADP him|PRON in|ADP your|PRON room|NOUN tonight|NOUN .|.
+ What|QUESTIONTAG 's|VERB in|ADP the|DET bucket|NOUN ,|. Mr.|NOUN Kylie|NOUN ?|.
+ Are|NOUN you|PRON cussing|VERB with|ADP me|PRON ?|.
+ Are|NOUN you|PRON about|ADP to|PRT get|VERB fired|VERB ?|.
+ Do|VERB you|PRON think|VERB I|PRON 'm|VERB an|DET athlete|NOUN ?|.
+ (|. without|ADP looking|VERB up|PRT )|. What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ How|QUESTIONTAG long|ADJ is|VERB Kristofferson|NOUN supposed|VERB to|PRT stay|VERB with|ADP us|PRON ?|.
+ Until|ADP your|PRON uncle|NOUN gets|VERB better|ADV .|.
+ Why|ADV not|ADV ?|.
+ How|QUESTIONTAG do|VERB we|PRON make|VERB them|PRON eat|VERB it|PRON ?|.
+ (|. smiling|VERB ,|. with|ADP utter|ADJ certainty|NOUN )|. Beagles|NOUN love|NOUN blueberries|NOUN .|.
+ What|QUESTIONTAG 's|VERB this|DET lightning|NOUN bolt|NOUN stand|NOUN for|ADP ?|.
+ Give|VERB me|PRON a|DET second|ADJ !|.
+ What|QUESTIONTAG happens|VERB now|ADV ?|.
+ I|PRON have|VERB no|DET idea|NOUN .|.
+ Where|QUESTIONTAG 'd|VERB you|PRON get|VERB this|DET chicken|NOUN ?|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ This|DET ?|.
+ What|QUESTIONTAG 's|VERB the|DET book|NOUN ?|.
+ We|PRON 're|VERB breaking|VERB into|ADP Bean|NOUN 's|PRT house|NOUN ?|.
+ Where|QUESTIONTAG he|PRON lives|VERB ?|.
+ Do|VERB you|PRON refer|VERB to|PRT my|PRON wife|NOUN ?|.
+ She|PRON was|VERB the|DET town|NOUN tart|NOUN ,|. in|ADP her|PRON day|NOUN .|.
+ Is|VERB that|ADP true|ADJ ?|.
+ But|CONJ town|NOUN tart|NOUN ?|.
+ Shut|NOUN up|PRT .|.
+ Kylie|NOUN ,|. is|VERB he|PRON telling|VERB the|DET truth|NOUN ?|.
+ It|PRON 'll|VERB grow|VERB back|ADV ,|. wo|VERB n't|ADV it|PRON ?|.
+ (|. shaking|VERB his|PRON head|NOUN )|. Tails|VERB do|VERB n't|ADV grow|VERB back|ADV ,|. except|ADP for|ADP lizards|NOUN .|.
+ (|. sitting|VERB up|PRT suddenly|ADV )|. What|QUESTIONTAG was|VERB that|DET ?|.
+ What|QUESTIONTAG are|VERB you|PRON talking|VERB about|ADP ?|.
+ Why|ADV are|VERB you|PRON yelling|VERB at|ADP me|PRON ?|.
+ Think|NOUN of|ADP what|PRON ?|.
+ Think|NOUN of|ADP the|DET one|NUM thing|NOUN a|DET fox|NOUN does|VERB quicker|ADJ than|ADP a|DET man|NOUN ,|. quicker|ADJ than|ADP any|DET other|ADJ animal|NOUN in|ADP the|DET world|NOUN !|.
+ May|NOUN I|PRON have|VERB a|DET word|NOUN with|ADP you|PRON privately|ADV ?|.
+ When|QUESTIONTAG ?|.
+ Right|ADV now|ADV .|.
+ Say|NOUN that|DET again|ADV ?|.
+ I|PRON say|VERB you|PRON got|VERB another|DET --|. Bean|NOUN whips|VERB out|PRT his|PRON walkie-talkie|NOUN and|CONJ twirls|VERB it|PRON like|ADP a|DET six-|ADJ shooter|NOUN .|.
+ Who|QUESTIONTAG 's|VERB Earl|NOUN Malloy|NOUN ?|.
+ What|QUESTIONTAG does|VERB he|PRON rent|VERB ?|.
+ Three|NUM yellow|ADJ and|CONJ black|ADJ ,|. murderous|ADJ ,|. brutal|ADJ bulldozer|NOUN digging-|ADJ tractors|NOUN with|ADP Malloy|NOUN Consolidated|NOUN painted|VERB on|ADP the|DET sides|NOUN of|ADP them|PRON .|.
+ Bunce|NOUN ?|.
+ Thirty-six|NOUN .|.
+ How|QUESTIONTAG long|ADJ can|VERB a|DET fox|ADJ go|NOUN without|ADP food|NOUN or|CONJ water|NOUN ?|.
+ The|DET exhausted|ADJ foxes|NOUN and|CONJ Kylie|NOUN underground|NOUN .|.
+ Dad|NOUN ?|.
+ Why|ADV 'd|VERB you|PRON take|VERB your|PRON shoes|NOUN off|PRT ?|.
+ So|ADV I|PRON do|VERB n't|ADV break|VERB your|PRON nose|ADJ when|ADV I|PRON kick|VERB it|PRON .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ It|PRON could|VERB be|VERB a|DET good|ADJ one|NUM .|.
+ Ever|ADV tasted|VERB one|NUM of|ADP Mrs.|NOUN Bean|NOUN 's|PRT famous|ADJ nutmeg-ginger-apple|ADJ snaps|NOUN ?|.
+ Why|ADV 'd|VERB you|PRON have|VERB to|PRT get|VERB us|PRON into|ADP this|DET ,|. Foxy|NOUN ?|.
+ Did|NOUN I|PRON ever|ADV tell|VERB you|PRON about|ADP the|DET time|NOUN I|PRON learned|VERB we|PRON were|VERB going|VERB to|PRT have|VERB a|DET cub|NOUN ?|.
+ In|ADP the|DET fox-trap|NOUN .|.
+ I|PRON guess|VERB we|PRON should|VERB probably|ADV split|VERB into|ADP a|DET certain|ADJ number|NOUN of|ADP groups|NOUN and|CONJ start|VERB doing|VERB something|NOUN ,|. right|ADV ?|.
+ Who|QUESTIONTAG 's|VERB got|VERB him|PRON ?|.
+ The|DET farmers|NOUN three|NUM .|.
+ They|PRON 've|VERB kidnapped|VERB him|PRON ?|.
+ Well-done|NOUN ,|. Mr.|NOUN Badger|NOUN .|.
+ Why|ADV 'd|VERB they|PRON write|VERB this|DET in|ADP letters|NOUN cut|VERB out|ADP of|ADP magazines|NOUN ?|.
+ To|PRT protect|VERB their|PRON identities|NOUN .|.
+ What|QUESTIONTAG 'd|VERB you|PRON just|ADV say|VERB ?|.
+ I|PRON said|VERB I|PRON 've|VERB still|ADV got|VERB the|DET watch|NOUN ,|. Mr.|NOUN Fox|NOUN .|.
+ I|PRON can|VERB see|VERB in|ADP the|DET dark|NOUN ?|.
+ Why|ADV 'd|VERB he|PRON write|VERB this|DET in|ADP letters|NOUN cut|VERB out|ADP of|ADP magazines|NOUN ?|.
+ Is|VERB that|DET Rat|NOUN 's|PRT watch|NOUN ?|.
+ Did|NOUN you|PRON bring|VERB the|DET boy|NOUN ?|.
+ Of|ADP course|NOUN ,|. we|PRON did|VERB !|.
+ Are|NOUN you|PRON scared|VERB of|ADP wolves|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ I|PRON did|VERB it|PRON !|.
+ Kylie|NOUN ,|. you|PRON got|VERB a|DET credit|NOUN card|NOUN ?|.
+ (|. digging|VERB in|ADP his|PRON pockets|NOUN )|. Sure|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET white|ADJ stuff|NOUN around|ADP his|PRON mouth|NOUN ?|.
+ Can|VERB I|PRON get|VERB one|NUM of|ADP those|DET karate|ADJ lessons|NOUN real|ADJ quick|NOUN ?|.
+ Is|VERB this|DET spring-loaded|ADJ ?|.
+ Kristofferson|NOUN continuing|VERB Ash|NOUN 's|PRT karate|NOUN lesson|NOUN :|.
+ What|QUESTIONTAG ?|.
+ I|PRON 'll|VERB be|VERB right|ADJ back|ADV .|.
+ Where|QUESTIONTAG 'd|VERB he|PRON come|VERB from|ADP ?|.
+ Where|QUESTIONTAG 'd|VERB you|PRON come|VERB from|ADP ?|.
+ Pensez-vous|ADJ que|NOUN 1'hiver|NUM sera|NOUN rude|NOUN ?|.
+ I|PRON 'm|VERB asking|VERB if|ADP he|PRON thinks|VERB we|PRON 're|VERB in|ADP for|ADP a|DET hard|ADJ winter|NOUN .|.
+ Where|QUESTIONTAG are|VERB we|PRON going|VERB ?|.
+ Nobody|NOUN knows|VERB .|.
+ --|. freon|NOUN ?|.
+ Shh|NOUN .|.
+ Did|NOUN I|PRON hear|VERB my|PRON name|NOUN ?|.
+ Why|ADV not|ADV ?|.
+ Because|ADP we|PRON were|VERB talking|VERB about|ADP other|ADJ things|NOUN .|.
+ Dad|NOUN ?|.

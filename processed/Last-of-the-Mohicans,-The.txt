@@ -1,0 +1,170 @@
+ an|DET ambush|NOUN ?|.
+ Your|PRON farm|NOUN good|NOUN to|PRT you|PRON this|DET year|NOUN ,|. John|NOUN ?|.
+ It|PRON was|VERB a|DET good|ADJ year|NOUN for|ADP corn|NOUN .|.
+ You|PRON take|VERB much|ADJ fur|NOUN ?|.
+ That|ADP we|PRON did|VERB .|.
+ Tradin|NOUN '|PRT your|PRON skins|NOUN in|ADP Castleton|NOUN ?|.
+ No|DET ,|. Schylerville|NOUN .|.
+ Folks|NOUN here|ADV goin|VERB '|. to|PRT join|VERB in|ADP that|DET fight|NOUN ?|.
+ We|PRON 'll|VERB see|VERB in|ADP the|DET morning|NOUN ...|.
+ A|DET son|NOUN like|ADP me|PRON ?|.
+ How|QUESTIONTAG far|ADV up|ADP the|DET valley|NOUN ?|.
+ To|PRT Fort|NOUN William|NOUN Henry|NOUN .|.
+ What|QUESTIONTAG did|VERB you|PRON say|VERB ?|.
+ (|. loud|NOUN )|. I|PRON said|VERB ...|. France|NOUN is|VERB your|PRON enemy|NOUN .|.
+ (|. ignoring|VERB Hawkeye|NOUN )|. Will|NOUN you|PRON men|NOUN help|VERB us|PRON stop|VERB the|DET French|ADJ ?|.
+ ...|. and|CONJ while|ADP they|PRON are|VERB cooped|VERB up|PRT in|ADP your|PRON fort|NOUN ,|. what|PRON if|ADP the|DET French|ADJ send|VERB war|NOUN parties|NOUN to|PRT raid|VERB their|PRON homes|NOUN ?|.
+ What|QUESTIONTAG then|ADV ,|. Lieutenant|NOUN ?|.
+ For|ADP your|PRON own|ADJ homes|NOUN ,|. for|ADP king|NOUN ,|. for|ADP country|NOUN ,|. that|DET 's|VERB why|ADV you|PRON men|NOUN ought|VERB to|PRT join|VERB this|DET fight|NOUN !|.
+ Does|VERB that|ADP mean|NOUN they|PRON will|VERB be|VERB granted|VERB leave|VERB to|PRT defend|VERB their|PRON homes|NOUN if|ADP the|DET settlements|NOUN are|VERB attacked|VERB ?|.
+ Of|ADP course|NOUN .|.
+ And|CONJ what|PRON is|VERB that|DET ?|.
+ The|DET Crown|NOUN ``|. negotiating|VERB ''|. the|DET terms|NOUN of|ADP service|NOUN ?|.
+ You|PRON still|ADV have|VERB an|DET aversion|NOUN to|PRT the|DET water|NOUN ?|.
+ Aversion|NOUN ?|.
+ ``|. Some|DET ''|. ?|.
+ Cousin|NOUN Eugenie|NOUN ,|. my|PRON father|NOUN ,|. but|CONJ ...|.
+ Will|VERB you|PRON consider|VERB that|DET ?|.
+ (|. pause|NOUN ;|. smiles|NOUN )|. Yes|X .|.
+ We|PRON leave|VERB in|ADP the|DET morning|NOUN ?|.
+ (|. rises|NOUN )|. Yes|X ,|. miss|ADJ .|.
+ Alice|NOUN ?|.
+ Are|NOUN you|PRON alright|ADV ?|.
+ Can|VERB we|PRON rest|VERB soon|ADV ?|.
+ (|. to|PRT Nathaniel|NOUN )|. ...|. why|ADV the|DET bloody|NOUN hell|NOUN he|PRON do|VERB that|DET to|PRT the|DET horses|NOUN ?|.
+ How|QUESTIONTAG far|ADV is|VERB it|PRON ,|. scout|ADV ?|.
+ Day|NOUN and|CONJ a|DET half|NOUN (|. pause|NOUN )|. Where|QUESTIONTAG did|VERB you|PRON get|VERB ...|. the|DET guide|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ Dark|NOUN haired|VERB ...|.
+ Then|ADV you|PRON 're|VERB assigned|VERB to|PRT Fort|NOUN William|NOUN Henry|NOUN ?|.
+ No|DET .|.
+ Fort|NOUN Edward|NOUN ,|. then|ADV ?|.
+ No|DET .|.
+ I|PRON thought|VERB all|DET our|PRON colonial|NOUN scouts|NOUN were|VERB in|ADP the|DET militia|NOUN ?|.
+ (|. stops|NOUN )|. Then|ADV you|PRON are|VERB one|NUM of|ADP those|DET who|PRON would|VERB allow|VERB England|NOUN to|PRT fight|VERB alone|ADV while|ADP she|PRON protects|VERB you|PRON from|ADP France|NOUN ?|.
+ England|NOUN does|VERB not|ADV protect|VERB me|PRON and|CONJ does|VERB not|ADV war|NOUN against|ADP France|NOUN on|ADP our|PRON account|NOUN .|.
+ (|. turns|NOUN )|. Clear|VERB it|PRON up|PRT any|DET ?|.
+ (|. loud|NOUN )|. I|PRON owe|VERB you|PRON gratitude|VERB or|CONJ I|PRON 'd|VERB call|VERB you|PRON out|PRT !|.
+ Who|QUESTIONTAG were|VERB these|DET people|NOUN ?|.
+ (|. re|NOUN :|. print|NOUN )|. Ottawa|NOUN !|.
+ (|. to|PRT Chingachgook|NOUN )|. Movin|NOUN '|PRT fast|NOUN ,|. not|ADV able|ADJ to|PRT carry|VERB much|ADV ...|. this|DET was|VERB a|DET war|NOUN party|NOUN ?|.
+ is|VERB very|ADV ominous|ADJ to|PRT them|PRON .|.
+ Why|ADV did|VERB n't|ADV you|PRON bury|VERB those|DET people|NOUN ?|.
+ Anyone|NOUN lookin|NOUN '|. to|PRT pick|VERB up|PRT our|PRON trail|NOUN ,|. would|VERB see|VERB it|PRON as|ADP a|DET sign|NOUN of|ADP our|PRON passing|NOUN ...|.
+ Your|PRON ``|. father|NOUN ''|. ?|.
+ Chingachgook|NOUN .|.
+ He|PRON did|VERB ?|.
+ Yes|X .|.
+ What|QUESTIONTAG ?|.
+ Yes|X .|.
+ (|. quietly|ADV )|. Why|ADV did|VERB they|PRON turn|VERB back|PRT ?|.
+ (|. still|ADV pissed|VERB off|PRT )|. ''|. We|PRON 're|VERB a|DET breed|ADJ apart|NOUN and|CONJ we|PRON make|VERB no|DET sense|NOUN ''|. ...|. ?|.
+ (|. smiles|NOUN )|. In|ADP your|PRON particular|ADJ case|NOUN ,|. miss|NOUN ,|. I|PRON would|VERB make|VERB some|DET allowance|NOUN ...|.
+ How|QUESTIONTAG did|VERB you|PRON learn|VERB English|NOUN ?|.
+ My|PRON father|NOUN sent|VERB Uncas|NOUN &|CONJ I|PRON to|PRT Reverend|NOUN Wheelock|NOUN 's|PRT school|NOUN when|ADV I|PRON was|VERB ten|VERB .|.
+ And|CONJ what|DET were|VERB the|DET consequentialities|NOUN of|ADP European|ADJ culture|NOUN you|PRON did|VERB n't|ADV bother|VERB with|ADP ?|.
+ The|DET Bible|NOUN .|.
+ Much|ADJ further|ADJ ?|.
+ Top|NOUN of|ADP this|DET ridge|NOUN .|.
+ Will|VERB we|PRON be|VERB able|ADJ to|PRT bathe|VERB ?|.
+ Cora|NOUN ,|. shed|VERB their|PRON frontier|NOUN experience|NOUN ?|.
+ I|PRON ca|VERB n't|ADV wait|VERB to|PRT see|VERB Papa|NOUN ...|.
+ Lightning|VERB ?|.
+ the|DET top|NOUN of|ADP the|DET ridge|NOUN .|.
+ (|. enraged|VERB )|. Why|ADV are|VERB you|PRON here|ADV ?|.
+ coat|NOUN to|PRT cover|VERB them|PRON and|CONJ takes|VERB Alice|NOUN under|ADP his|PRON arm|NOUN .|.
+ What|QUESTIONTAG ?|.
+ There|DET was|VERB no|DET letter|NOUN .|.
+ Does|NOUN Webb|NOUN not|ADV even|ADV know|VERB we|PRON are|VERB besieged|VERB ?|.
+ Sir|NOUN .|.
+ (|. flat|ADJ )|. What|QUESTIONTAG happened|VERB to|PRT you|PRON ?|.
+ (|. suddenly|ADV tired|VERB )|. Ambush|NOUN ...|. on|ADP the|DET George|NOUN Road|NOUN .|.
+ What|QUESTIONTAG else|ADV ?|.
+ Some|DET food|NOUN .|.
+ Might|NOUN I|PRON enquire|VERB after|ADP the|DET situation|NOUN ,|. sir|NOUN ,|. given|VERB that|ADP I|PRON 've|VERB seen|VERB of|ADP the|DET French|ADJ engineering|NOUN from|ADP the|DET ridge|NOUN above|ADP ?|.
+ (|. perfunctory|NOUN )|. Logistics|NOUN are|VERB his|PRON guns|NOUN are|VERB bigger|ADJ than|ADP mine|NOUN and|CONJ he|PRON has|VERB more|ADJ of|ADP them|PRON .|.
+ Webb|NOUN 's|PRT at|ADP Edward|NOUN ?|.
+ Yes|X ,|. sir|NOUN .|.
+ Le|NOUN Renard|NOUN Subtil|NOUN ,|. how|ADV are|VERB things|NOUN with|ADP your|PRON English|ADJ friends|NOUN ?|.
+ style|NOUN ...|.
+ Why|ADV do|VERB hate|VERB the|DET Grey|NOUN Hair|NOUN ,|. Magua|NOUN ?|.
+ When|QUESTIONTAG the|DET Grey|NOUN Hair|NOUN is|VERB dead|ADJ ,|. Magua|NOUN will|VERB eat|VERB his|PRON heart|NOUN .|.
+ She|PRON know|VERB what|PRON she|PRON 's|VERB doin|NOUN '|. ?|.
+ launderess|NOUN dress/blouse|NOUN ...|. She|PRON looks|VERB different|ADJ .|.
+ (|. elsewhere|ADV )|. What|QUESTIONTAG 's|VERB that|DET ?|.
+ Nothin|NOUN '|PRT .|.
+ (|. looks|VERB up|PRT )|. Mr|NOUN Poe|NOUN ?|.
+ Miss|NOUN .|.
+ (|. to|PRT Uncas|NOUN )|. You|PRON 'bout|VERB done|VERB holdin|NOUN '|. hands|NOUN with|ADP Miss|NOUN Munro|NOUN ?|.
+ tend|VERB another|DET wounded|ADJ man|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON looking|VERB at|ADP ,|. Mr.|NOUN Poe|NOUN ?|.
+ Why|ADV ,|. I|PRON am|VERB looking|VERB at|ADP you|PRON ,|. Miss|NOUN .|.
+ You|PRON told|VERB him|PRON about|ADP the|DET raid|NOUN ?|.
+ (|. nods|NOUN )|. He|PRON does|VERB not|ADV want|VERB to|PRT hear|VERB it|PRON .|.
+ Another|DET forty|NOUN yards|NOUN ?|.
+ (|. looking|VERB to|PRT Heyward|NOUN for|ADP confirmation|NOUN of|ADP his|PRON point|NOUN of|ADP view|NOUN )|. What|QUESTIONTAG did|VERB you|PRON see|VERB ,|. Major|NOUN ?|.
+ (|. in|ADP amazement|NOUN )|. You|PRON 're|VERB not|ADV coming|VERB with|ADP us|PRON ?|.
+ That|DET reason|NOUN wear|VERB a|DET blue|ADJ dress|NOUN and|CONJ work|NOUN in|ADP the|DET surgery|NOUN ?|.
+ (|. Mohican|NOUN ;|. subtitled|VERB )|. Why|ADV do|VERB they|PRON make|VERB my|PRON son|NOUN prisoner|NOUN ?|.
+ (|. Mohican|NOUN ;|. subtitled|VERB )|. I|PRON helped|VERB Winthrop|NOUN and|CONJ the|DET others|NOUN leave|VERB ...|.
+ (|. Mohican|NOUN ;|. subtitled|VERB )|. What|QUESTIONTAG will|VERB they|PRON do|VERB with|ADP my|PRON white|ADJ son|NOUN ?|.
+ What|QUESTIONTAG would|VERB you|PRON have|VERB me|PRON do|VERB ?|.
+ The|DET whole|ADJ world|NOUN 's|PRT on|ADP fire|NOUN ,|. is|VERB n't|ADV it|PRON ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ reinforcements|NOUN arrive|ADJ ?|.
+ Perhaps|ADV the|DET General|NOUN 's|PRT glasses|NOUN can|VERB reach|VERB to|PRT the|DET Hudson|NOUN and|CONJ he|PRON knows|VERB the|DET size|NOUN and|CONJ imminence|NOUN of|ADP the|DET army|NOUN of|ADP Webb|NOUN ...|. ?|.
+ Such|ADJ as|ADP ...|. ?|.
+ My|PRON master|NOUN requires|VERB the|DET fort|NOUN be|VERB destroyed|VERB .|.
+ Their|PRON arms|NOUN ?|.
+ They|PRON may|VERB leave|VERB the|DET fortress|NOUN fully|ADV armed|VERB ,|. but|CONJ with|ADP no|DET ammunition|NOUN ...|. Other|ADJ than|ADP that|DET ,|. ask|VERB what|PRON you|PRON wish|VERB .|.
+ The|DET honors|NOUN of|ADP war|NOUN ?|.
+ Granted|VERB .|.
+ My|PRON colors|NOUN ?|.
+ Carry|NOUN them|PRON to|PRT England|NOUN to|PRT your|PRON King|VERB with|ADP pride|NOUN .|.
+ Qui|NOUN vive|NOUN ?|.
+ France|NOUN .|.
+ Le|NOUN mot|NOUN d'ordre|NOUN ?|.
+ La|NOUN victoire|NOUN .|.
+ Is|VERB the|DET hatchet|NOUN buried|VERB between|ADP the|DET English|NOUN and|CONJ my|PRON French|ADJ father|NOUN ?|.
+ Yes|X .|.
+ Does|NOUN my|PRON father|NOUN know|VERB that|ADP ?|.
+ And|CONJ this|DET ?|.
+ Does|VERB the|DET chief|NOUN of|ADP the|DET Canadas|NOUN believe|VERB the|DET English|NOUN will|VERB keep|VERB the|DET terms|NOUN ?|.
+ Munro|NOUN would|VERB .|.
+ (|. shouts|NOUN )|. How|QUESTIONTAG long|ADV ?|.
+ (|. shouts|NOUN )|. Only|ADV chance|NOUN we|PRON got|VERB is|VERB ...|. (|. breathless|NOUN )|. ...|. to|PRT get|VERB more|ADJ distance|NOUN on|ADP 'em|NOUN and|CONJ go|VERB to|PRT ground|NOUN !|.
+ Where|QUESTIONTAG do|VERB we|PRON go|VERB from|ADP here|ADV ?|.
+ We|PRON do|VERB n't|ADV .|.
+ Then|ADV what|PRON ?|.
+ Then|ADV we|PRON take|VERB the|DET south|NOUN rim|VERB down|ADP the|DET mountain|NOUN and|CONJ it|PRON 's|VERB 12|NUM miles|NOUN cross|ADV country|NOUN to|PRT Fort|NOUN Edward|NOUN .|.
+ And|CONJ if|ADP we|PRON 're|VERB unlucky|ADJ ?|.
+ You|PRON will|VERB have|VERB to|PRT forego|VERB the|DET pleasure|NOUN of|ADP hangin|NOUN '|. me|PRON .|.
+ Any|DET powder|NOUN ?|.
+ (|. crossing|VERB to|PRT Cora|NOUN )|. Only|ADV one|NUM or|CONJ two|NUM loads|NOUN .|.
+ Are|ADP we|PRON safe|ADJ ?|.
+ Maybe|ADV ...|.
+ (|. explodes|NOUN )|. What|QUESTIONTAG the|DET bloody|NOUN hell|NOUN plan|NOUN is|VERB this|DET ?|.
+ (|. to|PRT Cora|NOUN )|. In|ADP this|DET there|DET is|VERB a|DET chance|NOUN .|.
+ (|. as|ADP if|ADP considering|VERB )|. Gifts|NOUN ?|.
+ Three|NUM ,|. four|NUM oxen|NOUN ...|. much|ADV wampum|NOUN .|.
+ Wampum|NOUN ?|.
+ Yes|X .|.
+ Does|VERB Yengeese|ADJ Major|NOUN have|VERB property|NOUN across|ADP salt|NOUN sea|NOUN ?|.
+ Yes|X .|.
+ For|ADP Munro|NOUN children|NOUN ?|.
+ Yes|X .|.
+ How|QUESTIONTAG much|ADJ gold|NOUN has|VERB the|DET master|NOUN of|ADP the|DET Yengeese|NOUN ?|.
+ The|DET King|NOUN ?|.
+ What|QUESTIONTAG is|VERB enough|ADJ ?|.
+ Heart|NOUN .|.
+ Alice|NOUN ?|.
+ judgment|NOUN be|VERB honored|VERB ?|.
+ Will|VERB you|PRON go|VERB back|ADV to|PRT England|NOUN ?|.
+ I|PRON have|VERB nothing|NOUN to|PRT go|VERB back|ADV for|ADP .|.
+ Then|ADV will|VERB you|PRON stay|VERB in|ADP America|NOUN ?|.
+ And|CONJ will|VERB you|PRON be|VERB my|PRON wife|NOUN ?|.
+ Where|QUESTIONTAG will|VERB we|PRON go|VERB ?|.
+ Winter|NOUN with|ADP the|DET Delaware|NOUN ,|. my|PRON father|NOUN 's|PRT cousins|NOUN .|.
+ What|QUESTIONTAG is|VERB that|DET ?|.
+ Will|VERB there|ADV be|VERB anything|NOUN left|VERB to|PRT show|VERB the|DET world|NOUN that|ADP we|PRON ever|ADV did|VERB exist|VERB ?|.

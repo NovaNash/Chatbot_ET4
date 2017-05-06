@@ -1,0 +1,120 @@
+ Why|ADV would|VERB MacAndrews|VERB make|VERB so|ADV many|ADJ scarecrows|NOUN ?|.
+ William|NOUN ,|. with|ADP a|DET boy|NOUN 's|PRT curiosity|NOUN ,|. touches|VERB the|DET spurred|ADJ foot|NOUN of|ADP the|DET hanged|ADJ noblemen|NOUN we|PRON first|ADV saw|VERB riding|VERB in|ADP .|.
+ How|QUESTIONTAG many|ADJ ?|.
+ Three|NUM ,|. maybe|ADV more|ADV !|.
+ Armed|VERB ?|.
+ They|PRON 're|VERB English|ADJ soldiers|NOUN ,|. ai|VERB n't|ADV they|PRON ?|.
+ Wan|NOUN na|PRT stay|VERB with|ADP me|PRON tonight|NOUN ?|.
+ I|PRON wan|VERB na|ADV have|VERB supper|VERB waitin|NOUN '|. .|.
+ Someone|NOUN dead|ADJ from|ADP this|DET household|NOUN ?|.
+ We|PRON just|ADV had|VERB a|DET funeral|ADJ ,|. is|VERB n't|ADV that|ADP what|PRON it|PRON means|VERB in|ADP England|NOUN as|ADV well|ADV ?|.
+ What|QUESTIONTAG are|VERB they|PRON doing|VERB ?|.
+ Saying|VERB goodbye|NOUN in|ADP their|PRON own|ADJ way|NOUN --|. in|ADP outlawed|ADJ tartans|NOUN ,|. with|ADP outlawed|ADJ pipes|NOUN ,|. playing|VERB outlawed|VERB tunes|NOUN .|.
+ Where|QUESTIONTAG is|VERB my|PRON son|NOUN ?|.
+ Your|PRON pardon|NOUN ,|. M'lord|NOUN ,|. he|PRON asked|VERB me|PRON to|PRT come|VERB in|ADP his|PRON stead|NOUN .|.
+ I|PRON sent|VERB for|ADP him|PRON --|. and|CONJ the|DET little|ADJ coward|ADJ send|NOUN you|PRON ?|.
+ Shall|NOUN I|PRON leave|VERB ,|. M'lord|NOUN ?|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ You|PRON directed|VERB me|PRON to|PRT report|VERB to|PRT you|PRON the|DET moment|NOUN the|DET king|NOUN 's|PRT conference|NOUN was|VERB ended|VERB .|.
+ Do|VERB you|PRON disapprove|VERB of|ADP Phillip|NOUN ?|.
+ Now|ADV ,|. my|PRON flower|NOUN ,|. do|VERB you|PRON understand|VERB ?|.
+ Yes|X .|.
+ Hamish|VERB ?|.
+ off|ADP from|ADP the|DET challenge|NOUN .|.
+ Would|VERB you|PRON honor|VERB me|PRON with|ADP a|DET dance|NOUN ?|.
+ Marion|NOUN ...|. Would|VERB you|PRON like|VERB to|PRT go|VERB for|ADP a|DET ride|NOUN on|ADP this|DET fine|ADJ evening|NOUN ?|.
+ The|DET boy|NOUN 's|PRT insane|NOUN !|.
+ Your|PRON father|NOUN does|VERB n't|ADV like|VERB me|PRON ,|. does|VERB he|PRON ?|.
+ It|PRON 's|VERB not|ADV you|PRON .|.
+ What|QUESTIONTAG kind|NOUN of|ADP meeting|NOUN ?|.
+ The|DET secret|ADJ kind|NOUN .|.
+ You|PRON 've|VERB been|VERB here|ADV before|ADV ?|.
+ Some|DET nights|NOUN .|.
+ Did|VERB it|PRON work|VERB ?|.
+ No|DET .|.
+ Then|ADV when|ADV ?|.
+ ...|. Tonight|NOUN !|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ...|. lass|NOUN ?|.
+ Let|VERB go|VERB .|.
+ Bitch|NOUN ,|. who|PRON do|VERB you|PRON think|VERB you|PRON are|VERB ?|.
+ comes|VERB up|PRT clawing|VERB at|ADP her|PRON dress|NOUN to|PRT rip|VERB it|PRON from|ADP her|PRON body|NOUN ...|. and|CONJ is|VERB hit|VERB in|ADP the|DET face|NOUN by|ADP a|DET rock|NOUN thrown|NOUN at|ADP great|ADJ speed|NOUN !|.
+ What|QUESTIONTAG happened|VERB ?|.
+ ...|. girl|NOUN .|.
+ What|QUESTIONTAG girl|NOUN ?|.
+ ...|. on|ADP horse|NOUN .|.
+ On|ADP your|PRON way|NOUN somewhere|ADV ,|. M'lord|NOUN ?|.
+ Murdering|VERB bloody|NOUN bandit|NOUN !|.
+ Under|ADP whom|PRON ?|.
+ A|DET commoner|NOUN named|VERB William|NOUN Wallace|NOUN .|.
+ What|QUESTIONTAG 're|VERB ya|ADJ doin|NOUN '|PRT ?|.
+ Thinking|NOUN .|.
+ Does|VERB it|PRON hurt|VERB ?|.
+ What|QUESTIONTAG do|VERB we|PRON do|VERB when|ADV Longshanks|NOUN sends|VERB his|PRON whole|ADJ northern|ADJ army|NOUN against|ADP us|PRON ?|.
+ Is|VERB your|PRON Poppa|NOUN a|DET ghost|NOUN --|. or|CONJ do|VERB you|PRON converse|VERB with|ADP God|NOUN Almighty|NOUN ?|.
+ In|ADP order|NOUN to|PRT find|VERB his|PRON equal|ADJ ,|. and|CONJ Irishman|NOUN is|VERB forced|VERB to|PRT talk|VERB to|PRT God|NOUN .|.
+ What|QUESTIONTAG 's|VERB the|DET crazy|ADJ man|NOUN saying|VERB ,|. Lord|NOUN ?|.
+ The|DET dogs|NOUN have|VERB a|DET scent|NOUN .|.
+ Who|QUESTIONTAG would|VERB do|VERB such|DET a|DET thing|NOUN ?|.
+ Exactly|ADV .|.
+ Two|NUM hundred|NUM ?|.
+ Saw|NOUN it|PRON with|ADP my|PRON own|ADJ eyes|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB this|DET ?|.
+ Last|ADJ night|NOUN I|PRON slept|VERB with|ADP a|DET member|NOUN of|ADP the|DET War|NOUN Council|NOUN .|.
+ Do|VERB the|DET nobles|NOUN rally|ADV ?|.
+ Robert|NOUN the|DET Bruce|NOUN and|CONJ most|ADJ of|ADP the|DET others|NOUN will|VERB not|ADV commit|VERB to|PRT war|NOUN !|.
+ They|PRON wo|VERB n't|ADV stop|VERB --|. and|CONJ who|PRON could|VERB blame|VERB them|PRON ?|.
+ his|PRON friends|NOUN .|.
+ William|NOUN Wallace|NOUN ?|.
+ Could|VERB n't|ADV be|VERB .|.
+ Where|QUESTIONTAG is|VERB thy|ADJ salute|NOUN ?|.
+ For|ADP presenting|VERB yourselves|NOUN on|ADP this|DET battlefield|NOUN ,|. I|PRON give|VERB you|PRON thanks|NOUN .|.
+ You|PRON disrespect|VERB a|DET banner|NOUN of|ADP truce|NOUN ?|.
+ From|ADP his|PRON king|NOUN ?|.
+ Does|NOUN anyone|NOUN know|VERB his|PRON politics|NOUN ?|.
+ No|DET .|.
+ But|CONJ ...|. what|PRON will|VERB you|PRON do|VERB ?|.
+ I|PRON will|VERB invade|VERB England|NOUN .|.
+ And|CONJ the|DET common|ADJ man|NOUN who|PRON bleeds|VERB on|ADP the|DET battlefield|NOUN ,|. does|VERB he|PRON risk|VERB less|ADJ ?|.
+ No|DET .|.
+ To|PRT what|PRON town|NOUN ?|.
+ He|PRON comes|VERB here|ADV !|.
+ What|QUESTIONTAG news|NOUN of|ADP the|DET north|NOUN ?|.
+ Nothing|VERB new|ADJ ,|. Majesty|NOUN .|.
+ Edward|NOUN ,|. who|PRON is|VERB this|DET shitpoker|NOUN who|PRON speaks|VERB to|PRT me|PRON as|ADP if|ADP I|PRON needed|VERB his|PRON advice|NOUN ?|.
+ I|PRON have|VERB declared|VERB Phillip|NOUN my|PRON High|NOUN Counselor|NOUN .|.
+ Wife|NOUN of|ADP Edward|NOUN ,|. the|DET king|NOUN 's|PRT son|NOUN ?|.
+ But|CONJ now|ADV that|ADP I|PRON am|VERB here|ADV ,|. will|VERB you|PRON speak|VERB with|ADP a|DET woman|NOUN ?|.
+ rich|ADJ carpets|NOUN laid|VERB on|ADP the|DET bare|NOUN ground|NOUN .|.
+ You|PRON brought|VERB back|PRT the|DET money|NOUN ,|. of|ADP course|NOUN ?|.
+ is|VERB about|ADP to|PRT give|VERB the|DET signal|NOUN to|PRT start|VERB the|DET march|NOUN when|ADV Hamish|NOUN ,|. beside|ADP him|PRON ,|. comes|VERB alert|ADV ;|. a|DET small|ADJ group|NOUN of|ADP riders|NOUN in|ADP distinctive|ADJ attire|NOUN are|VERB coming|VERB toward|ADP them|PRON ;|. what|PRON can|VERB this|DET be|VERB ?|.
+ William|NOUN --|. French|ADJ guards|NOUN ?|.
+ How|QUESTIONTAG many|ADJ does|VERB Longshanks|NOUN have|VERB ?|.
+ A|DET thousand|NOUN .|.
+ Peace|NOUN ?|.
+ We|PRON can|VERB not|ADV defeat|VERB this|DET --|.
+ You|PRON have|VERB said|VERB yourself|PRON that|ADP the|DET nobles|NOUN will|VERB not|ADV support|VERB Wallace|NOUN ,|. so|ADP how|ADV does|VERB it|PRON help|VERB us|PRON to|PRT join|VERB the|DET side|NOUN that|DET is|VERB slaughtered|VERB ?|.
+ his|PRON arm|NOUN ,|. unwilling|ADJ to|PRT touch|VERB his|PRON son|NOUN with|ADP his|PRON leprous|ADJ hand|NOUN .|.
+ Stephen|NOUN ready|NOUN ?|.
+ Aye|NOUN .|.
+ Mornay|NOUN ?|.
+ For|ADP double|ADJ his|PRON lands|NOUN in|ADP Scotland|NOUN ,|. and|CONJ matching|VERB estates|NOUN in|ADP England|NOUN .|.
+ The|DET Scots|NOUN will|VERB fight|VERB for|ADP us|PRON ?|.
+ What|QUESTIONTAG choice|NOUN do|VERB they|PRON have|VERB ?|.
+ Is|VERB it|PRON true|ADJ about|ADP Mornay|NOUN ?|.
+ You|PRON mock|VERB us|PRON with|ADP a|DET smile|NOUN ?|.
+ I|PRON am|VERB cheerful|ADJ with|ADP a|DET plan|NOUN to|PRT soothe|VERB your|PRON miseries|NOUN .|.
+ And|CONJ you|PRON have|VERB reached|VERB Wallace|NOUN 's|PRT men|NOUN ?|.
+ We|PRON tell|VERB the|DET villagers|NOUN ,|. and|CONJ the|DET traitors|NOUN pass|VERB it|PRON on|ADP .|.
+ Then|ADV why|ADV did|VERB you|PRON come|VERB ?|.
+ Why|ADV did|VERB you|PRON ?|.
+ When|QUESTIONTAG we|PRON ...|. did|VERB you|PRON think|VERB of|ADP her|PRON ?|.
+ her|PRON ,|. not|ADV Marion|NOUN --|. and|CONJ climbs|VERB out|PRT .|.
+ May|NOUN he|PRON rest|VERB in|ADP peace|NOUN ...|. You|PRON have|VERB already|ADV sealed|VERB the|DET coffin|NOUN ?|.
+ He|PRON was|VERB a|DET modest|ADJ man|NOUN .|.
+ If|ADP I|PRON pay|VERB homage|NOUN to|PRT another|DET 's|PRT throne|NOUN ,|. then|ADV how|ADV am|VERB I|PRON a|DET king|NOUN ?|.
+ Homage|NOUN is|VERB nothing|NOUN .|.
+ Do|VERB n't|ADV look|VERB so|ADV fearsome|ADJ ,|. does|VERB he|PRON ?|.
+ his|PRON shirt|NOUN .|.
+ When|QUESTIONTAG will|VERB his|PRON trial|NOUN be|VERB ?|.
+ Wallace|NOUN 's|PRT ?|.
+ Even|ADV now|ADV ,|. you|PRON are|VERB incapable|ADJ of|ADP mercy|NOUN ?|.

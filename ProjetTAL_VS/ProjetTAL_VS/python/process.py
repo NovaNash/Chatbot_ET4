@@ -48,12 +48,13 @@ def loadDocs(fileNames):
         i = 0
         while i < lenP:
             #We need a question / answer, only one sentence per paragraph, and that this sentence finish by '?' or '?!' (maybe we can add some other things)
-            if i + 1 < lenP and len(paragraph[i]) == 1 and paragraph[i][-1][-1] == '?':
+            if i + 1 < lenP and len(paragraph[i]) == 1 and paragraph[i][-1][-1] == '?' or len(paragraph[i]) == 2 and paragraph[i][-2][-1] == '?' and paragraph[i][-1] == "!":
                 #Strip the line in this paragraph
                 for j in range(len(paragraph[i])):
                     paragraph[i][j] = paragraph[i][j].strip()
                 #And append it and its answer and our question
                 couple.append([paragraph[i], paragraph[i+1]])
+                i+=1
             i+=1
 
         transformLabel(couple)
@@ -71,7 +72,6 @@ def transformLabel(couple):
                 tokens = nltk.pos_tag(text, tagset="universal")
 
                 thisPara = "" 
-
                 for x in tokens:
                     if x[0] in ["Which", "What", "Who", "Where", "When", "How"]:
                         thisPara = thisPara + " " + "|".join([x[0], "QUESTIONTAG"])

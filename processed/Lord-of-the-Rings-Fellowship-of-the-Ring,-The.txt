@@ -1,0 +1,42 @@
+ And|CONJ what|PRON would|VERB a|DET ranger|NOUN know|NOUN of|ADP this|DET matter|NOUN ?|.
+ LEGOLAS|NOUN stands|NOUN ...|.
+ Then|ADV ...|. what|PRON are|VERB we|PRON waiting|VERB for|ADP ?|.
+ ring|NOUN .|.
+ And|CONJ I|PRON suppose|VERB you|PRON think|VERB you|PRON 're|VERB the|DET one|NOUN to|PRT do|VERB it|PRON ?|.
+ And|CONJ if|ADP we|PRON fail|VERB ,|. what|PRON then|ADV ?|.
+ What|QUESTIONTAG is|VERB that|DET ?|.
+ Nothing|NOUN ...|. it|PRON 's|VERB just|ADV a|DET wisp|NOUN of|ADP a|DET cloud|NOUN .|.
+ Boromir|NOUN ?|.
+ It|PRON is|VERB a|DET strange|ADJ fate|NOUN that|ADP we|PRON should|VERB suffer|VERB so|ADV much|ADJ fear|NOUN and|CONJ doubt|NOUN over|ADP so|ADV small|ADJ a|DET thing|NOUN ...|. such|DET a|DET little|ADJ thing|NOUN .|.
+ If|ADP the|DET mountain|NOUN defeats|NOUN you|PRON ,|. will|VERB you|PRON risk|VERB a|DET more|ADV dangerous|ADJ road|NOUN ?|.
+ Frodo|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON suppose|VERB that|DET means|VERB ?|.
+ (|. confident|NOUN )|. It|PRON 's|VERB quite|ADV simple|ADJ .|.
+ Are|ADP we|PRON lost|VERB ?|.
+ What|QUESTIONTAG ?|.
+ I|PRON 'm|VERB hungry|ADJ .|.
+ (|. disbelieving|VERB )|. He|PRON escaped|VERB the|DET dungeons|NOUN of|ADP Barad-|NOUN dur|NOUN ?|.
+ Escaped|NOUN ...|. or|CONJ was|VERB set|VERB loose|ADV .|.
+ What|QUESTIONTAG is|VERB this|DET new|ADJ devilry|NOUN ?|.
+ hall..the|NOUN ground|NOUN shakes|NOUN ...|. an|DET unearthly|ADJ sound|NOUN rumbles|NOUN ...|.
+ Mr.|NOUN Frodo|NOUN ?|.
+ Well|ADV ,|. here|ADV 's|VERB one|NUM dwarf|NOUN she|PRON wo|VERB n't|ADV ensnare|VERB so|ADV easily|ADV .|.
+ What|QUESTIONTAG do|VERB they|PRON say|VERB about|ADP him|PRON ?|.
+ I|PRON have|VERB not|ADV the|DET heart|NOUN to|PRT tell|VERB you|PRON .|.
+ (|. warily|ADV )|. What|QUESTIONTAG will|VERB I|PRON see|VERB ?|.
+ glow|ADJ rises|NOUN from|ADP the|DET water|NOUN .|.
+ Where|QUESTIONTAG 's|VERB Frodo|NOUN ?|.
+ eyes|NOUN fly|VERB to|PRT Boromir|NOUN 's|PRT shield|NOUN which|DET lies|VERB abandoned|VERB by|ADP his|PRON camp|NOUN bed|NOUN .|.
+ Frodo|NOUN ?|.
+ (|. numb|NOUN )|. It|PRON has|VERB taken|VERB Boromir|NOUN .|.
+ (|. urgent|NOUN )|. Where|QUESTIONTAG is|VERB the|DET ring|NOUN ?|.
+ movement|NOUN .|.
+ Can|VERB you|PRON protect|VERB me|PRON from|ADP yourself|PRON ?|.
+ glints|NOUN ,|. gold|NOUN and|CONJ beautiful|NOUN in|ADP the|DET afternoon|NOUN sun|NOUN ...|. Aragorn|NOUN 's|PRT eyes|NOUN are|VERB drawn|VERB to|PRT it|PRON .|.
+ Would|VERB you|PRON destroy|VERB it|PRON ?|.
+ (|. kneeling|VERB to|PRT Frodo|NOUN )|. I|PRON would|VERB have|VERB gone|VERB with|ADP you|PRON to|PRT the|DET end|NOUN ...|. into|ADP the|DET very|ADJ fires|NOUN of|ADP Mordor|NOUN .|.
+ What|QUESTIONTAG 's|VERB he|PRON doing|VERB ?|.
+ (|. panicked|VERB )|. Frodo|NOUN ...|. where|ADV is|VERB Frodo|NOUN ?|.
+ I|PRON let|VERB Frodo|NOUN go|VERB .|.
+ Sam|NOUN ?|.
+ outlook|NOUN ,|. Sam|NOUN is|VERB undeterred|ADJ ...|.

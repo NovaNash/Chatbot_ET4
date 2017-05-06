@@ -1,0 +1,43 @@
+ Where|QUESTIONTAG 's|PRT Pauline|NOUN ?|.
+ Oh|X ,|. I|PRON have|VERB n't|ADV gotten|VERB around|ADP to|PRT drawing|VERB her|PRON yet|ADV .|.
+ Let|VERB 's|PRT have|VERB 'em|VERB now|ADV ,|. while|ADP they|PRON 're|VERB fresh|ADJ ,|. eh|ADJ ,|. Nora|NOUN ?|.
+ playfully|ADV shoves|VERB his|PRON hand|NOUN away|ADV .|.
+ You|PRON 're|VERB partial|ADJ to|PRT a|DET nice|ADJ bit|NOUN of|ADP mackerel|NOUN ,|. are|VERB n't|ADV you|PRON ,|. STEVE|NOUN ?|.
+ Well|ADV .|.
+ Can|VERB I|PRON have|VERB another|DET look|NOUN ?|.
+ Which|QUESTIONTAG one|NUM shall|VERB we|PRON play|VERB ?|.
+ (|. Appalled|VERB )|. Are|VERB n't|ADV you|PRON going|VERB out|PRT ?|.
+ Not|ADV till|VERB two-thirty|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ I|PRON 'm|VERB not|ADV sure|ADJ .|.
+ We|PRON 're|VERB pretty|ADJ handy|ADJ with|ADP model|NOUN making|NOUN ,|. too|ADV ,|. eh|VERB ?|.
+ (|. Surprised|VERB )|. Are|VERB you|PRON going|VERB abroad|ADV ,|. Daddy|NOUN ?|.
+ (|. Worried|VERB )|. You|PRON 're|VERB not|ADV going|VERB ,|. are|VERB you|PRON ,|. Mummy|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ It|PRON 's|VERB so|ADV beautiful|ADJ !|.
+ NS|NOUN I|PRON suppose|VERB this|DET is|VERB your|PRON idea|NOUN of|ADP a|DET joke|NOUN ?|.
+ No|DET ,|. Mrs.|NOUN STEVE|NOUN ns|NOUN .|.
+ Do|VERB you|PRON think|VERB Juliet|NOUN could|VERB stay|VERB here|ADV while|ADP her|PRON parents|NOUN are|VERB away|ADV ?|.
+ Juliet|NOUN 's|PRT infectious|ADJ .|.
+ Ca|NOUN n't|ADV you|PRON stay|VERB a|DET bit|NOUN longer|ADV ,|. Paul|NOUN ?|.
+ That|DET idiot|VERB boarder|ADJ ?|.
+ (|. Sullen|NOUN )|. Is|VERB that|ADP why|ADV you|PRON have|VERB n't|ADV replied|VERB to|PRT my|PRON last|ADJ letter|NOUN ?|.
+ Whaddya|NOUN want|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Can|VERB I|PRON go|VERB now|ADV ?|.
+ grabs|NOUN Pauline|NOUN by|ADP the|DET shoulders|NOUN .|.
+ Sure|ADJ I|PRON ca|VERB n't|ADV tempt|VERB you|PRON to|PRT a|DET nice|ADJ sherry|NOUN ,|. Dr.|NOUN Hulme|NOUN ?|.
+ (|. Concerned|VERB )|. Is|VERB it|PRON hurting|VERB ,|. dear|VERB ?|.
+ What|QUESTIONTAG does|VERB old|ADJ Stew|NOUN want|NOUN ?|.
+ She|PRON says|VERB the|DET standard|NOUN of|ADP your|PRON work|NOUN is|VERB slipping|VERB .|.
+ You|PRON mean|VERB travel|ADJ by|ADP ourselves|NOUN ?|.
+ Do|VERB you|PRON think|VERB Bloody|NOUN Bill|NOUN 's|PRT trying|VERB to|PRT get|VERB into|ADP her|PRON draws|NOUN ?|.
+ Too|ADV right|ADJ .|.
+ Is|VERB she|PRON still|ADV in|ADP there|ADV ?|.
+ (|. Calling|VERB out|PRT )|. Hello|NOUN ?|.
+ (|. Worried|NOUN )|. Is|VERB Gina|NOUN coming|VERB ,|. too|ADV ?|.
+ What|QUESTIONTAG now|ADV ?|.
+ She|PRON says|VERB Juliet|NOUN 's|PRT in|ADP a|DET terrible|ADJ state|NOUN .|.
+ Is|VERB that|ADP a|DET good|ADJ idea|NOUN ?|.
+ looks|NOUN at|ADP HONORA|NOUN .|.
+ Why|ADV do|VERB n't|ADV I|PRON telephone|NOUN you|PRON tonight|VERB ,|. Mrs.|NOUN Hulme|NOUN ?|.

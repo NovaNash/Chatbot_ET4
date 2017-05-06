@@ -1,0 +1,171 @@
+ What|QUESTIONTAG have|VERB you|PRON been|VERB doing|VERB since|ADP you|PRON retired|VERB ?|.
+ I|PRON 've|VERB been|VERB ...|. keeping|VERB busy|ADJ .|.
+ Your|PRON father|NOUN ...|. Hikaru|NOUN Sulu|NOUN is|VERB your|PRON father|NOUN ?|.
+ Yes|X ,|. sir|NOUN .|.
+ And|CONJ what|PRON would|VERB that|DET be|VERB ,|. sir|VERB ?|.
+ Sulu|NOUN .|.
+ Can|VERB you|PRON locate|VERB them|PRON ?|.
+ The|DET ships|NOUN are|VERB bearing|VERB at|ADP three|NUM one|NUM zero|NUM mark|NOUN two|NUM one|NUM five|NUM .|.
+ Is|VERB there|DET something|NOUN wrong|ADJ with|ADP your|PRON chair|NOUN ,|. Captain|NOUN ?|.
+ What|QUESTIONTAG the|DET hell|NOUN is|VERB that|ADP ?|.
+ (|. off|ADP console|NOUN )|. I|PRON 've|VERB found|VERB the|DET transport|NOUN ships|NOUN .|.
+ You|PRON left|VERB spacedock|NOUN without|ADP a|DET tractor|NOUN beam|NOUN ?|.
+ It|PRON wo|VERB n't|ADV be|VERB installed|VERB until|ADP Tuesday|NOUN .|.
+ How|QUESTIONTAG many|ADJ people|NOUN were|VERB aboard|ADP that|DET ship|NOUN ?|.
+ Two|NUM hundred|VERB sixty-five|ADJ .|.
+ (|. concerned|VERB )|. How|QUESTIONTAG big|ADJ 's|PRT your|PRON medical|ADJ staff|NOUN ?|.
+ (|. embarrassed|VERB )|. The|DET medical|ADJ staff|NOUN ...|. does|VERB n't|ADV arrive|VERB until|ADP Tuesday|NOUN .|.
+ Scotty|NOUN ?|.
+ console|NOUN .|.
+ Why|ADV ...|. why|ADV ?|.
+ It|PRON 's|VERB all|ADV right|ADJ ...|. you|PRON 're|VERB safe|ADJ ...|. you|PRON 're|VERB on|ADP the|DET Enterprise|NOUN .|.
+ What|QUESTIONTAG was|VERB he|PRON talking|VERB about|ADP ?|.
+ nearby|ADV .|.
+ A|DET photon|NOUN torpedo|NOUN ?|.
+ Aye|NOUN .|.
+ (|. onto|ADP the|DET idea|NOUN )|. Where|QUESTIONTAG are|VERB the|DET deflector|NOUN relays|NOUN ?|.
+ Deck|NOUN fifteen|NOUN ,|. section|NOUN twenty-one|NOUN alpha|NOUN
+ Where|QUESTIONTAG ?|.
+ Sections|NOUN twenty|VERB through|ADP twenty-|ADJ eight|NUM on|ADP decks|NOUN thirteen|ADJ ...|. fourteen|NOUN ...|. (|. looks|VERB at|ADP Scotty|NOUN with|ADP meaning|NOUN )|. ...|. and|CONJ fifteen|ADJ .|.
+ My|PRON God|NOUN ...|. (|. beat|NOUN )|. Was|NOUN anyone|NOUN in|ADP there|ADV ?|.
+ Do|VERB n't|ADV you|PRON think|VERB you|PRON 're|VERB taking|VERB this|DET a|DET little|ADJ too|ADV far|ADV ,|. Number|NOUN One|NUM ?|.
+ When|QUESTIONTAG we|PRON went|VERB to|PRT ancient|VERB Rome|NOUN for|ADP Deanna|NOUN 's|PRT promotion|NOUN ,|. we|PRON threw|VERB her|PRON to|PRT the|DET lions|NOUN ,|. remember|VERB ?|.
+ (|. quiet|ADJ )|. Captain|NOUN ,|. are|VERB you|PRON all|DET right|ADV ?|.
+ Yes|X .|.
+ The|DET Royal|NOUN ...|. studs|NOUN ...|. ?|.
+ (|. smiles|NOUN ,|. points|NOUN aloft|ADV )|. You|PRON see|VERB the|DET top|ADJ yardarm|NOUN ,|. now|ADV look|VERB to|PRT the|DET --|.
+ Sir|NOUN ?|.
+ (|. hard|ADJ )|. Make|VERB it|PRON so|ADV .|.
+ Who|QUESTIONTAG attacked|VERB you|PRON ,|. Doctor|NOUN ?|.
+ I|PRON 'm|VERB not|ADV sure|ADJ ...|. it|PRON happened|VERB so|ADV fast|ADJ ...|.
+ Is|VERB she|PRON still|ADV angry|ADJ ?|.
+ No|DET ...|. but|CONJ I|PRON 'd|VERB stay|VERB out|ADP of|ADP Sickbay|NOUN for|ADP a|DET while|NOUN if|ADP I|PRON were|VERB you|PRON .|.
+ Data|NOUN ...|. you|PRON 're|VERB not|ADV thinking|VERB about|ADP using|VERB that|ADP thing|NOUN are|VERB you|PRON ?|.
+ It|PRON has|VERB occurred|VERB to|PRT me|PRON on|ADP several|ADJ occasions|NOUN .|.
+ There|DET 's|VERB still|ADV no|DET indication|NOUN of|ADP why|ADV they|PRON attacked|VERB the|DET station|NOUN ?|.
+ We|PRON think|VERB they|PRON were|VERB looking|VERB for|ADP something|NOUN --|. they|PRON practically|ADV tore|VERB the|DET place|NOUN apart|ADV .|.
+ You|PRON want|VERB me|PRON to|PRT contact|VERB Starfleet|NOUN ?|.
+ Is|VERB there|DET a|DET problem|NOUN ?|.
+ Sir|NOUN ...|. is|VERB there|DET anything|NOUN wrong|ADJ ?|.
+ No|DET .|.
+ Well|ADV ...|. ?|.
+ I|PRON believe|VERB the|DET beverage|NOUN has|VERB provoked|VERB an|DET emotional|ADJ response|NOUN .|.
+ Emotions|NOUN ?|.
+ I|PRON 'll|VERB explain|VERB later|ADV ...|.
+ Another|DET round|NOUN ?|.
+ Please|NOUN .|.
+ Doctor|NOUN Soran|NOUN ...|. ?|.
+ Yes|X ,|. yes|X ,|. Captain|NOUN --|. thank|NOUN you|PRON for|ADP coming|VERB .|.
+ Trilithium|NOUN ?|.
+ An|DET experimental|ADJ compound|NOUN the|DET Romulans|NOUN have|VERB been|VERB working|VERB on|ADP .|.
+ You|PRON get|VERB what|PRON ?|.
+ What|QUESTIONTAG ?|.
+ During|ADP the|DET Farpoint|NOUN mission|NOUN .|.
+ Data|NOUN ,|. are|VERB you|PRON all|DET right|ADV ?|.
+ I|PRON believe|VERB the|DET emotional|ADJ chip|NOUN has|VERB overloaded|VERB my|PRON positronic|ADJ relays|NOUN .|.
+ Is|VERB there|DET a|DET problem|NOUN ,|. gentlemen|NOUN ?|.
+ Your|PRON family|NOUN history|NOUN is|VERB very|ADV important|ADJ to|PRT you|PRON ,|. is|VERB n't|ADV it|PRON ?|.
+ (|. nods|NOUN )|. Ever|ADV since|ADP I|PRON was|VERB a|DET little|ADJ boy|NOUN ,|. I|PRON remember|VERB hearing|VERB about|ADP the|DET family|NOUN line|NOUN .|.
+ How|QUESTIONTAG is|VERB that|ADP possible|ADJ ?|.
+ Sensor|NOUN records|NOUN show|VERB a|DET solar|ADJ probe|NOUN was|VERB launched|VERB from|ADP the|DET observatory|NOUN a|DET few|ADJ moments|NOUN ago|ADV .|.
+ (|. to|PRT Worf|NOUN )|. Did|NOUN they|PRON return|VERB to|PRT the|DET ship|NOUN ?|.
+ (|. works|NOUN )|. No|X ,|. sir|NOUN .|.
+ How|QUESTIONTAG long|ADV until|ADP the|DET shock|NOUN wave|NOUN hits|VERB the|DET observatory|NOUN ?|.
+ Four|NUM minutes|NOUN ,|. forty|ADJ seconds|NOUN .|.
+ (|. to|PRT Worf|NOUN )|. What|QUESTIONTAG the|DET hell|NOUN 's|PRT he|PRON doing|VERB ?|.
+ unconscious|ADJ on|ADP the|DET deck|NOUN .|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG shall|VERB I|PRON do|VERB with|ADP this|DET ?|.
+ SORAN|NOUN Bring|NOUN him|PRON with|ADP me|PRON .|.
+ How|QUESTIONTAG is|VERB he|PRON ?|.
+ It|PRON looks|VERB like|ADP a|DET power|NOUN surge|NOUN fused|VERB the|DET emotional|ADJ chip|NOUN into|ADP his|PRON neural|ADJ net|NOUN .|.
+ Will|VERB that|DET be|VERB a|DET danger|NOUN to|PRT him|PRON ?|.
+ I|PRON do|VERB n't|ADV think|VERB so|ADV .|.
+ I|PRON checked|VERB the|DET passenger|NOUN manifest|ADJ of|ADP the|DET Lakul|NOUN ...|. guess|NOUN who|PRON else|ADV was|VERB on|ADP board|NOUN ?|.
+ on|ADP the|DET screen|NOUN .|.
+ Do|VERB you|PRON remember|VERB him|PRON ?|.
+ Oh|X yes|X .|.
+ What|QUESTIONTAG 's|VERB the|DET ``|. Nexus|NOUN ''|. ?|.
+ exotic-looking|ADJ alien|NOUN artifacts|NOUN ...|. distracting|VERB herself|PRON ...|. this|DET is|VERB difficult|ADJ for|ADP her|PRON to|PRT discuss|VERB .|.
+ What|QUESTIONTAG happened|VERB to|PRT you|PRON ?|.
+ I|PRON ca|VERB n't|ADV remember|VERB very|ADV much|ADV ...|. what|PRON it|PRON looked|VERB like|ADP or|CONJ how|ADV long|ADJ I|PRON was|VERB there|DET ...|. but|CONJ I|PRON do|VERB remember|VERB how|ADV it|PRON felt|VERB ...|.
+ What|QUESTIONTAG 's|VERB normal|ADJ ?|.
+ Normal|NOUN is|VERB what|PRON everyone|NOUN else|ADV is|VERB ...|. and|CONJ what|PRON you|PRON are|VERB not|ADV .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB ?|.
+ When|QUESTIONTAG is|VERB it|PRON expected|VERB back|ADV ?|.
+ Data|NOUN ?|.
+ Sorry|NOUN ,|. Captain|NOUN .|.
+ Data|NOUN ,|. are|VERB you|PRON all|DET right|ADV ?|.
+ No|DET ,|. sir|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ?|.
+ I|PRON wanted|VERB to|PRT save|VERB Geordi|NOUN ...|.
+ (|. musing|VERB )|. A|DET minor|ADJ course|NOUN correction|NOUN ...|. (|. beat|NOUN )|. Where|QUESTIONTAG is|VERB the|DET ribbon|NOUN now|ADV ?|.
+ Can|VERB you|PRON project|VERB its|PRON course|NOUN ?|.
+ turmoil|NOUN .|.
+ Where|QUESTIONTAG was|VERB the|DET Amargosa|NOUN star|NOUN ?|.
+ Now|ADV ...|. you|PRON said|VERB the|DET gravitational|ADJ forces|NOUN in|ADP this|DET sector|NOUN have|VERB been|VERB altered|VERB ...|. could|VERB that|ADP also|ADV affect|VERB the|DET course|NOUN of|ADP the|DET ribbon|NOUN ?|.
+ (|. thinks|NOUN )|. I|PRON believe|VERB so|ADV .|.
+ Data|NOUN ,|. what|PRON would|VERB happen|VERB to|PRT the|DET ribbon|NOUN 's|PRT path|NOUN if|ADP he|PRON destroyed|VERB the|DET Veridian|NOUN star|NOUN itself|PRON ?|.
+ Are|NOUN any|DET of|ADP them|PRON inhabited|VERB ?|.
+ Veridian|ADJ Three|NOUN is|VERB uninhabited|VERB .|.
+ Population|NOUN ?|.
+ Approximately|ADV two|NUM hundred|VERB thirty|ADJ million|NUM .|.
+ Did|NOUN you|PRON get|VERB anything|NOUN from|ADP the|DET human|NOUN ?|.
+ No|DET .|.
+ What|QUESTIONTAG do|VERB we|PRON do|VERB ?|.
+ In|ADP exchange|NOUN for|ADP what|PRON ?|.
+ Me|NOUN ...|.
+ Where|QUESTIONTAG is|VERB he|PRON ?|.
+ if|ADP she|PRON 's|VERB leaning|VERB over|PRT Geordi|NOUN .|.
+ (|. continuing|VERB ;|. pressing|VERB on|ADP )|. When|QUESTIONTAG you|PRON tucked|VERB your|PRON children|NOUN into|ADP bed|NOUN ...|. do|VERB you|PRON suppose|VERB they|PRON ever|ADV suspected|VERB that|ADP their|PRON father|NOUN would|VERB one|NUM day|NOUN kill|VERB millions|NOUN as|ADV casually|ADV as|ADP he|PRON kissed|VERB them|PRON goodnight|NOUN ?|.
+ that|DET Picard|NOUN has|VERB really|ADV gotten|VERB to|PRT him|PRON here|ADV ...|. then|ADV he|PRON finally|ADV smiles|VERB a|DET smile|NOUN that|DET does|VERB n't|ADV quite|VERB reach|VERB his|PRON eyes|NOUN .|.
+ Then|ADV when|ADV is|VERB he|PRON going|VERB to|PRT Engineering|NOUN ?|.
+ a|DET mirror|NOUN ...|. wipes|VERB away|ADV the|DET steam|NOUN and|CONJ reveals|VERB his|PRON own|ADJ reflection|NOUN .|.
+ Where|QUESTIONTAG is|VERB he|PRON now|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB ...|. he|PRON bathed|VERB ...|. now|ADV he|PRON is|VERB roaming|VERB the|DET ship|NOUN .|.
+ Plasma|NOUN coils|NOUN ...|. is|VERB there|DET any|DET way|NOUN we|PRON can|VERB use|VERB that|DET to|PRT our|PRON advantage|NOUN ?|.
+ I|PRON do|VERB not|ADV see|VERB how|ADV .|.
+ (|. to|PRT Data|NOUN )|. Could|NOUN we|PRON access|NOUN the|DET defective|ADJ coil|NOUN and|CONJ trigger|VERB their|PRON cloak|NOUN ?|.
+ (|. considers|NOUN )|. Perhaps|ADV .|.
+ What|QUESTIONTAG ?|.
+ Mistress|NOUN --|. our|PRON shields|NOUN are|VERB down|ADV !|.
+ (|. as|ADP if|ADP to|PRT a|DET child|NOUN )|. Do|VERB n't|ADV you|PRON have|VERB anything|NOUN better|ADJ to|PRT do|VERB ?|.
+ This|DET ...|. is|VERB the|DET Nexus|NOUN ?|.
+ For|ADP you|PRON .|.
+ Left|VERB behind|NOUN ...|. ?|.
+ When|QUESTIONTAG the|DET Enterprise-B|NOUN beamed|VERB us|PRON off|PRT the|DET Lakul|NOUN ,|. we|PRON were|VERB partially|ADV in|ADP the|DET Nexus|NOUN .|.
+ Soran|NOUN ...|. ?|.
+ All|DET of|ADP us|PRON .|.
+ Where|QUESTIONTAG is|VERB he|PRON now|ADV ?|.
+ Wherever|ADP he|PRON wanted|VERB to|PRT be|VERB ...|.
+ Papa|NOUN ...|. are|VERB you|PRON coming|VERB ?|.
+ heart|NOUN swells|NOUN ,|. the|DET temptation|NOUN to|PRT stay|VERB here|ADV and|CONJ live|VERB this|DET out|PRT is|VERB profound|ADJ .|.
+ Guinan|NOUN ...|. can|VERB I|PRON leave|VERB the|DET Nexus|NOUN ?|.
+ Why|ADV would|VERB you|PRON want|VERB to|PRT leave|VERB ?|.
+ (|. insistent|NOUN )|. Can|VERB I|PRON ?|.
+ Yes|NOUN ...|. where|ADV would|VERB you|PRON go|VERB ?|.
+ What|QUESTIONTAG makes|VERB you|PRON think|VERB things|NOUN will|VERB be|VERB any|DET different|ADJ this|DET time|NOUN ?|.
+ You|PRON 're|VERB right|ADJ .|.
+ Beautiful|ADJ day|NOUN ,|. is|VERB n't|ADV it|PRON ?|.
+ Yes|X ...|. yes|X ,|. it|PRON is|VERB .|.
+ Do|VERB you|PRON mind|VERB ?|.
+ wants|VERB him|PRON to|PRT put|VERB the|DET log|NOUN on|ADP the|DET chopping|NOUN block|NOUN for|ADP him|PRON .|.
+ How|QUESTIONTAG long|ADV have|VERB you|PRON been|VERB here|ADV ?|.
+ Better|ADV ?|.
+ This|DET is|VERB my|PRON uncle|NOUN 's|PRT barn|NOUN in|ADP Iowa|NOUN ...|.
+ Captain|NOUN of|ADP the|DET Enterprise|NOUN ,|. huh|NOUN ?|.
+ That|DET 's|VERB right|ADJ .|.
+ Close|ADV to|PRT retirement|NOUN ?|.
+ I|PRON had|VERB n't|ADV planned|VERB on|ADP it|PRON .|.
+ I|PRON take|VERB it|PRON the|DET odds|NOUN are|VERB against|ADP us|PRON ,|. and|CONJ the|DET situation|NOUN is|VERB grim|ADJ ?|.
+ You|PRON could|VERB say|VERB that|ADP .|.
+ Captain|NOUN ,|. are|VERB you|PRON all|DET right|ADV ?|.
+ Yes|X .|.
+ What|QUESTIONTAG about|ADP Doctor|NOUN Soran|NOUN ?|.
+ You|PRON need|VERB n't|ADV worry|VERB about|ADP the|DET Doctor|NOUN anymore|NOUN .|.
+ Was|NOUN there|DET a|DET problem|NOUN with|ADP the|DET Klingons|NOUN ?|.
+ Is|VERB there|DET another|DET patient|NOUN ?|.
+ No|DET --|. that|ADP one|NUM 's|PRT for|ADP me|PRON .|.
+ Data|NOUN ...|. are|VERB you|PRON all|DET right|ADV ?|.
+ I|PRON am|VERB not|ADV sure|ADJ ,|. Counselor|NOUN .|.
+ Is|VERB this|DET it|PRON ?|.

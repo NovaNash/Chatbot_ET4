@@ -1,0 +1,8 @@
+ notices|NOUN the|DET writing|VERB ]|NOUN [|NOUN spoken|VERB ]|NOUN :|. Mulan|NOUN ,|. what|PRON 's|VERB this|DET ?|.
+ in|ADP case|NOUN I|PRON forget|VERB something|NOUN ?|.
+ have|VERB you|PRON awaken|VERB ?|.
+ can|VERB only|ADV see|VERB it|PRON 's|VERB head|NOUN and|CONJ Mushu|NOUN 's|PRT body|NOUN ]|NOUN :|. Uhhh|NOUN ,|. Yes|NOUN ,|. I|PRON just|ADV woke|VERB up|PRT .|.
+ Are|NOUN you|PRON hungry|ADJ ?|.
+ her|PRON hands|NOUN .|.
+ What|QUESTIONTAG do|VERB we|PRON want|VERB ?|.
+ A|DET girl|NOUN worth|NOUN fighting|VERB for|ADP !|.

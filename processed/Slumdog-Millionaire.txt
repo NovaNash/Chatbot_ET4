@@ -1,0 +1,181 @@
+ Yes|X ?|.
+ Ask|VERB the|DET audience|NOUN .|.
+ How|QUESTIONTAG much|ADJ is|VERB bhelpuri|VERB at|ADP Jeevan|NOUN 's|PRT stall|NOUN on|ADP Chowpatty|NOUN Beach|NOUN ?|.
+ What|QUESTIONTAG ?|.
+ (|. amused|VERB )|. You|PRON know|VERB who|PRON that|DET was|VERB ?|.
+ Everyone|NOUN in|ADP Juhu|NOUN knows|VERB that|ADP .|.
+ No|DET ,|. you|PRON want|VERB to|PRT go|VERB back|ADV on|ADP the|DET programme|NOUN and|CONJ win|VERB twenty|NUM million|NUM rupees|NOUN ,|. do|VERB n't|ADV you|PRON ?|.
+ Would|VERB n't|ADV you|PRON ?|.
+ Are|NOUN you|PRON married|VERB ,|. Jamal|NOUN ?|.
+ No|DET .|.
+ Which|QUESTIONTAG one|NUM ?|.
+ All|DET three|NUM ,|. I|PRON heard|VERB .|.
+ Mister|NOUN Nandha|NOUN ?|.
+ We|PRON have|VERB destroyed|VERB your|PRON mosque|NOUN .|.
+ What|QUESTIONTAG about|ADP Jeevan|NOUN Chacha|NOUN ?|.
+ What|QUESTIONTAG shall|VERB we|PRON do|VERB ?|.
+ Where|QUESTIONTAG 's|VERB your|PRON Mother|NOUN ?|.
+ Father|NOUN ?|.
+ plastic|ADJ sheet|NOUN from|ADP around|ADP his|PRON shoulders|NOUN .|.
+ Final|NOUN answer|NOUN ?|.
+ Final|NOUN answer|NOUN .|.
+ You|PRON 're|VERB from|ADP the|DET Juhu|NOUN slum|NOUN ,|. are|VERB n't|ADV you|PRON ?|.
+ Hmm|NOUN ?|.
+ Calypso|NOUN Bar|NOUN ,|. private|ADJ room|NOUN ,|. just|ADV you|PRON and|CONJ me|PRON ?|.
+ Fifteen|NOUN .|.
+ You|PRON 'll|VERB play|VERB ?|.
+ Why|ADV not|ADV ?|.
+ And|CONJ did|VERB she|PRON come|VERB back|ADV ?|.
+ Pretty|NOUN was|VERB she|PRON ?|.
+ No|DET ?|.
+ I|PRON know|VERB this|DET one|NUM .|.
+ Why|ADV not|ADV ?|.
+ who|PRON is|VERB looking|VERB right|ADV at|ADP them|PRON .|.
+ And|CONJ why|ADV would|VERB they|PRON do|VERB that|DET ,|. I|PRON wonder|VERB ?|.
+ Ready|ADJ ?|.
+ Punnoose|NOUN has|VERB covered|VERB his|PRON mouth|NOUN with|ADP a|DET cloth|NOUN and|CONJ after|ADP the|DET briefest|NOUN of|ADP struggles|NOUN ,|. Arvind|NOUN 's|PRT body|NOUN goes|VERB limp|ADV .|.
+ What|QUESTIONTAG ?|.
+ Gunfighter|NOUN Number|NOUN One|NOUN ,|. is|VERB n't|ADV that|ADV right|ADJ ,|. Salim|NOUN ?|.
+ Enough|NOUN for|ADP a|DET room|NOUN ?|.
+ Easily|ADV .|.
+ Really|ADV ?|.
+ That|DET 's|VERB what|PRON Arvind|NOUN said|VERB .|.
+ Porthos|NOUN ?|.
+ Really|ADV ?|.
+ Sing|VERB me|PRON a|DET song|NOUN ,|. yaar|NOUN .|.
+ What|QUESTIONTAG ?|.
+ (|. shrugs|NOUN )|. I|PRON 've|VERB turned|VERB professional|ADJ .|.
+ Where|QUESTIONTAG you|PRON going|VERB ?|.
+ First|NOUN class|NOUN ,|. bhai|NOUN .|.
+ So|ADP what|PRON 's|VERB that|DET ?|.
+ Wow|NOUN .|.
+ Some|DET hotel|NOUN ,|. huh|NOUN ?|.
+ Please|NOUN ,|. what|PRON time|NOUN is|VERB the|DET next|ADJ tour|NOUN ?|.
+ Err-|NOUN
+ How|QUESTIONTAG did|VERB she|PRON die|VERB ?|.
+ A|DET road|NOUN traffic|NOUN accident|NOUN .|.
+ Really|ADV ?|.
+ Maximum|ADJ pile-up|NOUN .|.
+ You|PRON okay|VERB ?|.
+ You|PRON wanted|VERB to|PRT see|VERB the|DET `real|ADJ India|NOUN '|PRT ,|. Mister|NOUN David|NOUN .|.
+ Does|VERB he|PRON find|VERB her|PRON ?|.
+ Watch|NOUN and|CONJ see|NOUN .|.
+ How|QUESTIONTAG much|ADJ ?|.
+ Enough|ADV .|.
+ Get|VERB a|DET lot|NOUN of|ADP hundred|ADJ dollar|NOUN bills|NOUN in|ADP your|PRON line|NOUN of|ADP work|NOUN ,|. Jamal|NOUN ?|.
+ The|DET minimum|ADJ tip|NOUN for|ADP my|PRON services|NOUN .|.
+ Who|QUESTIONTAG 's|VERB on|ADP the|DET thousand|NOUN rupee|NOUN note|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB ?|.
+ There|DET are|VERB many|ADJ ways|NOUN of|ADP seeing|VERB .|.
+ And|CONJ without|ADP even|ADV a|DET song|NOUN ?|.
+ -|. how|ADV 's|PRT your|PRON voice|NOUN ,|. Jamal|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ -|. and|CONJ your|PRON eyes|NOUN ?|.
+ (|. surprised|VERB )|. My|PRON eyes|NOUN ?|.
+ Is|VERB it|PRON her|PRON or|CONJ not|ADV ?|.
+ Jamal|NOUN ?|.
+ What|QUESTIONTAG the|DET hell|NOUN do|VERB you|PRON want|VERB ?|.
+ Shall|NOUN I|PRON take|VERB them|PRON to|PRT the|DET marshes|NOUN ?|.
+ Whatever|DET you|PRON like|VERB .|.
+ Where|QUESTIONTAG did|VERB you|PRON get|VERB the|DET gun|NOUN ?|.
+ Bought|VERB it|PRON .|.
+ Why|ADV ca|VERB n't|ADV you|PRON just|ADV be|VERB happy|ADJ ,|. huh|NOUN ?|.
+ Happy|ADJ ?|.
+ You|PRON got|VERB what|PRON you|PRON wanted|VERB ,|. did|VERB n't|ADV you|PRON ?|.
+ What|QUESTIONTAG kind|NOUN of|ADP chicken|NOUN ?|.
+ (|. also|ADV dreaming|VERB )|. Tikka|NOUN Masala|NOUN .|.
+ Where|QUESTIONTAG 's|VERB Salim|NOUN ?|.
+ Dunno|NOUN .|.
+ You|PRON killed|VERB him|PRON ?|.
+ Salim|NOUN ?|.
+ I|PRON saved|VERB your|PRON bloody|ADJ life|NOUN ,|. did|VERB n't|ADV I|PRON ?|.
+ Salim|NOUN ,|. please-|NOUN
+ Where|QUESTIONTAG are|VERB they|PRON ?|.
+ Where|QUESTIONTAG did|VERB they|PRON go|VERB ?|.
+ walks|NOUN towards|NOUN Jamal|NOUN .|.
+ Bardi|NOUN ...|. Jamal|NOUN ?|.
+ Oh|X .|.
+ Okay|NOUN ,|. it|PRON 's|VERB been|VERB super-duper|ADJ hot|ADJ for|ADP UK|NOUN this|DET week|NOUN ,|. so|ADV there|DET 'll|VERB be|VERB a|DET lot|NOUN of|ADP chat|PRON about|ADP that-|NOUN they|PRON love|VERB their|PRON weather-|ADJ and|CONJ there|DET 's|VERB the|DET festival|NOUN in|ADP Edinburgh-|NOUN Edinburgh|NOUN ?|.
+ So|ADV why|ADV do|VERB n't|ADV you|PRON ?|.
+ Hello|NOUN ?|.
+ Kinoosie|NOUN ?|.
+ So|ADV where|ADV are|VERB you|PRON from|ADP ?|.
+ Yeah|X ?|.
+ Salim|NOUN ?|.
+ Who|QUESTIONTAG is|VERB this|DET ?|.
+ I|PRON am|VERB calling|VERB from|ADP XL|NOUN 5|NUM Communications|NOUN Sir|NOUN .|.
+ Ever|ADV been|VERB to|PRT Cambridge|NOUN ?|.
+ No|DET .|.
+ Ever|ADV been|VERB to|PRT the|DET circus|NOUN ?|.
+ Why|ADV not|ADV ?|.
+ Can|VERB someone|NOUN call|VERB me|PRON an|DET ambulance|NOUN ?|.
+ Based|VERB on|ADP your|PRON extensive|ADJ travelling|NOUN ,|. right|ADV ?|.
+ (|. almost|ADV to|PRT himself|PRON )|. Well|ADV ,|. Oxford|NOUN has|VERB Broad|NOUN Street|NOUN ,|. Saint|NOUN Aldates|NOUN ,|. Turl|NOUN Street|NOUN ,|. Queen|NOUN Street|NOUN ,|. The|DET High|NOUN and|CONJ Magdalene|NOUN Bridge-|NOUN which|DET is|VERB pronounced|ADJ Maudlin|NOUN ,|. so-|NOUN
+ (|. icy|NOUN )|. -|. what|PRON might|VERB it|PRON be|VERB then|ADV ,|. Jamal|NOUN ?|.
+ Well|ADV ,|. I|PRON do|VERB n't|ADV think|VERB it|PRON 's|VERB Cambridge|NOUN .|.
+ Final|NOUN answer|NOUN ?|.
+ Final|NOUN answer|NOUN .|.
+ Let|VERB 's|PRON call|VERB it|PRON manslaughter|ADV ,|. then|ADV ,|. shall|VERB we|PRON ?|.
+ Getting|VERB hot|ADJ in|ADP here|ADV ,|. is|VERB n't|ADV it|PRON ?|.
+ (|. genuinely|ADV )|. Are|VERB you|PRON nervous|ADJ ?|.
+ What|QUESTIONTAG sports|NOUN do|VERB you|PRON play|VERB ?|.
+ None|NOUN .|.
+ Are|NOUN you|PRON sure|VERB you|PRON want|VERB to|PRT do|VERB this|DET ?|.
+ Who|QUESTIONTAG else|ADV would|VERB protect|VERB us|PRON from|ADP Maman|NOUN 's|PRT gang|NOUN ,|. huh|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON do|VERB for|ADP him|PRON ?|.
+ What|QUESTIONTAG for|ADP ?|.
+ You|PRON think|VERB I|PRON am|VERB going|VERB to|PRT let|VERB you|PRON out|ADP of|ADP my|PRON sight|NOUN again|ADV ,|. little|ADJ brother|NOUN ?|.
+ Salim|NOUN ,|. where|ADV 's|PRT Latika|NOUN ?|.
+ Still|ADV ?|.
+ Why|ADV are|VERB you|PRON here|ADV ?|.
+ To|PRT see|VERB you|PRON .|.
+ Why|ADV does|VERB everyone|NOUN love|VERB this|DET programme|NOUN ?|.
+ Are|NOUN you|PRON happy|ADJ ?|.
+ I|PRON have|VERB five|NUM star|NOUN food|NOUN ,|. five|NUM star|NOUN clothes|NOUN .|.
+ You|PRON turn|VERB up|PRT here|ADV out|ADP of|ADP nowhere|ADV ,|. telling|VERB me|PRON I|PRON 'm|VERB not|ADV happy|ADJ :|. how|ADV dare|NOUN you|PRON ?|.
+ Where|QUESTIONTAG ?|.
+ You|PRON think|VERB he|PRON 'd|VERB tell|VERB me|PRON ?|.
+ (|. whispered|VERB )|. You|PRON want|VERB to|PRT do|VERB something|NOUN for|ADP me|PRON ?|.
+ Anything|NOUN .|.
+ Do|VERB you|PRON know|VERB ?|.
+ So|ADP it|PRON could|VERB be|VERB B|NOUN ,|. Ricky|NOUN Ponting|NOUN ?|.
+ Or|CONJ D.|NOUN Jack|NOUN Hobbs|NOUN .|.
+ Final|NOUN Answer|NOUN ?|.
+ Final|NOUN Answer|NOUN .|.
+ I|PRON can|VERB not|ADV believe|VERB what|PRON I|PRON am|VERB seeing|VERB here|ADV ,|. tonight|NOUN ,|. Ladies|NOUN and|CONJ Gentlemen|NOUN ...|. .So|NOUN ,|. are|VERB you|PRON ready|ADJ for|ADP the|DET final|ADJ question|NOUN for|ADP two|NUM Crore|NOUN rupees-|ADJ twenty|NOUN million|NUM rupees|NOUN ?|.
+ Not|ADV really|ADV ,|. but|CONJ ...|. maybe|ADV it|PRON is|VERB written|VERB ,|. no|DET ?|.
+ Where|QUESTIONTAG ?|.
+ I|PRON do|VERB n't|ADV know|VERB !|.
+ What|QUESTIONTAG 's|VERB going|VERB on|ADP ?|.
+ He|PRON 's|VERB a|DET cheat|NOUN .|.
+ How|QUESTIONTAG d'you|NOUN know|VERB he|PRON 's|VERB cheating|VERB ?|.
+ You|PRON gave|VERB him|PRON an|DET answer|NOUN ?|.
+ Well|ADV ,|. I|PRON did|VERB n't|ADV exactly-|VERB
+ Nita|NOUN ?|.
+ Because|ADP I|PRON am|VERB a|DET slum|NOUN dog|NOUN ,|. chi-|ADJ wallah|NOUN ,|. I|PRON am|VERB a|DET liar|NOUN ,|. right|ADV ?|.
+ Most|ADJ of|ADP you|PRON are|VERB .|.
+ That's-|NUM ?|.
+ -|. yes|NOUN ,|. yes|X !|.
+ Sir-|NOUN ?|.
+ What|QUESTIONTAG about|ADP my|PRON bloody|NOUN whisky|NOUN ,|. woman|NOUN ?|.
+ (|. to|PRT himself|PRON )|. Final|NOUN answer|NOUN ?|.
+ Who|QUESTIONTAG knows|VERB ?|.
+ The|DET chi-wallah|NOUN ?|.
+ No|DET ?|.
+ I|PRON 'll|VERB play|VERB .|.
+ -|. the|DET sort|NOUN of|ADP brother|NOUN who|PRON 'd|VERB go|VERB for|ADP a|DET walk|NOUN on|ADP the|DET twenty|NOUN million|NUM rupee|NOUN question|NOUN ?|.
+ It|PRON 's|VERB the|DET only|ADJ number|NOUN I|PRON know|VERB .|.
+ Hello|NOUN ?|.
+ What|QUESTIONTAG the|DET bloody-|NOUN ?|.
+ Is|VERB that|ADP really|ADV you|PRON ?|.
+ Yes|X .|.
+ Where|QUESTIONTAG are|VERB you|PRON ?|.
+ I'm-|ADJ I|PRON 'm|VERB safe|ADJ .|.
+ Apka|NOUN final|ADJ jawab|NOUN ?|.
+ Yes|X .|.
+ Finally|ADV ,|. huh|NOUN ?|.
+ If|ADP you|PRON 'd|VERB like|VERB to|PRT come|VERB with|ADP me|PRON .|.
+ Latika|NOUN ?|.
+ Jamal|NOUN ?|.
+ stop|VERB him|PRON .|.

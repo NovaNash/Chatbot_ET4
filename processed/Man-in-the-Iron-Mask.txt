@@ -1,0 +1,197 @@
+ M'lady|NOUN ...|. ?|.
+ You|PRON dead|VERB yet|ADV ?|.
+ No|DET ,|. Keeper|NOUN .|.
+ Forgiveness|NOUN ?|.
+ Am|NOUN I|PRON forgiven|ADV ?|.
+ backwards|NOUN ,|. landing|VERB in|ADP a|DET chair|NOUN .|.
+ Ca|NOUN n't|ADV you|PRON see|VERB I|PRON 'm|VERB praying|VERB ,|. goddammit|NOUN ?|.
+ Aramis|NOUN staggers|NOUN back|ADV and|CONJ grabs|VERB a|DET chair|NOUN to|PRT throw|VERB it|PRON ;|. Porthos|NOUN picks|VERB up|PRT the|DET whole|NOUN table|NOUN --|. just|ADV as|ADP d'Artagnan|ADJ enters|NOUN .|.
+ Do|VERB I|PRON look|VERB all|DET right|NOUN ?|.
+ None|NOUN of|ADP the|DET ladies|NOUN will|VERB be|VERB able|ADJ to|PRT take|VERB their|PRON eyes|NOUN off|ADP you|PRON .|.
+ The|DET party|NOUN has|VERB already|ADV begun|VERB --|. so|ADV why|ADV are|VERB you|PRON delaying|VERB me|PRON ?|.
+ We|PRON do|VERB not|ADV wish|VERB to|PRT delay|VERB you|PRON ,|. Majesty|NOUN ,|. but|CONJ ...|. as|ADP your|PRON advisors|NOUN ,|. we|PRON feel|VERB it|PRON is|VERB our|PRON --|. our|PRON --|.
+ Your|PRON birthday|NOUN celebration|NOUN ,|. your|PRON Majesty|NOUN ?|.
+ Next|ADJ week|NOUN .|.
+ How|QUESTIONTAG can|VERB I|PRON serve|VERB you|PRON in|ADP this|DET ?|.
+ Perhaps|ADV you|PRON can|VERB find|VERB out|PRT who|PRON this|DET secret|ADJ leader|NOUN of|ADP the|DET Jesuits|NOUN is|VERB .|.
+ Once|ADV a|DET Musketeer|NOUN ,|. always|ADV a|DET Musketeer|NOUN ,|. eh|NOUN ?|.
+ mirrors|NOUN everywhere|ADV in|ADP his|PRON palace|NOUN ,|. and|CONJ he|PRON loves|VERB his|PRON reflection|NOUN ,|. adorned|VERB as|ADP he|PRON is|VERB all|DET in|ADP golden|ADJ cloth|NOUN ,|. like|ADP fabric|NOUN from|ADP the|DET sun|NOUN .|.
+ Who|QUESTIONTAG is|VERB that|ADP ?|.
+ Raoul|NOUN ,|. son|NOUN of|ADP Athos|NOUN .|.
+ Monsieur|NOUN ,|. Mademoiselle|NOUN ...|. ?|.
+ No|DET !|.
+ Are|NOUN you|PRON men|NOUN or|CONJ mice|NOUN ?|.
+ it|PRON .|.
+ Michelle|NOUN ,|. is|VERB n't|ADV it|PRON ?|.
+ What|QUESTIONTAG number|NOUN did|VERB you|PRON tear|VERB out|PRT ?|.
+ Eh|NOUN ?|.
+ What|QUESTIONTAG number|NOUN ,|. on|ADP the|DET first|ADJ page|NOUN ?|.
+ ...|. Two-thirty-seven|NOUN .|.
+ You|PRON 've|VERB ...|. memorized|VERB ...|. ?|.
+ What|QUESTIONTAG was|VERB the|DET end|NOUN page|NOUN ?|.
+ Keeper|NOUN ...|. ?|.
+ M'lady|NOUN ...|. ?|.
+ I|PRON understand|VERB you|PRON saved|VERB my|PRON son|NOUN 's|PRT life|NOUN today|NOUN .|.
+ And|CONJ you|PRON were|VERB not|ADV hurt|VERB ?|.
+ No|DET ,|. M'lady|NOUN .|.
+ You|PRON ca|VERB n't|ADV drink|VERB with|ADP a|DET friend|NOUN you|PRON have|VERB n't|ADV seen|VERB in|ADP months|NOUN ?|.
+ I|PRON have|VERB ordered|VERB a|DET drill|NOUN of|ADP the|DET Royal|NOUN Guard|NOUN for|ADP midnight|NOUN ,|. and|CONJ must|VERB be|VERB clear-headed|ADJ for|ADP it|PRON .|.
+ But|CONJ --|. are|VERB you|PRON sure|ADJ ?|.
+ We|PRON were|VERB at|ADP her|PRON door|NOUN .|.
+ A|DET tomato|NOUN ?|.
+ sure|ADJ enough|ADV d'Artagnan|NOUN spears|NOUN it|PRON .|.
+ Does|VERB he|PRON know|VERB ?|.
+ We|PRON will|VERB tell|VERB him|PRON ,|. when|ADV it|PRON is|VERB ...|.
+ A|DET personal|ADJ nature|NOUN ?|.
+ Mademoiselle|NOUN Michelle|NOUN Beaufort|NOUN .|.
+ How|QUESTIONTAG goes|VERB that|ADP favor|NOUN I|PRON asked|VERB of|ADP you|PRON ?|.
+ I|PRON grow|VERB closer|ADV to|PRT my|PRON target|NOUN ,|. your|PRON Majesty|NOUN .|.
+ The|DET food|NOUN does|VERB n't|ADV please|VERB you|PRON ?|.
+ It|PRON 's|VERB lovely|ADV .|.
+ You|PRON would|VERB do|VERB that|ADP ,|. your|PRON Majesty|NOUN ?|.
+ My|PRON dear|NOUN ,|. I|PRON 've|VERB already|ADV done|VERB it|PRON .|.
+ Scared|VERB ?|.
+ Mask|NOUN in|ADP the|DET shoulder|NOUN ,|. then|ADV kicks|VERB him|PRON as|ADP he|PRON falls|VERB .|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ To|PRT kill|VERB the|DET king|NOUN .|.
+ What|QUESTIONTAG ?|.
+ Your|PRON Majesty|NOUN ...|. it|PRON is|VERB Andre|NOUN .|.
+ Shall|NOUN I|PRON leave|VERB ?|.
+ No|DET ,|. you|PRON may|VERB wait|VERB behind|ADP the|DET screen|NOUN .|.
+ Did|NOUN they|PRON kill|VERB him|PRON ?|.
+ No|DET .|.
+ Do|VERB you|PRON want|VERB Athos|NOUN arrested|VERB ,|. your|PRON Majesty|NOUN ?|.
+ Not|ADV by|ADP you|PRON .|.
+ Did|NOUN you|PRON know|VERB ...|. about|ADP Raoul|NOUN ?|.
+ I|PRON did|VERB not|ADV want|VERB to|PRT upset|VERB you|PRON .|.
+ Aramis|NOUN ...|. is|VERB this|DET the|DET way|NOUN to|PRT hell|VERB ?|.
+ Hell|NOUN may|VERB be|VERB our|PRON destination|NOUN ,|. dear|ADJ Porthos|NOUN ,|. but|CONJ not|ADV this|DET trip|NOUN .|.
+ Where|QUESTIONTAG are|VERB we|PRON ?|.
+ Jesus|NOUN of|ADP Nazareth|NOUN found|VERB the|DET holy|NOUN among|ADP the|DET profane|NOUN .|.
+ But|CONJ --|. does|VERB n't|ADV God|NOUN ordain|VERB both|DET Pope|NOUN and|CONJ King|NOUN ?|.
+ So|ADP they|PRON tell|VERB us|PRON .|.
+ What|QUESTIONTAG do|VERB you|PRON propose|VERB to|PRT do|VERB ?|.
+ Replace|VERB the|DET king|NOUN .|.
+ Porthos|NOUN ,|. see|VERB to|PRT Athos|NOUN ,|. wo|VERB n't|ADV you|PRON ?|.
+ What|QUESTIONTAG are|VERB they|PRON doing|VERB ?|.
+ Making|VERB the|DET key|NOUN to|PRT the|DET throne|NOUN .|.
+ What|QUESTIONTAG is|VERB that|DET ?|.
+ A|DET body|NOUN .|.
+ Who|QUESTIONTAG does|VERB ?|.
+ Best|ADV not|ADV to|PRT ask|VERB .|.
+ What|QUESTIONTAG do|VERB we|PRON do|VERB now|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB about|ADP you|PRON ,|. but|CONJ I|PRON plan|VERB to|PRT wait|VERB here|ADV .|.
+ Who|QUESTIONTAG is|VERB this|DET ,|. then|ADV ?|.
+ GUARD|NOUN speaks|VERB to|PRT the|DET little|ADJ priest|NOUN in|ADP Italian|ADJ ,|. and|CONJ the|DET little|ADJ priest|NOUN seems|VERB barely|ADV able|ADJ to|PRT left|VERB his|PRON head|NOUN ;|. Aramis|NOUN answers|NOUN for|ADP him|PRON ,|. in|ADP Italian|ADJ ,|. and|CONJ the|DET guard|NOUN translates|VERB --|.
+ What|QUESTIONTAG --|. ?|.
+ It|PRON is|VERB an|DET escape|NOUN .|.
+ Freedom|NOUN ...|. ?|.
+ the|DET bundle|NOUN ,|. revealing|VERB the|DET limp|NOUN body|NOUN .|.
+ What|QUESTIONTAG now|ADV ?|.
+ You|PRON ever|ADV wonder|VERB who|PRON he|PRON was|VERB ?|.
+ No|DET ...|.
+ His|PRON plight|NOUN is|VERB obvious|ADJ ,|. is|VERB n't|ADV it|PRON ?|.
+ the|DET Man|NOUN in|ADP the|DET Iron|NOUN Mask|NOUN toward|ADP the|DET house|NOUN ;|. then|ADV Aramis|NOUN spots|NOUN Porthos|NOUN ,|. looking|VERB downcast|NOUN .|.
+ And|CONJ why|ADV are|VERB you|PRON so|ADP glum|X ?|.
+ I|PRON expected|VERB action|NOUN .|.
+ Are|NOUN you|PRON hungry|ADJ ?|.
+ Just|ADV ...|. water|NOUN .|.
+ Who|QUESTIONTAG came|VERB ?|.
+ A|DET man|NOUN in|ADP black|ADJ .|.
+ And|CONJ you|PRON never|ADV knew|VERB why|ADV ?|.
+ I|PRON thought|VERB ...|. there|DET is|VERB something|NOUN about|ADP my|PRON face|NOUN that|ADP men|NOUN do|VERB not|ADV want|VERB to|PRT see|VERB .|.
+ What|QUESTIONTAG is|VERB your|PRON name|NOUN ?|.
+ The|DET old|ADJ man|NOUN and|CONJ woman|NOUN called|VERB me|PRON ...|. Phillippe|NOUN .|.
+ My|PRON friends|NOUN ...|. Where|QUESTIONTAG have|VERB you|PRON gone|VERB ?|.
+ M'lady|NOUN ...|. are|VERB you|PRON ...|. ?|.
+ Please|NOUN ,|. just|ADV ...|. go|VERB away|ADV .|.
+ Who|QUESTIONTAG is|VERB he|PRON ,|. Aramis|NOUN ?|.
+ Tomorrow|NOUN .|.
+ Porthos|NOUN ?|.
+ M'lady|NOUN ...|. ?|.
+ M'lady|NOUN ...|. ?|.
+ emotions|NOUN she|PRON has|VERB kept|VERB buried|VERB ,|. draws|VERB him|PRON nearer|NOUN .|.
+ What|QUESTIONTAG --|. ?|.
+ No|DET ,|. stay|VERB back|ADV !|.
+ What|QUESTIONTAG is|VERB wrong|ADJ ?|.
+ What|QUESTIONTAG is|VERB wrong|ADJ ?|.
+ But|CONJ why|ADV ?|.
+ Because|ADP the|DET old|ADJ king|NOUN had|VERB a|DET twin|NOUN as|ADV well|ADV ,|. and|CONJ through|ADP his|PRON whole|ADJ reign|NOUN his|PRON brother|NOUN fought|VERB him|PRON for|ADP the|DET throne|NOUN .|.
+ Restored|VERB ...|. ?|.
+ We|PRON will|VERB replace|VERB Louis|NOUN with|ADP Phillippe|NOUN .|.
+ What|QUESTIONTAG is|VERB its|PRON antidote|NOUN ?|.
+ I|PRON suppose|VERB ...|. it|PRON is|VERB to|PRT remember|VERB there|DET are|VERB many|ADJ people|NOUN who|PRON have|VERB never|ADV been|VERB in|ADP a|DET prison|NOUN ,|. who|PRON pass|VERB such|ADJ beauty|NOUN every|DET day|NOUN ,|. and|CONJ never|ADV see|VERB it|PRON .|.
+ What|QUESTIONTAG is|VERB that|DET ?|.
+ I|PRON did|VERB not|ADV share|NOUN beauty|NOUN with|ADP someone|NOUN ...|. who|PRON is|VERB no|DET longer|ADV here|ADV for|ADP me|PRON to|PRT share|NOUN beauty|NOUN with|ADP .|.
+ How|QUESTIONTAG is|VERB he|PRON ?|.
+ Resting|VERB ,|. he|PRON 's|VERB had|VERB a|DET long|ADJ day|NOUN .|.
+ But|CONJ --|. what|PRON is|VERB Porthos|NOUN doing|VERB ?|.
+ Going|VERB into|ADP the|DET barn|NOUN naked|VERB --|. or|CONJ so|ADP it|PRON appears|VERB .|.
+ But|CONJ --|. what|PRON is|VERB he|PRON doing|VERB ?|.
+ About|ADP to|PRT hang|VERB himself|PRON ,|. I|PRON should|VERB think|VERB .|.
+ Hang|NOUN himself|PRON ?|.
+ He|PRON 's|VERB threatened|VERB to|PRT do|VERB it|PRON ,|. it|PRON 's|VERB been|VERB building|VERB up|PRT in|ADP him|PRON for|ADP months|NOUN .|.
+ Where|QUESTIONTAG are|VERB you|PRON going|VERB ?|.
+ Paris|NOUN .|.
+ How|QUESTIONTAG did|VERB you|PRON know|VERB --|. ?|.
+ Porthos|NOUN told|VERB me|PRON .|.
+ Coming|VERB ?|.
+ What|QUESTIONTAG use|NOUN am|VERB I|PRON ?|.
+ Why|ADV did|VERB n't|ADV you|PRON say|VERB so|ADV ?|.
+ dark|NOUN ,|. spooky|ADJ alley|NOUN .|.
+ It|PRON is|VERB good|ADJ to|PRT be|VERB out|PRT on|ADP a|DET mission|NOUN again|ADV ...|. We|PRON are|VERB out|PRT on|ADP a|DET mission|NOUN ,|. are|VERB n't|ADV we|PRON ?|.
+ Did|NOUN she|PRON have|VERB tits|NOUN like|ADP that|DET ?|.
+ Whose|NOUN rooms|NOUN are|VERB those|DET ?|.
+ Your|PRON mother|NOUN 's|PRT .|.
+ D'Artagnan|NOUN ,|. unready|ADJ ?|.
+ At|ADP a|DET ball|NOUN ,|. everyone|NOUN watches|VERB the|DET King|NOUN !|.
+ Who|QUESTIONTAG ?|.
+ The|DET Queen|NOUN Mother|NOUN .|.
+ Father|NOUN Belles|NOUN --|. ?|.
+ Mother|DET --|. ?|.
+ May|NOUN I|PRON speak|VERB with|ADP you|PRON ?|.
+ What|QUESTIONTAG is|VERB it|PRON ,|. mother|ADV ?|.
+ I|PRON wish|VERB to|PRT discuss|VERB your|PRON brother|NOUN .|.
+ If|ADP ...|. if|ADP he|PRON was|VERB wearing|VERB an|DET iron|NOUN mask|NOUN in|ADP your|PRON dream|NOUN ,|. then|ADV how|ADV could|VERB you|PRON know|VERB he|PRON was|VERB your|PRON son|NOUN ?|.
+ Whose|ADJ carriage|NOUN is|VERB this|DET ?|.
+ It|PRON was|VERB mine|NOUN .|.
+ What|QUESTIONTAG is|VERB wrong|ADJ ,|. your|PRON majesty|NOUN ?|.
+ Nothing|NOUN ,|. I|PRON --|. continue|VERB .|.
+ See|VERB what|PRON ,|. Majesty|NOUN ?|.
+ back|ADV up|ADV ;|. the|DET young|ADJ beauty|NOUN sees|NOUN nothing|NOUN ,|. and|CONJ turns|VERB back|ADV to|PRT the|DET King|NOUN with|ADP a|DET look|NOUN that|ADP questions|NOUN his|PRON sanity|NOUN .|.
+ Your|PRON Majesty|NOUN ...|. ?|.
+ ...|. tired|VERB .|.
+ Your|PRON Majesty|NOUN ,|. is|VERB there|ADV anything|NOUN --|. ?|.
+ The|DET room|NOUN of|ADP the|DET King|NOUN 's|PRT favorite|ADJ mistress|NOUN ?|.
+ She|PRON will|VERB be|VERB at|ADP the|DET ball|NOUN .|.
+ You|PRON have|VERB your|PRON note|NOUN ?|.
+ first|ADV day|NOUN at|ADP school|NOUN .|.
+ How|QUESTIONTAG are|VERB you|PRON ...|. Michelle|NOUN ?|.
+ Phillippe|NOUN knows|VERB nothing|NOUN of|ADP what|PRON happened|VERB just|ADV before|ADP the|DET ball|NOUN ,|. and|CONJ he|PRON 's|VERB ambushed|VERB by|ADP her|PRON anger|NOUN .|.
+ Where|QUESTIONTAG is|VERB he|PRON ?|.
+ In|ADP ...|. the|DET ballroom|NOUN .|.
+ How|QUESTIONTAG long|ADV has|VERB the|DET King|NOUN been|VERB back|ADV ?|.
+ Some|DET while|NOUN ,|. Captain|NOUN .|.
+ Then|ADV who|PRON is|VERB that|ADP lying|VERB beside|ADP you|PRON ?|.
+ totally|ADV surprised|VERB at|ADP the|DET presence|NOUN of|ADP this|DET man|NOUN tied|VERB up|ADV and|CONJ gagged|VERB beside|NOUN him|PRON .|.
+ ...|. You|PRON knew|VERB you|PRON had|VERB a|DET double|ADJ ?|.
+ He|PRON is|VERB my|PRON brother|NOUN .|.
+ What|QUESTIONTAG had|VERB you|PRON to|PRT do|VERB with|ADP this|DET ,|. Mother|NOUN ?|.
+ He|PRON is|VERB your|PRON brother|NOUN !|.
+ Forgive|NUM ?|.
+ Aramis|NOUN ,|. Porthos|NOUN and|CONJ Athos|NOUN too|ADV .|.
+ You|PRON take|VERB the|DET side|NOUN of|ADP traitors|NOUN ?|.
+ Please|NOUN ,|. may|VERB I|PRON speak|VERB ?|.
+ Where|QUESTIONTAG is|VERB Michelle|NOUN ?|.
+ There|DET .|.
+ D'Artagnan|NOUN --|. ?|.
+ something|NOUN ;|. but|CONJ whatever|ADP it|PRON is|VERB ,|. he|PRON ca|VERB n't|ADV find|VERB the|DET words|NOUN ,|. and|CONJ with|ADP a|DET last|ADJ loving|ADJ look|NOUN at|ADP her|PRON ,|. he|PRON walks|VERB away|ADV .|.
+ So|ADV what|PRON has|VERB changed|VERB ?|.
+ Perhaps|ADV he|PRON serves|VERB a|DET different|ADJ king|NOUN .|.
+ Phillippe|NOUN ...|. ?|.
+ How|QUESTIONTAG did|VERB you|PRON --|.
+ old|ADJ Musketeers|NOUN dead|ADJ ?|.
+ walking|VERB now|ADV ,|. no|DET need|NOUN to|PRT run|VERB .|.
+ Brother|NOUN ...|. ?|.
+ lifts|NOUN a|DET hand|NOUN from|ADP d'Artagnan|NOUN 's|PRT back|ADV ;|. it|PRON is|VERB drenched|VERB in|ADP blood|NOUN .|.
+ And|CONJ them|PRON ?|.

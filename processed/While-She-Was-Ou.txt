@@ -1,0 +1,111 @@
+ What|QUESTIONTAG was|VERB that|DET ?|.
+ Oh|X nothing|NOUN ,|. Mary|NOUN .|.
+ Yes|X ,|. are|VERB you|PRON going|VERB to|PRT Tool|NOUN School|NOUN tomorrow|NOUN ?|.
+ interrupted|VERB ?|.
+ Pardon|NOUN ?|.
+ Bye|NOUN ,|. Mary|NOUN .|.
+ Can|VERB you|PRON hold|VERB ,|. I|PRON have|VERB another|DET call|NOUN ?|.
+ Okay|NOUN .|.
+ We|PRON 'll|VERB see|VERB you|PRON the|DET first|ADJ week|NOUN in|ADP January|NOUN then|ADV ?|.
+ Yes|X you|PRON will|VERB ...|. unless|ADP I|PRON run|VERB off|ADV and|CONJ become|VERB an|DET outlaw|NOUN or|CONJ something|NOUN .|.
+ Hello|NOUN ?|.
+ Hi|NOUN Della|NOUN ...|. it|PRON 's|VERB Cassie|NOUN .|.
+ What|QUESTIONTAG 's|VERB up|PRT ,|. Cassie|NOUN ?|.
+ I|PRON 'm|VERB over|ADP at|ADP Southeast|NOUN Plaza|NOUN .|.
+ You|PRON want|VERB me|PRON to|PRT pick|VERB up|PRT something|NOUN for|ADP you|PRON while|ADP I|PRON 'm|VERB here|ADV ?|.
+ It|PRON ca|VERB n't|ADV be|VERB that|ADP bad|ADJ ?|.
+ Why|ADV do|VERB n't|ADV we|PRON meet|VERB somewhere|ADV for|ADP a|DET drink|NOUN ?|.
+ Sure|ADJ ,|. but|CONJ a|DET latte|NOUN 's|PRT about|ADP the|DET best|ADJ they|PRON can|VERB do|VERB in|ADP this|DET mall|NOUN .|.
+ Hello|NOUN ?|.
+ Can|VERB I|PRON help|VERB you|PRON ?|.
+ Do|VERB you|PRON know|VERB where|ADV I|PRON can|VERB definitely|ADV find|VERB parking|NOUN ?|.
+ A|DET latte|NOUN please|NOUN ?|.
+ Bitter|NOUN or|CONJ Milk|NOUN chocolate|NOUN ?|.
+ biscotti|NOUN .|.
+ Name|NOUN ?|.
+ Della|NOUN ,|. two|NUM L|NOUN 's|PRT .|.
+ Della|NOUN ,|. is|VERB that|ADP you|PRON ?|.
+ redhead|NOUN about|ADP her|PRON age|NOUN .|.
+ How|QUESTIONTAG come|VERB the|DET ladies|NOUN '|PRT bathroom|NOUN is|VERB out|ADP of|ADP order|NOUN on|ADP a|DET night|NOUN like|ADP this|DET ?|.
+ The|DET one|NOUN at|ADP the|DET other|ADJ side|NOUN of|ADP the|DET mall|NOUN is|VERB open|ADJ ,|. Ma'am|NOUN .|.
+ How|QUESTIONTAG 's|VERB about|ADP I|PRON aim|VERB it|PRON at|ADP your|PRON pussy|NOUN first|ADV ?|.
+ Della|NOUN freezes|NOUN .|.
+ What|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON playing|VERB at|ADP ?|.
+ Trust|NOUN the|DET nigga|NOUN ,|. we|PRON not|ADV playin|VERB '|PRT .|.
+ You|PRON got|VERB a|DET beef|NOUN with|ADP us|PRON ,|. Mrs.|NOUN Podunk|NOUN ?|.
+ his|PRON fingers|NOUN along|ADP the|DET hood|NOUN of|ADP the|DET rusty|ADJ gold|NOUN Plymouth|NOUN .|.
+ Any|DET trouble|NOUN here|ADV ,|. ma'am|NOUN ?|.
+ in|ADP his|PRON fur|NOUN trimmed|VERB jacket|NOUN and|CONJ Russian|ADJ style|NOUN cap|NOUN .|.
+ How|QUESTIONTAG about|ADP it|PRON ,|. boys|VERB ?|.
+ mocking|VERB manner|NOUN imitating|VERB the|DET Rent-a-Cop|NOUN .|.
+ I|PRON can|VERB just|ADV put|VERB one|NUM through|ADP her|PRON windshield|NOUN ,|. right|ADV ?|.
+ whose|PRON body|NOUN still|ADV twitches|VERB in|ADP some|DET final|ADJ death|NOUN throe|NOUN .|.
+ Will|VERB you|PRON just|ADV DIE|VERB ?|.
+ The|DET world|NOUN is|VERB our|PRON bitch|NOUN ,|. right|ADV ?|.
+ What|QUESTIONTAG 's|VERB aggravating|VERB you|PRON now|ADV ?|.
+ Our|PRON new|ADJ sneakers|NOUN are|VERB stuck|VERB up|PRT in|ADP the|DET dirt|NOUN like|ADP they|PRON was|VERB last|ADJ years|NOUN .|.
+ Is|VERB she|PRON dead|ADJ already|ADV ?|.
+ into|ADP the|DET night|NOUN ?|.
+ Where|QUESTIONTAG 'd|VERB little|VERB red|ADJ riding|VERB hood|NOUN git|NOUN to|PRT ?|.
+ She|PRON ai|VERB n't|ADV leaving|VERB any|DET bread|ADJ crumbs|NOUN that|DET 's|VERB for|ADP sure|ADJ .|.
+ What|QUESTIONTAG was|VERB that|DET ?|.
+ What|QUESTIONTAG 's|VERB with|ADP the|DET man|NOUN size|NOUN crast|NOUN ?|.
+ You|PRON running|VERB with|ADP the|DET family|NOUN jewels|NOUN ?|.
+ You|PRON rob|VERB a|DET bank|NOUN this|DET morning|NOUN ,|. Della|NOUN ?|.
+ Least|NOUN yo|NOUN learned|VERB something|NOUN tonight|ADJ Della|NOUN honey|NOUN ?|.
+ Yeah|X ,|. like|ADP how|ADV to|PRT quit|VERB mouthing|VERB if|ADP you|PRON wan|VERB na|ADJ avoid|ADJ drama|NOUN .|.
+ So|ADP what|PRON 's|VERB in|ADP the|DET box|NOUN ?|.
+ Yo|NOUN think|VERB she|PRON carrying|VERB the|DET big|ADJ notes|NOUN ,|. maybe|ADV some|DET ice|NOUN ?|.
+ Nah|NOUN ,|. it|PRON ai|VERB n't|ADV about|ADP to|PRT rain|VERB diamonds|NOUN ,|. Huey|NOUN .|.
+ That|DET right|ADJ Della|NOUN ?|.
+ You|PRON got|VERB enough|ADJ scratch|NOUN in|ADP there|ADV to|PRT grease|VERB us|PRON up|PRT with|ADP ?|.
+ What|QUESTIONTAG the|DET fuck|NOUN ,|. niggaz|ADV ?|.
+ Shut|NOUN up|PRT .|.
+ You|PRON hurt|VERB ?|.
+ SHUT|NOUN THE|NOUN FUCK|NOUN UP|NOUN .|.
+ What|QUESTIONTAG ?|.
+ What|QUESTIONTAG the|DET fuck|NOUN you|PRON doing|VERB ?|.
+ his|PRON weird|ADJ dance|NOUN .|.
+ I|PRON asked|VERB you|PRON what|PRON your|PRON deal|NOUN is|VERB ,|. sand|NOUN dancer|NOUN ?|.
+ shivers|NOUN .|.
+ A|DET what|PRON ?|.
+ Your|PRON brain|NOUN even|ADV smaller|ADJ than|ADP 'em|PRON slits|VERB for|ADP eyes|NOUN ?|.
+ 8|NUM replay|NOUN .|.
+ You|PRON checked|VERB out|PRT ,|. right|ADV ?|.
+ He|PRON loved|VERB that|ADP track|NOUN .|.
+ What|QUESTIONTAG now|ADV ,|. cabron|NOUN ?|.
+ Fell|NOUN in|ADP a|DET frozen|ADJ ass|NOUN stream|NOUN .|.
+ What|QUESTIONTAG if|ADP I|PRON steal|VERB it|PRON from|ADP you|PRON ?|.
+ There|DET you|PRON go|VERB ,|. bro|NOUN .|.
+ Huey|NOUN ?|.
+ Is|VERB that|ADP you|PRON ,|. homie|VERB ?|.
+ Vinh|NOUN points|NOUN into|ADP the|DET brush|NOUN .|.
+ What|QUESTIONTAG ?|.
+ right|ADV ,|. that|ADP Huey|NOUN may|VERB just|ADV be|VERB alive|ADJ .|.
+ Where|QUESTIONTAG are|VERB you|PRON ,|. God|NOUN ?|.
+ rocking|NOUN .|.
+ Vinh|NOUN ?|.
+ VINH|NOUN ?|.
+ Della|NOUN ?|.
+ almost|ADV smiles|NOUN .|.
+ Delllaaa|NOUN ?|.
+ They|PRON would|VERB n't|ADV know|VERB a|DET damn|ADJ thing|NOUN about|ADP what|PRON happened|VERB to|PRT Mommy|NOUN while|ADP she|PRON was|VERB out|ADV ,|. would|VERB they|PRON ,|. Della|NOUN ?|.
+ You|PRON know|VERB the|DET movie|NOUN ``|. Clockwork|NOUN Orange|NOUN ''|. ?|.
+ How|QUESTIONTAG 's|VERB about|ADP it|PRON ,|. you|PRON and|CONJ me|PRON ?|.
+ her|PRON breath|NOUN .|.
+ Hell|NOUN of|ADP a|DET night|NOUN ,|. huh|NOUN ?|.
+ point|NOUN up|PRT through|ADP the|DET trees|NOUN and|CONJ into|ADP the|DET sky|NOUN between|ADP them|PRON .|.
+ What|QUESTIONTAG now|ADV ?|.
+ grin|NOUN .|.
+ Huey|NOUN there|DET ,|. going|VERB to|PRT help|VERB ?|.
+ Where|QUESTIONTAG the|DET hell|NOUN have|VERB you|PRON been|VERB ?|.
+ Della|NOUN ?|.
+ Della|NOUN honey|NOUN are|VERB you|PRON all|DET right|ADV ?|.
+ What|QUESTIONTAG ?|.
+ wrapping|VERB up|PRT behind|ADP him|PRON on|ADP TV|NOUN .|.
+ What|QUESTIONTAG happened|VERB to|PRT you|PRON ?|.
+ Was|NOUN there|DET an|DET accident|NOUN ?|.
+ Are|NOUN you|PRON hurt|VERB ?|.
+ stone|NOUN .|.
+ Are|ADP they|PRON okay|VERB ?|.
+ Sound|ADJ asleep|ADV ,|. huh|NOUN ?|.

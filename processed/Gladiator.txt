@@ -1,0 +1,185 @@
+ Do|VERB you|PRON think|VERB he|PRON 's|VERB really|ADV dying|VERB ?|.
+ slightly|ADV older|ADJ ,|. beautiful|ADJ and|CONJ patrician|ADJ .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB that|DET ?|.
+ I|PRON 've|VERB been|VERB so|ADV informed|ADJ .|.
+ Why|ADV have|VERB we|PRON stopped|VERB ?|.
+ We|PRON 're|VERB here|ADV ,|. sir|NOUN .|.
+ (|. to|PRT Soldier|NOUN #|. 1|NUM )|. Where|QUESTIONTAG is|VERB my|PRON father|NOUN ?|.
+ He|PRON 's|VERB at|ADP the|DET front|NOUN ,|. sir|NOUN .|.
+ Is|VERB the|DET battle|NOUN won|VERB ?|.
+ Do|VERB n't|ADV know|VERB ,|. sir|NOUN .|.
+ Why|ADV do|VERB n't|ADV they|PRON know|VERB they|PRON 're|VERB already|ADV dead|ADJ ?|.
+ But|CONJ this|DET night|NOUN ,|. at|ADP least|ADJ ,|. Germania|NOUN is|VERB at|ADP last|ADJ defeated|VERB ...|. What|QUESTIONTAG will|VERB you|PRON do|VERB now|ADV ,|. my|PRON friend|NOUN ?|.
+ Should|VERB Caesar|NOUN permit|NOUN ,|. I|PRON 'll|VERB go|VERB home|NOUN .|.
+ (|. to|PRT Soldier|NOUN )|. Stop|NOUN ...|. (|. to|PRT Prisoner|NOUN )|. ...|. You|PRON speak|VERB our|PRON language|NOUN ?|.
+ You|PRON have|VERB been|VERB in|ADP my|PRON homeland|NOUN for|ADP twelve|NOUN years|NOUN .|.
+ Tell|VERB me|PRON again|ADV ,|. Maximus|NOUN ,|. why|ADV are|VERB we|PRON here|ADV ?|.
+ For|ADP the|DET glory|NOUN of|ADP the|DET empire|NOUN ,|. sire|NOUN .|.
+ Have|VERB I|PRON missed|VERB it|PRON ?|.
+ Have|VERB I|PRON missed|VERB the|DET battle|NOUN ?|.
+ You|PRON 've|VERB missed|VERB the|DET war|NOUN .|.
+ (|. ignores|NOUN this|DET )|. Where|QUESTIONTAG 's|VERB your|PRON sister|NOUN ?|.
+ She|PRON 's|VERB at|ADP the|DET camp|NOUN .|.
+ What|QUESTIONTAG ,|. Gallus|NOUN ,|. losing|VERB your|PRON other|ADJ hand|NOUN ?|.
+ Aye|NOUN ,|. General|NOUN ,|. they|PRON 're|VERB going|VERB to|PRT make|VERB a|DET bronze|NOUN one|NUM for|ADP it|PRON .|.
+ What|QUESTIONTAG 's|VERB your|PRON name|NOUN ,|. son|NOUN ?|.
+ Valerius|NOUN ,|. General|NOUN .|.
+ Why|ADV am|VERB I|PRON dying|VERB ?|.
+ hand|NOUN .|.
+ Still|ADV damning|VERB me|PRON to|PRT the|DET four|NUM winds|NOUN ?|.
+ Still|ADV eager|ADJ for|ADP your|PRON triumphant|ADJ return|NOUN to|PRT Rome|NOUN ,|. Caesar|NOUN .|.
+ (|. to|PRT Maximus|NOUN )|. My|PRON old|ADJ friend|NOUN ,|. my|PRON father|NOUN tells|VERB me|PRON you|PRON 're|VERB returning|VERB to|PRT Spain|NOUN ?|.
+ Yes|X .|.
+ (|. to|PRT Maximus|NOUN )|. ...|. And|CONJ why|ADV not|ADV apply|VERB for|ADP entry|NOUN to|PRT the|DET Senate|NOUN ?|.
+ A|DET war|NOUN hero|NOUN with|ADP a|DET handsome|ADJ face|NOUN and|CONJ a|DET strong|ADJ heart|NOUN could|VERB go|VERB far|ADV .|.
+ Have|VERB you|PRON never|ADV considered|VERB Rome|NOUN ?|.
+ No|DET .|.
+ Are|NOUN you|PRON a|DET believer|NOUN in|ADP Republicanism|NOUN ?|.
+ (|. laughs|NOUN )|. There|DET --|. I|PRON warned|VERB you|PRON .|.
+ Excuse|ADP me|PRON ?|.
+ My|PRON men|NOUN have|VERB been|VERB fighting|VERB for|ADP five|NUM solid|ADJ days|NOUN .|.
+ This|DET is|VERB a|DET pleasant|ADJ fiction|NOUN ,|. is|VERB n't|ADV it|PRON ?|.
+ What|QUESTIONTAG does|VERB my|PRON father|NOUN intend|NOUN ?|.
+ Commodus|NOUN was|VERB so|ADV angry|ADJ that|ADP a|DET mere|ADJ peasant|NOUN --|. a|DET Spaniard|NOUN no|DET less|NOUN --|. touched|VERB the|DET royal|NOUN person|NOUN ,|. do|VERB you|PRON remember|VERB his|PRON anger|NOUN ?|.
+ Yes|X .|.
+ May|NOUN I|PRON be|VERB permitted|VERB to|PRT go|VERB ,|. Highness|NOUN ?|.
+ Quintus|NOUN --|. ?|.
+ The|DET Emperor|NOUN needs|VERB you|PRON .|.
+ How|QUESTIONTAG did|VERB he|PRON die|VERB ?|.
+ How|QUESTIONTAG did|VERB he|PRON die|VERB ?|.
+ The|DET surgeons|NOUN say|VERB it|PRON was|VERB his|PRON breath|NOUN that|DET gave|VERB out|PRT .|.
+ How|QUESTIONTAG will|VERB the|DET world|NOUN speak|VERB your|PRON name|NOUN now|ADV ,|. old|ADJ man|NOUN ?|.
+ What|QUESTIONTAG --|. ?|.
+ (|. ashamed|VERB )|. Please|NOUN do|VERB n't|ADV fight|VERB ,|. Maximus|NOUN --|.
+ Quintus|NOUN ,|. what|PRON --|. ?|.
+ (|. anguish|ADJ )|. I|PRON have|VERB no|DET choice|NOUN --|.
+ (|. suddenly|ADV )|. My|PRON family|NOUN ?|.
+ What|QUESTIONTAG about|ADP my|PRON family|NOUN ,|. Quintus|NOUN ?|.
+ (|. quietly|ADV )|. They|PRON will|VERB greet|VERB you|PRON in|ADP the|DET afterlife|NOUN .|.
+ Have|VERB you|PRON ever|ADV done|VERB this|DET before|ADP ?|.
+ What|QUESTIONTAG ?|.
+ Killed|VERB a|DET man|NOUN with|ADP a|DET sword|NOUN ?|.
+ Not|ADV like|ADP this|DET ,|. exactly|ADV ...|. this|DET is|VERB good|ADJ ,|. you|PRON can|VERB stop|VERB .|.
+ Would|VERB you|PRON kneel|VERB ,|. General|NOUN ?|.
+ #|. 3|NUM stands|NOUN over|ADV him|PRON as|ADP :|.
+ One|NUM good|ADJ stroke|NOUN --|. you|PRON do|VERB know|VERB where|ADV ,|. do|VERB n't|ADV you|PRON ?|.
+ Be|NOUN quiet|ADJ .|.
+ All|DET right|NOUN ,|. where|ADV ?|.
+ Here|ADV --|. you|PRON do|VERB n't|ADV want|VERB to|PRT hit|VERB the|DET vein|NOUN on|ADP the|DET neck|NOUN --|.
+ Quintus|NOUN ,|. what|PRON is|VERB --|. ?|.
+ (|. firmly|ADV )|. Do|VERB n't|ADV speak|VERB of|ADP it|PRON .|.
+ (|. weakly|NOUN )|. Am|VERB I|PRON in|ADP Hades|NOUN ?|.
+ Yes|X .|.
+ How|QUESTIONTAG much|ADJ for|ADP the|DET lot|NOUN ?|.
+ For|ADP you|PRON --|. 8,000|NUM sesterces|NOUN .|.
+ Where|QUESTIONTAG did|VERB you|PRON get|VERB those|DET scars|NOUN ?|.
+ Are|NOUN you|PRON a|DET soldier|ADJ ?|.
+ How|QUESTIONTAG could|VERB I|PRON say|VERB no|DET to|PRT my|PRON old|ADJ friend|NOUN Proximo|NOUN ?|.
+ Have|VERB you|PRON killed|VERB a|DET man|NOUN before|ADP ?|.
+ (|. to|PRT Maximus|NOUN )|. Are|VERB we|PRON going|VERB to|PRT fight|VERB each|DET other|ADJ ?|.
+ How|QUESTIONTAG many|ADJ strokes|NOUN ?|.
+ Two|NUM .|.
+ (|. re|NOUN :|. Vibius|NOUN )|. Who|QUESTIONTAG 's|VERB he|PRON with|ADP ?|.
+ A|DET Greek|ADJ Scribe|NOUN .|.
+ Do|VERB you|PRON think|VERB he|PRON 'll|VERB listen|VERB to|PRT us|PRON ?|.
+ It|PRON is|VERB his|PRON duty|NOUN to|PRT hear|VERB the|DET will|VERB of|ADP the|DET Senate|NOUN .|.
+ Darling|VERB children|NOUN ,|. to|PRT be|VERB sure|ADJ ,|. now|ADV if|ADP I|PRON may|VERB proceed|VERB ?|.
+ (|. sighs|NOUN )|. Very|ADV well|ADV ...|.
+ Have|VERB you|PRON ever|ADV embraced|VERB someone|NOUN dying|NOUN of|ADP plague|NOUN ,|. sire|NOUN ?|.
+ You|PRON want|VERB to|PRT hold|VERB games|NOUN ?|.
+ Not|ADV just|ADV any|DET games|NOUN ,|. Senator|NOUN !|.
+ If|ADP I|PRON may|VERB ,|. Caesar|NOUN ...|. how|ADV are|VERB you|PRON going|VERB to|PRT pay|VERB for|ADP this|DET ?|.
+ That|DET is|VERB not|ADV your|PRON concern|NOUN .|.
+ (|. holding|VERB up|PRT a|DET plate|NOUN )|. Butterfly|NOUN ?|.
+ still|ADV moving|VERB slightly|ADV .|.
+ Perhaps|ADV you|PRON 'd|VERB like|VERB a|DET woman|NOUN ?|.
+ Boy|NOUN ?|.
+ Gold|NOUN ?|.
+ And|CONJ nothing|NOUN more|ADJ ?|.
+ Nothing|VERB more|ADV .|.
+ (|. barely|ADV controlled|VERB )|. The|DET Emperor|NOUN --|. will|VERB he|PRON be|VERB there|ADV ?|.
+ Oh|X yes|X .|.
+ Have|VERB you|PRON --|. how|ADV does|VERB one|NUM meet|VERB the|DET Emperor|NOUN ?|.
+ As|ADP a|DET gladiator|NOUN ?|.
+ He|PRON give|VERB it|PRON personally|ADV ?|.
+ He|PRON did|VERB to|PRT me|PRON ...|. (|. Maximus|NOUN is|VERB surprised|VERB at|ADP this|DET )|. Our|PRON great|ADJ father|NOUN Marcus|NOUN Aurelius|NOUN looked|VERB into|ADP my|PRON eyes|NOUN and|CONJ touched|VERB me|PRON on|ADP the|DET shoulder|NOUN .|.
+ You|PRON knew|VERB Marcus|NOUN ?|.
+ I|PRON did|VERB n't|ADV know|VERB him|PRON .|.
+ Will|VERB you|PRON stay|VERB with|ADP me|PRON ?|.
+ (|. smiles|NOUN gently|ADV )|. Still|ADV afraid|VERB of|ADP the|DET dark|NOUN ,|. brother|NOUN ?|.
+ Can|VERB they|PRON be|VERB bought|VERB ?|.
+ They|PRON are|VERB zealots|NOUN --|. totally|ADV committed|VERB to|PRT your|PRON brother|NOUN .|.
+ Well|ADV ,|. can|VERB they|PRON at|ADP least|ADJ be|VERB rented|VERB for|ADP a|DET day|NOUN ?|.
+ I|PRON doubt|VERB it|PRON .|.
+ What|QUESTIONTAG about|ADP the|DET army|NOUN ?|.
+ No|DET Roman|NOUN army|NOUN has|VERB entered|VERB the|DET capital|NOUN in|ADP a|DET hundred|NUM years|NOUN .|.
+ So|ADP we|PRON do|VERB nothing|NOUN ?|.
+ Off|ADP the|DET coast|NOUN of|ADP Achaea|NOUN they|PRON grow|VERB twenty|ADJ times|NOUN this|DET size|NOUN ,|. with|ADP snapping|VERB teeth|NOUN to|PRT devour|VERB any|DET nasty|ADJ Praetorians|NOUN they|PRON come|VERB across|ADP ...|. now|ADV ,|. where|ADV is|VERB Achaea|NOUN ?|.
+ Below|ADP Macedonia|NOUN !|.
+ What|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT do|VERB ?|.
+ Not|ADV what|PRON you|PRON expected|VERB ?|.
+ No|DET .|.
+ Are|NOUN you|PRON scared|VERB for|ADP tomorrow|NOUN ?|.
+ No|DET .|.
+ All|DET right|NOUN --|. there|DET are|VERB three|NUM other|ADJ teams|NOUN ,|. four|NUM men|NOUN each|DET --|. (|. to|PRT Maximus|NOUN )|. You|PRON know|VERB what|PRON a|DET Thracian|ADJ looks|VERB like|ADP ?|.
+ Yes|X ,|. but|CONJ --|.
+ What|QUESTIONTAG --|. ?|.
+ Why|ADV is|VERB he|PRON still|ADV alive|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ What|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT do|VERB ?|.
+ I|PRON 'm|VERB going|VERB to|PRT kill|VERB him|PRON .|.
+ No|DET ?|.
+ The|DET people|NOUN embraced|VERB him|PRON today|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON plan|VERB it|PRON ?|.
+ The|DET Senate|NOUN is|VERB with|ADP us|PRON ,|. and|CONJ the|DET City|NOUN Guard|NOUN .|.
+ What|QUESTIONTAG is|VERB your|PRON son|NOUN 's|PRT name|NOUN ?|.
+ Lucius|NOUN Verus|NOUN .|.
+ What|QUESTIONTAG can|VERB you|PRON tell|VERB me|PRON ?|.
+ He|PRON cheats|VERB .|.
+ Is|VERB it|PRON true|ADJ you|PRON 're|VERB a|DET General|NOUN ...|. ?|.
+ has|VERB no|DET idea|NOUN who|PRON the|DET boy|NOUN is|VERB --|. just|ADV another|DET young|ADJ fan|NOUN --|. but|CONJ Maximus|NOUN is|VERB immediately|ADV struck|VERB by|ADP Lucius|NOUN '|PRT resemblance|NOUN to|PRT his|PRON own|ADJ son|NOUN .|.
+ Where|QUESTIONTAG is|VERB my|PRON army|NOUN ?|.
+ following|VERB scenes|NOUN ,|. building|VERB momentum|NOUN like|ADP a|DET Roman|NOUN gallery|NOUN accelerating|VERB to|PRT ramming|VERB speed|NOUN .|.
+ How|QUESTIONTAG many|ADJ are|VERB with|ADP us|PRON ?|.
+ About|ADP half|NOUN .|.
+ And|CONJ what|PRON of|ADP the|DET Emperor|NOUN ?|.
+ One|NUM question|NOUN ...|. who|PRON is|VERB to|PRT be|VERB the|DET actual|ADJ Regicide|NOUN ?|.
+ And|CONJ they|PRON will|VERB march|VERB on|ADP Rome|NOUN for|ADP you|PRON ?|.
+ Yes|X .|.
+ I|PRON only|ADV have|VERB one|NUM question|NOUN for|ADP you|PRON ,|. General|NOUN ...|. Why|ADV ?|.
+ I|PRON limited|VERB my|PRON world|NOUN to|PRT these|DET four|NUM walls|NOUN so|ADV as|ADP to|PRT let|VERB my|PRON mind|NOUN free|ADJ ...|. again|ADV and|CONJ again|ADV my|PRON mind|NOUN settles|NOUN on|ADP but|CONJ one|NUM question|NOUN ...|. What|QUESTIONTAG kind|NOUN of|ADP world|NOUN are|VERB we|PRON making|VERB when|ADV the|DET people|NOUN of|ADP Rome|NOUN prefer|VERB a|DET slave|NOUN in|ADP the|DET arena|NOUN to|PRT their|PRON father|NOUN ?|.
+ Lucilla|NOUN .|.
+ And|CONJ what|PRON if|ADP he|PRON should|VERB win|VERB ?|.
+ But|CONJ I|PRON need|VERB to|PRT know|VERB --|. why|ADV do|VERB they|PRON love|VERB him|PRON ?|.
+ Mercy|NOUN .|.
+ But|CONJ who|PRON can|VERB be|VERB more|ADV merciful|ADJ than|ADP the|DET Emperor|NOUN of|ADP Rome|NOUN ?|.
+ Brother|NOUN ...|. we|PRON 've|VERB taken|VERB a|DET sad|ADJ path|NOUN since|ADP we|PRON were|VERB children|NOUN at|ADP Capri|NOUN ,|. have|VERB we|PRON not|ADV ?|.
+ Will|VERB you|PRON always|ADV mistrust|VERB me|PRON ?|.
+ Why|ADV do|VERB n't|ADV you|PRON ask|VERB your|PRON father|NOUN that|ADP ?|.
+ Where|QUESTIONTAG is|VERB my|PRON sister|NOUN ?|.
+ She|PRON 's|VERB out|PRT ,|. sir|NOUN ...|.
+ Where|QUESTIONTAG ?|.
+ I|PRON ...|. do|VERB n't|ADV know|VERB ,|. Caesar|NOUN .|.
+ Where|QUESTIONTAG is|VERB my|PRON sister|NOUN ?|.
+ How|QUESTIONTAG did|VERB you|PRON know|VERB ?|.
+ A|DET soldier|NOUN knows|VERB a|DET soldier|NOUN .|.
+ (|. standing|VERB )|. A|DET quarter|NOUN ?|.
+ A|DET third|ADJ .|.
+ Lucilla|NOUN ...|. why|ADV are|VERB you|PRON here|ADV ?|.
+ Tell|VERB me|PRON honestly|ADV ...|. please|NOUN ...|. do|VERB you|PRON think|VERB it|PRON will|VERB work|VERB ?|.
+ Do|VERB you|PRON think|VERB we|PRON 'll|VERB all|DET die|VERB ?|.
+ Yes|X .|.
+ Will|VERB you|PRON swear|VERB something|NOUN to|PRT me|PRON ?|.
+ Yes|X .|.
+ Will|VERB you|PRON swear|VERB it|PRON on|ADP the|DET memory|NOUN of|ADP your|PRON son|NOUN ?|.
+ How|QUESTIONTAG did|VERB they|PRON know|VERB ?|.
+ We|PRON were|VERB betrayed|VERB .|.
+ You|PRON 're|VERB not|ADV coming|VERB ?|.
+ They|PRON are|VERB killing|VERB my|PRON men|NOUN !|.
+ What|QUESTIONTAG is|VERB that|DET fire|NOUN ?|.
+ Why|ADV that|DET 's|VERB a|DET bonfire|NOUN ,|. Lucius|NOUN .|.
+ Where|QUESTIONTAG is|VERB he|PRON ?|.
+ stares|NOUN at|ADP Maximus|NOUN ,|. unbelieving|NOUN .|.
+ Captain|NOUN ?|.
+ (|. re|NOUN :|. Commodus|NOUN and|CONJ the|DET others|NOUN )|. Where|QUESTIONTAG are|VERB they|PRON going|VERB ?|.
+ This|DET way|NOUN !|.

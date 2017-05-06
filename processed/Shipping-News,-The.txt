@@ -1,0 +1,45 @@
+ say|VERB ?|.
+ I|PRON hope|VERB you|PRON get|VERB him|PRON fired|VERB .|.
+ Why|ADV 'd|VERB you|PRON leave|VERB the|DET house|NOUN open|ADJ ?|.
+ swings|NOUN OPEN|NOUN .|.
+ Can|VERB I|PRON keep|VERB the|DET necklace|NOUN ?|.
+ along|ADP its|PRON length|NOUN .|.
+ All|DET that|DET clear|ADJ ?|.
+ his|PRON desk|NOUN .|.
+ Jack|NOUN 's|PRT gone|VERB fishing|NOUN ?|.
+ ...|. and|CONJ will|VERB I|PRON see|VERB her|PRON ?|.
+ little|ADJ rowboat|NOUN ,|. a|DET smile|NOUN ambiguous|ADJ in|ADP the|DET growing|VERB dusk|NOUN .|.
+ The|DET Barbies|NOUN look|VERB better|ADJ naked|VERB ,|. Bunny|NOUN looks|VERB good|ADJ in|ADP blue|ADJ ,|. guess|NOUN who|PRON said|VERB that|ADP ?|.
+ Mr.|NOUN Quoyle|NOUN ...|. ?|.
+ When|QUESTIONTAG you|PRON gon|VERB na|PRT ask|VERB ?|.
+ When|QUESTIONTAG you|PRON 're|VERB in|ADP the|DET mood|NOUN .|.
+ How|QUESTIONTAG ?|.
+ Do|VERB you|PRON have|VERB enough|ADJ attention|NOUN now|ADV ,|. young|ADJ lady|NOUN ?|.
+ Yes|X ,|. Ma'am|NOUN ,|. I|PRON think|VERB so|ADV .|.
+ You|PRON sure|VERB you|PRON 're|VERB not|ADV a|DET complex|ADJ guy|NOUN ?|.
+ Just|ADV now|ADV ,|. he|PRON 's|VERB examining|VERB the|DET prodigious|ADJ status|NOUN of|ADP her|PRON oxblood|NOUN knitting|NOUN .|.
+ Overnight|NOUN ?|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ with|ADP a|DET weekend|NOUN ?|.
+ What|QUESTIONTAG 's|VERB the|DET barrel|NOUN for|ADP ?|.
+ You|PRON were|VERB sayin|VERB '|. ...|. ?|.
+ Not|ADV bad|ADJ ,|. my|PRON kid|NOUN ,|. eh|NOUN ?|.
+ I|PRON 'll|VERB say|VERB .|.
+ WHY|ADV CA|VERB N'T|NOUN YOU|NOUN WEAR|VERB A|NOUN WRISTWATCH|NOUN LIKE|NOUN EVER'BODY|NOUN ELSE|NOUN ?|.
+ Quoyle|NOUN who|PRON sits|VERB still|ADV as|ADP a|DET stone|NOUN .|.
+ Wonderful|NOUN ,|. ai|VERB n't|ADV it|PRON ?|.
+ Y'know|VERB what|PRON I|PRON need|VERB th|NOUN '|PRT most|ADV ?|.
+ Did|NOUN you|PRON know|VERB I|PRON was|VERB a|DET liar|NOUN ?|.
+ Can|VERB you|PRON guess|VERB how|ADV I|PRON know|VERB about|ADP Petal|NOUN ?|.
+ What|QUESTIONTAG you|PRON got|VERB there|ADV ?|.
+ hiding|VERB place|NOUN .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ They|PRON 're|VERB beautiful|ADJ .|.
+ Will|VERB she|PRON be|VERB proud|ADJ to|PRT wear|VERB 'em|PRON ?|.
+ You|PRON knew|VERB Billy|NOUN 's|PRT dad|NOUN ?|.
+ Ever'body|NOUN knows|VERB ever'body|NOUN .|.
+ You|PRON think|VERB ?|.
+ now|ADV ,|. he|PRON lifts|VERB her|PRON up|ADJ to|PRT see|VERB .|.
+ eyes|NOUN ,|. really|ADV ?|.
+ Oh|X ,|. yeh|X .|.
+ You|PRON want|VERB the|DET cheese|NOUN ?|.
+ No|DET .|.

@@ -1,0 +1,77 @@
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Do|VERB you|PRON become|VERB one|NUM of|ADP us|PRON of|ADP your|PRON own|ADJ free|ADJ will|VERB ?|.
+ Are|NOUN you|PRON afraid|ADP ?|.
+ Yes|X .|.
+ Have|VERB you|PRON called|VERB the|DET police|NOUN on|ADP this|DET ?|.
+ Who|QUESTIONTAG said|VERB miracles|NOUN can|VERB only|ADV happen|VERB at|ADP Lourdes|NOUN ?|.
+ Who|QUESTIONTAG said|VERB they|PRON happen|VERB there|ADV ?|.
+ That|ADP all|DET writers|NOUN were|VERB queers|NOUN ?|.
+ No|DET ,|. that|DET was|VERB a|DET different|ADJ time|NOUN .|.
+ What|QUESTIONTAG else|ADV do|VERB we|PRON have|VERB besides|ADP the|DET tape|NOUN ?|.
+ Just|ADV a|DET return|NOUN address|NOUN on|ADP the|DET envelope|NOUN .|.
+ (|. irritated|VERB ,|. with|ADP appropriate|ADJ accent|NOUN )|. Have|VERB you|PRON lost|VERB something|NOUN ?|.
+ with|ADP THE|NOUN MANAGER|NOUN ,|. an|DET older|ADJ man|NOUN who|PRON 's|VERB a|DET little|ADJ winded|ADJ from|ADP his|PRON climb|NOUN up|ADV here|ADV .|.
+ Does|VERB it|PRON always|ADV smell|VERB like|ADP this|DET in|ADP here|ADV ?|.
+ yanks|NOUN the|DET cigar|NOUN from|ADP his|PRON mouth|NOUN and|CONJ sniffs|NOUN .|.
+ Like|ADP what|PRON ?|.
+ Look|NOUN .|.
+ Like|ADP what|PRON ?|.
+ Look|NOUN ,|. I|PRON say|VERB this|DET to|PRT you|PRON ,|. but|CONJ in|ADP my|PRON heart|NOUN I|PRON know|VERB that|ADP one|NUM time|NOUN it|PRON 's|VERB going|VERB to|PRT happen|VERB ...|. that|ADP you|PRON 're|VERB going|VERB to|PRT end|VERB up|PRT ,|. I|PRON do|VERB n't|ADV know|VERB --|. dead|ADJ or|CONJ god|ADJ knows|VERB what|PRON .|.
+ Is|VERB Joey|NOUN on|ADP this|DET ride|NOUN ?|.
+ Come|VERB on|ADP in|ADP ...|.
+ Are|NOUN you|PRON Joey|NOUN ?|.
+ I|PRON 've|VERB been|VERB called|VERB worse|ADV .|.
+ Is|VERB that|ADP what|PRON you|PRON really|ADV think|VERB ?|.
+ Who|QUESTIONTAG are|VERB they|PRON ?|.
+ Where|QUESTIONTAG is|VERB it|PRON ?|.
+ And|CONJ there|DET 's|VERB nothing|NOUN there|ADV ?|.
+ You|PRON do|VERB n't|ADV seem|VERB terribly|ADV surprised|ADJ .|.
+ Hmm|NOUN ?|.
+ Is|VERB this|DET where|ADV they|PRON keep|VERB the|DET cheaper|ADJ whores|NOUN ?|.
+ Why|ADV 'd|VERB you|PRON give|VERB me|PRON this|DET story|NOUN ?|.
+ Who|QUESTIONTAG else|ADV would|VERB have|VERB taken|VERB it|PRON ?|.
+ You|PRON took|VERB something|NOUN from|ADP her|PRON ?|.
+ Do|VERB you|PRON have|VERB it|PRON with|ADP you|PRON ?|.
+ the|DET table|NOUN between|ADP them|PRON .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ My|PRON great|ADJ grandfather|NOUN created|VERB that|ADP box|NOUN .|.
+ So|ADV I|PRON should|VERB n't|ADV get|VERB on|ADP ?|.
+ Your|PRON already|ADV on|ADP it|PRON .|.
+ What|QUESTIONTAG the|DET hell|NOUN does|VERB that|ADP mean|VERB ?|.
+ You|PRON say|VERB this|DET is|VERB real|ADJ ?|.
+ various|ADJ parts|NOUN .|.
+ What|QUESTIONTAG did|VERB you|PRON see|VERB ?|.
+ Nothing|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON afraid|ADP of|ADP ,|. Amy|NOUN ?|.
+ I|PRON 'm|VERB not|ADV afraid|VERB of|ADP you|PRON .|.
+ is|VERB it|PRON ?|.
+ the|DET mirror|NOUN and|CONJ looks|VERB over|PRT her|PRON shoulder|NOUN .|.
+ Help|NOUN you|PRON with|ADP what|PRON ?|.
+ the|DET gaffer|NOUN 's|PRT tape|NOUN that|ADP holds|VERB the|DET rolled-up|ADJ towel|NOUN to|PRT her|PRON back|NOUN .|.
+ Joey|NOUN ?|.
+ (|. screams|NOUN )|. Why|ADV did|VERB you|PRON do|VERB this|DET to|PRT me|PRON ?|.
+ OPEN|NOUN .|.
+ (|. louder|NOUN )|. Why|ADV ?|.
+ I|PRON did|VERB n't|ADV have|VERB any|DET other|ADJ choice|NOUN .|.
+ What|QUESTIONTAG 's|VERB happening|VERB to|PRT me|PRON ?|.
+ You|PRON 're|VERB dying|VERB .|.
+ Where|QUESTIONTAG ?|.
+ That|DET 's|VERB for|ADP you|PRON to|PRT decide|VERB .|.
+ Then|ADV why|ADV are|VERB you|PRON here|ADV ?|.
+ To|PRT try|VERB ...|. Because|ADP I|PRON have|VERB no|DET other|ADJ choice|NOUN .|.
+ Marla|NOUN what|PRON ...|. what|PRON happened|VERB to|PRT you|PRON ?|.
+ What|QUESTIONTAG the|DET hell|NOUN happened|VERB ?|.
+ Where|QUESTIONTAG is|VERB she|PRON ?|.
+ Jesus|NOUN ,|. I|PRON do|VERB n't|ADV know|VERB .|.
+ Mind|ADP if|ADP I|PRON join|VERB you|PRON ?|.
+ Please|NOUN .|.
+ Want|VERB me|PRON to|PRT draw|VERB your|PRON picture|NOUN ?|.
+ I|PRON 'd|VERB like|VERB that|DET very|ADV much|ADV .|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB ?|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB my|PRON name|NOUN ?|.
+ the|DET Little|NOUN Girl|NOUN has|VERB taped|VERB to|PRT the|DET walls|NOUN .|.
+ Marla|NOUN ?|.
+ Who|QUESTIONTAG ?|.
+ So|ADP it|PRON is|VERB real|ADJ ?|.
+ As|ADV real|ADJ as|ADP you|PRON want|VERB it|PRON to|PRT be|VERB .|.
+ What|QUESTIONTAG about|ADP them|PRON ?|.

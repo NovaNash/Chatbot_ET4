@@ -1,0 +1,28 @@
+ The|DET subway|NOUN ,|. sir|NOUN ?|.
+ Yeah|X .|.
+ ...|. Two|NUM ravens|NOUN ?|.
+ The|DET other|ADJ one|NUM is|VERB Bruce|NOUN Wayne|NOUN 's|PRT .|.
+ What|QUESTIONTAG happens|VERB now|ADV ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ That|DET 's|VERB the|DET treasure|NOUN ?|.
+ No|DET .|.
+ Will|VERB you|PRON two|NUM be|VERB okay|VERB in|ADP here|ADV ?|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB that|ADP ,|. sir|VERB ?|.
+ What|QUESTIONTAG makes|VERB you|PRON say|VERB that|ADP ?|.
+ You|PRON 've|VERB got|VERB what|PRON you|PRON want|VERB ,|. do|VERB n't|ADV you|PRON ?|.
+ How|QUESTIONTAG much|ADJ is|VERB it|PRON going|VERB to|PRT cost|VERB me|PRON ?|.
+ What|QUESTIONTAG ?|.
+ Why|ADV do|VERB n't|ADV you|PRON two|NUM tie|VERB up|PRT our|PRON host|NOUN ?|.
+ premises|NOUN .|.
+ Can|VERB you|PRON move|VERB ,|. man|NOUN ?|.
+ Library|NOUN --|. got|VERB to|PRT get|VERB me|PRON to|PRT the|DET library|NOUN --|.
+ What|QUESTIONTAG is|VERB that|DET ungodly|ADV racket|NOUN ?|.
+ A|DET security|NOUN alarm|NOUN .|.
+ Do|VERB you|PRON really|ADV think|VERB we|PRON 're|VERB that|ADP stupid|ADJ ?|.
+ SELINA|NOUN 's|PRT .|.
+ Miss|NOUN me|PRON ,|. ``|. Angel|NOUN ''|. ?|.
+ happening|NOUN ,|. he|PRON delivers|VERB a|DET POWERHOUSE|NOUN UPPERCUT|NOUN .|.
+ ...|. and|CONJ then|ADV Batman|NOUN showed|VERB up|PRT ?|.
+ He|PRON saved|VERB all|DET our|PRON lives|NOUN ,|. Jim|NOUN .|.
+ What|QUESTIONTAG are|VERB you|PRON going|VERB to|PRT do|VERB with|ADP all|DET that|DET gold|NOUN ?|.
+ I|PRON dunno|VERB .|.

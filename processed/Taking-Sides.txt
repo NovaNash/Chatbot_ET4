@@ -1,0 +1,154 @@
+ Do|VERB you|PRON know|VERB who|PRON Arturo|NOUN Toscanini|NOUN is|VERB ?|.
+ Sure|ADV .|.
+ (|. amused|VERB )|. They|PRON said|VERB I|PRON was|VERB dogged|VERB ?|.
+ Well|ADV ,|. they|PRON say|VERB here|ADV that|ADP when|ADV you|PRON went|VERB on|ADP a|DET case|NOUN ,|. you|PRON stayed|VERB on|ADP it|PRON .|.
+ Cigarettes|NOUN ,|. chewing|VERB gum|NOUN ?|.
+ You|PRON live|VERB here|ADV ,|. in|ADP Berlin|NOUN ?|.
+ Yes|X .|.
+ You|PRON do|VERB shorthand|VERB and|CONJ typing|VERB ?|.
+ Yes|X .|.
+ Think|ADP you|PRON can|VERB get|VERB me|PRON any|DET of|ADP that|DET ?|.
+ (|. pleased|VERB )|. Oh|X yes|X ,|. Major|NOUN ,|. I|PRON have|VERB recordings|NOUN of|ADP all|DET his|PRON symphonies|NOUN .|.
+ (|. surveys|VERB the|DET room|NOUN )|. What|QUESTIONTAG 's|VERB in|ADP those|DET files|NOUN ?|.
+ The|DET names|NOUN of|ADP the|DET members|NOUN of|ADP the|DET Berlin|NOUN Philharmonic|NOUN Orchestra|NOUN since|ADP 1934|NUM together|ADV with|ADP their|PRON questionnaires|NOUN .|.
+ Where|QUESTIONTAG you|PRON from|ADP ,|. David|NOUN ?|.
+ was|VERB born|VERB here|ADV ,|. in|ADP Leipzig|NOUN .|.
+ Then|ADV how|ADV do|VERB you|PRON explain|VERB him|PRON being|VERB made|VERB a|DET Prussian|ADJ Privy|NOUN Councillor|NOUN ?|.
+ It|PRON was|VERB Hermann|NOUN Goering|NOUN .|.
+ He|PRON also|ADV conducted|VERB for|ADP Hitler|NOUN ,|. did|VERB n't|ADV he|PRON ?|.
+ Yes|X ,|. that|DET 's|VERB true|ADJ ,|. but|CONJ he|PRON refused|VERB to|PRT give|VERB the|DET Nazi|NOUN salute|NOUN .|.
+ And|CONJ what|PRON about|ADP the|DET Nuremberg|NOUN Rally|NOUN ?|.
+ No|ADV ,|. we|PRON ...|. we|PRON played|VERB on|ADP the|DET evening|NOUN before|ADP the|DET Rally|NOUN .|.
+ Was|NOUN looking|VERB at|ADP Furtwängler|NOUN like|ADP that|DET ?|.
+ I|PRON do|VERB n't|ADV know|VERB what|PRON you|PRON mean|VERB ,|. Major|NOUN .|.
+ You|PRON think|VERB a|DET whole|ADJ orchestra|NOUN ,|. what|PRON ,|. a|DET hundred|NUM and|CONJ forty|NOUN or|CONJ so|ADV guys|ADJ ,|. could|VERB be|VERB orchestrated|VERB ?|.
+ I|PRON guess|VERB it|PRON 's|VERB possible|ADJ .|.
+ So|ADV ,|. what|PRON does|VERB the|DET Russki|NOUN want|NOUN ?|.
+ Colonel|NOUN Dymshitz|NOUN asked|VERB specially|ADV to|PRT see|VERB you|PRON .|.
+ 'Dim-shits|NOUN '|PRT ?|.
+ What|QUESTIONTAG the|DET hell|NOUN are|VERB they|PRON doing|VERB ?|.
+ (|. whispered|VERB )|. They|PRON 're|VERB trying|VERB to|PRT sort|VERB out|PRT some|DET of|ADP the|DET works|NOUN of|ADP art|NOUN the|DET Nazis|NOUN stole|NOUN from|ADP occupied|ADJ territories|NOUN .|.
+ We|PRON can|VERB produce|VERB the|DET provenance|NOUN of|ADP this|DET Braque|NOUN ,|. you|PRON say|VERB provenance|NOUN ?|.
+ So|ADV ,|. Major|NOUN ,|. tell|VERB me|PRON ,|. have|VERB you|PRON questioned|VERB Dr.|NOUN Furtwängler|NOUN ?|.
+ Not|ADV yet|ADV .|.
+ So|ADV what|PRON is|VERB it|PRON ?|.
+ The|DET British|ADJ occupy|ADP the|DET building|NOUN where|ADV this|DET guy|NOUN ,|. Hinkel|NOUN ,|. ran|VERB the|DET Nazi|NOUN Ministry|NOUN of|ADP Culture|NOUN and|CONJ it|PRON seems|VERB they|PRON 've|VERB ...|. they|PRON 've|VERB discovered|VERB his|PRON secret|ADJ archive|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET mean|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. but|CONJ the|DET British|ADJ are|VERB excited|VERB about|ADP it|PRON ,|. I|PRON know|VERB that|DET .|.
+ Is|VERB it|PRON true|ADJ you|PRON 're|VERB going|VERB to|PRT interview|NOUN Dr.|NOUN Furtwängler|NOUN today|NOUN ?|.
+ I|PRON 'll|VERB ask|VERB the|DET questions|NOUN ,|. Helmuth|NOUN .|.
+ You|PRON have|VERB a|DET question|NOUN for|ADP Helmuth|NOUN ,|. David|NOUN ?|.
+ Yes|X .|.
+ Do|VERB you|PRON know|VERB Hans|NOUN Hinkel|NOUN ?|.
+ (|. alarmed|VERB )|. Do|VERB I|PRON know|VERB Hans|NOUN Hinkel|NOUN ?|.
+ Do|VERB I|PRON know|VERB Hans|NOUN Hinkel|NOUN ?|.
+ You|PRON seem|VERB to|PRT understand|VERB the|DET question|NOUN ,|. now|ADV how|ADV about|ADP answering|VERB it|PRON ?|.
+ Do|VERB you|PRON know|VERB what|PRON 's|VERB in|ADP this|DET archive|NOUN ?|.
+ How|QUESTIONTAG could|VERB I|PRON know|VERB what|PRON 's|VERB in|ADP the|DET archive|NOUN ?|.
+ Fraulein|NOUN ?|.
+ How|QUESTIONTAG long|ADJ am|VERB I|PRON to|PRT be|VERB kept|VERB waiting|VERB ?|.
+ into|ADP the|DET office|NOUN .|.
+ Then|ADV why|ADV did|VERB you|PRON conduct|NOUN at|ADP one|NUM of|ADP their|PRON Nuremberg|NOUN rallies|NOUN ?|.
+ (|. flaring|VERB )|. I|PRON did|VERB not|ADV conduct|VERB at|ADP at|ADP the|DET rally|NOUN ,|. I|PRON conducted|VERB on|ADP the|DET evening|NOUN before|ADP the|DET rally|NOUN .|.
+ How|QUESTIONTAG come|VERB ?|.
+ Could|VERB I|PRON have|VERB a|DET glass|NOUN of|ADP water|NOUN ,|. please|VERB ?|.
+ Did|NOUN you|PRON call|VERB someone|NOUN you|PRON knew|VERB ?|.
+ I|PRON may|VERB have|VERB ,|. as|ADV ...|. as|ADP I|PRON said|VERB ,|. I|PRON simply|ADV do|VERB n't|ADV remember|VERB .|.
+ May|NOUN I|PRON ask|VERB a|DET question|NOUN ?|.
+ Sure|ADV .|.
+ When|QUESTIONTAG will|VERB my|PRON case|NOUN be|VERB heard|VERB by|ADP the|DET Tribunal|NOUN ?|.
+ Your|PRON guess|NOUN is|VERB as|ADV good|ADJ as|ADP mine|NOUN .|.
+ (|. now|ADV more|ADJ and|CONJ more|ADV agitated|ADJ )|. Then|ADV why|ADV is|VERB it|PRON ,|. please|VERB ,|. that|ADP another|DET conductor|NOUN who|PRON was|VERB actually|ADV a|DET member|NOUN of|ADP the|DET Party|NOUN ,|. who|PRON used|VERB to|PRT play|VERB the|DET Horst|NOUN Wessel|NOUN before|ADP his|PRON concerts|NOUN ,|. has|VERB already|ADV been|VERB cleared|VERB and|CONJ is|VERB working|VERB again|ADV while|ADP I|PRON have|VERB to|PRT wait|VERB and|CONJ wait|VERB and|CONJ wait|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. he|PRON was|VERB n't|ADV my|PRON case|NOUN .|.
+ Why|ADV were|VERB they|PRON going|VERB to|PRT arrest|VERB you|PRON ?|.
+ I|PRON believe|VERB it|PRON was|VERB because|ADP of|ADP another|DET letter|NOUN I|PRON 'd|VERB written|VERB to|PRT Goebbels|NOUN lamenting|VERB the|DET decline|NOUN of|ADP musical|ADJ standards|NOUN due|ADJ to|PRT racial|ADJ policies|NOUN .|.
+ You|PRON did|VERB n't|ADV complain|VERB about|ADP the|DET racial|ADJ policies|NOUN ,|. just|ADV about|ADP the|DET musical|ADJ standards|NOUN ,|. is|VERB that|ADP right|NOUN ?|.
+ So|ADV ,|. how|ADV did|VERB you|PRON learn|VERB that|ADP the|DET Gestapo|NOUN was|VERB out|PRT to|PRT get|VERB you|PRON ?|.
+ During|ADP an|DET enforced|ADJ hour-long|ADJ interval|NOUN because|ADP of|ADP a|DET power|NOUN failure|NOUN at|ADP a|DET concert|NOUN here|ADV in|ADP Berlin|NOUN ,|. Albert|NOUN Speer|NOUN ,|. the|DET Minister|NOUN of|ADP Armaments|NOUN ,|. said|VERB to|PRT me|PRON ,|. 'You|. look|VERB very|ADV tired|ADJ Dr.|NOUN Furtwängler|NOUN ,|. you|PRON should|VERB go|VERB abroad|ADV for|ADP a|DET while|NOUN .|. '|.
+ Who|QUESTIONTAG ?|.
+ I|PRON was|VERB n't|ADV told|VERB .|.
+ How|QUESTIONTAG ?|.
+ (|. uneasy|ADJ )|. I|PRON was|VERB warned|VERB .|.
+ Who|QUESTIONTAG warned|VERB you|PRON ?|.
+ (|. lowering|VERB his|PRON head|NOUN )|. Goering|NOUN .|.
+ What|QUESTIONTAG did|VERB Goering|VERB say|VERB ?|.
+ He|PRON told|VERB me|PRON to|PRT be|VERB careful|ADJ as|ADP one|NUM of|ADP Goebbels|NOUN '|PRT men|NOUN was|VERB watching|VERB me|PRON .|.
+ (|. frowning|NOUN ,|. worried|VERB )|. What|QUESTIONTAG does|VERB he|PRON mean|VERB ,|. too|ADV correct|ADJ ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Well|ADV ,|. what|PRON is|VERB this|DET ,|. the|DET office|NOUN party|NOUN ?|.
+ (|. exasperated|VERB )|. What|QUESTIONTAG is|VERB this|DET ,|. a|DET railway|NOUN station|NOUN ?|.
+ How|QUESTIONTAG could|VERB I|PRON forget|VERB ?|.
+ Steve|NOUN thrusts|VERB the|DET baton|NOUN at|ADP Rode|NOUN .|.
+ Show|NOUN you|PRON ?|.
+ Yeah|X ,|. show|VERB me|PRON ,|. I|PRON want|VERB to|PRT see|VERB you|PRON do|VERB it|PRON .|.
+ You|PRON usually|ADV do|VERB n't|ADV work|VERB on|ADP Sunday|NOUN ,|. Major|NOUN ?|.
+ All|DET in|ADP the|DET cause|NOUN of|ADP humanity|NOUN ,|. Helmuth|NOUN .|.
+ What|QUESTIONTAG ?|.
+ One-zero-four-nine-three-three-|ADJ one|NUM .|.
+ Helmuth|NOUN ,|. you|PRON ever|ADV heard|ADJ of|ADP plea-|ADJ bargaining|NOUN ?|.
+ Yeah|X ?|.
+ Furtwängler|NOUN sent|VERB Hitler|NOUN a|DET telegram|NOUN for|ADP his|PRON birthday|NOUN .|.
+ He|PRON did|VERB ?|.
+ One|NUM of|ADP your|PRON people|NOUN told|VERB me|PRON .|.
+ One|NUM of|ADP my|PRON people|NOUN ?|.
+ Never|ADV heard|VERB of|ADP him|PRON ,|. who|PRON is|VERB he|PRON ?|.
+ Edwin|NOUN von|NOUN der|NOUN Null|NOUN .|.
+ Who|QUESTIONTAG 's|VERB he|PRON ?|.
+ Also|ADV a|DET conductor|NOUN .|.
+ His|PRON private|ADJ life|NOUN ?|.
+ Where|QUESTIONTAG do|VERB you|PRON stand|VERB on|ADP all|DET this|DET ?|.
+ On|ADP all|DET what|PRON ?|.
+ Degenerates|NOUN ?|.
+ But|CONJ what|PRON ...|. before|ADP that|DET turns|VERB rotten|VERB ...|. What|QUESTIONTAG if|ADP they|PRON surround|VERB the|DET space|NOUN with|ADP barbed|ADJ wire|NOUN ,|. Colonel|NOUN ?|.
+ (|. suddenly|ADV exploding|VERB )|. Do|VERB n't|ADV talk|VERB about|ADP things|NOUN you|PRON know|VERB nothing|NOUN about|ADP .|.
+ What|QUESTIONTAG museum|NOUN ?|.
+ I|PRON 'm|VERB sorry|ADJ .|.
+ When|QUESTIONTAG he|PRON met|VERB Hitler|NOUN at|ADP his|PRON birthday|NOUN and|CONJ shook|VERB hands|NOUN with|ADP him|PRON ,|. was|VERB he|PRON pleased|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Do|VERB you|PRON know|VERB where|ADV the|DET Adagio|NOUN begins|NOUN ?|.
+ Of|ADP course|NOUN .|.
+ Would|VERB you|PRON perhaps|ADV like|ADP to|PRT have|VERB a|DET glass|NOUN of|ADP water|NOUN ,|. Herr|NOUN Professor|NOUN ?|.
+ continues|VERB to|PRT sweep|VERB .|.
+ What|QUESTIONTAG is|VERB this|DET man|NOUN doing|VERB here|ADV ?|.
+ enters|NOUN .|.
+ And|CONJ what|PRON was|VERB that|DET ?|.
+ Maintain|NOUN liberty|NOUN ,|. humanity|NOUN and|CONJ justice|NOUN .|.
+ What|QUESTIONTAG telegram|NOUN ?|.
+ 'Happy|ADJ birthday|NOUN ,|. dear|ADJ Adolf|NOUN ,|. love|VERB Wilhelm|NOUN .|. '|.
+ Yes|X ,|. David|NOUN ?|.
+ Why|ADV not|ADV show|VERB Dr.|NOUN Furtwängler|NOUN the|DET evidence|NOUN .|.
+ (|. taken|VERB off-guard|ADV )|. Von|NOUN der|NOUN Null|NOUN ?|.
+ Yes|X ,|. von|ADJ der|NOUN Null|NOUN .|.
+ Von|NOUN der|NOUN Null|NOUN ?|.
+ How|QUESTIONTAG long|ADJ 's|PRT this|DET going|VERB to|PRT go|VERB on|ADP ,|. Wilhelm|NOUN ?|.
+ Is|VERB n't|ADV it|PRON true|ADJ that|ADP because|ADP he|PRON gave|VERB you|PRON bad|ADJ reviews|NOUN and|CONJ praised|VERB this|DET young|ADJ guy|NOUN ,|. Von|NOUN Karajan|NOUN ,|. called|VERB him|PRON a|DET goddamn|NOUN miracle|NOUN ,|. said|VERB he|PRON was|VERB a|DET better|ADJ conductor|NOUN than|ADP you|PRON ,|. then|ADV you|PRON had|VERB von|VERB der|NOUN Null|NOUN conscripted|VERB into|ADP the|DET army|NOUN and|CONJ no|DET one|NOUN 's|PRT heard|NOUN from|ADP him|PRON since|ADP ?|.
+ That|DET 's|VERB an|DET outrageous|ADJ lie|NOUN !|.
+ And|CONJ what|PRON did|VERB he|PRON say|VERB ?|.
+ He|PRON said|VERB ,|. 'Do|VERB n't|ADV mind|VERB him|PRON .|.
+ And|CONJ what|PRON happened|VERB to|PRT Von|NOUN der|NOUN Nul|NOUN ?|.
+ I|PRON have|VERB no|DET idea|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON said|VERB I|PRON have|VERB illegitimate|ADJ children|NOUN .|.
+ You|PRON like|ADP the|DET women|NOUN ,|. do|VERB n't|ADV you|PRON ,|. Wilhelm|NOUN ?|.
+ Is|VERB n't|ADV it|PRON true|ADJ that|ADP before|ADP every|DET concert|NOUN you|PRON got|VERB a|DET woman|NOUN in|ADP your|PRON dressing|NOUN room|NOUN and|CONJ gave|VERB her|PRON the|DET old|ADJ conductor|NOUN 's|PRT baton|NOUN ,|. is|VERB n't|ADV that|ADP true|ADJ ?|.
+ (|. indicating|VERB EmmI|NOUN )|. Major|NOUN ,|. this|DET is|VERB deeply|ADV offensive|ADJ and|CONJ repugnant|ADJ !|.
+ What|QUESTIONTAG ?|.
+ Your|PRON manner|NOUN .|.
+ What|QUESTIONTAG is|VERB this|DET ,|. Emmi|NOUN ?|.
+ I|PRON ca|VERB n't|ADV do|VERB this|DET .|.
+ What|QUESTIONTAG 's|VERB not|ADV right|ADJ ?|.
+ I|PRON have|VERB been|VERB questioned|VERB by|ADP the|DET Gestapo|NOUN just|ADV like|ADP that|DET .|.
+ Can|VERB I|PRON ask|VERB you|PRON a|DET favour|NOUN ,|. Major|NOUN ?|.
+ Yeah|X .|.
+ When|QUESTIONTAG you|PRON question|VERB him|PRON again|ADV ,|. could|VERB you|PRON treat|VERB him|PRON with|ADP more|ADV respect|NOUN ?|.
+ With|ADP more|ADJ what|PRON ?|.
+ Do|VERB you|PRON know|VERB what|PRON that|DET is|VERB ?|.
+ Of|ADP course|NOUN I|PRON know|VERB what|PRON that|DET is|VERB .|.
+ Okay|NOUN ,|. so|ADP what|PRON is|VERB it|PRON ?|.
+ Bruckner|NOUN 's|PRT Seventh|NOUN .|.
+ Who|QUESTIONTAG 's|VERB conducting|VERB ?|.
+ I|PRON am|VERB .|.
+ You|PRON know|VERB the|DET last|ADJ time|NOUN it|PRON was|VERB played|VERB on|ADP these|DET air|NOUN waves|NOUN ?|.
+ How|QUESTIONTAG can|VERB I|PRON know|VERB such|DET a|DET thing|NOUN ?|.
+ (|. breaking|VERB down|PRT )|. I|PRON love|VERB my|PRON country|NOUN ,|. I|PRON believe|VERB in|ADP music|NOUN ,|. what|PRON was|VERB I|PRON to|PRT do|VERB ?|.
+ Look|VERB around|ADP you|PRON .|.

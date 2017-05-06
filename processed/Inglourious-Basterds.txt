@@ -1,0 +1,373 @@
+ This|DET is|VERB the|DET property|NOUN of|ADP Perrier|NOUN LaPadite|NOUN ?|.
+ Is|VERB this|DET the|DET property|NOUN of|ADP Perrier|NOUN LaPadite|NOUN ?|.
+ I|PRON am|VERB Perrier|NOUN LaPadite|NOUN .|.
+ How|QUESTIONTAG may|VERB I|PRON help|VERB you|PRON ?|.
+ I|PRON was|VERB hoping|VERB you|PRON could|VERB invite|VERB me|PRON inside|ADP your|PRON home|NOUN and|CONJ we|PRON may|VERB have|VERB a|DET discussion|NOUN .|.
+ Charlotte|NOUN ,|. would|VERB you|PRON be|VERB so|ADV good|ADJ as|ADP to|PRT get|VERB The|DET Colonel|NOUN some|DET wine|NOUN ?|.
+ Please|NOUN tell|VERB me|PRON what|PRON you|PRON 've|VERB heard|VERB ?|.
+ I|PRON 've|VERB heard|VERB ,|. the|DET fuhrer|NOUN has|VERB put|VERB you|PRON in|ADP charge|NOUN of|ADP rounding|VERB up|PRT the|DET Jews|NOUN left|VERB in|ADP France|NOUN who|PRON are|VERB ether|ADV hiding|VERB ,|. or|CONJ passing|VERB for|ADP Gentile|NOUN .|.
+ What|QUESTIONTAG have|VERB you|PRON heard|VERB about|ADP The|DET Dreyfusis|NOUN Monsieur|NOUN LaPadite|NOUN ?|.
+ Only|ADV rumors|NOUN -|.
+ So|ADP the|DET rumors|NOUN you|PRON 've|VERB heard|VERB have|VERB been|VERB of|ADP escape|NOUN ?|.
+ Yes|X .|.
+ Having|VERB never|ADV met|VERB the|DET Dreyfusis|NOUN ,|. would|VERB you|PRON confirm|VERB for|ADP me|PRON the|DET exact|ADJ members|NOUN of|ADP the|DET household|NOUN and|CONJ their|PRON names|NOUN ?|.
+ -|. How|QUESTIONTAG old|ADJ is|VERB Bob|NOUN ?|.
+ Thirty|NOUN -|. thirty|NOUN one|NUM ?|.
+ Ages|NOUN of|ADP the|DET children|NOUN ?|.
+ Amos|NOUN -|. six|NUM -|. I|PRON believe|VERB .|.
+ However|ADV ,|. before|ADP I|PRON go|VERB ,|. could|VERB I|PRON have|VERB another|DET glass|NOUN of|ADP your|PRON delicious|ADJ milk|NOUN ?|.
+ Monsieur|NOUN LaPadite|NOUN ,|. are|VERB you|PRON aware|ADJ of|ADP the|DET nickname|NOUN the|DET people|NOUN of|ADP France|NOUN have|VERB given|VERB me|PRON ?|.
+ I|PRON have|VERB no|DET interest|NOUN in|ADP such|ADJ things|NOUN .|.
+ But|CONJ you|PRON are|VERB aware|ADJ of|ADP what|PRON they|PRON call|VERB me|PRON ?|.
+ I|PRON 'm|VERB aware|ADJ .|.
+ What|QUESTIONTAG are|VERB you|PRON aware|ADJ of|ADP ?|.
+ That|ADP they|PRON call|VERB you|PRON ,|. ``|. The|DET Jew|NOUN Hunter|NOUN ''|. .|.
+ Has|VERB a|DET rat|NOUN ever|ADV done|VERB anything|NOUN to|PRT you|PRON to|PRT create|VERB this|DET animosity|NOUN you|PRON feel|VERB toward|ADP them|PRON ?|.
+ Rat|NOUN 's|PRT spread|NOUN disease|NOUN ,|. they|PRON bite|VERB people|NOUN -|.
+ You|PRON are|VERB sheltering|VERB enemies|NOUN of|ADP the|DET state|NOUN ,|. are|VERB you|PRON not|ADV ?|.
+ Yes|X .|.
+ Your|PRON sheltering|VERB them|PRON underneath|ADP your|PRON floorboards|NOUN are|VERB n't|ADV you|PRON ?|.
+ Yes|X .|.
+ Since|ADP I|PRON have|VERB n't|ADV heard|VERB any|DET disturbance|NOUN ,|. I|PRON assume|VERB that|ADP while|ADP their|PRON listening|NOUN ,|. they|PRON do|VERB n't|ADV speak|VERB english|VERB ?|.
+ Yes|X .|.
+ I|PRON 'm|VERB going|VERB to|PRT switch|VERB back|ADV to|PRT french|NOUN now|ADV ,|. and|CONJ I|PRON want|VERB you|PRON to|PRT follow|VERB my|PRON masquerade|NOUN -|. is|VERB that|ADP clear|ADJ ?|.
+ Why|ADV did|VERB yoy|ADV allow|VERB a|DET enemy|NOUN of|ADP the|DET state|NOUN to|PRT escape|VERB ?|.
+ Oh|X ,|. I|PRON do|VERB n't|ADV think|VERB the|DET state|NOUN is|VERB in|ADP too|ADV much|ADJ danger|NOUN ,|. do|VERB you|PRON ?|.
+ Who|QUESTIONTAG and|CONJ what|PRON is|VERB a|DET private|ADJ Butz|NOUN ?|.
+ He|PRON 's|VERB the|DET soldier|NOUN you|PRON wanted|VERB to|PRT see|VERB personally|ADV .|.
+ Now|ADV Werner|NOUN ,|. I|PRON 'm|VERB gon|VERB na|PRT assume|VERB you|PRON know|VERB who|PRON we|PRON are|VERB ?|.
+ Aldo|ADP the|DET Apache|NOUN .|.
+ You|PRON ca|VERB n't|ADV expect|VERB me|PRON to|PRT divulge|VERB information|NOUN that|DET would|VERB put|VERB German|ADJ lives|NOUN in|ADP danger|NOUN ?|.
+ well|ADV ,|. Werner|NOUN that|DET 's|VERB where|ADV your|PRON wrong|NOUN .|.
+ What|QUESTIONTAG did|VERB you|PRON hear|VERB ?|.
+ He|PRON beats|VERB German|ADJ soldiers|NOUN with|ADP a|DET club|NOUN .|.
+ Yeah|X ?|.
+ Got|NOUN a|DET German|ADJ here|ADV wants|VERB to|PRT die|VERB for|ADP country|NOUN .|.
+ Hello|NOUN Donny|NOUN ,|. how|ADV are|VERB you|PRON ?|.
+ Ah|NOUN ,|. just|ADV dandy|NOUN ,|. Mr.Goorowitz|NOUN .|.
+ Your|PRON mother|NOUN ,|. your|PRON father|X -|. everything|NOUN good|NOUN there|ADV ?|.
+ There|DET just|ADV fine|NOUN .|.
+ What|QUESTIONTAG can|VERB I|PRON do|VERB you|PRON for|ADP ,|. Donny|NOUN ?|.
+ I|PRON need|VERB a|DET baseball|NOUN bat|NOUN .|.
+ Can|VERB I|PRON try|VERB this|DET one|NUM on|ADP for|ADP size|NOUN ,|. outside|ADP ?|.
+ Is|VERB this|DET the|DET heaviest|ADJ ya|NOUN got|VERB ?|.
+ How|QUESTIONTAG can|VERB I|PRON help|VERB you|PRON ?|.
+ Mrs.Himmelstein|NOUN ?|.
+ Again|ADV ,|. state|NOUN your|PRON business|NOUN ?|.
+ May|NOUN I|PRON have|VERB a|DET word|NOUN with|ADP you|PRON ?|.
+ What|QUESTIONTAG about|ADP ?|.
+ Our|PRON people|NOUN in|ADP Europe|NOUN .|.
+ Mrs.Himmelstein|NOUN ,|. do|VERB you|PRON have|VERB any|DET love|ADJ ones|NOUN over|ADP in|ADP Europe|NOUN who|PRON your|PRON concerned|VERB for|ADP ?|.
+ What|QUESTIONTAG compels|VERB you|PRON young|ADJ man|NOUN ,|. to|PRT ask|VERB a|DET stranger|NOUN such|DET a|DET personal|ADJ question|NOUN ?|.
+ Because|ADP I|PRON 'm|VERB going|VERB to|PRT Europe|NOUN .|.
+ And|CONJ just|ADV how|ADV do|ADJ intend|VERB to|PRT do|VERB that|DET ,|. Joshua|NOUN ?|.
+ And|CONJ what|PRON exactly|ADV do|VERB you|PRON intend|VERB to|PRT do|VERB with|ADP that|DET toy|NOUN ?|.
+ I|PRON 'm|VERB gon|VERB na|PRT beat|VERB every|DET Nazi|NOUN I|PRON find|VERB to|PRT death|NOUN with|ADP it|PRON .|.
+ I|PRON thought|VERB we|PRON were|VERB having|VERB tea|NOUN together|ADV ?|.
+ And|CONJ in|ADP this|DET pursuit|NOUN ,|. how|ADV is|VERB it|PRON that|ADP I|PRON can|VERB be|VERB of|ADP service|NOUN ?|.
+ You|PRON must|VERB be|VERB a|DET real|ADJ BASTERD|NOUN ,|. Donny|NOUN ?|.
+ You|PRON wan|VERB na|PRT live|VERB ?|.
+ Yes|X ,|. sir|NOUN .|.
+ How|QUESTIONTAG many|ADJ ?|.
+ Maybe|ADV twelve|NOUN .|.
+ What|QUESTIONTAG kinda|NOUN of|ADP artillery|NOUN ?|.
+ They|PRON have|VERB a|DET machine|NOUN gunn|NOUN dug|NOUN in|ADP here|ADV pointing|VERB north|ADV .|.
+ Did|NOUN they|PRON mark|VERB you|PRON like|ADP they|PRON did|VERB the|DET other|ADJ survivors|NOUN ?|.
+ May|NOUN I|PRON sleep|VERB here|ADV tonight|VERB ?|.
+ So|ADV I|PRON gather|VERB your|PRON not|ADV a|DET nurse|NOUN ?|.
+ So|ADV your|PRON a|DET war|NOUN orphan|NOUN ?|.
+ We|PRON were|VERB from|ADP Nancy|NOUN .|.
+ Is|VERB this|DET a|DET sad|ADJ story|NOUN ?|.
+ Oui|NOUN .|.
+ You|PRON can|VERB run|VERB the|DET machines|NOUN ?|.
+ What|QUESTIONTAG machines|NOUN ?|.
+ The|DET machines|NOUN that|DET show|VERB the|DET film|NOUN ?|.
+ The|DET projectors|NOUN ?|.
+ How|QUESTIONTAG have|VERB you|PRON survived|VERB the|DET curfew|NOUN without|ADP capture|NOUN ?|.
+ I|PRON sleep|VERB on|ADP rooftops|NOUN .|.
+ So|ADV you|PRON ca|VERB n't|ADV operate|VERB a|DET 35mm|NUM film|NOUN projector|NOUN ,|. you|PRON want|VERB me|PRON teach|VERB you|PRON ,|. in|ADP order|NOUN to|PRT work|VERB here|ADV ,|. in|ADP order|NOUN to|PRT use|VERB my|PRON cinema|NOUN ,|. as|ADP a|DET hole|NOUN to|PRT hide|VERB in|ADP ,|. is|VERB that|ADP correct|NOUN ?|.
+ Oui|NOUN .|.
+ Whats|ADP your|PRON name|NOUN ?|.
+ Shosanna|NOUN .|.
+ I|PRON suppose|VERB now|ADV you|PRON could|VERB use|VERB a|DET ``|. M|NOUN ''|. a|DET ``|. A|NOUN ''|. and|CONJ a|DET ``|. X|NOUN ''|. ?|.
+ No|DET need|NOUN ,|. I|PRON can|VERB manage|VERB .|.
+ Do|VERB you|PRON chose|VERB the|DET German|ADJ films|NOUN yourself|PRON ?|.
+ Oui|NOUN .|.
+ Your|PRON not|ADV finished|VERB ?|.
+ May|NOUN I|PRON ask|VERB your|PRON name|NOUN ?|.
+ You|PRON wish|VERB to|PRT see|VERB my|PRON papers|NOUN ?|.
+ Do|VERB you|PRON believe|VERB me|PRON ?|.
+ Out|ADP ,|. Madame|NOUN .|.
+ Are|NOUN you|PRON well|ADV ?|.
+ May|NOUN I|PRON join|VERB you|PRON ?|.
+ Look|NOUN Fredrick|NOUN -|.
+ -|. You|PRON remember|VERB my|PRON name|NOUN ?|.
+ Yes|X ...|. .Look|NOUN ,|. you|PRON seem|VERB a|DET pleasant|ADJ enough|ADV fellow|ADJ -|.
+ Why|ADV not|ADV ?|.
+ Do|VERB n't|ADV act|VERB like|ADP a|DET infant|NOUN .|.
+ Who|QUESTIONTAG are|VERB you|PRON ?|.
+ I|PRON thought|VERB I|PRON was|VERB just|ADV a|DET uniform|NOUN ?|.
+ Your|PRON not|ADV just|ADV a|DET German|ADJ soldier|NOUN ,|. are|VERB you|PRON somebodies|NOUN son|VERB ?|.
+ Most|ADJ German|ADJ soldiers|NOUN are|VERB somebodies|NOUN son|NOUN .|.
+ Really|ADV ?|.
+ No|DET not|ADV really|ADV ,|. I|PRON 'm|VERB just|ADV teasing|VERB you|PRON .|.
+ You|PRON were|VERB raised|VERB by|ADP Helga|NOUN ?|.
+ All|DET my|PRON sisters|NOUN ,|. I|PRON 'm|VERB the|DET baby|NOUN ,|. but|CONJ Helga|NOUN was|VERB the|DET bossiest|ADJ .|.
+ And|CONJ your|PRON mother|NOUN and|CONJ father|NOUN ?|.
+ My|PRON mother|NOUN died|VERB .|.
+ is|VERB your|PRON cinema|NOUN still|ADV operatiing|VERB ?|.
+ Oui|NOUN .|.
+ What|QUESTIONTAG 's|VERB it|PRON called|VERB ?|.
+ How|QUESTIONTAG has|VERB it|PRON done|VERB durring|VERB the|DET war|NOUN ?|.
+ Actually|ADV ,|. in|ADP Germany|NOUN ,|. cinema|NOUN attendance|NOUN is|VERB up|PRT .|.
+ How|QUESTIONTAG often|ADV do|VERB you|PRON fill|VERB your|PRON house|NOUN ?|.
+ (|. Pfuit|NOUN )|. ,|. not|ADV since|ADP before|ADP the|DET war|NOUN .|.
+ So|ADV if|ADP you|PRON had|VERB one|NUM big|ADJ engagement|NOUN ,|. that|DET would|VERB help|VERB you|PRON out|PRT ?|.
+ Of|ADP course|NOUN ,|. but|CONJ that|DET 's|VERB not|ADV likely|ADJ to|PRT happen|VERB .|.
+ What|QUESTIONTAG 's|VERB a|DET bird|NOUN 's|PRT nest|ADJ ?|.
+ A|DET bird|NOUN 's|PRT nest|ADJ is|VERB what|PRON a|DET sniper|NOUN would|VERB call|VERB a|DET bell|NOUN tower|NOUN .|.
+ How|QUESTIONTAG many|ADJ Russian|NOUN 's|PRT did|VERB you|PRON kill|VERB ?|.
+ Sixty-eight|NOUN .|.
+ I|PRON know|VERB ,|. comical|ADJ ,|. huh|VERB ?|.
+ Not|ADV so|ADV comical|ADJ .|.
+ Mademoiselle|NOUN Nimieux|NOUN ?|.
+ Oui|NOUN ?|.
+ is|VERB this|DET your|PRON cinema|NOUN ?|.
+ I|PRON do|VERB n't|ADV understand|VERB ,|. what|PRON have|VERB I|PRON done|VERB ?|.
+ (|. to|PRT Major|NOUN )|. She|PRON wants|VERB to|PRT know|VERB what|PRON she|PRON 's|VERB done|VERB ?|.
+ Who|QUESTIONTAG says|VERB she|PRON 's|VERB done|VERB anything|NOUN ?|.
+ Who|QUESTIONTAG says|VERB you|PRON 've|VERB done|VERB anything|NOUN ?|.
+ Invitation|NOUN ?|.
+ .Goebbles|NOUN Voice|NOUN says|VERB OFF|NOUN SCREEN|NOUN ;|.
+ to|PRT Zoller|NOUN )|. What|QUESTIONTAG ?|.
+ I|PRON wanted|VERB to|PRT inform|VERB her|PRON .|.
+ to|PRT Francesca|NOUN )|. What|QUESTIONTAG 's|VERB the|DET issue|NOUN ?|.
+ The|DET Private|NOUN wanted|VERB to|PRT inform|VERB the|DET mademoiselle|NOUN himself|PRON .|.
+ You|PRON have|VERB opera|VERB boxes|NOUN ?|.
+ Oh|X Francesca|NOUN ,|. what|PRON was|VERB that|DET funny|ADJ thing|NOUN the|DET Fuhrer|NOUN said|VERB about|ADP Hans|NOUN ?|.
+ What|QUESTIONTAG thing|NOUN ?|.
+ Do|VERB you|PRON have|VERB a|DET engagement|NOUN tonight|NOUN ?|.
+ Well|ADV ,|. as|ADP a|DET matter|NOUN of|ADP fact|NOUN ,|. I|PRON do|VERB -|.
+ What|QUESTIONTAG sort|NOUN of|ADP discussion|NOUN ?|.
+ That|DET sounded|VERB suspiciously|ADV like|ADP a|DET Private|NOUN questioning|VERB the|DET order|NOUN of|ADP a|DET Colonel|NOUN ?|.
+ Have|VERB you|PRON tried|VERB the|DET strudel|NOUN here|ADV ?|.
+ No|DET .|.
+ So|ADV Mademoiselle|NOUN ,|. you|PRON were|VERB beginning|VERB to|PRT explain|VERB ...|. .|. ?|.
+ So|ADV Emmanuelle|NOUN -|. May|NOUN I|PRON call|VERB you|PRON Emmanuelle|NOUN ?|.
+ Oui|NOUN .|.
+ So|ADV you|PRON were|VERB explaining|VERB the|DET origin|NOUN of|ADP your|PRON cinema|NOUN ownership|NOUN ?|.
+ -|. What|QUESTIONTAG is|VERB there|DET names|ADV ?|.
+ Jean-Pierre|ADJ and|CONJ Ada|NOUN Mimieux|NOUN .|.
+ Where|QUESTIONTAG are|VERB they|PRON now|ADV ?|.
+ My|PRON uncle|NOUN was|VERB killed|VERB during|ADP blitzkrieg|NOUN .|.
+ It|PRON 's|VERB come|VERB to|PRT my|PRON attention|NOUN you|PRON have|VERB a|DET negro|NOUN in|ADP your|PRON employ|NOUN ,|. is|VERB that|ADP true|ADJ ?|.
+ Yes|X ,|. he|PRON 's|VERB a|DET Frenchman|NOUN .|.
+ Doing|VERB what|PRON ?|.
+ Projectionist|NOUN .|.
+ Is|VERB he|PRON any|DET good|ADJ ?|.
+ The|DET best|ADJ .|.
+ So|ADP it|PRON would|VERB appear|VERB our|PRON young|ADJ hero|NOUN is|VERB quite|ADV smitten|ADJ with|ADP you|PRON ?|.
+ Private|ADJ Zollers|NOUN feelings|NOUN for|ADP me|PRON are|VERB n't|ADV of|ADP a|DET romantic|ADJ nature|NOUN .|.
+ Mademoiselle|NOUN ...|. ?|.
+ Colonel|NOUN ,|. his|PRON feelings|NOUN are|VERB not|ADV romantic|ADJ .|.
+ Cigarette|NOUN ?|.
+ No|DET thank|NOUN you|PRON .|.
+ Do|VERB you|PRON smoke|VERB ?|.
+ Yes|X .|.
+ What|QUESTIONTAG the|DET fuck|NOUN are|VERB we|PRON suppose|ADJ to|PRT do|VERB ?|.
+ It|PRON looks|VERB like|ADP we|PRON 're|VERB suppose|ADJ to|PRT have|VERB a|DET Nazi|NOUN premier|NOUN .|.
+ Like|ADP I|PRON said|VERB ,|. what|PRON the|DET fuck|NOUN are|VERB we|PRON suppose|ADJ to|PRT do|VERB ?|.
+ Well|ADV ,|. I|PRON need|VERB to|PRT speak|VERB with|ADP you|PRON about|ADP that|DET .|.
+ About|ADP what|PRON ?|.
+ About|ADP these|DET Hun|NOUN swine|NOUN ,|. commandeering|VERB our|PRON cinema|NOUN .|.
+ I|PRON 'm|VERB confused|ADJ ,|. what|PRON are|VERB we|PRON talking|VERB about|ADP ?|.
+ Filling|VERB the|DET cinema|NOUN with|ADP Nazi|NOUN 's|PRT and|CONJ their|PRON whores|NOUN ,|. and|CONJ burning|VERB it|PRON down|PRT to|PRT the|DET ground|NOUN .|.
+ No|DET ,|. Marcel|NOUN ,|. just|ADV for|ADP sake|NOUN of|ADP argument|NOUN ,|. if|ADP we|PRON wanted|VERB to|PRT burn|VERB down|PRT the|DET cinema|NOUN ,|. for|ADP any|DET number|NOUN of|ADP reasons|NOUN ,|. you|PRON and|CONJ I|PRON could|VERB physically|ADV accomplish|VERB that|ADP ,|. no|DET ?|.
+ Oui|NOUN Shosanna|NOUN ,|. we|PRON could|VERB do|VERB that|DET .|.
+ And|CONJ with|ADP Madame|NOUN Mimieux|NOUN 's|PRT 350|NUM nitrate|ADJ film|NOUN print|NOUN collection|NOUN ,|. we|PRON would|VERB n't|ADV even|ADV need|VERB explosives|NOUN ,|. would|VERB we|PRON ?|.
+ You|PRON mean|VERB we|PRON would|VERB n't|ADV need|VERB any|DET more|ADJ explosives|NOUN ?|.
+ Something|VERB for|ADP yourself|PRON ,|. sir|VERB ?|.
+ Whiskey|ADJ straight|NOUN .|.
+ It|PRON says|VERB here|ADV you|PRON speak|ADJ German|ADJ fluently|ADV ?|.
+ Like|ADP a|DET Katzenjammer|NOUN Kid|NOUN .|.
+ List|VERB your|PRON accomplishments|NOUN ?|.
+ Well|ADV sir|ADV ,|. such|ADJ as|ADP they|PRON are|VERB ,|. I|PRON write|VERB reviews|NOUN and|CONJ articles|NOUN ,|. for|ADP a|DET publication|NOUN called|VERB ;|. ``|. Films|NOUN and|CONJ Filmmakers|NOUN ''|. .|.
+ What|QUESTIONTAG 's|VERB that|DET called|VERB ?|.
+ ``|. Flickers|NOUN Bi-Monthly|ADJ ''|. .|.
+ What|QUESTIONTAG should|VERB we|PRON drink|VERB to|PRT ,|. sir|VERB ?|.
+ (|. Thinking|NOUN ,|. for|ADP a|DET moment|NOUN )|. Down|PRT with|ADP Hitler|NOUN .|.
+ Are|NOUN you|PRON familiar|ADJ with|ADP German|ADJ cinema|NOUN under|ADP the|DET Third|NOUN Reich|NOUN ?|.
+ Yes|X .|.
+ Pardon|NOUN sir|NOUN ?|.
+ This|DET little|ADJ escapade|NOUN of|ADP ours|NOUN ,|. requires|VERB a|DET knowledge|NOUN of|ADP the|DET German|ADJ film|NOUN industry|NOUN under|ADP the|DET Third|NOUN Reich|NOUN .|.
+ How|QUESTIONTAG 's|VERB he|PRON doing|VERB ?|.
+ Frightfully|ADV sorry|ADJ sir|NOUN ,|. once|ADV again|ADV ?|.
+ Oh|X ,|. you|PRON mean|VERB the|DET film|NOUN about|ADP Private|NOUN Zoller|NOUN ?|.
+ We|PRON do|VERB n't|ADV have|VERB any|DET intelligence|NOUN ,|. on|ADP exactly|ADV ,|. what|PRON the|DET film|NOUN that|DET night|NOUN will|VERB be|VERB about|ADV .|.
+ But|CONJ it|PRON 's|VERB called|VERB ``|. Nation|NOUN 's|PRT Pride|NOUN ''|. ?|.
+ Yes|X .|.
+ The|DET master|NOUN race|NOUN at|ADP play|NOUN ,|. aye|NOUN ?|.
+ Basically|ADV ,|. we|PRON have|VERB all|DET our|PRON rotten|NOUN eggs|NOUN in|ADP one|NUM basket|NOUN .|.
+ Why|ADV do|VERB they|PRON call|VERB him|PRON that|ADP ?|.
+ Best|NOUN guess|NOUN ,|. is|VERB because|ADP he|PRON removes|VERB the|DET scalps|NOUN of|ADP the|DET Nazi|NOUN dead|NOUN .|.
+ Scalps|NOUN ,|. sir|NOUN ?|.
+ The|DET hair|NOUN .|.
+ Rather|ADV gruesome|ADJ sounding|VERB little|ADJ Dicky|NOUN bird|NOUN ,|. is|VERB n't|ADV he|PRON ?|.
+ No|DET doubt|NOUN the|DET whole|NOUN lot|NOUN ,|. a|DET bunch|NOUN a|DET nutters|NOUN .|.
+ How|QUESTIONTAG will|VERB I|PRON know|VERB her|PRON ?|.
+ I|PRON suspect|VERB that|DET wo|VERB n't|ADV be|VERB too|ADV much|ADJ trouble|NOUN for|ADP you|PRON .|.
+ What|QUESTIONTAG is|VERB a|DET sync|ADJ mark|NOUN ?|.
+ A|DET action|NOUN and|CONJ noise|NOUN put|VERB together|ADV ,|. So|ADP we|PRON can|VERB sync|VERB up|PRT the|DET picture|NOUN and|CONJ sound|NOUN .|.
+ How|QUESTIONTAG do|VERB we|PRON do|VERB that|DET ?|.
+ Clap|VERB your|PRON hands|NOUN .|.
+ Do|VERB you|PRON know|VERB one|NUM person|NOUN who|PRON can|VERB do|VERB both|DET things|NOUN ?|.
+ Of|ADP course|NOUN Gaspar|NOUN ,|. very|ADV nice|ADJ man|NOUN ,|. took|VERB care|NOUN of|ADP all|DET the|DET experimental|ADJ filmmakers|NOUN .|.
+ What|QUESTIONTAG does|VERB that|DET mean|VERB ?|.
+ We|PRON find|VERB somebody|NOUN who|PRON can|VERB develop|VERB and|CONJ process|VERB a35mm|ADJ print|NOUN .|.
+ Would|VERB you|PRON do|VERB that|DET ?|.
+ Like|ADP that|DET .|.
+ You|PRON said|VERB it|PRON was|VERB in|ADP a|DET tavern|NOUN ?|.
+ it|PRON is|VERB a|DET tavern|ADJ .|.
+ What|QUESTIONTAG if|ADP we|PRON go|VERB in|ADP there|ADV ,|. and|CONJ she|PRON 's|VERB not|ADV even|ADV there|DET ?|.
+ We|PRON wait|VERB .|.
+ Stiglitz|NOUN ,|. right|ADV ?|.
+ That|DET 's|VERB right|ADJ ,|. sir|NOUN .|.
+ I|PRON do|VERB n't|ADV look|VERB calm|VERB to|PRT you|PRON ?|.
+ Well|ADV ,|. now|ADV you|PRON put|VERB it|PRON like|ADP that|DET ,|. I|PRON guess|VERB you|PRON do|VERB .|.
+ Is|VERB that|ADP the|DET kinds|NOUN man|NOUN you|PRON need|VERB ,|. the|DET loquacious|ADJ type|NOUN ?|.
+ Fair|NOUN point|NOUN ,|. Lieutenant|NOUN .|.
+ Speaking|VERB of|ADP Frau|NOUN Von|NOUN Hammersmark|NOUN ,|. who|PRON 's|VERB idea|NOUN was|VERB it|PRON for|ADP the|DET death|NOUN trap|NOUN redez-vous|ADJ ?|.
+ She|PRON chose|VERB the|DET spot|NOUN .|.
+ Well|NOUN is|VERB n't|ADV that|ADV just|ADV dandy|VERB ?|.
+ (|. To|PRT Winnetou|NOUN )|. So|ADP who|PRON are|VERB you|PRON ?|.
+ I|PRON am|VERB WINNETOU|NOUN ,|. CHIEF|NOUN of|ADP the|DET APACHES|NOUN !|.
+ Frau|NOUN Von|NOUN Hammersmark|NOUN ,|. when|ADV your|PRON friends|NOUN came|VERB in|ADP ,|. did|VERB you|PRON realize|VERB you|PRON did|VERB a|DET double|ADJ take|NOUN ,|. like|ADP in|ADP the|DET movies|NOUN ?|.
+ Really|ADV ?|.
+ I|PRON thought|VERB this|DET place|NOUN was|VERB suppose|ADV to|PRT have|VERB more|ADJ French|ADJ then|ADV Germans|NOUN ?|.
+ Normally|NOUN that|DET 's|VERB true|ADJ .|.
+ Why|ADV ?|.
+ No|DET one|NOUN knows|VERB .|.
+ Frau|NOUN Von|NOUN Hammersmark|NOUN ,|. I|PRON was|VERB just|ADV thinking|NOUN ,|. could|VERB you|PRON sign|VERB a|DET autograph|NOUN to|PRT my|PRON son|NOUN on|ADP his|PRON birthday|NOUN ?|.
+ I|PRON 'd|VERB love|VERB to|PRT Wilhelm|NOUN .|.
+ So|ADV Wilhelm|NOUN ,|. do|VERB you|PRON know|VERB the|DET name|NOUN of|ADP this|DET progeny|NOUN yet|ADV ?|.
+ So|ADV ,|. Frau|NOUN Von|NOUN Hammersmark|NOUN ,|. what|PRON brings|VERB you|PRON to|PRT France|NOUN ?|.
+ The|DET mountain|NOUN ?|.
+ Yes|X .|.
+ May|NOUN I|PRON join|VERB you|PRON ?|.
+ By|ADP all|DET means|NOUN ,|. Major|NOUN .|.
+ Aside|ADV from|ADP having|VERB a|DET drink|NOUN with|ADP the|DET lovely|ADJ fraulein|NOUN ?|.
+ You|PRON know|VERB every|DET German|ADJ in|ADP France|NOUN ?|.
+ Worth|ADJ knowing|NOUN .|.
+ (|. Chuckling|VERB as|ADP he|PRON asks|VERB )|. All|DET levity|NOUN aside|ADV ,|. what|PRON are|VERB you|PRON doing|VERB in|ADP France|NOUN ?|.
+ Attending|VERB Goebbels|NOUN film|NOUN premiere|ADV as|ADP the|DET frauleins|NOUN escort|NOUN .|.
+ Your|PRON the|DET frauleins|NOUN escort|VERB ?|.
+ Somebody|NOUN has|VERB to|PRT carry|VERB the|DET lighter|NOUN .|.
+ Was|NOUN this|DET vist|NOUN ...|. fortuitous|ADJ ?|.
+ Not|ADV for|ADP you|PRON .|.
+ Now|ADV ,|. who|PRON 's|VERB next|ADJ ?|.
+ Major|ADJ ,|. I|PRON do|VERB n't|ADV mean|VERB to|PRT be|VERB rude|ADJ .|.
+ How|QUESTIONTAG many|ADJ glasses|NOUN ?|.
+ Five|NUM glasses|NOUN .|.
+ Why|ADV do|VERB you|PRON have|VERB a|DET Luger|NOUN pointed|VERB at|ADP my|PRON testicles|NOUN ?|.
+ Because|ADP you|PRON 've|VERB just|ADV given|VERB yourself|PRON away|ADV ,|. Cap't|NOUN .|.
+ 'Well|ADV ,|. if|ADP this|DET is|VERB it|PRON old|ADJ boy|NOUN ,|. I|PRON hope|VERB you|PRON dont|VERB mind|ADP if|ADP I|PRON go|VERB out|PRT speaking|VERB the|DET kings|NOUN ?|.
+ And|CONJ what|PRON would|VERB that|DET be|VERB ?|.
+ Stiglitz|NOUN .|.
+ Were|ADJ American|NOUN 's|PRT 1|NUM What|QUESTIONTAG are|VERB you|PRON ?|.
+ I|PRON 'm|VERB a|DET German|ADJ you|PRON idiot|VERB !|.
+ Okay|NOUN Wilhelm|NOUN ...|. .is|VERB anybody|NOUN alive|ADJ on|ADP our|PRON side|NOUN ?|.
+ No|DET !|.
+ Who|QUESTIONTAG 's|VERB that|DET ?|.
+ (|. To|PRT BRIDGET|NOUN ,|.
+ Wilhelm|NOUN ,|. who|PRON is|VERB that|ADP ?|.
+ is|VERB the|DET girl|NOUN on|ADP your|PRON side|NOUN ?|.
+ Which|QUESTIONTAG girl|NOUN ?|.
+ Is|VERB she|PRON okay|PRT ?|.
+ (|. To|PRT Bridget|NOUN LOW|NOUN in|ADP GERMAN|NOUN )|. You|PRON despicable|ADJ traitor|NOUN .|.
+ Okay|NOUN Wilhelm|NOUN ,|. what|PRON 'd|VERB ya|ADJ say|VERB we|PRON make|VERB a|DET deal|NOUN ?|.
+ What|QUESTIONTAG 's|VERB your|PRON name|NOUN ?|.
+ Keep|VERB talking|VERB ?|.
+ Aldo|NOUN ?|.
+ I|PRON 'm|VERB here|ADV Willi|NOUN !|.
+ What|QUESTIONTAG choice|NOUN ya|NOUN got|VERB ?|.
+ I|PRON could|VERB kill|VERB the|DET girl|NOUN !|.
+ Hey|NOUN Willi|NOUN ,|. what|PRON 's|VERB with|ADP the|DET machine|NOUN gunny|NOUN I|PRON thought|VERB we|PRON had|VERB a|DET deal|NOUN ?|.
+ We|PRON do|VERB have|VERB a|DET deal|NOUN ,|. now|ADV git|VERB the|DET girl|NOUN and|CONJ go|VERB .|.
+ What|QUESTIONTAG ?|.
+ I|PRON said|VERB ,|. she|PRON 's|VERB right|ADJ .|.
+ Few|ADJ questions|NOUN about|ADP what|PRON ?|.
+ About|ADP I|PRON got|VERB three|NUM men|NOUN dead|VERB back|ADV there|ADV ,|. and|CONJ why|ADV do|VERB n't|ADV you|PRON try|VERB tellin|VERB us|PRON what|PRON the|DET fuck|NOUN happened|VERB ?|.
+ 'fore|ADP we|PRON get|VERB into|ADP who|PRON shot|VERB John|NOUN ,|. why|ADV did|VERB you|PRON invite|VERB my|PRON men|NOUN to|PRT a|DET rendez-vous|ADJ in|ADP a|DET basement|NOUN with|ADP a|DET bunch|NOUN of|ADP Nazis|NOUN ?|.
+ I|PRON can|VERB see|VERB ,|. since|ADP you|PRON did|VERB n't|ADV see|VERB what|PRON happened|VERB inside|ADV ,|. the|DET Nazi|NOUN 's|PRT being|VERB there|ADV must|VERB look|VERB odd|ADJ .|.
+ How|QUESTIONTAG did|VERB the|DET shootin|NOUN start|NOUN ?|.
+ The|DET English|NOUN man|NOUN ,|. gave|VERB himself|PRON away|ADV .|.
+ How|QUESTIONTAG did|VERB he|PRON do|VERB that|DET ?|.
+ He|PRON ordered|VERB three|NUM glasses|NOUN .|.
+ How|QUESTIONTAG did|VERB you|PRON intend|VERB to|PRT get|VERB them|PRON into|ADP the|DET premiere|NOUN ?|.
+ Hand|NOUN me|PRON my|PRON purse|NOUN .|.
+ Can|VERB you|PRON still|ADV get|VERB us|PRON in|ADP that|DET premiere|NOUN ?|.
+ Can|VERB you|PRON speak|ADJ German|ADJ better|ADJ then|ADV your|PRON friends|NOUN ,|. no|DET .|.
+ Which|QUESTIONTAG is|VERB ?|.
+ IN|NOUN A|NOUN PRIVATE|NOUN DINNING|NOUN ROOM|NOUN IN|NOUN GERMANY|NOUN ,|. The|DET FUHRER|NOUN ,|. aka|NOUN Adolph|NOUN Hitler|NOUN ,|. aka|NOUN Adolph|NOUN Shicklegroover|NOUN ,|. aka|VERB The|DET Bohemian|ADJ Corporal|NOUN ,|. having|VERB dinner|NOUN with|ADP Goebbels|NOUN ,|. only|ADV a|DET few|ADJ short|ADJ days|NOUN ago|ADV .|.
+ What|QUESTIONTAG ?|.
+ When|QUESTIONTAG the|DET hell|NOUN did|VERB this|DET happen|VERB ?|.
+ And|CONJ how|ADV come|ADJ London|NOUN do|VERB n't|ADV know|VERB nothing|NOUN about|ADP that|DET ?|.
+ We|PRON need|VERB to|PRT get|VERB something|NOUN straight|ADV ,|. once|ADV and|CONJ for|ADP all|DET .|.
+ What|QUESTIONTAG are|VERB you|PRON thinking|VERB ?|.
+ I|PRON 'm|VERB thinking|VERB getting|VERB a|DET wack|NOUN at|ADP plantin|ADJ ole|ADJ Uncle|NOUN Adolph|NOUN makes|VERB this|DET a|DET horse|NOUN of|ADP a|DET different|ADJ color|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET suppose|NOUN to|PRT mean|VERB ?|.
+ It|PRON means|VERB ,|. your|PRON gettin|ADJ us|PRON in|ADP that|DET premiere|NOUN .|.
+ Other|ADJ then|ADV Yiddish|VERB ?|.
+ Preferably|ADV .|.
+ it|PRON sounds|VERB like|ADP shit|NOUN ,|. but|CONJ what|PRON else|ADV we|PRON gon|VERB na|PRT do|VERB ,|. go|VERB home|NOUN ?|.
+ No|DET ,|. it|PRON 's|VERB good|ADJ .|.
+ (|. Meaning|VERB Utivich|NOUN )|. What|QUESTIONTAG about|ADP the|DET little|ADJ one|NUM ?|.
+ Do|VERB you|PRON mean|VERB me|PRON ?|.
+ Can|VERB you|PRON speak|VERB ,|. Sgt|NOUN ?|.
+ Fraulein|NOUN Von|NOUN Hammersmark|NOUN ,|. what|PRON has|VERB befallen|VERB Germany|NOUN 's|PRT most|ADV elegant|ADJ swan|NOUN ?|.
+ Colonel|NOUN Landa|NOUN ,|. it|PRON 's|VERB been|VERB years|NOUN .|.
+ Seriously|ADV ,|. what|PRON happened|VERB ?|.
+ That|DET cast|VERB looks|VERB as|ADV fresh|ADJ as|ADP my|PRON old|ADJ Uncle|NOUN Gustave|NOUN ,|. when|ADV were|VERB you|PRON climbing|VERB this|DET mountain|NOUN ,|. last|ADJ night|NOUN ?|.
+ Very|ADV good|ADJ eye|NOUN ,|. Colonel|NOUN .|.
+ Margheriti|NOUN ...|. ?|.
+ Am|NOUN I|PRON saying|VERB it|PRON correctly|ADV ...|. ?|.
+ Margheriti|NOUN ...|. .|. Say|VERB it|PRON for|ADP me|PRON once|ADV please|VERB ...|. ?|.
+ Margheriti|NOUN .|.
+ I|PRON 'm|VERB sorry|ADJ ,|. again|ADV ...|. ?|.
+ I4argheriti|NOUN .|.
+ What|QUESTIONTAG 's|VERB your|PRON name|NOUN again|ADV ?|.
+ Enzo|NOUN Gorlomi|NOUN .|.
+ Dominick|NOUN Decocco|NOUN ?|.
+ Dominick|NOUN Decocco|NOUN .|.
+ I|PRON beg|VERB your|PRON pardon|NOUN ?|.
+ What|QUESTIONTAG now|ADV Colonel|NOUN ?|.
+ ``|. Resist|VERB to|PRT your|PRON last|ADJ breath|NOUN ''|. ?|.
+ Hans|NOUN LUNGES|NOUN forward|ADV ,|. putting|VERB his|PRON strong|ADJ mitts|NOUN around|ADP Bridget|NOUN Von|NOUN Hammersmarks|NOUN lily|ADV white|ADJ delicate|NOUN neck|NOUN ,|. and|CONJ with|ADP all|DET the|DET violence|NOUN of|ADP a|DET Lion|NOUN in|ADP mid-pounce|NOUN ,|. SQUEEZES|NOUN with|ADP all|DET his|PRON MIGHT|NOUN .|.
+ As|ADP Stanley|NOUN said|VERB to|PRT Livingston|NOUN ;|. Lt.Aldo|NOUN Raine|NOUN ,|. I|PRON presume|VERB ?|.
+ Hans|NOUN Landa|NOUN ?|.
+ You|PRON 've|VERB had|VERB a|DET nice|ADJ long|ADJ run|NOUN ,|. Aldo|NOUN .|.
+ Utivich|NOUN ?|.
+ Is|VERB that|ADP you|PRON Lieutenant|VERB ?|.
+ Not|ADV exactly|ADV John|NOUN Wayne|NOUN ,|. am|VERB I|PRON ?|.
+ John|NOUN Waynes|VERB a|DET pampered|ADJ movie|NOUN star|NOUN .|.
+ What|QUESTIONTAG could|VERB you|PRON have|VERB possibly|ADV been|VERB thinking|VERB ?|.
+ Well|ADV ,|. I|PRON speak|VERB alittle|ADJ Italian|ADJ -|.
+ So|ADV your|PRON Aldo|NOUN the|DET Apache|NOUN ?|.
+ So|ADV your|PRON The|DET Jew|NOUN Hunter|NOUN ?|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ,|. The|DET Little|NOUN Man|NOUN ?|.
+ The|DET Germans|NOUN nickname|NOUN for|ADP you|PRON .|.
+ The|DET Germans|NOUN nickname|NOUN for|ADP me|PRON is|VERB ,|. The|DET Little|NOUN Man|NOUN ?|.
+ Or|CONJ ``|. The|DET Little|NOUN One|NOUN ,|. ether|VERB one|NUM means|NOUN you|PRON .|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB our|PRON names|NOUN ?|.
+ Lt.Aldo|NOUN ,|. if|ADP you|PRON do|VERB n't|ADV think|VERB I|PRON would|VERB n't|ADV interrogate|VERB every|DET single|ADJ one|NUM of|ADP your|PRON swastika|X marked|VERB survivors|NOUN ...|.
+ How|QUESTIONTAG about|ADP you|PRON Uitivich|NOUN ?|.
+ I|PRON guess|VERB so|ADV too|ADV .|.
+ What|QUESTIONTAG kinda|VERB deal|NOUN ?|.
+ The|DET kind|NOUN you|PRON would|VERB n't|ADV have|VERB the|DET authority|NOUN to|PRT make|VERB .|.
+ What|QUESTIONTAG 's|VERB the|DET death|NOUN toll|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB here|ADV ?|.
+ I|PRON came|VERB to|PRT visit|VERB you|PRON .|.
+ Ca|NOUN n't|ADV you|PRON see|VERB how|ADV busy|ADJ I|PRON am|VERB ?|.
+ Then|ADV allow|VERB me|PRON to|PRT lend|VERB a|DET assist|NOUN .|.
+ Let|VERB me|PRON do|VERB it|PRON ?|.
+ No|DET .|.

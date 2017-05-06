@@ -1,0 +1,287 @@
+ You|PRON okay|VERB ?|.
+ What|QUESTIONTAG about|ADP my|PRON men|NOUN ?|.
+ (|. brusquely|ADV )|. We|PRON 're|VERB doing|VERB all|DET we|PRON can|VERB .|.
+ Have|VERB you|PRON taken|VERB the|DET dogs|NOUN through|ADP ?|.
+ Yes|X ,|. sir|NOUN .|.
+ Where|QUESTIONTAG are|VERB you|PRON ,|. Scully|ADV ?|.
+ I|PRON 'm|VERB on|ADP the|DET roof|NOUN .|.
+ Did|NOUN you|PRON find|VERB something|NOUN ?|.
+ (|. impatiently|ADV )|. No|X .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ,|. Scully|ADV ?|.
+ I|PRON 've|VERB just|ADV climbed|VERB twelve|ADJ floors|NOUN .|.
+ Mulder|NOUN ...|. ?|.
+ What|QUESTIONTAG happened|VERB to|PRT playing|VERB a|DET hunch|NOUN ?|.
+ How|QUESTIONTAG 's|VERB that|DET ?|.
+ You|PRON 've|VERB got|VERB to|PRT quit|VERB looking|VERB for|ADP what|PRON is|VERB n't|ADV there|ADV .|.
+ Now|ADV what|PRON ?|.
+ (|. suddenly|ADV nervous|ADV )|. It|PRON 's|VERB locked|VERB ?|.
+ (|. thinks|VERB he|PRON 's|VERB joking|NOUN )|. Where|QUESTIONTAG are|VERB you|PRON ,|. Mulder|ADJ ?|.
+ I|PRON 'm|VERB in|ADP the|DET vending|NOUN room|NOUN .|.
+ Is|VERB that|ADP you|PRON pounding|VERB ?|.
+ In|ADP ten|ADJ minutes|NOUN ...|. ..|NUM ?|.
+ DO|VERB N'T|NOUN THINK|VERB !|.
+ Where|QUESTIONTAG is|VERB it|PRON ?|.
+ TRUCKS|NOUN are|VERB pulling|VERB up|PRT out|ADV in|ADP the|DET street|NOUN out|PRT front|NOUN .|.
+ Scully|ADV ?|.
+ Mulder|NOUN .|.
+ Can|VERB you|PRON defuse|VERB it|PRON ?|.
+ Agents|NOUN heed|VERB his|PRON word|NOUN ,|. exiting|VERB the|DET room|NOUN .|.
+ Did|NOUN you|PRON hear|VERB what|PRON I|PRON said|VERB ?|.
+ Let|VERB 's|PRT go|VERB ,|. Mulder|NOUN .|.
+ What|QUESTIONTAG 's|VERB he|PRON doing|VERB ?|.
+ Excuse|ADP me|PRON --|. the|DET firemen|NOUN and|CONJ the|DET boy|NOUN --|. they|PRON were|VERB in|ADP the|DET building|NOUN ?|.
+ Agent|NOUN Mulder|NOUN ,|. since|ADP you|PRON were|VERB n't|ADV able|ADJ to|PRT be|VERB on|ADP time|NOUN for|ADP this|DET hearing|NOUN ,|. I|PRON 'm|VERB going|VERB to|PRT ask|VERB you|PRON to|PRT step|VERB outside|ADV so|ADV that|ADP we|PRON can|VERB get|VERB Agent|NOUN Scully|NOUN 's|PRT version|NOUN of|ADP the|DET facts|NOUN .|.
+ About|ADP what|PRON ?|.
+ --|. They|PRON 're|VERB asking|VERB her|PRON for|ADP a|DET narrative|ADJ .|.
+ And|CONJ they|PRON want|VERB to|PRT blame|VERB us|PRON ?|.
+ Agent|NOUN Mulder|NOUN --|. we|PRON both|DET know|VERB that|ADP if|ADP you|PRON and|CONJ Agent|NOUN Scully|NOUN had|VERB n't|ADV taken|VERB the|DET initiative|NOUN to|PRT search|VERB the|DET adjacent|ADJ building|NOUN ,|. you|PRON could|VERB have|VERB multiplied|VERB the|DET fatalities|NOUN by|ADP a|DET hundred|NUM --|.
+ Why|ADV ?|.
+ I|PRON think|VERB you|PRON must|VERB have|VERB an|DET idea|NOUN .|.
+ You|PRON 're|VERB ...|. quitting|VERB ?|.
+ There|DET 's|VERB really|ADV no|DET reason|NOUN left|VERB for|ADP me|PRON to|PRT stay|VERB anymore|ADV .|.
+ Poopy|NOUN day|NOUN ?|.
+ Yup|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON do|VERB ?|.
+ What|QUESTIONTAG do|VERB I|PRON do|VERB .|.
+ Does|VERB what|PRON ?|.
+ Why|ADV do|VERB n't|ADV you|PRON go|VERB home|NOUN to|PRT the|DET old|ADJ lady|NOUN --|.
+ That|DET official|ADJ FBI|NOUN business|NOUN ?|.
+ (|. startled|VERB )|. What|QUESTIONTAG ?|.
+ How|QUESTIONTAG 's|VERB that|DET ?|.
+ Standing|VERB around|ADP holding|VERB your|PRON yank|NOUN while|ADP bombs|NOUN are|VERB exploding|VERB .|.
+ Do|VERB I|PRON know|VERB you|PRON ?|.
+ No|DET .|.
+ You|PRON follow|VERB me|PRON out|ADP here|ADV for|ADP a|DET reason|NOUN ?|.
+ Yeah|X ,|. I|PRON did|VERB .|.
+ How|QUESTIONTAG 'd|VERB you|PRON find|VERB me|PRON ?|.
+ Heard|NOUN you|PRON come|VERB here|ADV now|ADV and|CONJ again|ADV .|.
+ You|PRON a|DET reporter|NOUN ?|.
+ I|PRON 'm|VERB a|DET doctor|NOUN ,|. but|CONJ I|PRON think|VERB I|PRON mentioned|VERB that|ADP .|.
+ Who|QUESTIONTAG sent|VERB you|PRON ?|.
+ I|PRON came|VERB on|ADP my|PRON own|ADJ .|.
+ And|CONJ what|PRON 's|VERB that|DET ?|.
+ S.A.C|NOUN .|.
+ Before|ADP the|DET bomb|NOUN went|VERB off|PRT ?|.
+ That|DET 's|VERB what|PRON I|PRON 'm|VERB saying|VERB .|.
+ You|PRON 're|VERB saying|VERB they|PRON destroyed|VERB an|DET entire|ADJ building|NOUN to|PRT hide|VERB the|DET bodies|NOUN of|ADP three|NUM firemen|NOUN ...|. ?|.
+ And|CONJ one|NUM little|ADJ boy|NOUN .|.
+ Do|VERB you|PRON ?|.
+ the|DET car|NOUN .|.
+ (|. strangely|ADV intense|VERB )|. I|PRON wake|VERB you|PRON ?|.
+ No|DET .|.
+ Are|NOUN you|PRON drunk|VERB ,|. Mulder|NOUN ?|.
+ I|PRON was|VERB until|ADP about|ADP an|DET hour|NOUN ago|ADV .|.
+ Is|VERB that|DET before|ADP or|CONJ after|ADP you|PRON got|VERB the|DET idea|NOUN to|PRT come|VERB here|ADV ?|.
+ What|QUESTIONTAG are|VERB you|PRON implying|VERB ,|. Scully|ADV ?|.
+ (|. frowning|VERB )|. I|PRON thought|VERB you|PRON may|VERB have|VERB gotten|VERB drunk|NOUN and|CONJ decided|VERB to|PRT come|VERB here|ADV to|PRT talk|VERB me|PRON out|ADP of|ADP quitting|VERB .|.
+ Is|VERB that|ADP what|PRON you|PRON 'd|VERB like|VERB me|PRON to|PRT do|VERB ?|.
+ wavering|VERB heart|NOUN .|.
+ Mulder|NOUN --|. what|PRON are|VERB you|PRON doing|VERB ?|.
+ Just|ADV get|VERB dressed|VERB .|.
+ Brought|VERB on|ADP by|ADP what|PRON ?|.
+ Heat|NOUN ,|. I|PRON think|VERB .|.
+ How|QUESTIONTAG can|VERB this|DET be|VERB ?|.
+ The|DET developing|VERB organism|NOUN is|VERB using|VERB his|PRON life|NOUN energy|NOUN ,|. digesting|VERB bone|NOUN and|CONJ tissue|NOUN .|.
+ And|CONJ if|ADP it|PRON 's|VERB unsuccessful|ADJ ?|.
+ Incinerate|NOUN it|PRON .|.
+ Of|ADP what|PRON ?|.
+ They|PRON seemed|VERB to|PRT buy|VERB our|PRON story|NOUN about|ADP the|DET Hanta|NOUN virus|NOUN .|.
+ On|ADP whose|PRON orders|NOUN ?|.
+ General|NOUN McAddie|NOUN 's|PRT .|.
+ Why|ADV is|VERB a|DET morgue|NOUN suddenly|ADV off|PRT limits|NOUN on|ADP orders|NOUN of|ADP a|DET general|ADJ ?|.
+ This|DET is|VERB one|NUM of|ADP the|DET firemen|NOUN who|PRON died|VERB in|ADP Dallas|NOUN ?|.
+ According|VERB to|PRT this|DET tag|NOUN .|.
+ And|CONJ you|PRON 're|VERB looking|VERB for|ADP ?|.
+ I|PRON can|VERB tell|VERB you|PRON that|ADP without|ADP even|ADV looking|VERB at|ADP him|PRON .|.
+ Does|VERB this|DET fit|VERB the|DET description|NOUN you|PRON just|ADV read|VERB me|PRON ,|. Scully|ADV ?|.
+ Is|VERB this|DET Dr.|NOUN Kurtzweil|NOUN 's|PRT residence|NOUN ?|.
+ (|. suspiciously|ADV )|. You|PRON got|VERB some|DET kind|NOUN of|ADP business|NOUN with|ADP him|PRON ?|.
+ Looking|VERB for|ADP him|PRON for|ADP what|PRON ?|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ Selling|VERB naked|ADJ pictures|NOUN of|ADP little|ADJ kids|NOUN over|ADP his|PRON computer|NOUN .|.
+ You|PRON looking|VERB for|ADP him|PRON for|ADP some|DET other|ADJ reason|NOUN ?|.
+ Yeah|X ,|. I|PRON had|VERB an|DET appointment|NOUN for|ADP a|DET pelvic|ADJ examination|NOUN .|.
+ You|PRON want|VERB a|DET call|NOUN if|ADP we|PRON turn|VERB up|PRT Kurtzweil|NOUN ?|.
+ No|DET .|.
+ They|PRON want|VERB to|PRT discredit|VERB you|PRON --|. for|ADP what|PRON ?|.
+ For|ADP what|PRON ?|.
+ You|PRON know|VERB my|PRON work|NOUN ?|.
+ (|. pointedly|ADV )|. Dr.|NOUN Kurtzweil|NOUN ,|. I|PRON 'm|VERB not|ADV interested|ADJ in|ADP bigoted|ADJ ideas|NOUN about|ADP race|NOUN or|CONJ genocide|NOUN .|.
+ How|QUESTIONTAG ?|.
+ I|PRON picked|VERB up|PRT the|DET historical|ADJ document|NOUN of|ADP the|DET venality|NOUN and|CONJ hypocrisy|NOUN of|ADP the|DET American|ADJ government|NOUN .|.
+ Are|NOUN you|PRON saying|VERB it|PRON was|VERB n't|ADV such|ADJ a|DET small|ADJ outbreak|NOUN ?|.
+ What|QUESTIONTAG was|VERB it|PRON ?|.
+ When|QUESTIONTAG we|PRON were|VERB young|ADJ men|NOUN in|ADP the|DET military|ADJ ,|. your|PRON father|NOUN and|CONJ I|PRON were|VERB recruited|VERB for|ADP a|DET project|NOUN .|.
+ What|QUESTIONTAG killed|VERB those|DET men|NOUN ?|.
+ What|QUESTIONTAG killed|VERB them|PRON I|PRON wo|VERB n't|ADV even|ADV write|VERB about|ADP .|.
+ A|DET plague|NOUN ?|.
+ The|DET plague|NOUN to|PRT end|VERB all|DET plagues|NOUN ,|. Agent|NOUN Mulder|NOUN .|.
+ Negotiating|VERB with|ADP whom|PRON ?|.
+ I|PRON think|VERB you|PRON know|VERB .|.
+ How|QUESTIONTAG can|VERB I|PRON reach|VERB you|PRON ?|.
+ You|PRON ca|VERB n't|ADV .|.
+ Scully|ADV ...|. ?|.
+ Why|ADV are|VERB you|PRON whispering|VERB ?|.
+ I|PRON ca|VERB n't|ADV really|ADV talk|VERB right|ADV now|ADV .|.
+ What|QUESTIONTAG did|VERB you|PRON find|VERB ?|.
+ Evidence|NOUN of|ADP a|DET massive|ADJ infection|NOUN .|.
+ What|QUESTIONTAG kind|NOUN of|ADP infection|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Was|NOUN there|DET anything|NOUN in|ADP those|DET offices|NOUN that|DET did|VERB n't|ADV go|VERB to|PRT D.C.|NOUN ?|.
+ Some|DET bone|NOUN fragments|NOUN came|VERB up|ADV in|ADP the|DET sift|NOUN this|DET morning|NOUN .|.
+ Have|VERB you|PRON examined|VERB them|PRON ?|.
+ No|DET .|.
+ You|PRON said|VERB you|PRON were|VERB n't|ADV coming|VERB ?|.
+ I|PRON was|VERB n't|ADV planning|VERB on|ADP it|PRON .|.
+ What|QUESTIONTAG did|VERB you|PRON find|VERB ?|.
+ (|. voice|NOUN lowering|VERB pointedly|ADV )|. Something|VERB I|PRON could|VERB n't|ADV show|VERB to|PRT anyone|NOUN else|ADV .|.
+ How|QUESTIONTAG was|VERB it|PRON contracted|VERB ?|.
+ That|DET I|PRON do|VERB n't|ADV know|VERB .|.
+ May|NOUN I|PRON ?|.
+ fragments|NOUN have|VERB been|VERB separated|VERB .|.
+ It|PRON 's|VERB what|PRON ?|.
+ You|PRON see|VERB it|PRON ?|.
+ Yes|X .|.
+ Is|VERB it|PRON an|DET emergency|NOUN ?|.
+ Who|QUESTIONTAG called|VERB this|DET meeting|NOUN ?|.
+ Strughold|NOUN .|.
+ Has|NOUN Strughold|NOUN arrived|VERB ?|.
+ They|PRON 're|VERB in|ADP the|DET library|NOUN .|.
+ More|ADJ concerns|NOUN than|ADP that|DET ?|.
+ We|PRON 've|VERB been|VERB forced|VERB to|PRT reassess|VERB our|PRON role|NOUN in|ADP Colonization|NOUN by|ADP new|ADJ facts|NOUN of|ADP biology|NOUN which|DET have|VERB presented|VERB themselves|PRON .|.
+ On|ADP its|PRON own|ADJ ?|.
+ Its|PRON effect|NOUN on|ADP the|DET host|NOUN has|VERB changed|VERB .|.
+ Into|ADP what|PRON ?|.
+ A|DET new|ADJ extraterrestrial|ADJ biological|ADJ entity|NOUN .|.
+ How|QUESTIONTAG can|VERB we|PRON know|VERB ?|.
+ We|PRON 're|VERB going|VERB to|PRT tell|VERB them|PRON what|PRON we|PRON 've|VERB found|VERB .|.
+ Do|VERB they|PRON know|VERB ?|.
+ Mulder|NOUN was|VERB in|ADP Dallas|NOUN when|ADV we|PRON were|VERB trying|VERB to|PRT dispose|VERB of|ADP evidence|NOUN .|.
+ Who|QUESTIONTAG ?|.
+ Kurtzweil|NOUN ,|. we|PRON think|VERB .|.
+ And|CONJ Mulder|NOUN ?|.
+ Our|PRON new|ADJ situation|NOUN makes|VERB us|PRON vulnerable|ADJ .|.
+ You|PRON 're|VERB sure|ADJ the|DET fossils|NOUN you|PRON looked|VERB at|ADP showed|VERB the|DET same|ADJ signs|NOUN of|ADP deterioration|NOUN you|PRON saw|VERB in|ADP the|DET fireman|NOUN 's|PRT body|NOUN in|ADP the|DET morgue|NOUN ?|.
+ (|. nodding|VERB )|. The|DET bone|NOUN was|VERB porous|ADJ ,|. as|ADP if|ADP the|DET virus|NOUN of|ADP the|DET causative|ADJ microbe|NOUN were|VERB digesting|VERB it|PRON .|.
+ And|CONJ you|PRON 've|VERB never|ADV seen|VERB anything|NOUN like|ADP that|DET ?|.
+ No|DET .|.
+ This|DET looks|VERB like|ADP new|ADJ grass|NOUN to|PRT you|PRON ?|.
+ It|PRON looks|VERB pretty|ADV green|ADJ for|ADP this|DET climate|NOUN .|.
+ Do|VERB you|PRON live|VERB around|ADP here|ADV ?|.
+ Yeah|X .|.
+ You|PRON see|VERB anybody|ADJ digging|VERB here|ADV ?|.
+ How|QUESTIONTAG do|VERB you|PRON know|VERB ?|.
+ Cause|NOUN FBI|NOUN agents|NOUN wear|VERB like|ADP suits|NOUN and|CONJ goofy|ADJ ties|NOUN .|.
+ Unmarked|VERB tanker|NOUN trucks|NOUN ...|. what|PRON are|VERB archaeologists|NOUN hauling|VERB out|PRT in|ADP tanker|NOUN trucks|NOUN ?|.
+ I|PRON do|VERB n't|ADV know|VERB ,|. Mulder|NOUN .|.
+ And|CONJ where|ADV are|VERB they|PRON going|VERB with|ADP it|PRON ?|.
+ That|DET 's|VERB the|DET first|ADJ question|NOUN to|PRT answer|VERB ,|. if|ADP we|PRON 're|VERB going|VERB to|PRT find|VERB them|PRON .|.
+ What|QUESTIONTAG are|VERB my|PRON choices|NOUN ?|.
+ About|ADP a|DET hundred|ADJ miles|NOUN of|ADP nothing|NOUN in|ADP each|DET direction|NOUN .|.
+ Where|QUESTIONTAG would|VERB they|PRON be|VERB going|VERB ?|.
+ We|PRON 've|VERB got|VERB two|NUM choices|NOUN .|.
+ You|PRON think|VERB they|PRON went|VERB left|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB why|ADV I|PRON think|VERB they|PRON went|VERB right|ADV .|.
+ Hey|NOUN ,|. I|PRON was|VERB right|ADJ about|ADP the|DET bomb|NOUN ,|. was|VERB n't|ADV I|PRON ?|.
+ This|DET is|VERB great|ADJ .|.
+ What|QUESTIONTAG ?|.
+ I|PRON 've|VERB got|VERB to|PRT be|VERB in|ADP Washington|NOUN D.C.|NOUN in|ADP eleven|ADJ hours|NOUN for|ADP a|DET hearing|NOUN --|. the|DET outcome|NOUN of|ADP which|DET might|VERB possibly|ADV affect|VERB one|NUM of|ADP the|DET biggest|ADJ decisions|NOUN of|ADP my|PRON life|NOUN .|.
+ --|. of|ADP what|PRON exactly|ADV ?|.
+ That|DET bomb|NOUN in|ADP Dallas|NOUN was|VERB allowed|VERB to|PRT go|VERB off|PRT ,|. to|PRT hide|VERB something|NOUN :|. bodies|NOUN infected|VERB with|ADP a|DET virus|NOUN you|PRON detected|VERB yourself|PRON .|.
+ Been|NOUN where|ADV ?|.
+ Pounding|VERB down|PRT some|DET dirt|NOUN road|NOUN in|ADP the|DET middle|NOUN of|ADP the|DET night|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB it|PRON is|VERB ?|.
+ I|PRON have|VERB no|DET idea|NOUN .|.
+ Any|DET thoughts|NOUN on|ADP why|ADV anybody|NOUN 'd|VERB be|VERB growing|VERB corn|NOUN in|ADP the|DET middle|NOUN of|ADP the|DET desert|NOUN ?|.
+ Not|ADV unless|ADP those|DET are|VERB giant|ADJ Jiffy|NOUN Pop|NOUN containers|VERB out|PRT there|ADV .|.
+ For|ADP the|DET purpose|NOUN of|ADP what|PRON ?|.
+ You|PRON hear|VERB that|ADP ?|.
+ I|PRON hear|VERB the|DET humming|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB those|DET are|VERB for|ADP ?|.
+ Scully|ADV ...|. .|. ?|.
+ Yeah|NOUN ...|. ?|.
+ (|. yelling|VERB ,|. on|ADP the|DET run|NOUN )|. What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ (|. yelling|VERB back|ADV )|. Come|NOUN on|ADP !|.
+ Mulder|NOUN ?|.
+ Scully|ADV ?|.
+ Scully|ADV ?|.
+ Where|QUESTIONTAG 'd|VERB they|PRON go|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Evidence|NOUN of|ADP what|PRON ?|.
+ You|PRON 've|VERB been|VERB back|ADV to|PRT Dallas|NOUN ?|.
+ Yes|X .|.
+ Working|VERB with|ADP ?|.
+ Agent|NOUN Mulder|NOUN .|.
+ You|PRON found|VERB something|NOUN ?|.
+ Yes|X .|.
+ What|QUESTIONTAG ?|.
+ I|PRON 'm|VERB not|ADV sure|ADJ .|.
+ --|. You|PRON saw|VERB this|DET experiment|NOUN ?|.
+ What|QUESTIONTAG did|VERB it|PRON look|VERB like|ADP ?|.
+ What|QUESTIONTAG are|VERB they|PRON ?|.
+ What|QUESTIONTAG do|VERB you|PRON think|VERB ?|.
+ A|DET transportation|NOUN system|NOUN .|.
+ Your|PRON guess|NOUN ?|.
+ toward|ADP the|DET back|NOUN of|ADP the|DET bar|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ,|. your|PRON guess|NOUN ?|.
+ him|PRON .|.
+ I|PRON 've|VERB been|VERB using|VERB you|PRON ?|.
+ You|PRON did|VERB n't|ADV know|VERB my|PRON father|NOUN --|.
+ She|PRON 's|VERB got|VERB constriction|NOUN in|ADP the|DET throat|NOUN and|CONJ larynx|NOUN --|. are|VERB you|PRON breathing|VERB okay|PRON ?|.
+ A|DET virus|NOUN ?|.
+ Get|VERB on|ADP the|DET radio|NOUN ,|. tell|VERB them|PRON we|PRON have|VERB a|DET cytogenic|ADJ reaction|NOUN ,|. we|PRON need|VERB an|DET advise|NOUN and|CONJ administer|NOUN --|.
+ Mulder|NOUN ...|. ?|.
+ Langly|ADV .|.
+ What|QUESTIONTAG 's|VERB wrong|ADJ ?|.
+ (|. to|PRT Byers|NOUN ,|. then|ADV Langly|NOUN )|. Tin|NOUN Man|NOUN .|.
+ What|QUESTIONTAG am|VERB I|PRON doing|VERB here|ADV ?|.
+ You|PRON were|VERB shot|VERB in|ADP the|DET head|NOUN .|.
+ When|QUESTIONTAG was|VERB that|ADP ?|.
+ Two|NUM days|NOUN ago|ADV .|.
+ Where|QUESTIONTAG 's|VERB Scully|ADV ?|.
+ hold|VERB onto|ADP one|NUM of|ADP the|DET Gunmen|NOUN .|.
+ (|. reeling|VERB )|. How|QUESTIONTAG deep|ADJ does|VERB this|DET go|VERB ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Are|ADP we|PRON being|VERB watched|VERB ?|.
+ I|PRON 'm|VERB not|ADV taking|VERB any|DET chances|NOUN .|.
+ Me|NOUN ?|.
+ What|QUESTIONTAG are|VERB you|PRON doing|VERB ?|.
+ Do|VERB you|PRON know|VERB where|ADV she|PRON is|VERB ?|.
+ No|DET .|.
+ What|QUESTIONTAG happened|VERB to|PRT Kurtzweil|NOUN ?|.
+ He|PRON 's|VERB come|ADJ and|CONJ gone|VERB .|.
+ Where|QUESTIONTAG 's|VERB Scully|ADV ?|.
+ I|PRON have|VERB answers|NOUN for|ADP you|PRON .|.
+ Is|VERB she|PRON alive|ADJ ?|.
+ Yes|X .|.
+ About|ADP the|DET conspiracy|NOUN ?|.
+ I|PRON think|VERB of|ADP it|PRON as|ADP an|DET agreement|NOUN .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ A|DET weak|ADJ vaccine|NOUN against|ADP the|DET virus|NOUN Agent|NOUN Scully|NOUN has|VERB been|VERB infected|VERB with|ADP .|.
+ (|. dubious|ADJ ,|. to|PRT say|VERB the|DET least|ADJ )|. A|DET virus|NOUN ?|.
+ A|DET simple|ADJ ,|. unstoppable|ADJ lifeform|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB ,|. walked|VERB ?|.
+ Your|PRON aliens|NOUN ,|. Agent|NOUN Mulder|NOUN ,|. your|PRON little|ADJ green|ADJ men|NOUN ,|. first|ADV landed|VERB here|ADV millions|NOUN of|ADP years|NOUN ago|ADV .|.
+ Why|ADV are|VERB you|PRON telling|VERB me|PRON this|DET ?|.
+ I|PRON thought|VERB it|PRON only|ADV fair|VERB you|PRON should|VERB know|VERB ,|. given|VERB how|ADV hard|ADJ you|PRON 've|VERB worked|VERB .|.
+ What|QUESTIONTAG happened|VERB to|PRT Kurtzweil|NOUN ?|.
+ As|ADP your|PRON father|NOUN knew|VERB ,|. things|NOUN need|VERB to|PRT be|VERB sacrificed|VERB to|PRT the|DET future|NOUN .|.
+ Where|QUESTIONTAG is|VERB he|PRON ?|.
+ Dr.|NOUN Kurtzweil|NOUN is|VERB in|ADP the|DET trunk|NOUN .|.
+ How|QUESTIONTAG ?|.
+ The|DET vaccine|NOUN you|PRON hold|VERB is|VERB the|DET only|ADJ defense|NOUN against|ADP the|DET virus|NOUN .|.
+ What|QUESTIONTAG alien|NOUN environment|NOUN ?|.
+ Find|NOUN Agent|NOUN Scully|NOUN .|.
+ What|QUESTIONTAG about|ADP you|PRON ?|.
+ My|PRON life|NOUN is|VERB over|ADP .|.
+ Breathe|NOUN --|. can|VERB you|PRON breathe|VERB ?|.
+ suddenly|ADV SPEWS|NOUN from|ADP Scully|NOUN 's|PRT mouth|NOUN .|.
+ What|QUESTIONTAG ?|.
+ (|. weakly|NOUN )|. Where|QUESTIONTAG are|VERB we|PRON ?|.
+ You|PRON got|VERB me|PRON .|.
+ Scully|ADV --|. you|PRON breathing|VERB ?|.
+ What|QUESTIONTAG is|VERB it|PRON you|PRON find|VERB incredible|ADJ ?|.
+ Well|ADV ...|. where|ADV would|VERB you|PRON like|VERB me|PRON to|PRT start|VERB ?|.
+ Mr.|NOUN Skinner|NOUN ...|. .|. ?|.
+ And|CONJ yours|NOUN ?|.
+ (|. derisive|NOUN )|. You|PRON think|VERB you|PRON 've|VERB stopped|VERB it|PRON .|.

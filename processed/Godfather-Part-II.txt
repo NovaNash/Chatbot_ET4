@@ -1,0 +1,300 @@
+ (|. English|NOUN )|. What|QUESTIONTAG is|VERB your|PRON name|NOUN ?|.
+ Your|PRON name|NOUN ?|.
+ his|PRON coat|NOUN and|CONJ copies|NOUN to|PRT down|VERB on|ADP his|PRON form|NOUN ,|. using|VERB a|DET typewriter|NOUN .|.
+ Can|VERB you|PRON understand|VERB me|PRON ?|.
+ Do|VERB you|PRON think|VERB it|PRON 'll|VERB show|VERB in|ADP the|DET picture|NOUN ?|.
+ Two|NUM months|NOUN never|ADV shows|VERB .|.
+ Where|QUESTIONTAG is|VERB Mr.|NOUN Corleone|NOUN ?|.
+ A|DET business|NOUN meeting|NOUN ran|VERB late|ADV ...|. but|CONJ he|PRON promised|VERB he|PRON would|VERB n't|ADV be|VERB long|ADV .|.
+ How|QUESTIONTAG are|VERB the|DET kids|NOUN ?|.
+ Well|ADV ,|. thank|NOUN you|PRON ,|. they|PRON asked|VERB for|ADP you|PRON all|DET week|NOUN .|.
+ Hey|NOUN ,|. Mike|NOUN ...|. guess|NOUN who|PRON 's|VERB here|ADV ?|.
+ How|QUESTIONTAG will|VERB Fine|VERB Arts|NOUN support|VERB your|PRON new|ADJ wife|NOUN ?|.
+ It|PRON 's|VERB embarrassing|VERB to|PRT say|VERB ,|. sir|NOUN ,|. but|CONJ I|PRON 'm|VERB a|DET major|ADJ stockholder|NOUN in|ADP the|DET family|NOUN corporation|NOUN .|.
+ How|QUESTIONTAG do|VERB you|PRON want|VERB me|PRON to|PRT handle|VERB it|PRON ?|.
+ Then|ADV why|ADV do|VERB you|PRON come|VERB to|PRT me|PRON ?|.
+ Because|ADP I|PRON need|VERB MONEY|NOUN !|.
+ Are|NOUN you|PRON finished|VERB ?|.
+ I|PRON think|VERB so|ADV .|.
+ How|QUESTIONTAG is|VERB his|PRON health|NOUN ?|.
+ Not|ADV good|ADJ .|.
+ Is|VERB there|DET anything|NOUN I|PRON can|VERB do|VERB ;|. anything|NOUN I|PRON can|VERB send|VERB ?|.
+ He|PRON appreciates|VERB your|PRON concern|NOUN ,|. Michael|NOUN ,|. and|CONJ your|PRON respect|NOUN .|.
+ Where|QUESTIONTAG 's|PRT my|PRON wife|NOUN ?|.
+ With|ADP Mama|NOUN ,|. putting|VERB the|DET baby|NOUN to|PRT sleep|VERB .|.
+ Where|QUESTIONTAG can|VERB we|PRON meet|VERB alone|ADV ?|.
+ seems|VERB to|PRT be|VERB waiting|VERB for|ADP them|PRON .|.
+ Merle|NOUN ,|. have|VERB you|PRON met|VERB my|PRON sister-in-|ADJ law|NOUN Deanna|NOUN ?|.
+ What|QUESTIONTAG a|DET pleasure|NOUN ,|. Merle|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET mean|NOUN ?|.
+ Mama|NOUN !|.
+ (|. Sicilian|ADJ )|. When|QUESTIONTAG do|VERB we|PRON talk|VERB ?|.
+ (|. Sicilian|ADJ )|. After|ADP dinner|NOUN .|.
+ Anthony|NOUN ,|. you|PRON were|VERB talking|VERB to|PRT Mr.|NOUN Pentangeli|NOUN ?|.
+ His|PRON name|NOUN is|VERB ``|. Five-Angels|ADJ .|. ''|.
+ Says|NOUN who|PRON ?|.
+ Clemenza|NOUN promised|VERB Rosato|NOUN three|NUM territories|NOUN in|ADP the|DET Bronx|NOUN after|ADP he|PRON died|VERB ,|. and|CONJ then|ADV you|PRON took|VERB over|ADV and|CONJ welched|VERB .|.
+ Should|VERB he|PRON go|VERB ?|.
+ The|DET old|ADJ man|NOUN had|VERB too|ADV much|ADJ vino|NOUN rosso|NOUN ,|. or|CONJ he|PRON 'd|VERB never|ADV talk|VERB openly|ADV that|DET way|NOUN .|.
+ I|PRON wanta|VERB dance|NOUN ...|. whatsa|ADJ matter|NOUN with|ADP that|DET ?|.
+ Dancing|VERB is|VERB alright|VERB ;|. you|PRON 're|VERB falling|VERB on|ADP the|DET floor|NOUN .|.
+ Hey|NOUN Mike|NOUN ,|. what|PRON can|VERB I|PRON say|VERB ?|.
+ Forget|VERB it|PRON ,|. just|ADV go|VERB take|ADJ care|NOUN of|ADP her|PRON .|.
+ How|QUESTIONTAG 's|VERB the|DET baby|NOUN ?|.
+ Sleeping|VERB inside|ADP me|PRON .|.
+ Does|VERB it|PRON feel|VERB like|ADP a|DET boy|NOUN ?|.
+ Yes|X ,|. Michael|NOUN ,|. it|PRON does|VERB .|.
+ Are|NOUN you|PRON Klingman|NOUN ?|.
+ Who|QUESTIONTAG 's|VERB asking|VERB ?|.
+ Where|QUESTIONTAG can|VERB we|PRON talk|VERB ?|.
+ Right|ADV here|ADV .|.
+ Who|QUESTIONTAG do|VERB you|PRON think|VERB you|PRON 're|VERB talking|VERB to|PRT ?|.
+ You|PRON said|VERB you|PRON were|VERB Klingman|NOUN .|.
+ (|. Sicilian|ADJ )|. He|PRON 's|VERB an|DET Italian|ADJ ?|.
+ (|. Sicilian|ADJ )|. A|DET pig|NOUN of|ADP a|DET Neaponitan|NOUN .|.
+ (|. Sicilian|ADJ )|. I|PRON bet|VERB you|PRON ca|VERB n't|ADV guess|VERB what|PRON happened|VERB ?|.
+ (|. Sicilian|ADJ )|. What|QUESTIONTAG ?|.
+ (|. Sicilian|ADJ )|. Why|ADV ?|.
+ (|. Sicilian|ADJ )|. Because|ADP he|PRON 's|VERB what|PRON we|PRON say|VERB ...|. ''|. connected|VERB ''|. ...|. You|PRON wait|VERB ,|. see|VERB what|PRON happens|VERB to|PRT those|DET guys|NOUN from|ADP Ninth|NOUN Avenue|NOUN .|.
+ (|. Sicilian|ADJ )|. (|. surprised|VERB )|. And|CONJ he|PRON agreed|VERB ?|.
+ (|. Sicilian|ADJ )|. He|PRON took|VERB the|DET money|NOUN .|.
+ (|. Sicilian|ADJ )|. (|. casually|ADV )|. Do|VERB you|PRON have|VERB my|PRON goods|NOUN still|ADV ?|.
+ (|. Sicilian|ADJ )|. Did|NOUN you|PRON look|VERB inside|ADP ?|.
+ (|. Sicilian|ADJ )|. Who|QUESTIONTAG is|VERB he|PRON ?|.
+ (|. Sicilian|ADJ )|. My|PRON son|NOUN ,|. Carmine|NOUN ...|. it|PRON 's|VERB all|DET right|NOUN .|.
+ (|. Sicilian|ADJ )|. What|QUESTIONTAG took|VERB so|ADV long|ADV ?|.
+ (|. Sicilian|ADJ )|. She|PRON could|VERB n't|ADV decide|VERB .|.
+ (|. Sicilian|ADJ )|. What|QUESTIONTAG if|ADP we|PRON do|VERB n't|ADV pay|VERB ?|.
+ (|. Sicilian|ADJ )|. (|. gestures|NOUN ,|. it|PRON 's|VERB hopeless|NOUN )|. You|PRON know|VERB his|PRON friends|NOUN ...|. real|ADJ animals|NOUN .|.
+ (|. Sicilian|ADJ )|. What|QUESTIONTAG can|VERB we|PRON do|VERB ?|.
+ Ca|NOUN n't|ADV you|PRON sleep|VERB ?|.
+ Are|NOUN you|PRON alright|ADV ?|.
+ Yes|X .|.
+ Did|NOUN you|PRON like|ADP your|PRON party|NOUN ?|.
+ I|PRON got|VERB lots|NOUN of|ADP presents|NOUN .|.
+ Do|VERB you|PRON like|VERB them|PRON ?|.
+ I|PRON did|VERB n't|ADV know|VERB the|DET people|NOUN who|PRON gave|VERB them|PRON to|PRT me|PRON .|.
+ Did|NOUN you|PRON see|VERB my|PRON present|ADJ for|ADP you|PRON ?|.
+ No|DET ,|. where|ADV is|VERB it|PRON ?|.
+ Will|VERB you|PRON take|VERB me|PRON ?|.
+ I|PRON ca|VERB n't|ADV .|.
+ Why|ADV do|VERB you|PRON have|VERB to|PRT go|VERB ?|.
+ To|PRT do|VERB business|NOUN .|.
+ And|CONJ ?|.
+ No|DET sign|NOUN of|ADP them|PRON yet|ADV ;|. but|CONJ they|PRON 're|VERB still|ADV on|ADP the|DET Estate|NOUN .|.
+ Will|VERB we|PRON ...|. be|VERB able|ADJ to|PRT get|VERB who|PRON ordered|VERB it|PRON out|ADP of|ADP them|PRON ?|.
+ I|PRON do|VERB n't|ADV think|VERB so|ADV .|.
+ What|QUESTIONTAG the|DET hell|NOUN are|VERB you|PRON talking|VERB about|ADP ?|.
+ We|PRON know|VERB you|PRON 're|VERB a|DET busy|ADJ man|NOUN ,|. with|ADP plenty|NOUN of|ADP enemies|NOUN --|. we|PRON saw|VERB the|DET opportunity|NOUN to|PRT do|VERB you|PRON a|DET favor|NOUN ,|. and|CONJ we|PRON did|VERB .|.
+ Do|VERB you|PRON gamble|VERB ?|.
+ A|DET little|ADJ ;|. what|PRON 's|VERB so|ADV thought-|ADJ provoking|VERB about|ADP that|DET ?|.
+ Do|VERB you|PRON owe|VERB markers|NOUN ?|.
+ Maybe|ADV two|NUM ,|. three|NUM thousand|NUM dollars|NOUN .|.
+ Whose|ADJ orders|NOUN are|VERB these|DET ?|.
+ Mr.|NOUN Hagen|NOUN 's|PRT ,|. ma'am|NOUN .|.
+ How|QUESTIONTAG long|ADV does|VERB this|DET go|VERB on|ADP ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Am|NOUN I|PRON a|DET prisoner|NOUN ?|.
+ That|DET 's|VERB not|ADV the|DET way|NOUN we|PRON look|VERB at|ADP it|PRON .|.
+ What|QUESTIONTAG is|VERB it|PRON ?|.
+ Yes|X .|.
+ Why|ADV do|VERB n't|ADV you|PRON wire|VERB your|PRON bank|NOUN ?|.
+ The|DET other|ADJ telegram|NOUN is|VERB from|ADP your|PRON bank|NOUN .|.
+ Mr.|NOUN Paul|NOUN ?|.
+ Yes|X .|.
+ You|PRON ordered|VERB lunch|NOUN ?|.
+ Put|VERB it|PRON right|ADV there|ADV .|.
+ (|. quietly|ADV )|. Pentangeli|NOUN is|VERB a|DET dead|ADJ man|NOUN ;|. do|VERB you|PRON object|VERB ?|.
+ It|PRON 's|VERB always|ADV bad|ADJ for|ADP business|NOUN ;|. but|CONJ you|PRON have|VERB no|DET choice|NOUN .|.
+ Rosato|NOUN ,|. where|ADV 's|PRT your|PRON brother|NOUN ?|.
+ Sitting|VERB right|ADV behind|ADP you|PRON .|.
+ He|PRON do|VERB n't|ADV want|VERB to|PRT talk|VERB ?|.
+ We|PRON worked|VERB it|PRON all|DET out|PRT beforehand|NOUN .|.
+ Are|ADP we|PRON going|VERB to|PRT eat|VERB or|CONJ what|PRON ?|.
+ Sure|ADV ,|. on|ADP me|PRON .|.
+ You|PRON were|VERB n't|ADV straight|VERB with|ADP us|PRON ,|. Frankie|NOUN ,|. what|PRON else|ADV could|VERB we|PRON do|VERB ?|.
+ We|PRON could|VERB have|VERB talked|VERB first|ADV ,|. saved|VERB a|DET lot|NOUN of|ADP running|VERB around|ADV .|.
+ Do|VERB n't|ADV I|PRON look|VERB like|ADP I|PRON 'm|VERB listening|VERB ?|.
+ We|PRON want|VERB Brooklyn|NOUN one|NUM hundred|VERB percent|NOUN .|.
+ Pari|NOUN Persu|NOUN ;|. what|PRON the|DET fuck|NOUN is|VERB Pari|NOUN persu|NOUN ...|. ?|.
+ My|PRON lawyer|NOUN went|VERB over|ADP this|DET beforehand|NOUN .|.
+ What|QUESTIONTAG assurances|VERB do|VERB I|PRON have|VERB that|DET there|DET will|VERB be|VERB no|ADV more|ADV kidnapping|NOUN ,|. no|DET more|ADJ hits|NOUN ?|.
+ The|DET same|ADJ assurance|NOUN we|PRON got|VERB from|ADP you|PRON .|.
+ What|QUESTIONTAG if|ADP I|PRON say|VERB shove|VERB it|PRON ?|.
+ Then|ADV Carmine|NOUN Fucillo|NOUN and|CONJ Tony|NOUN Blue|NOUN DeRosa|NOUN will|VERB need|VERB to|PRT be|VERB fitted|VERB for|ADP slabs|NOUN .|.
+ You|PRON want|VERB a|DET war|NOUN ?|.
+ We|PRON got|VERB no|DET choice|NOUN .|.
+ What|QUESTIONTAG about|ADP Michael|NOUN Corleone|NOUN ?|.
+ He|PRON supports|VERB me|PRON .|.
+ What|QUESTIONTAG 's|VERB up|PRT ?|.
+ (|. Sicilian|ADJ )|. What|QUESTIONTAG 's|VERB this|DET ?|.
+ Michael|NOUN Corleone|NOUN .|.
+ One|NUM Michael|NOUN Corleone|NOUN ...|. Dove|NOUN ?|.
+ (|. Sicilian|ADJ )|. He|PRON 's|VERB in|ADP your|PRON study|NOUN .|.
+ Then|ADV why|ADV do|VERB you|PRON want|VERB me|PRON to|PRT lay|VERB down|PRT to|PRT them|PRON ?|.
+ (|. coldly|ADV ,|. but|CONJ convincing|VERB )|. Frankie|NOUN ,|. Roth|NOUN tried|VERB to|PRT have|VERB me|PRON killed|VERB .|.
+ Fifteen|ADJ percent|NOUN skim|NOUN ?|.
+ Twenty-five|ADJ this|DET time|NOUN .|.
+ What|QUESTIONTAG 's|VERB up|PRT ?|.
+ No|DET questions|NOUN .|.
+ How|QUESTIONTAG do|VERB I|PRON know|VERB you|PRON have|VERB n't|ADV gone|VERB into|ADP business|NOUN for|ADP yourself|PRON ?|.
+ owes|NOUN Neri|NOUN some|DET explanation|NOUN .|.
+ Hungry|NOUN ?|.
+ Just|ADV a|DET little|ADJ .|.
+ What|QUESTIONTAG about|ADP Kay|NOUN ?|.
+ I|PRON could|VERB n't|ADV find|VERB her|PRON .|.
+ Kay|NOUN ?|.
+ empty|NOUN .|.
+ Anyone|NOUN hungry|NOUN ?|.
+ recreation|NOUN room|NOUN areas|NOUN .|.
+ Hello|NOUN ?|.
+ She|PRON 's|VERB gone|VERB ,|. Tom|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON mean|VERB gone|VERB ?|.
+ The|DET Barretts|NOUN from|ADP Rubicon|NOUN Bay|NOUN came|VERB by|ADP in|ADP a|DET new|ADJ speedboat|NOUN .|.
+ Goddamn|NOUN it|PRON ,|. where|ADV were|VERB you|PRON ?|.
+ I|PRON was|VERB in|ADP my|PRON house|NOUN .|.
+ Me|NOUN too|ADV ,|. Tom|NOUN ?|.
+ Yeah|X ,|. give|VERB me|PRON a|DET minute|NOUN .|.
+ How|QUESTIONTAG much|ADJ ?|.
+ A|DET hundred|NUM million|NUM dollars|NOUN .|.
+ What|QUESTIONTAG are|VERB import|ADJ duties|NOUN now|ADV ?|.
+ As|ADV much|ADJ as|ADP seventy|ADJ percent|NOUN .|.
+ So|ADV ?|.
+ So|ADV ,|. that|ADP occurred|VERB to|PRT me|PRON .|.
+ What|QUESTIONTAG 's|VERB this|DET ?|.
+ That|DET 's|VERB a|DET lucky|ADJ C|NOUN note|NOUN for|ADP our|PRON new|ADJ deal|NOUN .|.
+ Is|VERB that|ADP something|NOUN on|ADP the|DET floor|NOUN ?|.
+ Take|VERB him|PRON !|.
+ Hey|NOUN ,|. what|PRON 's|VERB this|DET ?|.
+ civilian|ADJ ,|. who|PRON places|VERB it|PRON in|ADP the|DET briefcase|NOUN he|PRON carries|VERB .|.
+ Honey|NOUN ,|. go|VERB down|ADV to|PRT the|DET casino|NOUN ?|.
+ If|ADP you|PRON feel|VERB better|ADV ...|.
+ Who|QUESTIONTAG had|VERB Frankie|NOUN Pantangeli|NOUN killed|VERB ?|.
+ (|. taken|VERB a|DET bit|ADV off-balance|ADJ )|. Why|ADV ...|. the|DET Rosato|NOUN Brothers|NOUN .|.
+ (|. Sicilian|ADJ )|. How|QUESTIONTAG sick|ADJ do|VERB you|PRON think|VERB the|DET old|ADJ man|NOUN is|VERB ?|.
+ (|. Sicilian|ADJ )|. He|PRON 'll|VERB live|ADV longer|ADJ than|ADP me|PRON .|.
+ You|PRON know|VERB otherwise|ADV ,|. Freddie|NOUN ?|.
+ Me|NOUN ?|.
+ (|. to|PRT Geary|NOUN )|. What|QUESTIONTAG 's|VERB eating|VERB him|PRON ?|.
+ He|PRON lost|VERB a|DET quarter|NOUN million|NUM dollars|NOUN at|ADP the|DET casino|NOUN .|.
+ Why|ADV do|VERB we|PRON have|VERB to|PRT stand|VERB ?|.
+ Everyone|NOUN stands|VERB .|.
+ How|QUESTIONTAG is|VERB your|PRON wife|NOUN ,|. Fredo|NOUN ...|. your|PRON marriage|NOUN ?|.
+ (|. eating|VERB )|. You|PRON know|VERB her|PRON ;|. drives|VERB me|PRON crazy|ADJ ,|. one|NUM minute|NOUN she|PRON 's|VERB a|DET popsicle|NOUN ,|. the|DET next|ADJ she|PRON 's|VERB all|DET vinegar|NOUN .|.
+ What|QUESTIONTAG 's|VERB that|DET ?|.
+ The|DET song|NOUN .|.
+ ...|. Who|QUESTIONTAG ?|.
+ The|DET same|ADJ man|NOUN who|PRON tried|VERB in|ADP Nevada|NOUN ...|. Hyman|NOUN Roth|NOUN ,|. not|ADV Pentangeli|NOUN .|.
+ What|QUESTIONTAG do|VERB you|PRON want|VERB me|PRON to|PRT do|VERB ?|.
+ To|PRT go|VERB tonight|NOUN ,|. with|ADP me|PRON ,|. as|ADP though|ADP we|PRON know|VERB nothing|NOUN .|.
+ What|QUESTIONTAG 's|VERB kept|ADJ Mr.|NOUN Roth|NOUN ?|.
+ (|. Sicilian|ADJ )|. What|QUESTIONTAG is|VERB it|PRON ?|.
+ (|. Sicilian|ADJ )|. Come|NOUN ...|.
+ (|. Sicilian|ADJ )|. Why|ADV do|VERB you|PRON come|VERB to|PRT me|PRON ?|.
+ (|. Sicilian|ADJ )|. She|PRON told|VERB me|PRON to|PRT ask|VERB you|PRON .|.
+ (|. thoughtfully|ADV )|. I|PRON can|VERB give|VERB you|PRON some|DET money|NOUN to|PRT help|VERB you|PRON move|VERB ,|. is|VERB that|ADP what|PRON you|PRON want|VERB ?|.
+ My|PRON friends|NOUN are|VERB all|DET here|ADV ;|. how|ADV can|VERB I|PRON move|VERB to|PRT another|DET neighborhood|NOUN with|ADP strangers|NOUN ?|.
+ You|PRON 're|VERB sure|ADJ he|PRON 'll|VERB say|VERB yes|X ,|. the|DET landlord|NOUN ?|.
+ I|PRON 'm|VERB sure|ADJ he|PRON 's|VERB a|DET good-hearted|ADJ fellow|NOUN .|.
+ How|QUESTIONTAG much|ADV more|ADV a|DET month|NOUN ?|.
+ Eh|NOUN ...|. (|. we|PRON sense|VERB he|PRON is|VERB lying|VERB )|. Five|NUM dollars|NOUN more|ADV .|.
+ Kid|NOUN ,|. where|ADV do|VERB you|PRON live|VERB ?|.
+ Where|QUESTIONTAG 'd|VERB you|PRON get|VERB those|DET nigger|ADJ lips|NOUN ?|.
+ What|QUESTIONTAG 's|VERB up|PRT ?|.
+ This|DET kid|NOUN lives|VERB around|ADV here|ADV ,|. but|CONJ he|PRON ca|VERB n't|ADV say|VERB bread|NOUN in|ADP Italian|ADJ .|.
+ Are|NOUN you|PRON a|DET Jewboy|NOUN ?|.
+ Chi|NOUN ?|.
+ Roberto|NOUN .|.
+ What|QUESTIONTAG was|VERB that|DET ?|.
+ In|ADP fact|NOUN ,|. reduced|VERB ,|. bu|VERB five|NUM dollars|NOUN !|.
+ What|QUESTIONTAG 's|VERB your|PRON name|NOUN ?|.
+ Suchowsky|NOUN .|.
+ Who|QUESTIONTAG is|VERB the|DET greatest|ADJ man|NOUN you|PRON can|VERB think|VERB of|ADP ?|.
+ Go|VERB on|ADP ,|. answer|ADJ him|PRON when|ADV he|PRON talks|VERB to|PRT you|PRON .|.
+ What|QUESTIONTAG position|NOUN did|VERB you|PRON occupy|VERB ?|.
+ At|ADP first|ADV ,|. like|ADP everybody|NOUN ,|. I|PRON was|VERB a|DET soldier|NOUN .|.
+ What|QUESTIONTAG is|VERB that|DET exactly|ADV ?|.
+ A|DET button|NOUN .|.
+ When|QUESTIONTAG the|DET boss|NOUN says|VERB push|ADP the|DET button|NOUN on|ADP a|DET guy|NOUN ,|. I|PRON push|VERB the|DET button|NOUN ,|. see|VERB ,|. Senator|NOUN ?|.
+ were|VERB a|DET curious|ADJ kind|NOUN of|ADP animal|NOUN ,|. not|ADV really|ADV human|ADJ .|.
+ You|PRON mean|VERB you|PRON killed|VERB people|NOUN at|ADP the|DET behest|ADJ of|ADP your|PRON superiors|NOUN ?|.
+ That|DET 's|VERB right|ADJ ,|. counsellor|NOUN .|.
+ Did|NOUN you|PRON ever|ADV get|VERB such|ADJ an|DET order|NOUN directly|ADV from|ADP Michael|NOUN Corleone|NOUN ?|.
+ No|DET ,|. Senator|NOUN ,|. I|PRON never|ADV talked|VERB to|PRT him|PRON .|.
+ Do|VERB you|PRON think|VERB they|PRON have|VERB somebody|NOUN to|PRT back|VERB up|PRT Cicci|NOUN ?|.
+ No|DET .|.
+ Did|NOUN the|DET boy|NOUN get|VERB something|NOUN from|ADP me|PRON for|ADP Christmas|NOUN ?|.
+ I|PRON took|VERB care|NOUN of|ADP it|PRON .|.
+ Fellas|NOUN ,|. can|VERB you|PRON wait|VERB outside|ADP a|DET minute|NOUN ?|.
+ to|PRT the|DET balcony|NOUN where|ADV we|PRON can|VERB see|VERB them|PRON but|CONJ they|PRON can|VERB not|ADV hear|VERB .|.
+ Where|QUESTIONTAG 's|PRT my|PRON brother|NOUN ?|.
+ Roth|NOUN got|VERB out|PRT on|ADP a|DET private|ADJ boat|NOUN .|.
+ I|PRON asked|VERB about|ADP Fredo|NOUN ?|.
+ The|DET new|ADJ government|NOUN arrested|VERB him|PRON ,|. held|VERB him|PRON for|ADP a|DET couple|NOUN of|ADP days|NOUN with|ADP a|DET lot|NOUN of|ADP the|DET other|ADJ casino|NOUN people|NOUN ,|. including|VERB Roth|NOUN 's|PRT brother|NOUN ,|. Sam|NOUN .|.
+ Was|VERB it|PRON a|DET boy|NOUN or|CONJ a|DET girl|NOUN ?|.
+ Mike|NOUN ,|. at|ADP three|NUM and|CONJ a|DET half|NOUN ...|.
+ And|CONJ Kay|NOUN ...|. she|PRON 's|VERB all|DET right|NOUN ?|.
+ She|PRON took|VERB the|DET Senate|NOUN Investigation|NOUN worse|NOUN .|.
+ (|. Sicilian|ADJ )|. (|. in|ADP a|DET shrill|NOUN ,|. high|ADJ ,|. raspy|ADJ voice|NOUN )|. Where|QUESTIONTAG is|VERB this|DET young|ADJ man|NOUN ?|.
+ He|PRON is|VERB right|ADJ here|ADV ,|. standing|VERB next|ADJ to|PRT me|PRON ,|. Don|NOUN Francesco|NOUN .|.
+ (|. Sicilian|ADJ )|. What|QUESTIONTAG is|VERB your|PRON name|NOUN ?|.
+ (|. Sicilian|ADJ )|. Vito|NOUN Corleone|NOUN .|.
+ Are|NOUN you|PRON the|DET son|NOUN of|ADP Vito|NOUN Corleone|NOUN ?|.
+ Yes|X .|.
+ Is|VERB it|PRON true|ADJ that|ADP in|ADP the|DET year|NOUN 1950|NUM you|PRON devised|VERB the|DET murder|NOUN of|ADP the|DET heads|NOUN of|ADP the|DET Five|NOUN Families|NOUN in|ADP New|NOUN York|NOUN ,|. to|PRT assume|VERB and|CONJ consolidate|VERB your|PRON nefarious|ADJ power|NOUN ?|.
+ That|DET is|VERB a|DET complete|ADJ falsehood|NOUN .|.
+ Is|VERB it|PRON true|ADJ that|ADP you|PRON own|VERB a|DET controlling|ADJ interest|NOUN in|ADP three|NUM of|ADP the|DET major|ADJ hotels|NOUN in|ADP Las|NOUN Vegas|NOUN ?|.
+ That|DET is|VERB not|ADV true|ADJ .|.
+ Why|ADV is|VERB it|PRON necessary|ADJ for|ADP your|PRON counsel|NOUN to|PRT advise|VERB you|PRON on|ADP that|DET question|NOUN ?|.
+ Senator|NOUN ,|. I|PRON 've|VERB observed|VERB the|DET head|NOUN of|ADP General|NOUN Motors|NOUN before|ADP a|DET Senate|NOUN Committee|NOUN ,|. and|CONJ his|PRON lawyer|NOUN whispered|VERB in|ADP his|PRON ear|NOUN .|.
+ How|QUESTIONTAG did|VERB they|PRON get|VERB their|PRON hands|NOUN on|ADP Pentangeli|NOUN ?|.
+ Roth|ADV engineered|VERB it|PRON ,|. Michael|NOUN .|.
+ What|QUESTIONTAG does|VERB Fredo|NOUN know|VERB ?|.
+ He|PRON says|VERB he|PRON does|VERB n't|ADV know|VERB anything|NOUN ,|. and|CONJ I|PRON believe|VERB him|PRON .|.
+ What|QUESTIONTAG about|ADP now|ADV ,|. is|VERB there|ADV anything|NOUN you|PRON can|VERB help|VERB me|PRON out|PRT with|ADP ?|.
+ I|PRON know|VERB they|PRON get|VERB Pentangeli|NOUN ,|. that|DET 's|VERB all|DET I|PRON know|VERB .|.
+ There|DET 's|VERB nothing|NOUN more|ADV you|PRON can|VERB tell|VERB me|PRON about|ADP this|DET investigation|NOUN ?|.
+ The|DET lawyer|NOUN ;|. Questadt|NOUN ,|. he|PRON belongs|VERB to|PRT Roth|NOUN .|.
+ Mikey|NOUN ?|.
+ through|ADP the|DET veranda|NOUN ,|. and|CONJ out|ADP the|DET summer|NOUN doors|NOUN .|.
+ Mr.|NOUN Pentangeli|NOUN ,|. you|PRON are|VERB contradicting|VERB your|PRON confessions|NOUN to|PRT our|PRON investigators|NOUN ;|. I|PRON ask|VERB you|PRON again|ADV ,|. were|VERB you|PRON a|DET member|NOUN of|ADP a|DET crime|NOUN organization|NOUN headed|VERB by|ADP Michael|NOUN Corleone|NOUN ?|.
+ No|DET .|.
+ Mr.|NOUN Hagen|NOUN ,|. would|VERB you|PRON kindly|ADV identify|VERB to|PRT this|DET committee|NOUN that|DET gentleman|VERB sitting|VERB on|ADP your|PRON right|ADJ hand|NOUN ?|.
+ (|. coolly|ADV )|. Yes|X ,|. sir|NOUN .|.
+ Is|VERB he|PRON related|VERB to|PRT the|DET witness|NOUN ?|.
+ He|PRON is|VERB ,|. I|PRON believe|VERB ,|. a|DET brother|NOUN .|.
+ On|ADP the|DET phone|NOUN ?|.
+ No|DET ,|. she|PRON 's|VERB here|ADV .|.
+ Where|QUESTIONTAG ?|.
+ In|ADP a|DET minute|NOUN .|.
+ Why|ADV do|VERB n't|ADV you|PRON sit|VERB down|PRT ?|.
+ I|PRON 'm|VERB not|ADV going|VERB to|PRT stay|VERB long|ADV ;|. I|PRON ca|VERB n't|ADV .|.
+ Why|ADV too|ADV late|ADV ?|.
+ Tell|VERB me|PRON ,|. Michael|NOUN .|.
+ You|PRON would|VERB have|VERB killed|VERB his|PRON brother|NOUN ?|.
+ Kay|NOUN ,|. you|PRON 've|VERB got|VERB it|PRON wrong|ADJ .|.
+ Can|VERB I|PRON talk|VERB to|PRT him|PRON ?|.
+ No|DET chance|NOUN .|.
+ (|. who|PRON has|VERB heard|VERB this|DET )|. Can|VERB I|PRON see|VERB him|PRON ?|.
+ He|PRON 's|VERB in|ADP the|DET boathouse|NOUN .|.
+ I|PRON want|VERB to|PRT stay|VERB close|ADV to|PRT home|NOUN now|ADV ,|. is|VERB that|ADP alright|NOUN ?|.
+ Is|VERB Kay|NOUN coming|VERB ?|.
+ No|DET .|.
+ Kids|NOUN ,|. why|ADV do|VERB n't|ADV you|PRON go|VERB outside|ADP for|ADP a|DET while|NOUN ?|.
+ listen|NOUN to|PRT Michael|NOUN .|.
+ Will|VERB you|PRON tell|VERB him|PRON ?|.
+ I|PRON do|VERB n't|ADV know|VERB .|.
+ Are|NOUN you|PRON so|ADV hungry|ADJ for|ADP traitors|NOUN ;|. do|VERB you|PRON want|VERB to|PRT find|VERB them|PRON everywhere|ADV ?|.
+ They|PRON are|VERB everywhere|ADV !|.
+ Did|NOUN my|PRON brother|NOUN go|VERB back|ADV ?|.
+ Yeah|X ,|. but|CONJ do|VERB n't|ADV worry|VERB .|.
+ Tom|NOUN ,|. what|PRON do|VERB I|PRON do|VERB now|ADV ?|.
+ Your|PRON lawyer|NOUN tell|NOUN you|PRON he|PRON can|VERB get|VERB that|ADP 600|NUM years|NOUN reduced|VERB to|PRT 500|NUM ?|.
+ Is|VERB it|PRON true|ADJ you|PRON are|VERB worth|ADJ over|ADP three|NUM hundred|NUM million|NUM dollars|NOUN ,|. Mr.|NOUN Roth|NOUN ?|.
+ I|PRON 'm|VERB a|DET retired|ADJ investor|NOUN ,|. living|VERB on|ADP a|DET pension|NOUN ...|.
+ Is|VERB dinner|NOUN ready|ADJ ?|.
+ Two|NUM minutes|NOUN .|.
+ Would|VERB you|PRON like|VERB some|DET ?|.
+ No|DET ,|. Dad|NOUN .|.
+ You|PRON would|VERB risk|VERB your|PRON life|NOUN for|ADP strangers|NOUN ?|.
+ Not|ADV for|ADP strangers|NOUN ;|. for|ADP my|PRON country|NOUN .|.

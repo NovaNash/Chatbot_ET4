@@ -1,0 +1,36 @@
+ What|QUESTIONTAG is|VERB it|PRON ,|. Mr.|NOUN Frodo|NOUN ?|.
+ Nothing|NOUN .|.
+ Youve|ADV been|VERB there|DET before|ADP ?|.
+ [|ADV nods|NOUN again|ADV ]|ADJ Yes|X ...|.
+ And|CONJ whose|PRON side|NOUN are|VERB you|PRON on|ADP ?|.
+ Side|NOUN ?|.
+ Huh|NOUN ?|.
+ [|ADJ Gestures|NOUN ]|NOUN Lower|NOUN your|PRON axe|NOUN .|.
+ Gandalf|NOUN ?|.
+ Breathe|ADP the|DET free|ADJ air|NOUN again|ADV ,|. my|PRON friend|NOUN .|.
+ Then|ADV what|PRON is|VERB the|DET kings|NOUN decision|NOUN ?|.
+ HÁMA|VERB By|ADP order|NOUN of|ADP the|DET king|NOUN ,|. the|DET city|NOUN must|VERB empty|VERB .|.
+ What|QUESTIONTAG ?|.
+ Call|VERB him|PRON names|ADV ;|. run|VERB him|PRON down|PRT all|DET the|DET time|NOUN .|.
+ [|NOUN Startled|VERB ]|PRT What|QUESTIONTAG did|VERB you|PRON say|VERB ?|.
+ Master|NOUN looks|VERB after|ADP us|PRON now|ADV .|.
+ [|NOUN Looking|VERB around|ADP ]|NOUN Sméagol|NOUN ?|.
+ below|ADP ;|. the|DET soldiers|NOUN are|VERB being|VERB ambushed|VERB .|.
+ Aragorn|NOUN ?|.
+ Sharku|NOUN wheezing|NOUN and|CONJ laughing|VERB ]|ADJ GIMLI|NOUN [|NOUN Standing|NOUN over|ADP the|DET dying|VERB Orc|NOUN ]|NOUN Tell|NOUN me|PRON what|PRON happened|VERB and|CONJ I|PRON will|VERB ease|VERB your|PRON passing|NOUN .|.
+ Lord|NOUN Aragorn|NOUN ,|. where|ADV is|VERB he|PRON ?|.
+ He|PRON fell|VERB ...|.
+ Shall|NOUN I|PRON shoot|VERB ?|.
+ from|ADP the|DET pool|NOUN onto|ADP a|DET rock|NOUN .|.
+ What|QUESTIONTAG did|VERB they|PRON steal|VERB ?|.
+ [|NOUN Turns|VERB to|PRT Faramir|NOUN with|ADP a|DET ferocious|ADJ expression|NOUN ]|NOUN Myyy|NOUN PRECIOUSSS|NOUN !|. !|.
+ How|QUESTIONTAG many|ADJ ?|.
+ Ten|NUM thousand|VERB strong|ADJ at|ADP least|ADJ .|.
+ Ten|NUM thousand|NUM ?|.
+ It|PRON is|VERB an|DET army|NOUN bred|VERB for|ADP a|DET single|ADJ purpose|NOUN :|. to|PRT destroy|VERB the|DET world|NOUN of|ADP men|NOUN .|.
+ A|DET gathering|NOUN of|ADP what|PRON ?|.
+ hear|ADJ movement|NOUN from|ADP the|DET forest|ADJ around|ADP them|PRON .|.
+ And|CONJ do|VERB you|PRON trust|VERB your|PRON king|NOUN ?|.
+ [|NOUN Puts|NOUN armour|NOUN onto|ADP Théoden|NOUN ]|VERB Your|PRON men|NOUN ,|. my|PRON lord|NOUN ,|. will|VERB follow|VERB you|PRON to|PRT whatever|VERB end|NOUN .|.
+ What|QUESTIONTAG ?|.
+ I|PRON can|VERB not|ADV jump|VERB the|DET distance|NOUN !|.
