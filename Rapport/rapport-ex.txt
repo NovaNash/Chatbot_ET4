@@ -1,0 +1,27 @@
+Introduction
+
+	Explications sur le chat bot
+
+
+Stratégie
+
+	Corpus: ensemble de question-réponse
+	base de donnée : mots des questions du corpus étiquetés et pondérés (2 mot interrogatif, 1,2  verbe, 0,7 nom et pronom, adverve, adjectif 0,25, cf code), puis un dictionnaire avec pour clé un mot interrogatif et pour valeur une liste de couple question-réponse
+	analyse de la question de l'utilisateur: on étiquette et pondère la question et on cherche dans le dictionnaire la réponse qui a le plus gand coefficient
+	fin : on affiche la réponse
+	+ capture d'écran
+
+
+Thème
+
+	Explication, on veut faire un chatbot avec pour thème D&D, pour cela on change le vocabulaire
+
+
+Difficultés
+
+	le corpus : trouvé un corpus qui permette de mieux répondre
+
+
+Ce qu'on aurait pu faire et comment
+
+	si vous avez des idées de quoi et comment le faire : garder un lien entre les questions d'une conversation

@@ -1,0 +1,49 @@
+
+\clearpage
+\section{Stratégie}
+
+La stratégie envisagée est assez simple. Elle consiste à récupérer de très nombreux corpus de textes, et d'identifier dans ces écrits les couples de questions-réponses. Ensuite, une question est attendue de la part de l'utilisateur. Cette question est analysée, puis à partir d'un dictionnaire, la réponse la plus adaptée est déterminée et affichée. Pour assurer la qualité de ce chatbot, plusieurs conditions sont à assurer : 
+\newline
+\begin{itemize}
+  \item la capacité du programme à correctement comprendre la question de l'utilisateur. Dans ce but, les phrases entrées sont divisées en ensembles linguistiques, eux-mêmes étiquetés puis pondérés. Cette pondération (cf. figure \ref{ponderationTab}) est particulièrement importante, puisque c'est elle qui permet de sélectionner la réponse la plus appropriée parmi celles possibles ;
+  \item un nombre conséquent de couples de questions-réponses doit être disponible. En effet, pour répondre selon le token indiquant la question, il faut grouper l'intégralité des couples de question-réponse selon le ce token. En pratique, pour une question précise, cela divise la taille du corpus de texte utilisé par un facteur six (voire plus) ;
+  \item un accès rapide aux données. Il faut qu'une réponse ne mette pas trop de temps pour revenir vers l'utilisateur. Cela implique une gestion des données performante, dont le parcours est relaitvement limité dans le temps : c'est pourquoi un dictionnaire Python (concrètement, une table de hashage) a été utilisée. Les clés de cette table de hashage sont les mots interrogatifs (reconnus par \textit{NLTK}), cela permet de diviser correctement les données.
+\end{itemize}
+
+\ 
+\newline
+\begin{figure}[h]
+\begin{center}
+\begin{tabular}{lll}
+Type de token & Poids & Exemples \\
+\hline
+Questions & 2 & "When", "What", "Who", "Where", "Why", "How"\\
+Verbes & 1.2 & "Borrow", "Expand" \\
+Noms & 0.7 & "John", "Doe" \\
+Pronoms & 0.7 & "You", "Themself" \\
+Adjectifs & 0.25 & "Awesome", "Magnificent" \\ 
+Adpositions & 0.25 & "From", "With" \\
+Adverbes & 0.25 & "Certainly", "Even" \\
+Autres & 0.05 & "?", "msitake", "666", \dots \\
+\end{tabular}
+\caption{Tableau de pondération des éléments syntaxiques}
+\label{ponderationTab}
+\end{center}
+\end{figure}
+
+\subsection{Les différentes pondérations}
+
+Il paraissait évident d'attribuer différent poids aux différents, mais pourquoi de tels choix de pondération ? Voici une explication selon les types de tokens identifiés par \textit{NLTK} : \newline
+
+\begin{description}
+  \item[Questions :] Détermine la nature de la réponse et sa tournure principale. C'est pourquoi la pondération de ce type d'éléments a été majorée ;
+  \item[Verbes :] Fixe le type d'action et permet généralement d'identifier l'action ou l'évènement concerné(e) par la question. Il permet de réduire correctement les réponses possibles : c'est pourquoi il s'agit de la seconde plus grande pondération ;
+  \item[Noms :] Un nom fait souvent référence à un contexte précis, ou tout simplement à un interlocuteur, parfois direct. C'est pourquoi il est important. Toufefois, si un nom n'est pas trouvé dans la base de données, il devient immédiatement sans importance. Cela devrait être fréquent, puisqu'il existe une infinité de noms propres. De plus, certains noms sont beaucoup plus fréquents que d'autres. Si une importance trop grande était accordée aux noms, alors une réponse en rapport avec ce nom, mais totalement hors-sujet pourrait être fournie ;
+  \item[Pronoms :] Les pronoms sont bien plus permissifs que les noms en termes de réponses. C'est pourquoi leur poids n'est pas non plus extrêmement important. De plus, ils sont utilisés dans beaucoup de contextes, sans forcément avoir une importance majeure. Par exemple, lors d'une tournure rhétorique anglaise "..., don't you?", l'information principale de la phrase est contenue dans la partie initiale de la phrase. Bien qu'une réponse courte du type "I do" soit valide, d'un point de vue conversationnel, il est plus intéressant de s'intéresser aux autres éléments de la phrase ; 
+  \item[Adjectifs :] La majorité des adjectifs peuvent être remplacés par d'autres adjectifs sans forcément changer le sens de la phrase. C'est pourquoi ils ont un poids relativement faible. Néanmoins, la présence d'un champ lexical pour connaître les adjectifs permettrait d'élargir le champ de recherche des réponses vlaides en évitant en même temps les adjectifs qui changent effectivement le sens de la phrase ;
+  \item[Adverbes :] Les adverbes correspondent à un cas relativement similaire à celui des adjectifs, explicant leur poids faible ;
+  \item[Adpositions :] Les adpositions correspondent généralement à un complément d'information à l'action. Action qui reste l'un des éléments principaux de la phrase. Les adpositions ont donc une pondération faible ;
+  \item[Autres :] Les autres types de tokens comprennent les conjonctions, les déterminants, les nombres cardinaux, les particules, les mots issus d'une autre langue et enfin les fautes de frappes sont actuellement très peu importants à la réponse. En guise d'illustration, changer un nombre de valeur n'affecte que très peu le sens de la phrase (bien que les conséquences puissent être totalement différente selon le contexte). Toutefois, la pondération n'est pas nulle, juste très faible, car certains de ces mots pourraient revenir plusieurs fois dans une seule et même phrase, cela la mettrait en avant face à d'autres phrases similaires comportant moins de fois ces mots.
+
+  Les signes de ponctuation sont volontaires omis (pondération quasi-nulle) puisque l'entrée doit être similaire à une question pour que le programme trouve une réponse adaptée.
+\end{description}
