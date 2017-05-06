@@ -1,208 +1,51 @@
-\documentclass[paper=a4, fontsize=11pt]{article}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Find below lists of packages to include, commands and macros
-% that may be useful later on in your document
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage[margin=0.9in]{geometry} % margin size
+\clearpage
+\section{Stratégie}
 
-% choose language and encoding options
-\usepackage[frenchb]{babel}
-% \usepackage[english]{babel}  % decomment to use English
-\usepackage[utf8]{inputenc}
-
-% some useful options for tables and arrays
-\usepackage{booktabs}
-\usepackage{array}
-\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-
-% custom colors - you can define your own colours
-\usepackage{color}
-\definecolor{deepblue}{rgb}{0,0,0.5}
-\definecolor{deepred}{rgb}{0.6,0,0}
-\definecolor{deepgreen}{rgb}{0,0.5,0}
-
-% page formating with the "fancy header" package
-\usepackage{fancyhdr} % Custom headers and footers
-\pagestyle{fancyplain} % Makes all pages in the document conform to the custom headers and footers
-\fancyhead{} % header
-\fancyfoot[L]{} % left footer
-\fancyfoot[C]{\thepage} % centre footer
-\fancyfoot[R]{}  % right footer
-\renewcommand{\headrulewidth}{1pt} 
-\renewcommand{\footrulewidth}{1pt} 
-\setlength{\headheight}{13.6pt} % Customize the height of the header
-
-\usepackage{amsmath,amsfonts,amsthm} % maths packages
-\usepackage{graphicx} % graphics package
-\usepackage{url} % hyperlinks
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
- % Le contenu de votre document commence ici
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{document}
-
-\title{Voici votre titre}
-\author{Les auteurs - c'est vous}
-\date{La date}
-\maketitle
-
-\section{Ceci est une section}
-Vous pouvez créer des sections, des sous-sections, des sous-sous-sections et des paragraphes. Après
-la compilation, tout sera numéroté comme il faut! Vous pouvez faire du \textbf{texte en gras} ou du
-\textit{texte en italiques} ou \texttt{en typewriter}. \\
-
-On peut aussi {\small changer} {\large la taille} {\tiny du texte}.  Les tailles prédéfinies sont:
-{\tiny tiny}, {\scriptsize scriptsize}, {\footnotesize footnotesize}, {\small small}, {\normalsize
-  normalsize}, {\large large} et {\Large Large}.
-
-On peut changer la couleur du texte \textcolor{red}{comme ça}.
-
-\subsection{Ceci est une sous-section}
-Voici pouvez faire des listes avec des puces:
-
+La stratégie envisagée est assez simple. Elle consiste à récupérer de très nombreux corpus de textes, et d'identifier dans ces écrits les couples de questions-réponses. Ensuite, une question est attendue de la part de l'utilisateur. Cette question est analysée, puis à partir d'un dictionnaire, la réponse la plus adaptée est déterminée et affichée. Pour assurer la qualité de ce chatbot, plusieurs conditions sont à assurer : 
+\newline
 \begin{itemize}
-\item Liste
-\item Non
-\item Numérotée
+  \item la capacité du programme à correctement comprendre la question de l'utilisateur. Dans ce but, les phrases entrées sont divisées en ensembles linguistiques, eux-mêmes étiquetés puis pondérés. Cette pondération (cf. figure \ref{ponderationTab}) est particulièrement importante, puisque c'est elle qui permet de sélectionner la réponse la plus appropriée parmi celles possibles ;
+  \item un nombre conséquent de couples de questions-réponses doit être disponible. En effet, pour répondre selon le token indiquant la question, il faut grouper l'intégralité des couples de question-réponse selon le ce token. En pratique, pour une question précise, cela divise la taille du corpus de texte utilisé par un facteur six (voire plus) ;
+  \item un accès rapide aux données. Il faut qu'une réponse ne mette pas trop de temps pour revenir vers l'utilisateur. Cela implique une gestion des données performante, dont le parcours est relaitvement limité dans le temps : c'est pourquoi un dictionnaire Python (concrètement, une table de hashage) a été utilisée. Les clés de cette table de hashage sont les mots interrogatifs (reconnus par \textit{NLTK}), cela permet de diviser correctement les données.
 \end{itemize}
 
-\vspace{0.5cm} % Add some vertical space (hspace also exists for horizontal space)
-
-Ou des listes numérotées:
-\begin{enumerate}
-\item Liste
-\item Numérotée
-\end{enumerate}
-
-\vspace{0.5cm}
-Et même des listes imbriquées:
-
-\begin{enumerate}
-\item Chien
-  \begin{itemize}
-    \item Caniche
-      \begin{itemize}
-        \item[$\diamond$] Fluffy
-        \item[$\rightarrow$] Candyfloss
-        \end{itemize}
-    \item Yorkshire
-    \end{itemize}
-\item Chat
-\item Oiseau
-  \begin{itemize}
-    \item Moineau
-    \item Aigle
-    \end{itemize}
-\end{enumerate}
-
-\subsubsection{Ceci est une sous-sous-section}
-
-Voici un tableau:\\ % two backslashes makes a new line
-
-\begin{tabular}{lcr} % number of characters = number of columns (l = left, r=right, c = centre)
-\toprule
-Left & Centre & Right \\
-\midrule
-Voici du texte & Beaucoup de texte & Et Encore du texte \\
-a & b & c \\
-\bottomrule
-\end{tabular}
-
-\vspace{0.5cm} % Add some vertical space 
-
-Le même tableau mais centré!
-
+\ 
+\newline
+\begin{figure}[h]
 \begin{center}
-\begin{tabular}{lcr} % number of characters = number of columns (l = left, r=right, c = centre)
-\toprule
-Left & Centre & Right \\
-\midrule
-Voici du texte & Beaucoup de texte & Et Encore du texte \\
-a & b & c \\
-\bottomrule
+\begin{tabular}{lll}
+Type de token & Poids & Exemples \\
+\hline
+Questions & 2 & "When", "What", "Who", "Where", "Why", "How"\\
+Verbes & 1.2 & "Borrow", "Expand" \\
+Noms & 0.7 & "John", "Doe" \\
+Pronoms & 0.7 & "You", "Themself" \\
+Adjectifs & 0.25 & "Awesome", "Magnificent" \\ 
+Adpositions & 0.25 & "From", "With" \\
+Adverbes & 0.25 & "Certainly", "Even" \\
+Autres & 0 & "?", "msitake", "666", \dots \\
 \end{tabular}
+\caption{Tableau de pondération des éléments syntaxiques}
+\label{ponderationTab}
 \end{center}
+\end{figure}
 
-\paragraph{Ceci est un paragraphe}
-Pour faire des guillemets, regardez bien les caractères écrits dans la source \LaTeX: 
-\begin{itemize}
-\item \og Des guillemets à la française\fg{}.
-\item ``Des guillemets doubles à l'anglaise''
-\item `Des guillemets simples'
-\end{itemize}
+\subsection{Les différentes pondérations}
 
-\vspace{0.5cm} 
+Il paraissait évident d'attribuer différent poids aux différents, mais pourquoi de tels choix de pondération ? Voici une explication selon les types de tokens identifiés par \textit{NLTK} : \newline
 
-Pour afficher les caractères spéciaux:
-\begin{itemize}
-\item accolades \} et \{
-\item signe de pourcentage \%
-\item anti-slash \textbackslash
-\item tilde: \textasciitilde{} or $\sim$ 
-\end{itemize}
+\begin{description}
+  \item[Questions :] Détermine la nature de la réponse et sa tournure principale. C'est pourquoi la pondération de ce type d'éléments a été majorée ;
+  \item[Verbes :] Fixe le type d'action et permet généralement d'identifier l'action ou l'évènement concerné(e) par la question. Il permet de réduire correctement les réponses possibles : c'est pourquoi il s'agit de la seconde plus grande pondération ;
+  \item[Noms :] Un nom fait souvent référence à un contexte précis, ou tout simplement à un interlocuteur, parfois direct. C'est pourquoi il est important. Toufefois, si un nom n'est pas trouvé dans la base de données, il devient immédiatement sans importance. Cela devrait être fréquent, puisqu'il existe une infinité de noms propres. De plus, certains noms sont beaucoup plus fréquents que d'autres. Si une importance trop grande était accordée aux noms, alors une réponse en rapport avec ce nom, mais totalement hors-sujet pourrait être fournie ;
+  \item[Pronoms :] Les pronoms sont bien plus permissifs que les noms en termes de réponses. C'est pourquoi leur poids n'est pas non plus extrêmement important. De plus, ils sont utilisés dans beaucoup de contextes, sans forcément avoir une importance majeure. Par exemple, lors d'une tournure rhétorique anglaise "..., don't you?", l'information principale de la phrase est contenue dans la partie initiale de la phrase. Bien qu'une réponse courte du type "I do" soit valide, d'un point de vue conversationnel, il est plus intéressant de s'intéresser aux autres éléments de la phrase ; 
+  \item[Adjectifs :] La majorité des adjectifs peuvent être remplacés par d'autres adjectifs sans forcément changer le sens de la phrase. C'est pourquoi ils ont un poids relativement faible. Néanmoins, la présence d'un champ lexical pour connaître les adjectifs permettrait d'élargir le champ de recherche des réponses vlaides en évitant en même temps les adjectifs qui changent effectivement le sens de la phrase ;
+  \item[Adverbes :] Les adverbes correspondent à un cas relativement similaire à celui des adjectifs, explicant leur poids faible ;
+  \item[Adpositions :] Les adpositions correspondent généralement à un complément d'information à l'action. Action qui reste l'un des éléments principaux de la phrase. Les adpositions ont donc une pondération faible ;
+  \item[Autres :] Les autres types de tokens comprennent les conjonctions, les déterminants, les nombres cardinaux, les particules, les mots issus d'une autre langue et enfin les fautes de frappes sont actuellement très peu importants à la réponse. En guise d'illustration, changer un nombre de valeur n'affecte que très peu le sens de la phrase (bien que les conséquences puissent être totalement différente selon le contexte). 
 
-\vspace{0.5cm} % Add some vertical space 
+  Les signes de ponctuation sont volontaires omis (pondération nulle) puisque l'entrée doit être similaire à une question pour que le programme trouve une réponse adaptée.
+\end{description}
 
-%\newpage % page break
-
-Insérez une image comme suit:
-
-\includegraphics[width=100pt]{myimage.jpg} % width=\linewidth to get image to fill whole width
-
-Tout petit et centré $\rightarrow$
-
-\begin{center}
-\includegraphics[width=20pt]{myimage.jpg} % width=\linewidth to get image to fill whole width
-\end{center}
-
-\section{Maths}
-
-Pour faire une équation simple, utilisez l'environnement maths. Vous pouvez faire des maths inline
-comme suit: $a = \sum_{i=0}^{N} x_i + c$ ou comme suit:
-
-\[ a = \sum_{i=0}^{N} x_i + c + \dfrac{1}{2} + \text{some more stuff\dots}\]
-
-
-Pour faire des équations alignées:
-
-
-\section{Et plein d'autres choses!}
-
-Quelques templates: \url{https://www.latextemplates.com} \\
-Documentation: \url{https://www.latex-project.org}
-
-Introduction
-
-	Explications sur le chat bot
-
-
-Stratégie
-
-	Corpus: ensemble de question-réponse
-	base de donnée : mots des questions du corpus étiquetés et pondérés (2 mot interrogatif, 1,2  verbe, 0,7 nom et pronom, adverve, adjectif 0,25, cf code), puis un dictionnaire avec pour clé un mot interrogatif et pour valeur une liste de couple question-réponse
-	analyse de la question de l'utilisateur: on étiquette et pondère la question et on cherche dans le dictionnaire la réponse qui a le plus gand coefficient
-	fin : on affiche la réponse
-	+ capture d'écran
-
-
-Thème
-
-	Explication, on veut faire un chatbot avec pour thème D&D, pour cela on change le vocabulaire
-
-
-Difficultés
-
-	le corpus : trouvé un corpus qui permette de mieux répondre
-
-
-Ce qu'on aurait pu faire et comment
-
-	si vous avez des idées de quoi et comment le faire : garder un lien entre les questions d'une conversation
-
-
-\end{document}
+\subsection{Une capture d'écran puis suite?}
