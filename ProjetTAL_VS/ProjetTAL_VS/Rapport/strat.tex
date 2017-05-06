@@ -43,9 +43,9 @@ Il paraissait évident d'attribuer différent poids aux différents, mais pourqu
   \item[Adjectifs :] La majorité des adjectifs peuvent être remplacés par d'autres adjectifs sans forcément changer le sens de la phrase. C'est pourquoi ils ont un poids relativement faible. Néanmoins, la présence d'un champ lexical pour connaître les adjectifs permettrait d'élargir le champ de recherche des réponses vlaides en évitant en même temps les adjectifs qui changent effectivement le sens de la phrase ;
   \item[Adverbes :] Les adverbes correspondent à un cas relativement similaire à celui des adjectifs, explicant leur poids faible ;
   \item[Adpositions :] Les adpositions correspondent généralement à un complément d'information à l'action. Action qui reste l'un des éléments principaux de la phrase. Les adpositions ont donc une pondération faible ;
-  \item[Autres :] Les autres types de tokens comprennent les conjonctions, les déterminants, les nombres cardinaux, les particules, les mots issus d'une autre langue et enfin les fautes de frappes sont actuellement très peu importants à la réponse. En guise d'illustration, changer un nombre de valeur n'affecte que très peu le sens de la phrase (bien que les conséquences puissent être totalement différente selon le contexte). 
+  \item[Autres :] Les autres types de tokens comprennent les conjonctions, les déterminants, les nombres cardinaux, les particules, les mots issus d'une autre langue et enfin les fautes de frappes sont actuellement très peu importants à la réponse. En guise d'illustration, changer un nombre de valeur n'affecte que très peu le sens de la phrase (bien que les conséquences puissent être totalement différente selon le contexte). Toutefois, la pondération n'est pas nulle, juste très faible, car certains de ces mots pourraient revenir plusieurs fois dans une seule et même phrase, cela la mettrait en avant face à d'autres phrases similaires comportant moins de fois ces mots.
 
-  Les signes de ponctuation sont volontaires omis (pondération nulle) puisque l'entrée doit être similaire à une question pour que le programme trouve une réponse adaptée.
+  Les signes de ponctuation sont volontaires omis (pondération quasi-nulle) puisque l'entrée doit être similaire à une question pour que le programme trouve une réponse adaptée.
 \end{description}
 
 \subsection{Une capture d'écran puis suite?}
