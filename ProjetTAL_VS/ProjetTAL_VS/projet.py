@@ -85,12 +85,16 @@ def make_database(listData):
                 hasFoundQT = True
                 if w[0] in dicoDB:
                     dicoDB[w[0]].append(list(c))
-                else:
-                    dicoDB[w[0]] = list(list(c))
+                else: 
+                    l = list()
+                    l.append(list(c))
+                    dicoDB[w[0]] = l
 
         if not hasFoundQT:
             if not "None" in dicoDB:
-                dicoDB["None"] = list(list(c))
+                l = list()
+                l.append(list(c))
+                dicoDB["None"] = l
             else:
                 dicoDB["None"].append(list(c))
     return dicoDB
@@ -138,25 +142,27 @@ def answer(dataBase, question):
 
     if not qTag in dataBase:
         return "There is no answer to this"
-
+    
     for c in dataBase[qTag]:
-        print(c)
         value = 0
         for w in c[0]:
             for m in questionOK:
                 if m[0] == w[0]:
-                    value = value + w[2]
+                    value = value + w[-1]
         if value > val:
             val = value
             couple = c
-    return c[1]
+    if couple:
+        return couple[1]
+    return "There is no answer to this"
 
 if __name__ == "__main__":
     #Le main
-    listQA = read_corpus("../processed/American-Pie.txt")
+    listQA = read_corpus("processed/American-Pie.txt")
     train, dev, test = split_data(listQA)
     dataBase = make_database(train)
     question = input()
     answer = answer(dataBase, question)
+    print(answer)
     
     

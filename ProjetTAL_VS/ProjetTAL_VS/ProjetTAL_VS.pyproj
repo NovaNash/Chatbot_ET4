@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f3374268-a94b-4e76-a31d-b10dcdde15d4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>python\projet.py</StartupFile>
+    <StartupFile>projet.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,7 @@
   <ItemGroup>
     <Compile Include="python\getScripts.py" />
     <Compile Include="python\process.py" />
-    <Compile Include="python\projet.py" />
+    <Compile Include="projet.py" />
     <Compile Include="python\setup.py" />
   </ItemGroup>
   <ItemGroup>
